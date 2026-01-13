@@ -242,21 +242,39 @@ function generateDestinationPage(lang, content, template, criticalCss) {
   const t = translations[lang];
   const ogLocales = { en: 'en_US', es: 'es_MX', de: 'de_DE', fr: 'fr_FR', pt: 'pt_BR' };
 
+  // Use SVG hero images
+  const heroImage = `/assets/images/destinations/${content.slug}-hero.svg`;
+
+  // Extract quick facts from content
+  const quickFacts = content.quick_facts || {};
+
   const pageData = {
     ...content,
     lang,
     t,
     critical_css: criticalCss,
+    hero_image: heroImage,
+    hero_image_alt: content.hero_alt || `${content.name}, Mexico - Travel destination`,
     canonical_url: `${CONFIG.baseUrl}/${lang}/${content.slug}/`,
     og_type: 'website',
     og_locale: ogLocales[lang] || 'en_US',
-    og_image: content.hero_image ? `${CONFIG.baseUrl}${content.hero_image}` : `${CONFIG.baseUrl}/assets/images/og-default.jpg`,
-    og_image_alt: content.hero_image_alt || `${content.name}, Mexico`,
+    og_image: `${CONFIG.baseUrl}${heroImage}`,
+    og_image_alt: content.hero_alt || `${content.name}, Mexico`,
     meta_title: content.meta_title || `${content.name} Travel Guide 2026 | Top Mexico Travel`,
     meta_description: content.meta_description || `Complete ${content.name} travel guide: best things to do, hotels, restaurants, and insider tips for your Mexico vacation.`,
-    tourist_types_json: JSON.stringify(content.tourist_types || ['Beach', 'Culture', 'Adventure']),
+    tourist_types_json: JSON.stringify(content.tags || ['Beach', 'Culture', 'Adventure']),
     breadcrumbs: generateBreadcrumbs(lang, 'destination', content.name, content.slug),
-    currentYear: new Date().getFullYear()
+    currentYear: new Date().getFullYear(),
+    // Map quick facts for template
+    best_time_to_visit: quickFacts.best_time || 'Year-round',
+    average_temperature: quickFacts.avg_temp || '25°C (77°F)',
+    known_for: content.highlights ? content.highlights.slice(0, 2).join(', ') : 'Beautiful scenery',
+    airport_code: quickFacts.airport || 'Various',
+    tagline: content.introduction?.snippet?.substring(0, 100) + '...' || `Discover ${content.name}`,
+    featured_snippet_intro: content.introduction?.snippet || `Discover the best of ${content.name}, Mexico.`,
+    introduction: content.introduction?.full || '',
+    latitude: content.coordinates?.latitude || 23.6345,
+    longitude: content.coordinates?.longitude || -102.5528
   };
 
   return compileTemplate(template, pageData);
@@ -271,7 +289,7 @@ function generateHomepage(lang, template, criticalCss, destinations) {
   const featuredDestinations = destinations.slice(0, 8).map(d => ({
     name: d.name,
     description: d.introduction?.snippet || d.tagline || `Explore ${d.name}, Mexico`,
-    image: d.hero_image || '/assets/images/placeholder.jpg',
+    image: `/assets/images/destinations/${d.slug}-hero.svg`,
     url: `/${lang}/${d.slug}/`,
     tags: (d.tags || ['Beach', 'Culture']).slice(0, 3)
   }));
@@ -280,7 +298,7 @@ function generateHomepage(lang, template, criticalCss, destinations) {
     {
       title: '7 Days in the Yucatán Peninsula',
       description: 'From Caribbean beaches to ancient pyramids, explore the best of the Yucatán.',
-      image: '/assets/images/itineraries/yucatan-7-days.jpg',
+      image: '/assets/images/itineraries/yucatan-7-days.svg',
       url: `/${lang}/itineraries/yucatan-7-days/`,
       duration: '7 Days',
       destinations: ['Cancún', 'Tulum', 'Chichén Itzá']
@@ -288,7 +306,7 @@ function generateHomepage(lang, template, criticalCss, destinations) {
     {
       title: '5 Days in Mexico City',
       description: 'Culture, cuisine, and history in one of the world\'s greatest cities.',
-      image: '/assets/images/itineraries/cdmx-5-days.jpg',
+      image: '/assets/images/itineraries/cdmx-5-days.svg',
       url: `/${lang}/itineraries/mexico-city-5-days/`,
       duration: '5 Days',
       destinations: ['Mexico City']
@@ -296,7 +314,7 @@ function generateHomepage(lang, template, criticalCss, destinations) {
     {
       title: '10 Days: Pacific Coast Road Trip',
       description: 'Sun, surf, and seafood from Puerto Vallarta to Oaxaca.',
-      image: '/assets/images/itineraries/pacific-coast.jpg',
+      image: '/assets/images/itineraries/pacific-coast.svg',
       url: `/${lang}/itineraries/pacific-coast-10-days/`,
       duration: '10 Days',
       destinations: ['Puerto Vallarta', 'Sayulita', 'Oaxaca']
@@ -311,13 +329,63 @@ function generateHomepage(lang, template, criticalCss, destinations) {
     canonical_url: `${CONFIG.baseUrl}/${lang}/`,
     og_type: 'website',
     og_locale: ogLocales[lang] || 'en_US',
-    og_image: `${CONFIG.baseUrl}/assets/images/og-homepage.jpg`,
+    og_image: `${CONFIG.baseUrl}/assets/images/mexico-hero.svg`,
     og_image_alt: 'Discover Mexico - Beautiful beaches and ancient ruins',
     meta_title: 'Top Mexico Travel - Your Complete Guide to Mexico | Beaches, Culture, Adventure',
     meta_description: 'Plan your perfect Mexico vacation. Comprehensive guides to beaches, ancient ruins, cuisine, and culture. Expert tips for Cancún, Tulum, Mexico City, Oaxaca & more.',
     breadcrumbs: [],
     featured_destinations: featuredDestinations,
     featured_itineraries: featuredItineraries,
+    currentYear: new Date().getFullYear()
+  };
+
+  return compileTemplate(template, pageData);
+}
+
+// Generate destinations listing page
+function generateDestinationsListPage(lang, template, criticalCss, destinations) {
+  const t = translations[lang];
+  const ogLocales = { en: 'en_US', es: 'es_MX', de: 'de_DE', fr: 'fr_FR', pt: 'pt_BR' };
+
+  // Categorize destinations
+  const beachTypes = ['beach', 'surf', 'eco-beach', 'desert-beach', 'lagoon'];
+  const colonialTypes = ['colonial'];
+  const culturalTypes = ['city', 'cultural'];
+  const islandTypes = ['island'];
+
+  const categorizeDestination = (d) => ({
+    name: d.name,
+    description: d.introduction?.snippet?.substring(0, 120) + '...' || `Explore ${d.name}`,
+    image: `/assets/images/destinations/${d.slug}-hero.svg`,
+    url: `/${lang}/${d.slug}/`,
+    state: d.state || 'Mexico',
+    type: d.type || 'beach'
+  });
+
+  const allDestinations = destinations.map(categorizeDestination);
+  const beachDestinations = destinations.filter(d => beachTypes.includes(d.type)).map(categorizeDestination);
+  const colonialDestinations = destinations.filter(d => colonialTypes.includes(d.type)).map(categorizeDestination);
+  const culturalDestinations = destinations.filter(d => culturalTypes.includes(d.type)).map(categorizeDestination);
+  const islandDestinations = destinations.filter(d => islandTypes.includes(d.type)).map(categorizeDestination);
+
+  const pageData = {
+    lang,
+    t,
+    slug: 'destinations',
+    critical_css: criticalCss,
+    canonical_url: `${CONFIG.baseUrl}/${lang}/destinations/`,
+    og_type: 'website',
+    og_locale: ogLocales[lang] || 'en_US',
+    og_image: `${CONFIG.baseUrl}/assets/images/mexico-hero.svg`,
+    og_image_alt: 'Mexico Destinations - Beaches, Cities, Culture',
+    meta_title: 'Mexico Destinations - Complete Travel Guide | Top Mexico Travel',
+    meta_description: 'Explore all Mexico destinations: Caribbean beaches, colonial cities, ancient ruins, and vibrant culture. Find your perfect Mexican vacation spot.',
+    destination_count: destinations.length,
+    all_destinations: allDestinations,
+    beach_destinations: beachDestinations,
+    colonial_destinations: colonialDestinations,
+    cultural_destinations: culturalDestinations,
+    island_destinations: islandDestinations,
     currentYear: new Date().getFullYear()
   };
 
@@ -337,6 +405,7 @@ async function build() {
   // Load templates
   const destinationTemplate = fs.readFileSync(path.join(CONFIG.templatesDir, 'destination.html'), 'utf-8');
   const homepageTemplate = fs.readFileSync(path.join(CONFIG.templatesDir, 'homepage.html'), 'utf-8');
+  const destinationsListTemplate = fs.readFileSync(path.join(CONFIG.templatesDir, 'destinations-list.html'), 'utf-8');
 
   // Load critical CSS
   const criticalCss = getCriticalCss();
@@ -366,6 +435,13 @@ async function build() {
     // Generate homepage
     const homepageHtml = generateHomepage(lang, homepageTemplate, criticalCss, destinations);
     fs.writeFileSync(path.join(langDir, 'index.html'), homepageHtml);
+    pageCount++;
+
+    // Generate destinations listing page
+    const destinationsDir = path.join(langDir, 'destinations');
+    fs.mkdirSync(destinationsDir, { recursive: true });
+    const destinationsListHtml = generateDestinationsListPage(lang, destinationsListTemplate, criticalCss, destinations);
+    fs.writeFileSync(path.join(destinationsDir, 'index.html'), destinationsListHtml);
     pageCount++;
 
     // Generate destination pages

@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="islandsky" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#87CEEB"/>
+      <stop offset="100%" style="stop-color:#E0F7FA"/>
+    </linearGradient>
+    <linearGradient id="islandwater" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#14B8A6"/>
+      <stop offset="100%" style="stop-color:#5EEAD4"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="450" fill="url(#islandsky)"/>
+  <rect y="400" width="1200" height="400" fill="url(#islandwater)"/>
+  <!-- Island -->
+  <ellipse cx="600" cy="480" rx="350" ry="100" fill="#F5DEB3"/>
+  <ellipse cx="600" cy="460" rx="250" ry="60" fill="#228B22"/>
+  <!-- Palm trees on island -->
+  <g transform="translate(450, 350) scale(0.5)">
+    <rect x="20" y="60" width="12" height="100" fill="#8B4513"/>
+    <ellipse cx="26" cy="35" rx="45" ry="22" fill="#228B22" transform="rotate(-20 26 35)"/>
+    <ellipse cx="26" cy="40" rx="40" ry="20" fill="#32CD32" transform="rotate(25 26 40)"/>
+  </g>
+  <g transform="translate(650, 340) scale(0.6)">
+    <rect x="20" y="60" width="14" height="110" fill="#8B4513"/>
+    <ellipse cx="27" cy="35" rx="50" ry="25" fill="#228B22" transform="rotate(15 27 35)"/>
+    <ellipse cx="27" cy="40" rx="45" ry="22" fill="#32CD32" transform="rotate(-25 27 40)"/>
+  </g>
+  <!-- Boat -->
+  <path d="M850 520 Q870 540 890 520 L880 500 L860 500 Z" fill="#8B4513"/>
+  <line x1="870" y1="500" x2="870" y2="470" stroke="#8B4513" stroke-width="2"/>
+  <polygon points="870,470 870,490 895,480" fill="#fff"/>
+  <!-- Waves -->
+  <path d="M0 550 Q150 540 300 550 Q450 560 600 550 Q750 540 900 550 Q1050 560 1200 550" stroke="#fff" stroke-width="2" fill="none" opacity="0.5"/>
+  <text x="600" y="700" text-anchor="middle" font-family="Georgia, serif" font-size="64" font-weight="bold" fill="#fff">Isla Mujeres</text>
+  <text x="600" y="760" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#fff" opacity="0.85">Island of Women</text>
+</svg>
