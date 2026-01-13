@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="culturalsky" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#FF8C00"/>
+      <stop offset="50%" style="stop-color:#FFB347"/>
+      <stop offset="100%" style="stop-color:#87CEEB"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#culturalsky)"/>
+  <!-- Mountains -->
+  <polygon points="0,600 200,350 400,600" fill="#228B22" opacity="0.6"/>
+  <polygon points="300,600 550,300 800,600" fill="#228B22" opacity="0.7"/>
+  <polygon points="700,600 950,380 1200,600" fill="#228B22" opacity="0.6"/>
+  <!-- Pyramid -->
+  <polygon points="600,200 400,500 800,500" fill="#DC2626"/>
+  <line x1="600" y1="200" x2="600" y2="500" stroke="#F97316" stroke-width="2" opacity="0.5"/>
+  <line x1="500" y1="350" x2="700" y2="350" stroke="#F97316" stroke-width="2" opacity="0.5"/>
+  <line x1="450" y1="425" x2="750" y2="425" stroke="#F97316" stroke-width="2" opacity="0.5"/>
+  <!-- Steps -->
+  <rect x="560" y="420" width="80" height="80" fill="#F97316" opacity="0.8"/>
+  <!-- Ground -->
+  <rect y="500" width="1200" height="300" fill="#8FBC8F"/>
+  <!-- Agave plants -->
+  <g transform="translate(100, 520) scale(0.4)">
+    <polygon points="50,100 30,20 50,30 70,20" fill="#228B22"/>
+    <polygon points="50,100 20,40 50,50 80,40" fill="#32CD32"/>
+  </g>
+  <g transform="translate(1000, 530) scale(0.5)">
+    <polygon points="50,100 30,20 50,30 70,20" fill="#228B22"/>
+    <polygon points="50,100 20,40 50,50 80,40" fill="#32CD32"/>
+  </g>
+  <text x="600" y="680" text-anchor="middle" font-family="Georgia, serif" font-size="64" font-weight="bold" fill="#fff" stroke="#333" stroke-width="1">Oaxaca</text>
+  <text x="600" y="740" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#fff">Soul of Mexico</text>
+</svg>

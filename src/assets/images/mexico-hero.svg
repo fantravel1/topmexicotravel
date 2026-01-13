@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="herosky" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#FF6B35"/>
+      <stop offset="30%" style="stop-color:#FF8E53"/>
+      <stop offset="60%" style="stop-color:#FFB347"/>
+      <stop offset="100%" style="stop-color:#87CEEB"/>
+    </linearGradient>
+    <linearGradient id="heroocean" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#00CED1"/>
+      <stop offset="50%" style="stop-color:#20B2AA"/>
+      <stop offset="100%" style="stop-color:#008B8B"/>
+    </linearGradient>
+  </defs>
+  <rect width="1920" height="600" fill="url(#herosky)"/>
+  <circle cx="960" cy="300" r="80" fill="#FFD700" opacity="0.9"/>
+  <circle cx="960" cy="300" r="100" fill="#FFD700" opacity="0.3"/>
+  <ellipse cx="960" cy="700" rx="1200" ry="250" fill="url(#heroocean)"/>
+  <path d="M0 750 Q480 680 960 720 Q1440 760 1920 700 L1920 1080 L0 1080 Z" fill="#F4E4BC"/>
+  <g transform="translate(150, 450)">
+    <rect x="45" y="100" width="25" height="220" fill="#8B4513"/>
+    <ellipse cx="57" cy="50" rx="90" ry="45" fill="#228B22" transform="rotate(-30 57 50)"/>
+    <ellipse cx="57" cy="60" rx="80" ry="40" fill="#32CD32" transform="rotate(20 57 60)"/>
+    <ellipse cx="57" cy="45" rx="85" ry="42" fill="#228B22" transform="rotate(-55 57 45)"/>
+  </g>
+  <g transform="translate(1650, 430)">
+    <rect x="45" y="100" width="28" height="240" fill="#8B4513"/>
+    <ellipse cx="59" cy="50" rx="95" ry="47" fill="#228B22" transform="rotate(30 59 50)"/>
+    <ellipse cx="59" cy="60" rx="85" ry="42" fill="#32CD32" transform="rotate(-20 59 60)"/>
+    <ellipse cx="59" cy="45" rx="90" ry="45" fill="#228B22" transform="rotate(55 59 45)"/>
+  </g>
+  <path d="M0 700 Q320 680 640 700 Q960 720 1280 700 Q1600 680 1920 700" stroke="#fff" stroke-width="4" fill="none" opacity="0.4"/>
+  <text x="960" y="950" text-anchor="middle" font-family="Georgia, serif" font-size="120" font-weight="bold" fill="#006847" opacity="0.15">MEXICO</text>
+</svg>

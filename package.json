@@ -4,9 +4,9 @@
   "description": "Premier multilingual Mexico travel resource - 100% Lighthouse scores",
   "type": "module",
   "scripts": {
-    "build": "node scripts/build.js",
-    "build:pages": "node scripts/generate-pages.js",
-    "build:sitemap": "node scripts/generate-sitemaps.js",
+    "build": "node scripts/generate-assets.js && node scripts/build.js",
+    "build:assets": "node scripts/generate-assets.js",
+    "build:pages": "node scripts/build.js",
     "serve": "npx serve dist -l 3000",
     "clean": "rm -rf dist/*"
   },
