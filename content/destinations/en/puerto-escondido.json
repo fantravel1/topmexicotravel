@@ -1,0 +1,176 @@
+{
+  "id": "puerto-escondido",
+  "name": "Puerto Escondido",
+  "slug": "puerto-escondido",
+  "state": "Oaxaca",
+  "country": "Mexico",
+  "type": "beach",
+  "coordinates": {
+    "latitude": 15.8600,
+    "longitude": -97.0667
+  },
+  "meta_title": "Puerto Escondido Travel Guide 2025 - Mexico's Best Surf & Beach Town",
+  "meta_description": "Discover Puerto Escondido, Oaxaca's legendary surf town. Experience world-class waves at Zicatela, pristine beaches, bioluminescence, affordable prices, and authentic Pacific coast vibes.",
+  "hero_image": "/assets/images/destinations/puerto-escondido-hero.jpg",
+  "hero_alt": "Powerful waves at Zicatela beach Puerto Escondido with surfers",
+  "introduction": {
+    "snippet": "Puerto Escondido is Mexico's surf mecca—a laid-back Pacific coast town where legendary Zicatela waves draw pros from around the world, while gentler bays welcome beginners and swimmers. With Oaxacan culture, affordable prices, bioluminescent lagoons, and an authentic beach-town atmosphere, Puerto is the antidote to the Riviera Maya crowds.",
+    "full": "The name means 'Hidden Port,' and while Puerto Escondido is no longer a secret, it retains the relaxed, unpretentious vibe that first attracted surfers, backpackers, and bohemians decades ago. The town stretches along a series of bays, each with its own character: Zicatela's thundering barrels for expert surfers and spectators, Carrizalillo's sheltered cove for swimming, La Punta's mellow point break for learners, and Playa Principal's fishing boats and local life.\n\nAs part of Oaxaca state, Puerto Escondido offers incredible food at prices that feel like time travel—fresh seafood, tlayudas, mezcal, and Oaxacan chocolate abound. The nearby Manialtepec Lagoon produces some of Mexico's brightest bioluminescence, and turtle release programs let you witness baby sea turtles make their first journey to the ocean. While gentrification is creeping in, Puerto remains remarkably affordable and authentic, attracting digital nomads, yoga practitioners, and anyone seeking genuine Pacific coast Mexican beach life."
+  },
+  "quick_facts": {
+    "best_time": "November to May",
+    "avg_temp": "28°C (82°F)",
+    "currency": "Mexican Peso (MXN)",
+    "language": "Spanish",
+    "airport": "Puerto Escondido (PXM)",
+    "time_zone": "CST (UTC-6)",
+    "population": "50,000",
+    "famous_for": "Surfing at Zicatela"
+  },
+  "highlights": [
+    "World-class surfing at Zicatela",
+    "Affordable Oaxacan beach town",
+    "Bioluminescent lagoon tours",
+    "Turtle release programs",
+    "Multiple beaches for all levels"
+  ],
+  "attractions": [
+    {
+      "name": "Zicatela Beach",
+      "type": "Beach/Surfing",
+      "description": "One of the world's most powerful beach breaks with the famous 'Mexican Pipeline.' For expert surfers only, but spectacular to watch.",
+      "duration": "Half-full day",
+      "price": "Free",
+      "coordinates": {"lat": 15.8517, "lng": -97.0517}
+    },
+    {
+      "name": "Carrizalillo Beach",
+      "type": "Beach",
+      "description": "Beautiful sheltered cove reached by steps, perfect for swimming, snorkeling, and beginners learning to surf.",
+      "duration": "Half-full day",
+      "price": "Free",
+      "coordinates": {"lat": 15.8658, "lng": -97.0783}
+    },
+    {
+      "name": "La Punta Beach",
+      "type": "Beach/Surfing",
+      "description": "Bohemian area with gentle point break ideal for beginner/intermediate surfers, yoga studios, and sunset drinks.",
+      "duration": "Half-full day",
+      "price": "Free",
+      "coordinates": {"lat": 15.8467, "lng": -97.0583}
+    },
+    {
+      "name": "Manialtepec Lagoon Bioluminescence",
+      "type": "Nature Experience",
+      "description": "Night boat tour to swim in waters glowing with bioluminescent plankton. Best July-December on moonless nights.",
+      "duration": "3-4 hours",
+      "price": "$30-50 USD",
+      "coordinates": {"lat": 15.9333, "lng": -97.1500}
+    },
+    {
+      "name": "Turtle Release",
+      "type": "Wildlife Experience",
+      "description": "Release baby sea turtles into the ocean at various conservation programs, typically at sunset (season: July-January).",
+      "duration": "1-2 hours",
+      "price": "$10-20 USD donation",
+      "coordinates": {"lat": 15.8517, "lng": -97.0517}
+    },
+    {
+      "name": "Mercado Benito Juárez",
+      "type": "Market",
+      "description": "Local market in the town center for authentic Oaxacan food, fresh produce, and local life away from the beach.",
+      "duration": "1-2 hours",
+      "price": "Free",
+      "coordinates": {"lat": 15.8628, "lng": -97.0689}
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Hotel Escondido",
+      "category": "Boutique",
+      "stars": 5,
+      "price_range": "$$$$",
+      "description": "Stunning design hotel by Grupo Habita on a secluded beach—Puerto's most luxurious option",
+      "features": ["Private beach", "Pool", "Design hotel", "Secluded"]
+    },
+    {
+      "name": "Hotel Santa Fe",
+      "category": "Mid-Range",
+      "stars": 4,
+      "price_range": "$$$",
+      "description": "Classic Zicatela hotel with pool, great views, and excellent restaurant",
+      "features": ["Zicatela beach", "Pool", "Restaurant", "Surf views"]
+    },
+    {
+      "name": "Vivo Resorts",
+      "category": "Condo Resort",
+      "stars": 4,
+      "price_range": "$$$",
+      "description": "Modern beachfront condos with kitchens, pools, and beach club",
+      "features": ["Beachfront", "Kitchen", "Pools", "Family-friendly"]
+    },
+    {
+      "name": "Casa Losodeli",
+      "category": "Budget",
+      "stars": 2,
+      "price_range": "$",
+      "description": "Popular hostel in La Punta with pool, hammocks, and great surf vibes",
+      "features": ["Pool", "La Punta", "Social", "Surf community"]
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "Almoraduz",
+      "cuisine": "Contemporary Oaxacan",
+      "price_range": "$$$",
+      "description": "Upscale Oaxacan cuisine with mezcal pairings in elegant setting"
+    },
+    {
+      "name": "El Cafecito",
+      "cuisine": "Café/Breakfast",
+      "price_range": "$$",
+      "description": "Legendary breakfast spot on Zicatela serving great coffee and Mexican dishes"
+    },
+    {
+      "name": "Mangos",
+      "cuisine": "Seafood",
+      "price_range": "$$",
+      "description": "Fresh seafood on the beach—try the whole fried fish"
+    },
+    {
+      "name": "Tacos Mary",
+      "cuisine": "Tacos",
+      "price_range": "$",
+      "description": "Local legend for cheap, delicious tacos—find the cart in the evening"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can beginners surf at Puerto Escondido?",
+      "answer": "Yes! While Zicatela is for experts only (genuinely dangerous), other beaches are perfect for beginners: La Punta has a mellow point break, Carrizalillo has small waves, and Playa Principal has gentle surf. Many surf schools operate from La Punta area."
+    },
+    {
+      "question": "How do I get to Puerto Escondido?",
+      "answer": "Puerto Escondido has a small airport (PXM) with flights from Mexico City and Oaxaca City. Alternatively, take a scenic (but winding) 6-hour drive or bus from Oaxaca City, or fly into Huatulco (1 hour south) or Oaxaca and transfer."
+    },
+    {
+      "question": "When is the best time for surfing in Puerto Escondido?",
+      "answer": "The biggest swells hit Zicatela May-September (summer), when competitions are held. Beginners and intermediate surfers find more manageable conditions November-April. The shoulder months offer good waves with less intense heat."
+    },
+    {
+      "question": "Is Puerto Escondido expensive?",
+      "answer": "Puerto Escondido is one of Mexico's best-value beach destinations. Budget travelers can live well on $30-50 USD/day. Mid-range is $50-100/day. Even upscale dining and boutique hotels cost less than comparable Riviera Maya options."
+    },
+    {
+      "question": "Which beach in Puerto Escondido should I stay near?",
+      "answer": "Zicatela: for surfers and nightlife. La Punta: bohemian, yoga, beginner surf. Carrizalillo: swimming, relaxation. Playa Principal/Rinconada: local life, budget options. Most visitors spend time at multiple beaches as they're all close."
+    },
+    {
+      "question": "Is Puerto Escondido safe?",
+      "answer": "Puerto Escondido is generally safe for tourists. Normal beach-town precautions apply: don't leave valuables unattended, avoid walking dark areas alone at night. The biggest dangers are rip currents and powerful waves at Zicatela—respect the ocean."
+    }
+  ],
+  "related_destinations": ["oaxaca", "huatulco", "mazunte", "zipolite", "mahahual"],
+  "tags": ["beach", "surfing", "pacific", "budget", "bioluminescence", "turtles", "oaxaca", "digital-nomad"],
+  "schema_type": "TouristDestination"
+}

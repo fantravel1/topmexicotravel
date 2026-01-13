@@ -1,0 +1,176 @@
+{
+  "id": "san-miguel-de-allende",
+  "name": "San Miguel de Allende",
+  "slug": "san-miguel-de-allende",
+  "state": "Guanajuato",
+  "country": "Mexico",
+  "type": "colonial",
+  "coordinates": {
+    "latitude": 20.9144,
+    "longitude": -100.7452
+  },
+  "meta_title": "San Miguel de Allende Travel Guide 2025 - Best Colonial Town in Mexico",
+  "meta_description": "Discover San Miguel de Allende, voted the world's best city multiple times. Explore stunning colonial architecture, vibrant arts scene, world-class restaurants, and timeless Mexican charm in this UNESCO World Heritage town.",
+  "hero_image": "/assets/images/destinations/san-miguel-de-allende-hero.jpg",
+  "hero_alt": "Iconic pink Parroquia de San Miguel Arcángel church with colorful streets of San Miguel de Allende",
+  "introduction": {
+    "snippet": "San Miguel de Allende is Mexico's most picturesque colonial town—a UNESCO World Heritage site where cobblestone streets wind past pastel-colored buildings beneath the fairy-tale spires of the iconic Parroquia church. Repeatedly voted 'Best City in the World' by Travel + Leisure readers, this artistic haven offers timeless charm, sophisticated dining, and a thriving expat community.",
+    "full": "Founded in 1542, San Miguel de Allende played a crucial role in Mexican independence and has been carefully preserved ever since. The entire historic center is a designated UNESCO World Heritage site, with not a single power line or neon sign to disrupt the colonial aesthetic. The town's unlikely landmark, the neo-Gothic Parroquia de San Miguel Arcángel, was redesigned in the late 1800s by a self-taught indigenous mason reportedly inspired by European cathedral postcards.\n\nSan Miguel has attracted artists and writers since the 1930s, and today hosts a vibrant creative community alongside a large expat population (some estimate 10-15% of residents are foreigners). This international influence has created an unusually sophisticated dining and shopping scene for a town of its size, with galleries, boutiques, and restaurants rivaling those in major cities. Yet San Miguel remains unmistakably Mexican, from the mariachis in the jardín to the family-owned shops selling traditional crafts. Whether you're drawn by art, food, architecture, or simply the magic of walking these timeless streets, San Miguel de Allende casts a spell that keeps visitors returning."
+  },
+  "quick_facts": {
+    "best_time": "March to May, October",
+    "avg_temp": "18°C (64°F)",
+    "currency": "Mexican Peso (MXN)",
+    "language": "Spanish",
+    "airport": "León/Bajío (BJX) - 1.5 hrs",
+    "time_zone": "CST (UTC-6)",
+    "population": "175,000 (municipality)",
+    "altitude": "1,900m (6,234ft)"
+  },
+  "highlights": [
+    "UNESCO World Heritage colonial center",
+    "Iconic Parroquia de San Miguel Arcángel",
+    "Thriving arts and gallery scene",
+    "World-class restaurants and boutiques",
+    "Hot springs (thermal baths) nearby"
+  ],
+  "attractions": [
+    {
+      "name": "Parroquia de San Miguel Arcángel",
+      "type": "Historic Church",
+      "description": "San Miguel's iconic pink neo-Gothic church dominating the main plaza. The dramatic façade is best photographed at sunset or lit up at night.",
+      "duration": "30 min - 1 hour",
+      "price": "Free",
+      "coordinates": {"lat": 20.9148, "lng": -100.7450}
+    },
+    {
+      "name": "El Jardín (Main Plaza)",
+      "type": "Historic Plaza",
+      "description": "The heart of San Miguel, a shaded plaza surrounded by restaurants and shops where locals and visitors gather beneath the Parroquia.",
+      "duration": "1-2 hours",
+      "price": "Free",
+      "coordinates": {"lat": 20.9148, "lng": -100.7452}
+    },
+    {
+      "name": "Fábrica La Aurora",
+      "type": "Art Complex",
+      "description": "Former textile factory converted into galleries, antique shops, restaurants, and design studios. San Miguel's artistic heart.",
+      "duration": "2-3 hours",
+      "price": "Free entry",
+      "coordinates": {"lat": 20.9225, "lng": -100.7478}
+    },
+    {
+      "name": "El Charco del Ingenio",
+      "type": "Botanical Garden",
+      "description": "Expansive botanical garden and nature preserve with Mexico's largest collection of cacti and stunning valley views.",
+      "duration": "2-3 hours",
+      "price": "$5 USD",
+      "coordinates": {"lat": 20.9064, "lng": -100.7306}
+    },
+    {
+      "name": "La Gruta Hot Springs",
+      "type": "Hot Springs",
+      "description": "Natural thermal pools including a unique cave pool—perfect for relaxing after exploring the cobblestones.",
+      "duration": "2-4 hours",
+      "price": "$15-20 USD",
+      "coordinates": {"lat": 20.9539, "lng": -100.7033}
+    },
+    {
+      "name": "Sanctuary of Atotonilco",
+      "type": "Historic Church",
+      "description": "Called 'The Sistine Chapel of Mexico,' this UNESCO church features extraordinary 18th-century murals. 15km from town.",
+      "duration": "1-2 hours",
+      "price": "Free",
+      "coordinates": {"lat": 20.9933, "lng": -100.7883}
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Rosewood San Miguel de Allende",
+      "category": "Ultra-Luxury",
+      "stars": 5,
+      "price_range": "$$$$$",
+      "description": "World-class luxury hotel with rooftop pool, spa, and stunning Parroquia views",
+      "features": ["Rooftop pool", "Spa", "Parroquia views", "Fine dining"]
+    },
+    {
+      "name": "Hotel Matilda",
+      "category": "Luxury Boutique",
+      "stars": 5,
+      "price_range": "$$$$",
+      "description": "Contemporary design hotel with acclaimed Moxi restaurant and rooftop bar",
+      "features": ["Contemporary design", "Restaurant", "Spa", "Art collection"]
+    },
+    {
+      "name": "Belmond Casa de Sierra Nevada",
+      "category": "Luxury",
+      "stars": 5,
+      "price_range": "$$$$",
+      "description": "Collection of colonial mansions converted into elegant hotel with cooking school",
+      "features": ["Colonial mansions", "Cooking school", "Pool", "Restaurant"]
+    },
+    {
+      "name": "Posada Corazón",
+      "category": "Mid-Range",
+      "stars": 3,
+      "price_range": "$$",
+      "description": "Charming boutique B&B in a restored colonial home near the jardín",
+      "features": ["Breakfast included", "Rooftop terrace", "Central", "Character"]
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "Moxi",
+      "cuisine": "Contemporary Mexican",
+      "price_range": "$$$$",
+      "description": "Hotel Matilda's acclaimed restaurant with creative Mexican cuisine in stylish setting"
+    },
+    {
+      "name": "The Restaurant (Rosewood)",
+      "cuisine": "Fine Dining",
+      "price_range": "$$$$",
+      "description": "Elegant dining with farm-to-table philosophy and stunning rooftop setting"
+    },
+    {
+      "name": "Hank's New Orleans Café",
+      "cuisine": "Cajun/Mexican",
+      "price_range": "$$",
+      "description": "Quirky local institution mixing New Orleans and Mexican flavors since 1958"
+    },
+    {
+      "name": "La Posadita",
+      "cuisine": "Traditional Mexican",
+      "price_range": "$$",
+      "description": "Rooftop restaurant with best Parroquia views—come for sunset and stay for margaritas"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Why is San Miguel de Allende so popular?",
+      "answer": "San Miguel combines stunning colonial architecture, perfect weather, safety, walkability, a thriving arts scene, and sophisticated dining. The UNESCO-protected town has been repeatedly voted 'Best City in the World' by Travel + Leisure readers. A large expat community has created international-quality amenities while preserving Mexican charm."
+    },
+    {
+      "question": "How do I get to San Miguel de Allende?",
+      "answer": "The nearest major airport is León/Bajío (BJX), about 1.5 hours away. Querétaro airport (QRO) is slightly closer but has fewer flights. From Mexico City airport or bus station, it's about 3-4 hours by car or luxury ETN/Primera Plus bus. Many visitors combine San Miguel with Guanajuato city."
+    },
+    {
+      "question": "Is San Miguel de Allende expensive?",
+      "answer": "San Miguel is one of Mexico's more expensive destinations, especially for accommodation and dining in tourist areas. Luxury hotels can exceed $500/night, though charming mid-range options exist for $100-200. Eating at local spots in the market is much cheaper than tourist restaurants."
+    },
+    {
+      "question": "How many days do you need in San Miguel de Allende?",
+      "answer": "2-3 days is ideal for exploring the historic center, visiting galleries, and experiencing the food scene. Add another day for the hot springs and Atotonilco sanctuary. Many visitors extend their stay or return repeatedly—San Miguel has a way of capturing hearts."
+    },
+    {
+      "question": "Is San Miguel de Allende safe?",
+      "answer": "San Miguel de Allende is considered one of Mexico's safest destinations for tourists. The historic center is very walkable day and night. The large expat community and tourism-dependent economy mean safety is prioritized. Use normal precautions as you would anywhere."
+    },
+    {
+      "question": "When are the best festivals in San Miguel de Allende?",
+      "answer": "Major events include Semana Santa (Easter week) with elaborate processions, Independence Day (September 15-16), Day of the Dead (late October/early November), and La Alborada fireworks festival (September). Christmas and New Year feature beautiful decorations and celebrations."
+    }
+  ],
+  "related_destinations": ["guanajuato", "queretaro", "mexico-city", "dolores-hidalgo", "pozos"],
+  "tags": ["colonial", "unesco", "art", "architecture", "romantic", "expat", "food", "luxury"],
+  "schema_type": "TouristDestination"
+}

@@ -1,0 +1,382 @@
+<!DOCTYPE html>
+<html lang="{{lang}}" dir="ltr">
+<head>
+{{> head}}
+
+<!-- Destination Schema -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "TouristDestination",
+  "@id": "{{canonical_url}}#destination",
+  "name": "{{name}}",
+  "description": "{{meta_description}}",
+  "url": "{{canonical_url}}",
+  "touristType": {{tourist_types_json}},
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": {{latitude}},
+    "longitude": {{longitude}}
+  },
+  "containedInPlace": {
+    "@type": "Country",
+    "name": "Mexico",
+    "identifier": "MX"
+  },
+  "image": {
+    "@type": "ImageObject",
+    "url": "{{og_image}}",
+    "width": 1200,
+    "height": 630,
+    "caption": "{{og_image_alt}}"
+  },
+  {{#if rating}}
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "{{rating}}",
+    "reviewCount": "{{review_count}}",
+    "bestRating": "5",
+    "worstRating": "1"
+  },
+  {{/if}}
+  "publicAccess": true,
+  "isAccessibleForFree": true
+}
+</script>
+
+<!-- FAQPage Schema -->
+{{#if faqs}}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {{#each faqs}}
+    {
+      "@type": "Question",
+      "name": "{{this.question}}",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "{{this.answer}}"
+      }
+    }{{#unless @last}},{{/unless}}
+    {{/each}}
+  ]
+}
+</script>
+{{/if}}
+
+<!-- Speakable Schema (AEO) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "{{meta_title}}",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [".intro-featured", ".quick-facts", ".hero-tagline"]
+  },
+  "url": "{{canonical_url}}"
+}
+</script>
+
+<!-- Organization Schema -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "@id": "https://topmexicotravel.com/#organization",
+  "name": "Top Mexico Travel",
+  "url": "https://topmexicotravel.com"
+}
+</script>
+</head>
+<body>
+<a href="#main-content" class="skip-link">Skip to main content</a>
+
+{{> header}}
+{{> breadcrumbs}}
+
+<main id="main-content" role="main">
+  <article class="destination" itemscope itemtype="https://schema.org/TouristDestination">
+    <!-- Hero Section with LCP Image -->
+    <header class="hero">
+      <img
+        src="{{hero_image}}"
+        alt="{{hero_image_alt}}"
+        width="1200"
+        height="630"
+        fetchpriority="high"
+        decoding="async"
+        class="hero-image"
+        itemprop="image">
+      <div class="hero-overlay"></div>
+      <div class="hero-content">
+        <h1 class="hero-title" itemprop="name">{{name}}</h1>
+        <p class="hero-tagline" itemprop="description">{{tagline}}</p>
+      </div>
+    </header>
+
+    <!-- Quick Facts (AEO Optimized) -->
+    <section class="quick-facts" aria-labelledby="quick-facts-heading">
+      <div class="quick-facts-container">
+        <h2 id="quick-facts-heading" class="sr-only">Quick Facts About {{name}}</h2>
+        <dl class="facts-grid">
+          <div class="fact">
+            <dt>Best Time to Visit</dt>
+            <dd>{{best_time_to_visit}}</dd>
+          </div>
+          <div class="fact">
+            <dt>Average Temperature</dt>
+            <dd>{{average_temperature}}</dd>
+          </div>
+          <div class="fact">
+            <dt>Known For</dt>
+            <dd>{{known_for}}</dd>
+          </div>
+          <div class="fact">
+            <dt>Airport Code</dt>
+            <dd>{{airport_code}}</dd>
+          </div>
+        </dl>
+      </div>
+    </section>
+
+    <!-- Introduction with Featured Snippet Optimization -->
+    <section class="section intro-section" aria-labelledby="intro-heading">
+      <div class="section-container">
+        <h2 id="intro-heading" class="section-title">About {{name}}</h2>
+        <!-- First paragraph optimized for featured snippets (40-60 words) -->
+        <p class="intro-featured">{{featured_snippet_intro}}</p>
+        <div class="intro-content" itemprop="description">
+          {{introduction}}
+        </div>
+      </div>
+    </section>
+
+    <!-- Things to Do Section -->
+    {{#if attractions}}
+    <section class="section" aria-labelledby="things-heading">
+      <div class="section-container">
+        <div class="section-header">
+          <h2 id="things-heading" class="section-title">Things to Do in {{name}}</h2>
+          <p class="section-intro">Discover the best attractions, activities, and experiences in {{name}}, from iconic landmarks to hidden gems.</p>
+        </div>
+        <ul class="cards-grid attractions-grid">
+          {{#each attractions}}
+          <li class="card attraction-card" itemscope itemtype="https://schema.org/TouristAttraction">
+            <img
+              src="{{this.image}}"
+              alt="{{this.name}} in {{../name}}"
+              width="400"
+              height="300"
+              loading="lazy"
+              decoding="async"
+              class="card-image"
+              itemprop="image">
+            <div class="card-content">
+              <h3 class="card-title" itemprop="name">
+                <a href="{{this.url}}" itemprop="url">{{this.name}}</a>
+              </h3>
+              <p class="card-description" itemprop="description">{{this.description}}</p>
+              {{#if this.duration}}
+              <div class="card-meta">
+                <span>{{this.duration}}</span>
+                {{#if this.price}}
+                <span>From {{this.price}}</span>
+                {{/if}}
+              </div>
+              {{/if}}
+            </div>
+          </li>
+          {{/each}}
+        </ul>
+        <a href="/{{lang}}/{{slug}}/things-to-do/" class="cta-link">
+          View all things to do in {{name}} →
+        </a>
+      </div>
+    </section>
+    {{/if}}
+
+    <!-- Hotels Section -->
+    {{#if featured_hotels}}
+    <section class="section" aria-labelledby="hotels-heading">
+      <div class="section-container">
+        <div class="section-header">
+          <h2 id="hotels-heading" class="section-title">Where to Stay in {{name}}</h2>
+          <p class="section-intro">From luxury resorts to boutique hotels, find the perfect accommodation for your {{name}} vacation.</p>
+        </div>
+        <ul class="cards-grid hotels-grid">
+          {{#each featured_hotels}}
+          <li class="card hotel-card" itemscope itemtype="https://schema.org/Hotel">
+            <img
+              src="{{this.image}}"
+              alt="{{this.name}}"
+              width="400"
+              height="300"
+              loading="lazy"
+              decoding="async"
+              class="card-image"
+              itemprop="image">
+            <div class="card-content">
+              <h3 class="card-title" itemprop="name">
+                <a href="{{this.url}}" itemprop="url">{{this.name}}</a>
+              </h3>
+              <div class="hotel-rating">
+                <span class="stars" itemprop="starRating" itemscope itemtype="https://schema.org/Rating">
+                  <span itemprop="ratingValue">{{this.stars}}</span>★
+                </span>
+                {{#if this.category}}
+                <span class="badge badge-accent">{{this.category}}</span>
+                {{/if}}
+              </div>
+              <p class="card-description" itemprop="description">{{this.description}}</p>
+              {{#if this.price_range}}
+              <div class="price-range">From {{this.price_range}}/night</div>
+              {{/if}}
+            </div>
+          </li>
+          {{/each}}
+        </ul>
+        <a href="/{{lang}}/{{slug}}/hotels/" class="cta-link">
+          View all hotels in {{name}} →
+        </a>
+      </div>
+    </section>
+    {{/if}}
+
+    <!-- Restaurants Section -->
+    {{#if featured_restaurants}}
+    <section class="section" aria-labelledby="restaurants-heading" style="background: var(--color-bg-alt);">
+      <div class="section-container">
+        <div class="section-header">
+          <h2 id="restaurants-heading" class="section-title">Where to Eat in {{name}}</h2>
+          <p class="section-intro">Experience the best of Mexican cuisine and international dining in {{name}}.</p>
+        </div>
+        <ul class="cards-grid">
+          {{#each featured_restaurants}}
+          <li class="card restaurant-card" itemscope itemtype="https://schema.org/Restaurant">
+            <img
+              src="{{this.image}}"
+              alt="{{this.name}}"
+              width="400"
+              height="300"
+              loading="lazy"
+              decoding="async"
+              class="card-image"
+              itemprop="image">
+            <div class="card-content">
+              <span class="cuisine-type">{{this.cuisine}}</span>
+              <h3 class="card-title" itemprop="name">
+                <a href="{{this.url}}" itemprop="url">{{this.name}}</a>
+              </h3>
+              <p class="card-description" itemprop="description">{{this.description}}</p>
+              <div class="card-meta">
+                <span>{{this.price_range}}</span>
+              </div>
+            </div>
+          </li>
+          {{/each}}
+        </ul>
+        <a href="/{{lang}}/{{slug}}/restaurants/" class="cta-link">
+          View all restaurants in {{name}} →
+        </a>
+      </div>
+    </section>
+    {{/if}}
+
+    <!-- Practical Information -->
+    <section class="section" aria-labelledby="practical-heading">
+      <div class="section-container">
+        <div class="section-header">
+          <h2 id="practical-heading" class="section-title">Practical Information</h2>
+        </div>
+        <div class="guide-content">
+          {{#if getting_there}}
+          <h3>Getting There</h3>
+          <p>{{getting_there}}</p>
+          {{/if}}
+
+          {{#if getting_around}}
+          <h3>Getting Around</h3>
+          <p>{{getting_around}}</p>
+          {{/if}}
+
+          {{#if safety_info}}
+          <div class="info-box tip">
+            <div class="info-box-title">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><path d="M12 16v-4M12 8h.01"/></svg>
+              Safety Information
+            </div>
+            <p>{{safety_info}}</p>
+          </div>
+          {{/if}}
+        </div>
+      </div>
+    </section>
+
+    <!-- FAQ Section (AEO Optimized with FAQPage Schema) -->
+    {{#if faqs}}
+    <section class="section faq-section" aria-labelledby="faq-heading">
+      <div class="section-container">
+        <div class="section-header">
+          <h2 id="faq-heading" class="section-title">Frequently Asked Questions About {{name}}</h2>
+        </div>
+        <div class="faq-list" itemscope itemtype="https://schema.org/FAQPage">
+          {{#each faqs}}
+          <details class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question" {{#if @first}}open{{/if}}>
+            <summary itemprop="name">{{this.question}}</summary>
+            <div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+              <div itemprop="text">{{this.answer}}</div>
+            </div>
+          </details>
+          {{/each}}
+        </div>
+      </div>
+    </section>
+    {{/if}}
+
+    <!-- Related Destinations -->
+    {{#if related_destinations}}
+    <section class="section" aria-labelledby="related-heading">
+      <div class="section-container">
+        <h2 id="related-heading" class="section-title">Destinations Near {{name}}</h2>
+        <ul class="related-grid">
+          {{#each related_destinations}}
+          <li>
+            <a href="{{this.url}}">
+              <img
+                src="{{this.image}}"
+                alt="{{this.name}}"
+                width="300"
+                height="200"
+                loading="lazy"
+                decoding="async">
+              <span>{{this.name}}</span>
+            </a>
+          </li>
+          {{/each}}
+        </ul>
+      </div>
+    </section>
+    {{/if}}
+  </article>
+</main>
+
+{{> footer}}
+
+<script defer>
+document.addEventListener('DOMContentLoaded', function() {
+  const menuToggle = document.querySelector('.menu-toggle');
+  const mobileNav = document.querySelector('.mobile-nav');
+
+  if (menuToggle && mobileNav) {
+    menuToggle.addEventListener('click', function() {
+      const isOpen = mobileNav.classList.toggle('is-open');
+      this.setAttribute('aria-expanded', isOpen);
+    });
+  }
+});
+</script>
+</body>
+</html>

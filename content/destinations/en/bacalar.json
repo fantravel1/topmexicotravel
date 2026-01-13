@@ -1,0 +1,176 @@
+{
+  "id": "bacalar",
+  "name": "Bacalar",
+  "slug": "bacalar",
+  "state": "Quintana Roo",
+  "country": "Mexico",
+  "type": "lake",
+  "coordinates": {
+    "latitude": 18.6833,
+    "longitude": -88.3833
+  },
+  "meta_title": "Bacalar Travel Guide 2025 - Lagoon of Seven Colors Paradise",
+  "meta_description": "Discover Bacalar, home to Mexico's stunning 'Lagoon of Seven Colors.' Experience crystal-clear waters in endless shades of blue, cenotes, boat tours, and a tranquil escape far from the crowds.",
+  "hero_image": "/assets/images/destinations/bacalar-hero.jpg",
+  "hero_alt": "Stunning turquoise and blue shades of Bacalar Lagoon with wooden dock",
+  "introduction": {
+    "snippet": "Bacalar is home to Mexico's most breathtaking natural wonder—the 'Lagoon of Seven Colors,' a 55km freshwater lake displaying an impossible spectrum of blues and turquoises. This tranquil Pueblo Mágico offers a serene escape from the Riviera Maya crowds, with laid-back swimming, boat tours, cenotes, and a growing eco-conscious tourism scene.",
+    "full": "Hidden in the far south of Quintana Roo, just 40km from the Belize border, Bacalar remained off the tourist trail for decades while the northern Riviera Maya exploded with development. The lagoon, formed by interconnected cenotes and groundwater, displays an extraordinary range of colors—from pale turquoise to deep sapphire—caused by varying depths, white limestone bottom, and aquatic vegetation called stromatolites (some of the oldest life forms on Earth).\n\nThe small town of Bacalar, designated a Pueblo Mágico (Magic Town), sits along the lagoon's western shore with a Spanish colonial fort, colorful streets, and an increasing number of boutique hotels and restaurants catering to travelers seeking something different. Swimming in the lagoon's warm, impossibly clear water is a transcendent experience, best enjoyed from a boat tour visiting the Pirates' Canal or the cenote Cenote Azul. Bacalar is also a popular stop on the route between the Riviera Maya and Belize or Guatemala, offering a perfect place to decompress from the party scene to the north."
+  },
+  "quick_facts": {
+    "best_time": "November to April",
+    "avg_temp": "27°C (81°F)",
+    "currency": "Mexican Peso (MXN)",
+    "language": "Spanish",
+    "airport": "Chetumal (CTM) - 40 min",
+    "time_zone": "EST (UTC-5)",
+    "population": "15,000",
+    "lagoon_length": "55km"
+  },
+  "highlights": [
+    "Lagoon of Seven Colors swimming",
+    "Stromatolites—ancient living fossils",
+    "Pirates' Canal boat tours",
+    "Peaceful alternative to Riviera Maya",
+    "Cenote Azul nearby"
+  ],
+  "attractions": [
+    {
+      "name": "Lagoon Boat Tour",
+      "type": "Boat Tour",
+      "description": "Essential Bacalar experience visiting the Pirates' Canal, Bird Island, and the stromatolites while swimming in the seven shades of blue.",
+      "duration": "3-4 hours",
+      "price": "$30-50 USD",
+      "coordinates": {"lat": 18.6833, "lng": -88.3833}
+    },
+    {
+      "name": "Cenote Azul",
+      "type": "Cenote",
+      "description": "Large open cenote with crystal-clear 90m-deep water, perfect for swimming, cliff jumping, and lunch at lakeside restaurants.",
+      "duration": "2-3 hours",
+      "price": "$5 USD",
+      "coordinates": {"lat": 18.7467, "lng": -88.3917}
+    },
+    {
+      "name": "Fuerte San Felipe",
+      "type": "Historic Fort/Museum",
+      "description": "18th-century Spanish fort built to defend against pirates, now a small museum with lagoon views.",
+      "duration": "1 hour",
+      "price": "$3 USD",
+      "coordinates": {"lat": 18.6808, "lng": -88.3931}
+    },
+    {
+      "name": "Los Rapidos",
+      "type": "Swimming/Current",
+      "description": "Natural channels where the lagoon narrows, creating a gentle current—float down or swim against the flow.",
+      "duration": "1-2 hours",
+      "price": "$3-5 USD",
+      "coordinates": {"lat": 18.6167, "lng": -88.4000}
+    },
+    {
+      "name": "Paddle Board / Kayak",
+      "type": "Water Activity",
+      "description": "Rent SUP boards or kayaks to explore the lagoon at your own pace, especially beautiful at sunrise.",
+      "duration": "2-4 hours",
+      "price": "$10-20 USD/hour",
+      "coordinates": {"lat": 18.6833, "lng": -88.3833}
+    },
+    {
+      "name": "Cenote Cocalitos",
+      "type": "Cenote/Stromatolites",
+      "description": "Secluded cenote famous for its stromatolites—ancient bacterial formations. Swimming allowed with care for the ecosystem.",
+      "duration": "1-2 hours",
+      "price": "$5 USD",
+      "coordinates": {"lat": 18.7117, "lng": -88.3967}
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Hotel Akalki",
+      "category": "Boutique",
+      "stars": 4,
+      "price_range": "$$$",
+      "description": "Beautiful eco-hotel on the lagoon with dock, kayaks, and hammocks over the water",
+      "features": ["Lagoon access", "Dock", "Kayaks", "Restaurant"]
+    },
+    {
+      "name": "Rancho Encantado",
+      "category": "Boutique",
+      "stars": 4,
+      "price_range": "$$$",
+      "description": "Eco-resort with private lagoon beach, palapa cabañas, and excellent restaurant",
+      "features": ["Private beach", "Cabañas", "Restaurant", "Peaceful"]
+    },
+    {
+      "name": "Hotel Carolina",
+      "category": "Mid-Range",
+      "stars": 3,
+      "price_range": "$$",
+      "description": "Comfortable hotel in town center with pool, walking distance to lagoon",
+      "features": ["Pool", "Central location", "Good value", "Balconies"]
+    },
+    {
+      "name": "Casa Bambutan",
+      "category": "Budget",
+      "stars": 2,
+      "price_range": "$",
+      "description": "Hostel with cabañas, dorms, and hammock spots with lagoon access",
+      "features": ["Lagoon access", "Hammocks", "Social", "Budget"]
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "El Manati",
+      "cuisine": "Mexican/Seafood",
+      "price_range": "$$$",
+      "description": "Excellent seafood and Mexican cuisine with beautiful lagoon-view terrace"
+    },
+    {
+      "name": "La Playita",
+      "cuisine": "Mexican/Seafood",
+      "price_range": "$$",
+      "description": "Casual waterfront restaurant with hammocks and fresh ceviche"
+    },
+    {
+      "name": "Mango y Chile",
+      "cuisine": "Healthy/Vegetarian",
+      "price_range": "$$",
+      "description": "Popular healthy café with smoothies, vegetarian options, and garden seating"
+    },
+    {
+      "name": "Nixtamal",
+      "cuisine": "Traditional Mexican",
+      "price_range": "$$",
+      "description": "Excellent Yucatecan cuisine with handmade tortillas"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Why is Bacalar called the Lagoon of Seven Colors?",
+      "answer": "The lagoon displays multiple shades of blue and turquoise due to varying depths (up to 90m in cenote areas), white sandy/limestone bottom reflecting sunlight differently, aquatic vegetation (stromatolites), and the angle of the sun. The range of colors—from pale aqua to deep sapphire—is genuinely spectacular."
+    },
+    {
+      "question": "How do I get to Bacalar?",
+      "answer": "From Cancún: 4-5 hour drive or ADO bus. From Tulum: 2.5 hours by car or bus. From Chetumal airport: 40 minutes by car. Many visitors include Bacalar on their way to/from Belize. Having a rental car gives more flexibility for the region."
+    },
+    {
+      "question": "Can you swim in the Bacalar Lagoon?",
+      "answer": "Yes! The lagoon is freshwater and perfect for swimming. Access from hotels with lagoon frontage, public areas in town, boat tours, and cenotes like Cenote Azul. The water is warm, clear, and shallow in many areas. No stinging jellyfish or waves."
+    },
+    {
+      "question": "What are stromatolites and why are they important?",
+      "answer": "Stromatolites are ancient bacterial formations—literally some of the oldest life forms on Earth, dating back billions of years. Bacalar's lagoon has living stromatolites that must be protected. Swimming near them is allowed but touching is forbidden. They're a unique feature that makes Bacalar special."
+    },
+    {
+      "question": "How many days should I spend in Bacalar?",
+      "answer": "2-3 days is ideal: a boat tour of the lagoon, swimming and paddleboarding, visiting cenotes, and relaxing. The slow pace is the point—don't rush. Bacalar is great for decompressing after the busier Riviera Maya destinations."
+    },
+    {
+      "question": "Is Bacalar developed or remote?",
+      "answer": "Bacalar is growing but remains low-key compared to Tulum or Playa del Carmen. The town has good restaurants, boutique hotels, and amenities, but no clubs or party scene. ATMs are limited—bring cash. The pace is deliberately tranquil and eco-conscious."
+    }
+  ],
+  "related_destinations": ["tulum", "chetumal", "mahahual", "valladolid", "cozumel"],
+  "tags": ["lagoon", "nature", "swimming", "eco-tourism", "tranquil", "cenotes", "paddle-boarding", "off-beaten-path"],
+  "schema_type": "TouristDestination"
+}

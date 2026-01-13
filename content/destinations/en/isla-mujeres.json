@@ -1,0 +1,176 @@
+{
+  "id": "isla-mujeres",
+  "name": "Isla Mujeres",
+  "slug": "isla-mujeres",
+  "state": "Quintana Roo",
+  "country": "Mexico",
+  "type": "island",
+  "coordinates": {
+    "latitude": 21.2320,
+    "longitude": -86.7337
+  },
+  "meta_title": "Isla Mujeres Travel Guide 2025 - Caribbean Island Paradise Near Cancún",
+  "meta_description": "Discover Isla Mujeres, a charming Caribbean island just 20 minutes from Cancún. Explore colorful streets, swim with whale sharks, rent a golf cart, and escape to a slower pace of paradise.",
+  "hero_image": "/assets/images/destinations/isla-mujeres-hero.jpg",
+  "hero_alt": "Colorful beachfront promenade of Isla Mujeres with turquoise Caribbean waters",
+  "introduction": {
+    "snippet": "Isla Mujeres is a laid-back Caribbean island just 20 minutes by ferry from Cancún—but a world away in atmosphere. This petite 7km-long paradise offers colorful streets, golf cart exploration, pristine Playa Norte beach, world-famous whale shark encounters, and the relaxed vibe that mainland resorts often lack.",
+    "full": "Once a sacred site dedicated to the Maya goddess Ixchel, Isla Mujeres (Island of Women) has evolved from a fishing village into one of Mexico's most charming island escapes. Unlike the mega-resort development of Cancún's Hotel Zone visible across the water, Isla Mujeres has preserved its small-town feel with pedestrian streets, colorful Caribbean architecture, and a community of locals who still fish these waters.\n\nThe island is small enough to explore entirely by golf cart in a few hours, from the famous white sand of Playa Norte (consistently rated among Mexico's best beaches) to the scenic southern tip at Punta Sur with its clifftop sculpture garden. Between May and September, Isla Mujeres becomes ground zero for swimming with whale sharks—the largest fish in the sea—in an ethical, regulated encounter. Whether you're visiting for a day from Cancún or settling in for a week, Isla Mujeres delivers Caribbean magic without the crowds, at prices that won't break the bank."
+  },
+  "quick_facts": {
+    "best_time": "December to April",
+    "avg_temp": "27°C (81°F)",
+    "currency": "Mexican Peso (MXN)",
+    "language": "Spanish",
+    "airport": "Ferry from Cancún",
+    "time_zone": "EST (UTC-5)",
+    "population": "20,000",
+    "island_size": "7km x 650m"
+  },
+  "highlights": [
+    "Playa Norte—one of Mexico's best beaches",
+    "Golf cart island exploration",
+    "Whale shark swimming (May-September)",
+    "20-minute ferry from Cancún",
+    "Laid-back Caribbean atmosphere"
+  ],
+  "attractions": [
+    {
+      "name": "Playa Norte",
+      "type": "Beach",
+      "description": "Consistently ranked among Mexico's and the Caribbean's best beaches—shallow turquoise water, white sand, and beach bars.",
+      "duration": "Half-full day",
+      "price": "Free",
+      "coordinates": {"lat": 21.2572, "lng": -86.7433}
+    },
+    {
+      "name": "Whale Shark Encounters",
+      "type": "Wildlife Experience",
+      "description": "Swim with the world's largest fish (up to 12m long!) in ethical, regulated encounters. Season: May-September, peak June-August.",
+      "duration": "Half day",
+      "price": "$100-150 USD",
+      "coordinates": {"lat": 21.5000, "lng": -86.5000}
+    },
+    {
+      "name": "Punta Sur",
+      "type": "Viewpoint/Park",
+      "description": "Dramatic southern tip with clifftop sculpture garden, lighthouse, and ruins of Ixchel temple overlooking the Caribbean.",
+      "duration": "1-2 hours",
+      "price": "$5 USD",
+      "coordinates": {"lat": 21.1978, "lng": -86.7133}
+    },
+    {
+      "name": "MUSA Underwater Museum",
+      "type": "Snorkeling/Diving",
+      "description": "Over 500 underwater sculptures just off the island—experience by snorkel, dive, or glass-bottom boat.",
+      "duration": "2-3 hours",
+      "price": "$50-100 USD",
+      "coordinates": {"lat": 21.2006, "lng": -86.7227}
+    },
+    {
+      "name": "Downtown & Hidalgo Street",
+      "type": "Town Center",
+      "description": "Colorful pedestrian street with restaurants, shops, and bars. The heart of island life.",
+      "duration": "2-3 hours",
+      "price": "Free",
+      "coordinates": {"lat": 21.2325, "lng": -86.7306}
+    },
+    {
+      "name": "Garrafón Natural Reef Park",
+      "type": "Beach/Activities",
+      "description": "All-inclusive day park with snorkeling, zip-lines, kayaking, and clifftop infinity pool.",
+      "duration": "Half-full day",
+      "price": "$80-120 USD",
+      "coordinates": {"lat": 21.2031, "lng": -86.7192}
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Zoëtry Villa Rolandi",
+      "category": "Luxury",
+      "stars": 5,
+      "price_range": "$$$$",
+      "description": "Intimate all-suite resort with private pier, yacht transfers, and gourmet dining",
+      "features": ["Beachfront", "Yacht transfer", "Spa", "Gourmet dining"]
+    },
+    {
+      "name": "Ixchel Beach Hotel",
+      "category": "Mid-Range",
+      "stars": 4,
+      "price_range": "$$$",
+      "description": "Prime location right on Playa Norte with pool and rooftop bar",
+      "features": ["Playa Norte", "Pool", "Rooftop bar", "Beachfront"]
+    },
+    {
+      "name": "Hotel Secreto",
+      "category": "Boutique",
+      "stars": 4,
+      "price_range": "$$$",
+      "description": "Minimalist boutique hotel with infinity pool overlooking Half Moon Bay",
+      "features": ["Infinity pool", "Bay views", "Quiet location", "Stylish"]
+    },
+    {
+      "name": "Poc-Na Hostel",
+      "category": "Budget",
+      "stars": 2,
+      "price_range": "$",
+      "description": "Legendary backpacker hostel on Playa Norte with hammocks and beach access",
+      "features": ["Playa Norte", "Hammocks", "Social", "Beach access"]
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "Hidalgo Street Taco Row",
+      "cuisine": "Tacos/Street Food",
+      "price_range": "$",
+      "description": "Multiple taco stands serving fresh fish tacos, pastor, and more—the island's best cheap eats"
+    },
+    {
+      "name": "Olivia",
+      "cuisine": "Mediterranean/Israeli",
+      "price_range": "$$$",
+      "description": "Hidden garden restaurant with excellent hummus, fresh fish, and romantic atmosphere"
+    },
+    {
+      "name": "Lola Valentina",
+      "cuisine": "Mexican",
+      "price_range": "$$",
+      "description": "Colorful rooftop restaurant with sunset views and excellent Mexican dishes"
+    },
+    {
+      "name": "Sunset Grill",
+      "cuisine": "Seafood/American",
+      "price_range": "$$",
+      "description": "Iconic Playa Norte spot for sunset drinks with feet in the sand"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How do I get to Isla Mujeres from Cancún?",
+      "answer": "Ultramar ferries run every 30 minutes from Puerto Juárez (downtown Cancún, cheapest) and the Hotel Zone (more convenient but pricier). The ride takes about 20 minutes and costs $15-20 USD round trip. No reservation needed—just show up."
+    },
+    {
+      "question": "Is Isla Mujeres a good day trip from Cancún?",
+      "answer": "Yes! A day trip gives you time to enjoy Playa Norte, golf cart around the island, explore downtown, and catch sunset drinks before the last ferry. However, staying overnight lets you experience the island's magic after the day-trippers leave."
+    },
+    {
+      "question": "Should I rent a golf cart on Isla Mujeres?",
+      "answer": "Renting a golf cart is the quintessential Isla Mujeres experience and the best way to explore. Rates are around $40-60 USD for a full day. The island is small enough to see everything in 2-3 hours. Walking and biking are alternatives for the active."
+    },
+    {
+      "question": "When is whale shark season in Isla Mujeres?",
+      "answer": "Whale shark season runs May through September, with peak season June-August. Tours depart early morning and include snorkeling with these gentle giants. Book with certified operators who follow ethical guidelines (limited swimmers, no touching)."
+    },
+    {
+      "question": "Is Isla Mujeres safe?",
+      "answer": "Isla Mujeres is very safe—one of the safest places in Mexico. The small island community, tourism-dependent economy, and limited access make crime rare. Use normal precautions: secure valuables, don't flaunt expensive items."
+    },
+    {
+      "question": "How many days should I spend on Isla Mujeres?",
+      "answer": "2-3 days is ideal to fully enjoy the island's pace: beach time at Playa Norte, golf cart exploration, snorkeling or diving, and leisurely dining. Day-trippers see the highlights but miss the magic of sunset and early morning beach time."
+    }
+  ],
+  "related_destinations": ["cancun", "playa-del-carmen", "cozumel", "holbox", "tulum"],
+  "tags": ["island", "caribbean", "beach", "whale-sharks", "snorkeling", "relaxed", "golf-cart", "day-trip"],
+  "schema_type": "TouristDestination"
+}

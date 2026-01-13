@@ -1,0 +1,176 @@
+{
+  "id": "guanajuato",
+  "name": "Guanajuato",
+  "slug": "guanajuato",
+  "state": "Guanajuato",
+  "country": "Mexico",
+  "type": "colonial",
+  "coordinates": {
+    "latitude": 21.0190,
+    "longitude": -101.2574
+  },
+  "meta_title": "Guanajuato Travel Guide 2025 - Mexico's Most Colorful Colonial City",
+  "meta_description": "Explore Guanajuato, Mexico's most colorful colonial city. Discover underground streets, vibrant painted houses, famous mummies museum, and lively plazas in this UNESCO World Heritage student town.",
+  "hero_image": "/assets/images/destinations/guanajuato-hero.jpg",
+  "hero_alt": "Colorful hillside houses of Guanajuato with University of Guanajuato and Basilica",
+  "introduction": {
+    "snippet": "Guanajuato is Mexico's most dramatically beautiful colonial city—a UNESCO World Heritage gem nestled in a narrow ravine where colorful houses cascade down hillsides, underground streets wind through old mine tunnels, and callejoneadas (musical walking tours) fill the night with song. This vibrant university town delivers visual wonder at every turn.",
+    "full": "Founded in 1559 after silver was discovered in the surrounding hills, Guanajuato became one of the world's most productive silver mining regions, funding ornate churches and grand theaters. When the mines declined, the city preserved its colonial character almost perfectly. Today, the winding streets (some running underground through former mine tunnels and a riverbed), colorful facades, and elaborate plazas create one of Mexico's most photogenic urban landscapes.\n\nHome to the prestigious University of Guanajuato, the city pulses with youthful energy. Students and visitors gather in the jardín principal, wander the underground streets, and join the callejoneadas—traditional musical processions through the alleys led by estudiantinas (student troubadours). The city is also famous for the Mummy Museum, displaying naturally mummified bodies from the 19th century, and the annual Festival Cervantino, Latin America's largest performing arts festival. Guanajuato pairs perfectly with nearby San Miguel de Allende for an unforgettable colonial Mexico experience."
+  },
+  "quick_facts": {
+    "best_time": "October to May",
+    "avg_temp": "18°C (64°F)",
+    "currency": "Mexican Peso (MXN)",
+    "language": "Spanish",
+    "airport": "León/Bajío (BJX) - 45 min",
+    "time_zone": "CST (UTC-6)",
+    "population": "185,000 (city)",
+    "altitude": "2,000m (6,562ft)"
+  },
+  "highlights": [
+    "Spectacularly colorful hillside architecture",
+    "Underground streets through old mine tunnels",
+    "Traditional callejoneadas night tours",
+    "UNESCO World Heritage center",
+    "Famous Mummy Museum"
+  ],
+  "attractions": [
+    {
+      "name": "Callejoneada",
+      "type": "Cultural Experience",
+      "description": "Traditional musical procession through the alleys led by troubadours in colonial dress. Includes wine and stories of the callejones.",
+      "duration": "2-3 hours",
+      "price": "$10-20 USD",
+      "coordinates": {"lat": 21.0186, "lng": -101.2562}
+    },
+    {
+      "name": "Museo de las Momias",
+      "type": "Museum",
+      "description": "Famous (and slightly macabre) museum displaying over 100 naturally mummified bodies from the 19th century, including children.",
+      "duration": "1-2 hours",
+      "price": "$5 USD",
+      "coordinates": {"lat": 21.0267, "lng": -101.2711}
+    },
+    {
+      "name": "Pipila Monument",
+      "type": "Viewpoint",
+      "description": "Hilltop statue honoring independence hero with spectacular panoramic views of the colorful city. Reach by funicular or steep climb.",
+      "duration": "1 hour",
+      "price": "$3 USD funicular",
+      "coordinates": {"lat": 21.0161, "lng": -101.2533}
+    },
+    {
+      "name": "Teatro Juárez",
+      "type": "Historic Theater",
+      "description": "Ornate 19th-century theater with Moorish interior—one of Mexico's most beautiful performance venues.",
+      "duration": "30 min tour",
+      "price": "$3 USD",
+      "coordinates": {"lat": 21.0183, "lng": -101.2556}
+    },
+    {
+      "name": "Underground Streets",
+      "type": "Urban Feature",
+      "description": "Unique network of streets running through old mine tunnels and the covered riverbed beneath the city center.",
+      "duration": "1-2 hours walking",
+      "price": "Free",
+      "coordinates": {"lat": 21.0190, "lng": -101.2574}
+    },
+    {
+      "name": "Alhóndiga de Granaditas",
+      "type": "Museum/Historic Site",
+      "description": "Former granary and key Independence War battle site, now a history museum with Chávez Morado murals.",
+      "duration": "1-2 hours",
+      "price": "$5 USD",
+      "coordinates": {"lat": 21.0197, "lng": -101.2525}
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Edelmira Hotel Boutique",
+      "category": "Boutique Luxury",
+      "stars": 5,
+      "price_range": "$$$$",
+      "description": "Beautifully restored colonial mansion with rooftop terrace overlooking the city",
+      "features": ["Rooftop terrace", "Colonial mansion", "Central", "Restaurant"]
+    },
+    {
+      "name": "Villa María Cristina",
+      "category": "Boutique",
+      "stars": 4,
+      "price_range": "$$$",
+      "description": "Elegant hotel in former 19th-century mansion with garden and excellent service",
+      "features": ["Garden", "Historic building", "Restaurant", "Central"]
+    },
+    {
+      "name": "Hotel Boutique 1850",
+      "category": "Mid-Range",
+      "stars": 3,
+      "price_range": "$$",
+      "description": "Charming restored building with rooftop views near the main jardín",
+      "features": ["Rooftop terrace", "Central location", "Value"]
+    },
+    {
+      "name": "Hostal La Casa del Tío",
+      "category": "Budget",
+      "stars": 2,
+      "price_range": "$",
+      "description": "Popular budget option with colorful rooms and great social atmosphere",
+      "features": ["Central", "Social atmosphere", "Kitchen", "Tours"]
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "Casa Valadez",
+      "cuisine": "Mexican/International",
+      "price_range": "$$$",
+      "description": "Prime location on the jardín with balcony seating overlooking the plaza"
+    },
+    {
+      "name": "Mestizo",
+      "cuisine": "Contemporary Mexican",
+      "price_range": "$$$",
+      "description": "Creative Mexican cuisine in intimate setting with excellent cocktails"
+    },
+    {
+      "name": "Mercado Hidalgo",
+      "cuisine": "Market Food",
+      "price_range": "$",
+      "description": "Beautiful ironwork market (designed by Eiffel's company) with food stalls and local snacks"
+    },
+    {
+      "name": "Santo Café",
+      "cuisine": "Café/Light Meals",
+      "price_range": "$$",
+      "description": "Rooftop café with University and city views—perfect for breakfast or coffee"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is a callejoneada?",
+      "answer": "A callejoneada is a traditional walking tour through Guanajuato's narrow alleys (callejones) led by estudiantinas—students in colonial-era dress playing music and telling stories. Participants carry wine or drinks in ceramic jugs. Tours leave from the jardín principal most nights and last 2-3 hours."
+    },
+    {
+      "question": "How do I get to Guanajuato?",
+      "answer": "The nearest airport is León/Bajío (BJX), about 45 minutes away. From there, take a taxi or transfer to the city. Luxury buses from Mexico City (5 hours) or Guadalajara (4 hours) are also popular. Many visitors combine Guanajuato with San Miguel de Allende, about 1.5 hours away."
+    },
+    {
+      "question": "Is Guanajuato walkable?",
+      "answer": "Guanajuato's centro is very walkable but hilly—wear comfortable shoes. The underground streets require navigation. Taxis are available for outlying sights like the Mummy Museum. The funicular to Pípila saves a steep climb. Many streets are pedestrian-only."
+    },
+    {
+      "question": "When is the Festival Cervantino?",
+      "answer": "The Festival Internacional Cervantino, Latin America's largest performing arts festival, takes place over three weeks in October. The city fills with performances, art, and visitors. Book accommodation months in advance, or enjoy the festive spillover atmosphere in nearby San Miguel."
+    },
+    {
+      "question": "Can you visit the Guanajuato mummies?",
+      "answer": "Yes, the Museo de las Momias displays over 100 naturally mummified bodies from the 19th century, preserved by the area's dry climate. It's fascinating but not for the squeamish—children's mummies are included. Located on the outskirts of centro, easily reached by taxi."
+    },
+    {
+      "question": "How many days do you need in Guanajuato?",
+      "answer": "2-3 days is ideal for Guanajuato: wandering the colorful streets, visiting museums and viewpoints, and experiencing a callejoneada. Add an extra day to combine with San Miguel de Allende (1.5 hours away) or explore the surrounding mining villages."
+    }
+  ],
+  "related_destinations": ["san-miguel-de-allende", "guadalajara", "queretaro", "dolores-hidalgo", "leon"],
+  "tags": ["colonial", "unesco", "colorful", "university", "culture", "nightlife", "photography", "architecture"],
+  "schema_type": "TouristDestination"
+}

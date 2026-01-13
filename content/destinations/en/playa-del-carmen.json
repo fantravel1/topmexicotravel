@@ -1,0 +1,176 @@
+{
+  "id": "playa-del-carmen",
+  "name": "Playa del Carmen",
+  "slug": "playa-del-carmen",
+  "state": "Quintana Roo",
+  "country": "Mexico",
+  "type": "beach",
+  "coordinates": {
+    "latitude": 20.6296,
+    "longitude": -87.0739
+  },
+  "meta_title": "Playa del Carmen Travel Guide 2025 - Beaches, Hotels & Things to Do",
+  "meta_description": "Plan your Playa del Carmen vacation with our complete guide. Discover beautiful Caribbean beaches, walkable 5th Avenue shopping and dining, easy access to Cozumel, cenotes, and Mayan ruins.",
+  "hero_image": "/assets/images/destinations/playa-del-carmen-hero.jpg",
+  "hero_alt": "Playa del Carmen beach with turquoise Caribbean water and palm trees along the shore",
+  "introduction": {
+    "snippet": "Playa del Carmen offers the perfect middle ground between Cancún's mega-resorts and Tulum's boho vibe. This walkable beach town on Mexico's Riviera Maya features a vibrant pedestrian street, excellent beaches, easy ferry access to Cozumel, and serves as an ideal base for exploring cenotes and Mayan ruins.",
+    "full": "Once a sleepy fishing village and ferry departure point for Cozumel, Playa del Carmen has blossomed into a cosmopolitan beach destination that attracts a diverse mix of visitors—from families and couples to digital nomads and expats. The heart of town is Quinta Avenida (5th Avenue), a bustling pedestrian street running parallel to the beach, lined with restaurants, bars, shops, and street performers.\n\nUnlike Cancún's isolated Hotel Zone, Playa puts you right in the action. You can walk from your hotel to the beach, grab street tacos, browse boutiques, and end the night at a rooftop bar—all without a taxi. The town also serves as the Riviera Maya's most convenient base: ferries to Cozumel depart every 30 minutes, cenotes are within a short drive, and even Tulum is just 45 minutes south. Whether you want all-inclusive luxury or a budget-friendly apartment, Playa del Carmen delivers the quintessential Mexican Caribbean experience."
+  },
+  "quick_facts": {
+    "best_time": "December to April",
+    "avg_temp": "27°C (81°F)",
+    "currency": "Mexican Peso (MXN)",
+    "language": "Spanish",
+    "airport": "Cancún (CUN) - 55 min",
+    "time_zone": "EST (UTC-5)",
+    "population": "304,000",
+    "beach_type": "Caribbean white sand"
+  },
+  "highlights": [
+    "Walkable town with 5th Avenue promenade",
+    "Beautiful Caribbean beaches",
+    "30-minute ferry to Cozumel",
+    "Central location for Riviera Maya exploration",
+    "Diverse dining and nightlife scene"
+  ],
+  "attractions": [
+    {
+      "name": "Quinta Avenida (5th Avenue)",
+      "type": "Pedestrian Street",
+      "description": "The heart of Playa—a 4km pedestrian promenade packed with restaurants, bars, shops, and entertainment. Best experienced in the evening.",
+      "duration": "2-4 hours",
+      "price": "Free",
+      "coordinates": {"lat": 20.6274, "lng": -87.0744}
+    },
+    {
+      "name": "Playa Mamitas",
+      "type": "Beach",
+      "description": "The main beach in Playa del Carmen with beach clubs, restaurants, and water sports. Mamitas Beach Club is the most famous.",
+      "duration": "Half-full day",
+      "price": "Free (clubs $30-100)",
+      "coordinates": {"lat": 20.6345, "lng": -87.0701}
+    },
+    {
+      "name": "Cozumel Ferry",
+      "type": "Transport/Day Trip",
+      "description": "Quick 30-minute ferry ride to Cozumel island, famous for world-class diving, snorkeling, and beaches.",
+      "duration": "Full day",
+      "price": "$20 USD round trip",
+      "coordinates": {"lat": 20.6224, "lng": -87.0729}
+    },
+    {
+      "name": "Río Secreto",
+      "type": "Underground River",
+      "description": "Spectacular underground river system with stunning stalactites and crystal-clear water. A truly unique experience.",
+      "duration": "3-4 hours",
+      "price": "$80-100 USD",
+      "coordinates": {"lat": 20.5375, "lng": -87.1625}
+    },
+    {
+      "name": "Xcaret",
+      "type": "Eco-Archaeological Park",
+      "description": "All-in-one eco-park with underground rivers, snorkeling, wildlife, Mexican culture shows, and more.",
+      "duration": "Full day",
+      "price": "$120-200 USD",
+      "coordinates": {"lat": 20.5797, "lng": -87.1180}
+    },
+    {
+      "name": "Cenote Azul",
+      "type": "Cenote",
+      "description": "Large open-air cenote perfect for families, with cliff jumping platforms and nearby restaurants.",
+      "duration": "2-3 hours",
+      "price": "$5 USD",
+      "coordinates": {"lat": 20.4267, "lng": -87.3200}
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Grand Hyatt Playa del Carmen",
+      "category": "Luxury",
+      "stars": 5,
+      "price_range": "$$$$",
+      "description": "Elegant beachfront resort with multiple pools, spa, and excellent restaurants",
+      "features": ["Beachfront", "Spa", "Multiple pools", "Fine dining"]
+    },
+    {
+      "name": "Thompson Playa del Carmen",
+      "category": "Boutique",
+      "stars": 5,
+      "price_range": "$$$$",
+      "description": "Stylish boutique hotel with rooftop pool and beach club",
+      "features": ["Rooftop pool", "Beach club", "Central location", "Design"]
+    },
+    {
+      "name": "Hotel Lunata",
+      "category": "Mid-Range",
+      "stars": 3,
+      "price_range": "$$",
+      "description": "Charming budget hotel steps from 5th Avenue and beach",
+      "features": ["Central location", "Pool", "Good value"]
+    },
+    {
+      "name": "Che Playa Hostel",
+      "category": "Budget",
+      "stars": 2,
+      "price_range": "$",
+      "description": "Social hostel on 5th Avenue with rooftop bar and pool",
+      "features": ["Rooftop pool", "Bar", "5th Avenue location", "Social"]
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "Alux",
+      "cuisine": "Contemporary Mexican",
+      "price_range": "$$$",
+      "description": "Unique fine dining inside an ancient cave/cenote—truly unforgettable atmosphere"
+    },
+    {
+      "name": "El Fogón",
+      "cuisine": "Tacos",
+      "price_range": "$",
+      "description": "Local favorite for authentic tacos al pastor—follow the smoke and crowds"
+    },
+    {
+      "name": "OH LA LA",
+      "cuisine": "French/Mediterranean",
+      "price_range": "$$$",
+      "description": "Romantic courtyard restaurant with excellent seafood and French-Mexican fusion"
+    },
+    {
+      "name": "La Cueva del Chango",
+      "cuisine": "Mexican Breakfast",
+      "price_range": "$$",
+      "description": "Jungle-garden setting famous for its Mexican breakfasts and fresh juices"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Is Playa del Carmen better than Cancún?",
+      "answer": "Playa del Carmen offers a more walkable, town-like atmosphere compared to Cancún's spread-out Hotel Zone. Playa is better for those who want local flavor, diverse restaurants, and easy exploration on foot. Cancún is better for mega-resorts, nightclubs, and consistently calm beaches."
+    },
+    {
+      "question": "How do I get from Cancún airport to Playa del Carmen?",
+      "answer": "Playa del Carmen is about 55 minutes south of Cancún airport. Options include: ADO bus (frequent, $12-15 USD, drops at 5th Avenue), private transfer ($60-80 USD), shared shuttle ($20-30 per person), or rental car. The ADO bus is the most convenient for most travelers."
+    },
+    {
+      "question": "Is Playa del Carmen safe?",
+      "answer": "The tourist areas of Playa del Carmen (5th Avenue, beach, central neighborhoods) are generally safe. Exercise normal precautions, especially late at night. Avoid excessive displays of wealth, use ATMs inside stores, and stick to well-lit areas after dark."
+    },
+    {
+      "question": "How long should I stay in Playa del Carmen?",
+      "answer": "3-5 days is ideal to enjoy the beach, explore 5th Avenue, take a day trip to Cozumel or cenotes, and visit an eco-park like Xcaret. If using Playa as a base to explore the entire Riviera Maya (Tulum, Chichén Itzá), plan for 5-7 days."
+    },
+    {
+      "question": "When is the best time to visit Playa del Carmen?",
+      "answer": "December to April offers the best weather with dry, sunny days. Peak season is mid-December to Easter (highest prices, biggest crowds). May-June is hot but less crowded. Avoid September-October for hurricane season. Sargassum seaweed can affect beaches, especially May-August."
+    },
+    {
+      "question": "Is Playa del Carmen good for families?",
+      "answer": "Yes, Playa del Carmen is excellent for families. The walkable layout, calm beaches, and nearby eco-parks (Xcaret, Xel-Há) make it family-friendly. Many all-inclusive resorts cater to families with kids clubs and activities. The town is safer and more manageable than larger Cancún."
+    }
+  ],
+  "related_destinations": ["cancun", "tulum", "cozumel", "isla-mujeres", "riviera-maya"],
+  "tags": ["beach", "caribbean", "walkable", "nightlife", "family-friendly", "diving", "shopping"],
+  "schema_type": "TouristDestination"
+}

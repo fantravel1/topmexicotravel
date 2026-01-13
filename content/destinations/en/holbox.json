@@ -1,0 +1,176 @@
+{
+  "id": "holbox",
+  "name": "Holbox",
+  "slug": "holbox",
+  "state": "Quintana Roo",
+  "country": "Mexico",
+  "type": "island",
+  "coordinates": {
+    "latitude": 21.5219,
+    "longitude": -87.3797
+  },
+  "meta_title": "Holbox Travel Guide 2025 - Car-Free Island Paradise in Mexico",
+  "meta_description": "Discover Holbox, Mexico's car-free island paradise. Experience pristine beaches, bioluminescence, whale shark swimming, colorful streets, and authentic barefoot luxury in this unspoiled Caribbean hideaway.",
+  "hero_image": "/assets/images/destinations/holbox-hero.jpg",
+  "hero_alt": "Sandy streets and colorful buildings of Holbox island with golf cart",
+  "introduction": {
+    "snippet": "Holbox (pronounced hol-BOSH) is a car-free island paradise where sandy streets replace pavement, golf carts outnumber cars, and nature takes center stage. This bohemian Caribbean hideaway offers pristine beaches, legendary bioluminescent waters, whale shark encounters, and an authentically laid-back atmosphere that's increasingly rare in Mexico.",
+    "full": "Floating in the shallow waters where the Gulf of Mexico meets the Caribbean Sea, Holbox island has long been a secret shared among backpackers and nature lovers. Part of the Yum Balam Biosphere Reserve, the island hosts flamingos, pelicans, and (from May to September) hundreds of whale sharks that gather in the nutrient-rich waters nearby.\n\nHolbox's unpaved streets, colorful murals, and hammock-strung beach bars create an aesthetic that's equal parts rustic and Instagrammable. There are no chains, no all-inclusives, and no mega-developments—just locally-owned hotels, restaurants, and a community committed to preserving the island's character. The bioluminescence in the lagoon (best June-October) is among the brightest in Mexico, creating magical night swims. While Holbox is no longer a hidden secret, it remains a place where the barefoot vibe is genuine, the water is impossibly shallow and warm, and the pace forces you to slow down. Bring cash, leave your schedule, and surrender to island time."
+  },
+  "quick_facts": {
+    "best_time": "December to April",
+    "avg_temp": "27°C (81°F)",
+    "currency": "Mexican Peso (MXN)",
+    "language": "Spanish",
+    "airport": "Ferry from Chiquilá",
+    "time_zone": "EST (UTC-5)",
+    "population": "2,000",
+    "car_free": "Yes (golf carts only)"
+  },
+  "highlights": [
+    "Car-free sandy streets",
+    "Whale shark swimming (May-September)",
+    "Bioluminescent lagoon",
+    "Pristine, shallow beaches",
+    "Flamingo colony nearby"
+  ],
+  "attractions": [
+    {
+      "name": "Whale Shark Tours",
+      "type": "Wildlife Experience",
+      "description": "Swim with the world's largest fish in ethical encounters. Holbox is one of the best spots globally. Season: May-September, peak June-August.",
+      "duration": "Half day",
+      "price": "$100-150 USD",
+      "coordinates": {"lat": 21.6500, "lng": -87.2500}
+    },
+    {
+      "name": "Bioluminescence Tour",
+      "type": "Nature Experience",
+      "description": "Night kayak or boat tour to swim in waters glowing with bioluminescent plankton. Best June-October, on moonless nights.",
+      "duration": "2-3 hours",
+      "price": "$40-60 USD",
+      "coordinates": {"lat": 21.4900, "lng": -87.4200}
+    },
+    {
+      "name": "Punta Mosquito",
+      "type": "Beach/Wildlife",
+      "description": "Remote sandbar at the island's east end where flamingos gather. Reach by bike, golf cart, or long beach walk.",
+      "duration": "Half day",
+      "price": "Free",
+      "coordinates": {"lat": 21.5417, "lng": -87.3117}
+    },
+    {
+      "name": "Punta Cocos",
+      "type": "Beach/Sunset",
+      "description": "Western point famous for spectacular sunsets, beach bars, hammocks over the water, and shallow wading.",
+      "duration": "2-3 hours",
+      "price": "Free",
+      "coordinates": {"lat": 21.5189, "lng": -87.4222}
+    },
+    {
+      "name": "Street Art & Town Square",
+      "type": "Town Center",
+      "description": "Colorful murals, the central park, and sandy pedestrian streets full of restaurants, bars, and boutiques.",
+      "duration": "1-2 hours",
+      "price": "Free",
+      "coordinates": {"lat": 21.5228, "lng": -87.3792}
+    },
+    {
+      "name": "Yum Balam Nature Reserve",
+      "type": "Nature Reserve",
+      "description": "Protected biosphere encompassing Holbox with mangroves, lagoons, and diverse bird life. Tour by boat.",
+      "duration": "3-4 hours",
+      "price": "$50-80 USD tour",
+      "coordinates": {"lat": 21.4833, "lng": -87.4667}
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Casa Las Tortugas",
+      "category": "Boutique",
+      "stars": 5,
+      "price_range": "$$$$",
+      "description": "Beachfront luxury with beautiful rooms, pool, spa, and excellent restaurant",
+      "features": ["Beachfront", "Pool", "Spa", "Restaurant"]
+    },
+    {
+      "name": "Hotel Villas Flamingos",
+      "category": "Mid-Range",
+      "stars": 4,
+      "price_range": "$$$",
+      "description": "Colorful beachfront hotel with hammocks, cabañas, and great beach",
+      "features": ["Beachfront", "Hammocks", "Pool", "Restaurant"]
+    },
+    {
+      "name": "Tribu Hostel",
+      "category": "Budget",
+      "stars": 3,
+      "price_range": "$$",
+      "description": "Stylish hostel with pool, bar, and both dorms and private rooms",
+      "features": ["Pool", "Bar", "Social", "Central"]
+    },
+    {
+      "name": "Ida y Vuelta Camping",
+      "category": "Budget",
+      "stars": 2,
+      "price_range": "$",
+      "description": "Beachfront camping and glamping with cabins and tent sites",
+      "features": ["Beachfront", "Budget", "Camping", "Simple"]
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "Luuma",
+      "cuisine": "Contemporary Mexican",
+      "price_range": "$$$",
+      "description": "Upscale beachside dining with excellent seafood and romantic atmosphere"
+    },
+    {
+      "name": "Los Peleones",
+      "cuisine": "Seafood",
+      "price_range": "$$",
+      "description": "Famous for lobster pizza and fresh seafood in casual beach setting"
+    },
+    {
+      "name": "Raices",
+      "cuisine": "Mexican",
+      "price_range": "$$",
+      "description": "Popular central spot with quality Mexican dishes and great cocktails"
+    },
+    {
+      "name": "Taco Queto",
+      "cuisine": "Tacos",
+      "price_range": "$",
+      "description": "Local favorite for excellent fish tacos and affordable eats"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How do I get to Holbox?",
+      "answer": "Drive or take ADO bus to Chiquilá on the mainland (2.5 hours from Cancún, 2 hours from Playa del Carmen). From Chiquilá, ferries to Holbox run every 30 minutes (25 minutes, $10 USD). Alternatively, take a private boat or small plane from Cancún/Playa directly to Holbox."
+    },
+    {
+      "question": "Are there cars on Holbox?",
+      "answer": "No regular cars are allowed on Holbox. Golf carts are the main transport—rent one for about $60 USD/day. The island is small enough to walk or bike everywhere. Streets are sandy/unpaved. This car-free atmosphere is a big part of Holbox's charm."
+    },
+    {
+      "question": "When is the best time to visit Holbox?",
+      "answer": "December-April has the best weather (dry, less humid). May-September is whale shark season—amazing but hotter and rainier. June-October is best for bioluminescence. August-October has hurricane risk. Book accommodation well ahead for whale shark season."
+    },
+    {
+      "question": "Is there WiFi and ATMs on Holbox?",
+      "answer": "WiFi is available at most hotels and restaurants but can be slow and unreliable. ATMs exist but frequently run out of cash and have high fees. Bring plenty of pesos in cash from the mainland. Some places accept cards but cash is preferred."
+    },
+    {
+      "question": "Is Holbox expensive?",
+      "answer": "Holbox has become more expensive due to popularity and logistics (everything comes by ferry). Budget travelers can find hostels and cheap eats, but expect higher prices than mainland Mexico. Mid-range and up accommodations can be pricey, especially in peak season."
+    },
+    {
+      "question": "Is Holbox safe?",
+      "answer": "Holbox is very safe. The small island community, limited access, and tourism-focused economy mean crime is rare. Normal precautions apply: secure valuables, don't wander alone late at night on remote beaches. The biggest 'danger' is probably golf cart accidents."
+    }
+  ],
+  "related_destinations": ["isla-mujeres", "cancun", "tulum", "playa-del-carmen", "valladolid"],
+  "tags": ["island", "car-free", "whale-sharks", "bioluminescence", "beach", "nature", "laid-back", "eco-tourism"],
+  "schema_type": "TouristDestination"
+}

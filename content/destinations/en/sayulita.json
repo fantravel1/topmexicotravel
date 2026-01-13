@@ -1,0 +1,176 @@
+{
+  "id": "sayulita",
+  "name": "Sayulita",
+  "slug": "sayulita",
+  "state": "Nayarit",
+  "country": "Mexico",
+  "type": "beach",
+  "coordinates": {
+    "latitude": 20.8694,
+    "longitude": -105.4389
+  },
+  "meta_title": "Sayulita Travel Guide 2025 - Mexico's Coolest Surf Town",
+  "meta_description": "Discover Sayulita, a colorful surf village on Mexico's Riviera Nayarit. Experience beginner-friendly waves, vibrant street art, boho boutiques, and authentic beach town vibes just 45 minutes from Puerto Vallarta.",
+  "hero_image": "/assets/images/destinations/sayulita-hero.jpg",
+  "hero_alt": "Colorful streets of Sayulita with surfboards and beach in background",
+  "introduction": {
+    "snippet": "Sayulita is Mexico's most charming surf village—a kaleidoscope of color where jungle-covered hills meet gentle Pacific waves, cobblestone streets burst with street art and boutiques, and the vibe blends bohemian cool with authentic Mexican beach town soul. This Pueblo Mágico delivers beginner-friendly surfing and irresistible atmosphere.",
+    "full": "Just 45 minutes north of Puerto Vallarta, Sayulita has evolved from a sleepy fishing village into one of Mexico's most beloved beach destinations—yet it has managed to retain much of its original character. The town earned Pueblo Mágico (Magic Town) status for its cultural significance, and the magic is evident in every corner: from the colorful Day of the Dead decorations that adorn buildings year-round to the smell of fresh fish tacos and the sound of mariachis in the plaza.\n\nThe beach break at Sayulita is legendary among beginning surfers—consistent, forgiving waves that make learning a joy. Beyond surfing, the town offers world-class restaurants, trendy boutiques selling Huichol art and local designs, and a nightlife scene that ranges from mezcal bars to beach bonfires. The surrounding area includes hidden beaches like Playa de los Muertos, the whales-and-dolphins-rich waters of Bahía de Banderas, and the indigenous Huichol communities of the Sierra Madre. Sayulita is Instagram-ready but authentically alive—a place where the cliché of Mexican beach paradise actually delivers."
+  },
+  "quick_facts": {
+    "best_time": "November to April",
+    "avg_temp": "26°C (79°F)",
+    "currency": "Mexican Peso (MXN)",
+    "language": "Spanish",
+    "airport": "Puerto Vallarta (PVR) - 45 min",
+    "time_zone": "CST (UTC-6)",
+    "population": "5,000",
+    "pueblo_magico": "Yes"
+  },
+  "highlights": [
+    "Beginner-friendly surf breaks",
+    "Colorful streets and street art",
+    "Pueblo Mágico designation",
+    "Boho boutiques and restaurants",
+    "Day trip from Puerto Vallarta"
+  ],
+  "attractions": [
+    {
+      "name": "Sayulita Beach",
+      "type": "Beach/Surfing",
+      "description": "The main beach with gentle waves perfect for learning to surf, plus swimming areas, beach restaurants, and water sports.",
+      "duration": "Half-full day",
+      "price": "Free",
+      "coordinates": {"lat": 20.8686, "lng": -105.4428}
+    },
+    {
+      "name": "Playa de los Muertos",
+      "type": "Beach",
+      "description": "Hidden beach reached by a short jungle walk, named for the historic cemetery overlooking it. Quieter than main beach.",
+      "duration": "Half day",
+      "price": "Free",
+      "coordinates": {"lat": 20.8733, "lng": -105.4372}
+    },
+    {
+      "name": "Surf Lessons",
+      "type": "Activity",
+      "description": "Numerous surf schools offer lessons for beginners. The consistent, gentle waves make Sayulita ideal for first-timers.",
+      "duration": "2-3 hours",
+      "price": "$50-80 USD",
+      "coordinates": {"lat": 20.8686, "lng": -105.4428}
+    },
+    {
+      "name": "Downtown Walking Tour",
+      "type": "Town Center",
+      "description": "Explore colorful streets, murals, the main plaza, boutiques, and galleries. Best in morning or late afternoon.",
+      "duration": "2-3 hours",
+      "price": "Free",
+      "coordinates": {"lat": 20.8688, "lng": -105.4389}
+    },
+    {
+      "name": "Islas Marietas Day Trip",
+      "type": "Nature Reserve",
+      "description": "Protected islands with Hidden Beach (Playa del Amor) and excellent snorkeling. Tours depart from Punta de Mita.",
+      "duration": "Full day",
+      "price": "$80-120 USD",
+      "coordinates": {"lat": 20.6989, "lng": -105.5653}
+    },
+    {
+      "name": "San Pancho",
+      "type": "Day Trip",
+      "description": "Quieter neighboring village 10 minutes north with excellent restaurants and more relaxed beach scene.",
+      "duration": "Half-full day",
+      "price": "Free",
+      "coordinates": {"lat": 20.9117, "lng": -105.4256}
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Villa Amor",
+      "category": "Boutique",
+      "stars": 4,
+      "price_range": "$$$",
+      "description": "Romantic hillside villas with stunning views, pool, and beachfront restaurant",
+      "features": ["Ocean views", "Pool", "Restaurant", "Romantic"]
+    },
+    {
+      "name": "Hotel Kupuri",
+      "category": "Boutique",
+      "stars": 4,
+      "price_range": "$$$",
+      "description": "Stylish boutique hotel steps from the beach with pool and rooftop",
+      "features": ["Central location", "Pool", "Rooftop", "Design"]
+    },
+    {
+      "name": "Petit Hotel Hafa",
+      "category": "Mid-Range",
+      "stars": 3,
+      "price_range": "$$",
+      "description": "Charming small hotel with pool, great location, and friendly service",
+      "features": ["Pool", "Central", "Value", "Character"]
+    },
+    {
+      "name": "Selina Sayulita",
+      "category": "Budget",
+      "stars": 3,
+      "price_range": "$$",
+      "description": "Hip hostel-hotel with dorms, privates, pool, coworking, and social vibes",
+      "features": ["Pool", "Coworking", "Social", "Mixed options"]
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "Don Pedro's",
+      "cuisine": "Seafood/Mexican",
+      "price_range": "$$$",
+      "description": "Beachfront institution serving excellent seafood with toes-in-sand dining"
+    },
+    {
+      "name": "Mary's",
+      "cuisine": "Mexican",
+      "price_range": "$$",
+      "description": "Local favorite for traditional Mexican breakfast and lunch"
+    },
+    {
+      "name": "El Itacate",
+      "cuisine": "Tacos",
+      "price_range": "$",
+      "description": "Legendary taco stand with excellent al pastor and chorizo"
+    },
+    {
+      "name": "Tierra Viva",
+      "cuisine": "Healthy/International",
+      "price_range": "$$",
+      "description": "Organic restaurant with great smoothies, bowls, and vegetarian options"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Is Sayulita good for beginner surfers?",
+      "answer": "Yes! Sayulita is one of Mexico's best places to learn to surf. The main beach has a consistent, gentle break perfect for beginners. Multiple surf schools offer quality instruction. The sandy bottom is forgiving. More experienced surfers head to nearby breaks like La Lancha."
+    },
+    {
+      "question": "How do I get to Sayulita from Puerto Vallarta?",
+      "answer": "Sayulita is 45 minutes north of Puerto Vallarta. Options: rental car (easy drive), Uber/taxi ($40-60 USD one way), or local bus from Walmart in Puerto Vallarta ($2 USD, ask for Sayulita). The bus is scenic and authentic."
+    },
+    {
+      "question": "Is Sayulita a good day trip from Puerto Vallarta?",
+      "answer": "Absolutely. You can surf, explore the town, have lunch, and return in a full day. However, staying overnight lets you experience sunset beach drinks and morning surf—many visitors wish they'd stayed longer."
+    },
+    {
+      "question": "Is Sayulita crowded?",
+      "answer": "Sayulita is popular and can feel crowded, especially on weekends, holidays, and peak season (December-April). For a quieter experience, visit midweek, explore neighboring San Pancho, or go early morning before day-trippers arrive."
+    },
+    {
+      "question": "Is Sayulita expensive?",
+      "answer": "Sayulita is mid-range for Mexico—more expensive than Puerto Escondido but less than Tulum. Budget travelers can find hostels and street food. Boutique hotels and restaurants cater to comfort seekers. It's reasonable by international beach town standards."
+    },
+    {
+      "question": "Is Sayulita safe?",
+      "answer": "Sayulita is very safe for tourists. The small-town community relies on tourism. Normal precautions apply: secure valuables, avoid isolated areas late at night. The main dangers are sunburn and occasionally aggressive touts on the beach."
+    }
+  ],
+  "related_destinations": ["puerto-vallarta", "punta-mita", "san-pancho", "guadalajara", "riviera-nayarit"],
+  "tags": ["beach", "surfing", "pacific", "pueblo-magico", "colorful", "boutique", "beginner-surf", "day-trip"],
+  "schema_type": "TouristDestination"
+}

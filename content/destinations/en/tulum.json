@@ -1,0 +1,176 @@
+{
+  "id": "tulum",
+  "name": "Tulum",
+  "slug": "tulum",
+  "state": "Quintana Roo",
+  "country": "Mexico",
+  "type": "beach",
+  "coordinates": {
+    "latitude": 20.2114,
+    "longitude": -87.4654
+  },
+  "meta_title": "Tulum Travel Guide 2025 - Beaches, Ruins, Cenotes & Hotels",
+  "meta_description": "Discover Tulum, Mexico's boho-chic beach paradise. Explore ancient Mayan ruins overlooking the Caribbean, swim in magical cenotes, and stay at stunning eco-boutique hotels on pristine white sand beaches.",
+  "hero_image": "/assets/images/destinations/tulum-hero.jpg",
+  "hero_alt": "Tulum Mayan ruins perched on cliffs overlooking turquoise Caribbean Sea",
+  "introduction": {
+    "snippet": "Tulum has evolved from a backpacker secret into Mexico's most Instagram-famous destination, known for its clifftop Mayan ruins, pristine Caribbean beaches, mystical cenotes, and bohemian-luxe hotels. This laid-back paradise on the Riviera Maya perfectly blends ancient history, natural beauty, and contemporary cool.",
+    "full": "Perched on the cliffs of the Caribbean coast, Tulum was once an important Mayan trading port and is now the only major archaeological site in Mexico overlooking the sea. But modern Tulum extends far beyond its ancient ruins. The beach road (Zona Hotelera) has transformed into a destination unto itself, lined with design-forward boutique hotels, beach clubs, and farm-to-table restaurants that attract a global creative crowd.\n\nBeyond the Instagram aesthetics, Tulum offers genuine natural wonders. The region is dotted with cenotes—sacred underground swimming holes formed by collapsed limestone—each with its own character. The Sian Ka'an Biosphere Reserve to the south protects one of Mexico's most pristine ecosystems. While Tulum has become more developed and expensive, it still rewards visitors with moments of Caribbean magic, especially at sunrise when the ruins are nearly empty or floating in a cenote's crystal-clear waters."
+  },
+  "quick_facts": {
+    "best_time": "November to April",
+    "avg_temp": "27°C (81°F)",
+    "currency": "Mexican Peso (MXN)",
+    "language": "Spanish",
+    "airport": "Cancún (CUN) - 2 hours",
+    "time_zone": "EST (UTC-5)",
+    "population": "35,000",
+    "beach_type": "Caribbean white sand"
+  },
+  "highlights": [
+    "Clifftop Mayan ruins with Caribbean views",
+    "Magical cenotes for swimming and snorkeling",
+    "Bohemian-luxe boutique beach hotels",
+    "World-class farm-to-table dining",
+    "Sian Ka'an Biosphere Reserve access"
+  ],
+  "attractions": [
+    {
+      "name": "Tulum Archaeological Site",
+      "type": "Archaeological Site",
+      "description": "Stunning walled Mayan city perched on 12-meter cliffs overlooking the Caribbean. Arrive at 8am opening to beat the crowds and heat.",
+      "duration": "2-3 hours",
+      "price": "$5 USD",
+      "coordinates": {"lat": 20.2146, "lng": -87.4291}
+    },
+    {
+      "name": "Gran Cenote",
+      "type": "Cenote",
+      "description": "One of Tulum's most beautiful cenotes with crystal-clear water, stalactites, and easy access. Popular for snorkeling and swimming.",
+      "duration": "2-3 hours",
+      "price": "$10-15 USD",
+      "coordinates": {"lat": 20.2467, "lng": -87.4650}
+    },
+    {
+      "name": "Cenote Dos Ojos",
+      "type": "Cenote",
+      "description": "Famous twin cenotes connected by underwater caves. Perfect for both snorkeling and certified cave diving.",
+      "duration": "2-4 hours",
+      "price": "$15-25 USD",
+      "coordinates": {"lat": 20.3267, "lng": -87.3917}
+    },
+    {
+      "name": "Sian Ka'an Biosphere Reserve",
+      "type": "Nature Reserve",
+      "description": "UNESCO World Heritage site protecting 1.3 million acres of tropical forest, mangroves, and Caribbean reef. Float down ancient Mayan canals.",
+      "duration": "Full day",
+      "price": "$80-150 USD tour",
+      "coordinates": {"lat": 19.8167, "lng": -87.5833}
+    },
+    {
+      "name": "Tulum Beach (Zona Hotelera)",
+      "type": "Beach",
+      "description": "The famous stretch of powdery white sand lined with boutique hotels and beach clubs. Public access points available between hotels.",
+      "duration": "Half-full day",
+      "price": "Free (beach club $30-100)",
+      "coordinates": {"lat": 20.2045, "lng": -87.4357}
+    },
+    {
+      "name": "Cenote Calavera",
+      "type": "Cenote",
+      "description": "Also known as 'Temple of Doom,' this cenote features three holes in the ceiling for jumping in. Popular with adventurous visitors.",
+      "duration": "1-2 hours",
+      "price": "$10 USD",
+      "coordinates": {"lat": 20.2367, "lng": -87.4633}
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Azulik",
+      "category": "Luxury",
+      "stars": 5,
+      "price_range": "$$$$$",
+      "description": "Adults-only treehouse resort with no electricity, wi-fi, or shoes required—pure digital detox luxury",
+      "features": ["Beachfront", "Adults-only", "Spa", "No electricity"]
+    },
+    {
+      "name": "Be Tulum",
+      "category": "Luxury",
+      "stars": 5,
+      "price_range": "$$$$",
+      "description": "Sophisticated beach resort with pool suites, jungle spa, and acclaimed restaurant",
+      "features": ["Beachfront", "Pool suites", "Spa", "Restaurant"]
+    },
+    {
+      "name": "Casa Malca",
+      "category": "Boutique",
+      "stars": 5,
+      "price_range": "$$$$",
+      "description": "Art-filled former Pablo Escobar mansion turned boutique hotel with beach club",
+      "features": ["Beachfront", "Art collection", "Beach club", "Pool"]
+    },
+    {
+      "name": "Mayan Monkey",
+      "category": "Budget",
+      "stars": 3,
+      "price_range": "$",
+      "description": "Popular party hostel in town with pool, bar, and social atmosphere",
+      "features": ["Pool", "Bar", "Social", "Central location"]
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "Hartwood",
+      "cuisine": "Farm-to-Table",
+      "price_range": "$$$$",
+      "description": "Legendary open-fire restaurant cooking with only locally sourced ingredients—no reservations, line up at 5pm"
+    },
+    {
+      "name": "Arca",
+      "cuisine": "Contemporary Mexican",
+      "price_range": "$$$$",
+      "description": "Sophisticated tasting menus in a stunning jungle setting from acclaimed chef José Luis Hinostroza"
+    },
+    {
+      "name": "Matcha Mama",
+      "cuisine": "Healthy/Vegan",
+      "price_range": "$$",
+      "description": "Iconic smoothie bowl spot—try the signature dragon fruit bowl"
+    },
+    {
+      "name": "Tacos al Pastor Tulum",
+      "cuisine": "Tacos",
+      "price_range": "$",
+      "description": "Authentic street tacos in Tulum town—the real deal away from beach prices"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Is Tulum expensive?",
+      "answer": "Yes, Tulum is one of Mexico's most expensive destinations. Beach hotel rates range from $200-1000+ per night. However, staying in Tulum Town (10 minutes from beach) offers better value at $50-150 per night. Street food and local restaurants are still affordable, while beach restaurants charge premium prices."
+    },
+    {
+      "question": "How do I get from Cancún airport to Tulum?",
+      "answer": "Tulum is about 2 hours south of Cancún airport. Options include: ADO bus ($15-20 USD, comfortable and frequent), private transfer ($100-150 USD for car), rental car (convenient for cenote hopping), or shared shuttles ($25-40 USD per person)."
+    },
+    {
+      "question": "When is the best time to visit Tulum?",
+      "answer": "November to April offers the best weather with dry days and comfortable temperatures. December-March is peak season with highest prices. May-June is hot but less crowded. Avoid September-October for hurricane season. Sargassum seaweed can affect beaches, particularly May-August."
+    },
+    {
+      "question": "Are the beaches in Tulum public?",
+      "answer": "Yes, all beaches in Mexico are public by law. However, many Tulum beach hotels make access difficult. Look for public access points between hotels, or use the beach at the Tulum ruins. Some beaches have significant sargassum seaweed seasonally."
+    },
+    {
+      "question": "Do I need a car in Tulum?",
+      "answer": "A rental car is helpful for visiting cenotes and exploring independently. Alternatively, rent a bicycle for the beach zone, use taxis between town and beach ($5-10 USD), or book guided tours. The beach road can be congested, and parking is limited."
+    },
+    {
+      "question": "Which cenotes should I visit in Tulum?",
+      "answer": "Gran Cenote is the most accessible and beautiful for first-timers. Cenote Dos Ojos is spectacular for snorkeling or diving. Cenote Calavera offers cliff jumping. Cenote Azul is family-friendly. Visit early morning (before 10am) to avoid crowds and tour groups."
+    }
+  ],
+  "related_destinations": ["playa-del-carmen", "cozumel", "bacalar", "sian-kaan", "valladolid"],
+  "tags": ["beach", "caribbean", "cenotes", "mayan-ruins", "boutique", "wellness", "eco-tourism", "instagram"],
+  "schema_type": "TouristDestination"
+}

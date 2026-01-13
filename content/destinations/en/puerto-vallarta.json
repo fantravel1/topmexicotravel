@@ -1,0 +1,176 @@
+{
+  "id": "puerto-vallarta",
+  "name": "Puerto Vallarta",
+  "slug": "puerto-vallarta",
+  "state": "Jalisco",
+  "country": "Mexico",
+  "type": "beach",
+  "coordinates": {
+    "latitude": 20.6534,
+    "longitude": -105.2253
+  },
+  "meta_title": "Puerto Vallarta Travel Guide 2025 - Beaches, Old Town & Adventures",
+  "meta_description": "Discover Puerto Vallarta, where Sierra Madre mountains meet Banderas Bay. Explore cobblestone streets, golden beaches, world-class dining, and adventure activities in Mexico's most charming Pacific resort town.",
+  "hero_image": "/assets/images/destinations/puerto-vallarta-hero.jpg",
+  "hero_alt": "Puerto Vallarta Malecón boardwalk with Banderas Bay and Sierra Madre mountains in background",
+  "introduction": {
+    "snippet": "Puerto Vallarta offers the rare combination of a genuine Mexican town with world-class resort amenities. Nestled between the Sierra Madre mountains and the sparkling Banderas Bay, this Pacific gem features cobblestone streets, a famous malecón boardwalk, thriving arts scene, and a welcoming atmosphere that has made it Mexico's most beloved beach town.",
+    "full": "Puerto Vallarta rose to fame after the 1964 film 'The Night of the Iguana' brought Hollywood to its shores, beginning a love affair with international travelers that continues today. Unlike purpose-built resort destinations, Vallarta grew organically from a traditional Mexican fishing village, and its charming centro histórico (old town) with the iconic crown-topped Church of Our Lady of Guadalupe remains the heart of the city.\n\nThe city stretches along one of Mexico's largest bays, offering something for everyone: the Romantic Zone draws LGBTQ+ travelers and foodies with its vibrant nightlife and restaurants, Marina Vallarta hosts golfers and boaters, while the Hotel Zone caters to resort seekers. Beyond the beaches, the surrounding jungle offers zip-lining, waterfall hikes, and whale watching (November-March). Puerto Vallarta has also become one of Mexico's top culinary destinations, with a food scene that ranges from authentic taco stands to James Beard-nominated restaurants."
+  },
+  "quick_facts": {
+    "best_time": "November to May",
+    "avg_temp": "26°C (79°F)",
+    "currency": "Mexican Peso (MXN)",
+    "language": "Spanish",
+    "airport": "Gustavo Díaz Ordaz (PVR)",
+    "time_zone": "CST (UTC-6)",
+    "population": "290,000",
+    "beach_type": "Pacific golden sand"
+  },
+  "highlights": [
+    "Charming cobblestone Old Town (Zona Romántica)",
+    "Famous Malecón boardwalk with sculptures",
+    "Sierra Madre mountain adventures",
+    "Thriving LGBTQ+-friendly destination",
+    "Whale watching in Banderas Bay"
+  ],
+  "attractions": [
+    {
+      "name": "El Malecón",
+      "type": "Boardwalk",
+      "description": "The famous mile-long oceanfront promenade featuring sculptures, street performers, restaurants, and stunning sunsets.",
+      "duration": "1-2 hours",
+      "price": "Free",
+      "coordinates": {"lat": 20.6104, "lng": -105.2332}
+    },
+    {
+      "name": "Zona Romántica (Old Town)",
+      "type": "Historic District",
+      "description": "Charming neighborhood south of the Cuale River with cobblestone streets, boutiques, restaurants, and LGBTQ+ nightlife.",
+      "duration": "2-4 hours",
+      "price": "Free",
+      "coordinates": {"lat": 20.5992, "lng": -105.2291}
+    },
+    {
+      "name": "Los Arcos National Marine Park",
+      "type": "Marine Reserve",
+      "description": "Protected islands south of Vallarta, excellent for snorkeling, diving, and kayaking among abundant marine life.",
+      "duration": "Half day",
+      "price": "$50-80 USD tour",
+      "coordinates": {"lat": 20.5479, "lng": -105.2971}
+    },
+    {
+      "name": "Marietas Islands",
+      "type": "Nature Reserve",
+      "description": "Protected islands famous for the 'Hidden Beach'—a stunning beach inside a crater. Requires permit and tour.",
+      "duration": "Full day",
+      "price": "$80-120 USD tour",
+      "coordinates": {"lat": 20.6989, "lng": -105.5653}
+    },
+    {
+      "name": "Sayulita Day Trip",
+      "type": "Beach Town",
+      "description": "Bohemian surf village 45 minutes north with laid-back vibes, surf schools, and colorful streets.",
+      "duration": "Full day",
+      "price": "Transport only",
+      "coordinates": {"lat": 20.8694, "lng": -105.4389}
+    },
+    {
+      "name": "Canopy Adventures",
+      "type": "Adventure",
+      "description": "Zip-line through the Sierra Madre jungle, with options including rappelling, mule rides, and river swimming.",
+      "duration": "Half day",
+      "price": "$80-150 USD",
+      "coordinates": {"lat": 20.6200, "lng": -105.1500}
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Casa Kimberly",
+      "category": "Luxury Boutique",
+      "stars": 5,
+      "price_range": "$$$$",
+      "description": "Elizabeth Taylor and Richard Burton's former love nest, now a romantic boutique hotel with stunning views",
+      "features": ["Historic", "City views", "Pool", "Restaurant"]
+    },
+    {
+      "name": "Secrets Vallarta Bay",
+      "category": "Luxury",
+      "stars": 5,
+      "price_range": "$$$$",
+      "description": "Adults-only all-inclusive on the beach with spa and multiple restaurants",
+      "features": ["All-inclusive", "Adults-only", "Beachfront", "Spa"]
+    },
+    {
+      "name": "Hotel Posada de Roger",
+      "category": "Mid-Range",
+      "stars": 3,
+      "price_range": "$$",
+      "description": "Charming family-run hotel in the heart of the Romantic Zone",
+      "features": ["Romantic Zone", "Pool", "Rooftop terrace", "Value"]
+    },
+    {
+      "name": "Oasis Hostel",
+      "category": "Budget",
+      "stars": 2,
+      "price_range": "$",
+      "description": "Popular social hostel in Romantic Zone with pool and bar",
+      "features": ["Pool", "Bar", "Social", "Romantic Zone"]
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "Café des Artistes",
+      "cuisine": "Contemporary Mexican",
+      "price_range": "$$$$",
+      "description": "Legendary fine dining institution with lush garden setting and innovative Mexican cuisine"
+    },
+    {
+      "name": "Tintoque",
+      "cuisine": "Modern Mexican",
+      "price_range": "$$$$",
+      "description": "Chef Joel Ornelas' tasting-menu restaurant showcasing Jalisco ingredients—one of Mexico's best"
+    },
+    {
+      "name": "Joe Jack's Fish Shack",
+      "cuisine": "Seafood",
+      "price_range": "$$",
+      "description": "Casual waterfront spot famous for fish tacos and fresh catches"
+    },
+    {
+      "name": "El Carboncito",
+      "cuisine": "Tacos",
+      "price_range": "$",
+      "description": "Local legend for carne asada tacos—follow the crowds and the charcoal smoke"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Is Puerto Vallarta better than Cancún?",
+      "answer": "Puerto Vallarta offers a more authentic Mexican experience with its traditional downtown, while Cancún has a purpose-built Hotel Zone. Vallarta has better dining and arts scenes, while Cancún has calmer Caribbean beaches. Vallarta attracts older couples and LGBTQ+ travelers; Cancún draws more families and spring breakers."
+    },
+    {
+      "question": "Is Puerto Vallarta LGBTQ+-friendly?",
+      "answer": "Yes, Puerto Vallarta is one of Latin America's most LGBTQ+-friendly destinations. The Romantic Zone has numerous gay bars, clubs, hotels, and a vibrant community. The annual Pride celebration in May is one of Mexico's largest. The city welcomes LGBTQ+ travelers year-round."
+    },
+    {
+      "question": "When is the best time to visit Puerto Vallarta?",
+      "answer": "November to May offers dry, sunny weather. Whale watching peaks December-March. The rainy season (June-October) brings afternoon showers and higher humidity but also lower prices and fewer crowds. Hurricane risk is low but possible September-October."
+    },
+    {
+      "question": "Is the water safe to swim in Puerto Vallarta?",
+      "answer": "Most Puerto Vallarta beaches are safe for swimming, though Pacific waters can have stronger waves and currents than the Caribbean. Popular safe beaches include Playa Los Muertos in the Romantic Zone and hotel zone beaches. Check local conditions and watch for flags."
+    },
+    {
+      "question": "How do I get from the airport to downtown Puerto Vallarta?",
+      "answer": "The airport (PVR) is about 20 minutes from downtown. Options include: official airport taxi ($25-35 USD), private transfer ($35-50 USD), or Uber (cheaper but must walk outside airport). Some hotels offer shuttle service. Renting a car is convenient for exploring."
+    },
+    {
+      "question": "Is Puerto Vallarta safe for tourists?",
+      "answer": "Puerto Vallarta is considered one of Mexico's safest tourist destinations. The Romantic Zone, Malecón, and hotel areas are very safe to walk day and night. Use normal urban precautions, avoid isolated areas late at night, and use trusted transportation."
+    }
+  ],
+  "related_destinations": ["sayulita", "punta-mita", "guadalajara", "san-sebastian-del-oeste", "riviera-nayarit"],
+  "tags": ["beach", "pacific", "lgbtq-friendly", "food", "art", "nightlife", "whale-watching", "colonial"],
+  "schema_type": "TouristDestination"
+}
