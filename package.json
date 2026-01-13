@@ -1,0 +1,22 @@
+{
+  "name": "topmexicotravel",
+  "version": "1.0.0",
+  "description": "Premier multilingual Mexico travel resource - 100% Lighthouse scores",
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.js",
+    "build:pages": "node scripts/generate-pages.js",
+    "build:sitemap": "node scripts/generate-sitemaps.js",
+    "serve": "npx serve dist -l 3000",
+    "clean": "rm -rf dist/*"
+  },
+  "keywords": [
+    "mexico",
+    "travel",
+    "tourism",
+    "multilingual",
+    "seo"
+  ],
+  "author": "Top Mexico Travel",
+  "license": "MIT"
+}

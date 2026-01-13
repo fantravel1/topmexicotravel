@@ -1,0 +1,54 @@
+<header class="site-header" role="banner">
+  <div class="header-container">
+    <a href="/{{lang}}/" class="site-logo" aria-label="Top Mexico Travel - Home">
+      <svg viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+        <circle cx="16" cy="16" r="15" fill="#006847"/>
+        <path d="M16 6L20 14H12L16 6Z" fill="#CE1126"/>
+        <path d="M10 18C10 18 12 22 16 22C20 22 22 18 22 18" stroke="#FFD700" stroke-width="2" stroke-linecap="round"/>
+        <circle cx="16" cy="15" r="2" fill="#FFD700"/>
+      </svg>
+      <span>Top Mexico Travel</span>
+    </a>
+
+    <nav class="main-nav" aria-label="Main navigation">
+      <ul class="nav-list">
+        <li><a href="/{{lang}}/destinations/" class="nav-link">Destinations</a></li>
+        <li><a href="/{{lang}}/things-to-do/" class="nav-link">Things to Do</a></li>
+        <li><a href="/{{lang}}/hotels/" class="nav-link">Hotels</a></li>
+        <li><a href="/{{lang}}/itineraries/" class="nav-link">Itineraries</a></li>
+        <li><a href="/{{lang}}/guides/" class="nav-link">Travel Guides</a></li>
+      </ul>
+    </nav>
+
+    <div class="header-actions">
+      <div class="language-switcher">
+        <label for="lang-select" class="sr-only">Select Language</label>
+        <select id="lang-select" class="lang-select" onchange="window.location.href=this.value">
+          <option value="/en/{{slug}}/" {{#if (eq lang 'en')}}selected{{/if}}>EN</option>
+          <option value="/es/{{slug}}/" {{#if (eq lang 'es')}}selected{{/if}}>ES</option>
+          <option value="/de/{{slug}}/" {{#if (eq lang 'de')}}selected{{/if}}>DE</option>
+          <option value="/fr/{{slug}}/" {{#if (eq lang 'fr')}}selected{{/if}}>FR</option>
+          <option value="/pt/{{slug}}/" {{#if (eq lang 'pt')}}selected{{/if}}>PT</option>
+        </select>
+      </div>
+
+      <button class="menu-toggle" aria-expanded="false" aria-controls="mobile-nav" aria-label="Open menu">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true">
+          <line x1="3" y1="6" x2="21" y2="6"/>
+          <line x1="3" y1="12" x2="21" y2="12"/>
+          <line x1="3" y1="18" x2="21" y2="18"/>
+        </svg>
+      </button>
+    </div>
+  </div>
+
+  <nav id="mobile-nav" class="mobile-nav" aria-label="Mobile navigation">
+    <ul class="nav-list">
+      <li><a href="/{{lang}}/destinations/" class="nav-link">Destinations</a></li>
+      <li><a href="/{{lang}}/things-to-do/" class="nav-link">Things to Do</a></li>
+      <li><a href="/{{lang}}/hotels/" class="nav-link">Hotels</a></li>
+      <li><a href="/{{lang}}/itineraries/" class="nav-link">Itineraries</a></li>
+      <li><a href="/{{lang}}/guides/" class="nav-link">Travel Guides</a></li>
+    </ul>
+  </nav>
+</header>

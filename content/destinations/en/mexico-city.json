@@ -1,0 +1,194 @@
+{
+  "id": "mexico-city",
+  "name": "Mexico City",
+  "slug": "mexico-city",
+  "state": "Ciudad de México",
+  "country": "Mexico",
+  "type": "city",
+  "coordinates": {
+    "latitude": 19.4326,
+    "longitude": -99.1332
+  },
+  "meta_title": "Mexico City Travel Guide 2025 - Culture, Food, Museums & More",
+  "meta_description": "Discover Mexico City, one of the world's great capitals. Explore ancient Aztec ruins, world-class museums, incredible food scenes, and vibrant neighborhoods in this comprehensive CDMX travel guide.",
+  "hero_image": "/assets/images/destinations/mexico-city-hero.jpg",
+  "hero_alt": "Panoramic view of Mexico City's Paseo de la Reforma with the Angel of Independence monument",
+  "introduction": {
+    "snippet": "Mexico City (CDMX) is one of the world's largest and most dynamic capitals, offering an intoxicating blend of ancient Aztec heritage, Spanish colonial architecture, and cutting-edge contemporary culture. With over 150 museums, UNESCO World Heritage sites, and arguably the best food scene in the Americas, this megacity rewards curious travelers.",
+    "full": "Built on the ruins of the ancient Aztec capital Tenochtitlan, Mexico City is a sprawling metropolis of over 21 million people that defies easy categorization. The historic center (Centro Histórico) showcases magnificent colonial buildings and the excavated Templo Mayor, while trendy neighborhoods like Roma, Condesa, and Coyoacán offer tree-lined streets, Art Deco architecture, and some of the best restaurants in Latin America.\n\nThe city's cultural offerings are unmatched: the National Museum of Anthropology houses the world's finest collection of pre-Columbian artifacts, Frida Kahlo's Casa Azul provides intimate insight into the iconic artist's life, and the floating gardens of Xochimilco offer a glimpse of the city's pre-Hispanic past. From world-class galleries to underground speakeasies, from street taco stands to Michelin-starred restaurants, Mexico City delivers experiences that rival any global capital at a fraction of the cost."
+  },
+  "quick_facts": {
+    "best_time": "March to May",
+    "avg_temp": "17°C (63°F)",
+    "currency": "Mexican Peso (MXN)",
+    "language": "Spanish",
+    "airport": "Mexico City Int'l (MEX)",
+    "time_zone": "CST (UTC-6)",
+    "population": "21.8 million (metro)",
+    "altitude": "2,240m (7,350ft)"
+  },
+  "highlights": [
+    "150+ museums including world-class collections",
+    "UNESCO World Heritage historic center",
+    "Legendary food scene from tacos to fine dining",
+    "Frida Kahlo and Diego Rivera landmarks",
+    "Ancient Aztec ruins at Templo Mayor"
+  ],
+  "attractions": [
+    {
+      "name": "National Museum of Anthropology",
+      "type": "Museum",
+      "description": "The world's most important museum of pre-Columbian artifacts, featuring the Aztec Sun Stone and treasures from all major Mesoamerican civilizations.",
+      "duration": "4-6 hours",
+      "price": "$5 USD",
+      "coordinates": {"lat": 19.4260, "lng": -99.1863}
+    },
+    {
+      "name": "Zócalo & Historic Center",
+      "type": "Historic District",
+      "description": "One of the world's largest public squares, surrounded by the Metropolitan Cathedral, National Palace with Diego Rivera murals, and the excavated Templo Mayor.",
+      "duration": "Half day",
+      "price": "Free (museums extra)",
+      "coordinates": {"lat": 19.4326, "lng": -99.1332}
+    },
+    {
+      "name": "Frida Kahlo Museum (Casa Azul)",
+      "type": "Museum",
+      "description": "The iconic blue house where Frida Kahlo was born, lived, and died. Book tickets well in advance as this is Mexico City's most popular museum.",
+      "duration": "2-3 hours",
+      "price": "$15 USD",
+      "coordinates": {"lat": 19.3550, "lng": -99.1627}
+    },
+    {
+      "name": "Xochimilco Floating Gardens",
+      "type": "Cultural Experience",
+      "description": "Cruise colorful trajinera boats through ancient Aztec canals while mariachis serenade and vendors sell food and drinks from passing boats.",
+      "duration": "3-5 hours",
+      "price": "$25-50 USD per boat",
+      "coordinates": {"lat": 19.2577, "lng": -99.1037}
+    },
+    {
+      "name": "Chapultepec Castle",
+      "type": "Historic Site/Museum",
+      "description": "The only royal castle in the Americas, offering stunning city views and housing the National History Museum.",
+      "duration": "2-3 hours",
+      "price": "$5 USD",
+      "coordinates": {"lat": 19.4205, "lng": -99.1817}
+    },
+    {
+      "name": "Teotihuacán Pyramids",
+      "type": "Archaeological Site",
+      "description": "Massive ancient city featuring the Pyramid of the Sun and Pyramid of the Moon. About 1 hour from Mexico City center.",
+      "duration": "Half-full day",
+      "price": "$5 USD entry + transport",
+      "coordinates": {"lat": 19.6925, "lng": -98.8438}
+    }
+  ],
+  "neighborhoods": [
+    {
+      "name": "Roma & Condesa",
+      "description": "Hipster paradise with Art Deco buildings, tree-lined streets, trendy restaurants, and vibrant café culture"
+    },
+    {
+      "name": "Coyoacán",
+      "description": "Bohemian neighborhood home to Frida Kahlo's museum, charming plazas, and weekend markets"
+    },
+    {
+      "name": "Centro Histórico",
+      "description": "The historic heart with colonial architecture, the Zócalo, museums, and authentic cantinas"
+    },
+    {
+      "name": "Polanco",
+      "description": "Upscale district with luxury shopping, high-end restaurants, and major museums"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Four Seasons Mexico City",
+      "category": "Luxury",
+      "stars": 5,
+      "price_range": "$$$$$",
+      "description": "Elegant courtyard hotel on Paseo de la Reforma with impeccable service",
+      "features": ["Central location", "Spa", "Fine dining", "Garden courtyard"]
+    },
+    {
+      "name": "Hotel Carlota",
+      "category": "Boutique",
+      "stars": 4,
+      "price_range": "$$$",
+      "description": "Design-forward boutique hotel in Cuauhtémoc with rooftop pool",
+      "features": ["Rooftop pool", "Design hotel", "Restaurant", "Central"]
+    },
+    {
+      "name": "Casa Comtesse",
+      "category": "Mid-Range",
+      "stars": 4,
+      "price_range": "$$",
+      "description": "Charming B&B in Condesa with personalized service and garden",
+      "features": ["Breakfast included", "Garden", "Condesa location"]
+    },
+    {
+      "name": "Hostel Home",
+      "category": "Budget",
+      "stars": 3,
+      "price_range": "$",
+      "description": "Top-rated hostel in La Condesa with excellent common areas",
+      "features": ["Condesa location", "Kitchen", "Social atmosphere"]
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "Pujol",
+      "cuisine": "Contemporary Mexican",
+      "price_range": "$$$$",
+      "description": "Chef Enrique Olvera's flagship, ranked among the world's best restaurants"
+    },
+    {
+      "name": "Contramar",
+      "cuisine": "Seafood",
+      "price_range": "$$$",
+      "description": "Iconic seafood restaurant famous for its tuna tostadas and vibrant atmosphere"
+    },
+    {
+      "name": "El Huequito",
+      "cuisine": "Tacos al Pastor",
+      "price_range": "$",
+      "description": "Legendary since 1959, arguably the birthplace of tacos al pastor"
+    },
+    {
+      "name": "Mercado Roma",
+      "cuisine": "Food Hall",
+      "price_range": "$$",
+      "description": "Upscale food hall in Roma with diverse vendors and craft cocktails"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Is Mexico City safe for tourists?",
+      "answer": "Mexico City's main tourist areas like Roma, Condesa, Polanco, and Centro Histórico are generally safe during the day. Use common sense: take registered taxis or Uber at night, avoid displaying expensive items, and stay aware of your surroundings. The metro is safe during the day but can be crowded."
+    },
+    {
+      "question": "How many days do you need in Mexico City?",
+      "answer": "Plan for at least 4-5 days to experience Mexico City's highlights. This allows time for major museums, the historic center, day trips to Teotihuacán, and exploring different neighborhoods. Food lovers and culture enthusiasts could easily spend 7-10 days."
+    },
+    {
+      "question": "What is the best neighborhood to stay in Mexico City?",
+      "answer": "Roma and Condesa are the most popular neighborhoods for tourists, offering walkable streets, excellent restaurants, and a safe atmosphere. Polanco is upscale and convenient for museums. Centro Histórico puts you at the heart of history but is busier and louder."
+    },
+    {
+      "question": "Will I experience altitude sickness in Mexico City?",
+      "answer": "At 2,240 meters (7,350 feet), some visitors experience mild altitude effects like shortness of breath, headaches, or fatigue. Stay hydrated, avoid alcohol on arrival day, and take it easy for the first 24 hours. Most people adjust within a day or two."
+    },
+    {
+      "question": "How do I get around Mexico City?",
+      "answer": "The metro is extensive and cheap ($0.25 USD) but crowded during rush hours. Uber and DiDi are widely used and affordable. The Metrobús is efficient for major corridors. Walking is pleasant in Roma, Condesa, and Coyoacán. Avoid driving yourself due to traffic."
+    },
+    {
+      "question": "What is the best time to visit Mexico City?",
+      "answer": "March to May offers warm, dry weather before the rainy season. The rainy season (June-October) brings afternoon showers but mornings are usually clear. November-February is cooler and drier. December offers festive decorations, while Day of the Dead (late October/early November) is spectacular."
+    }
+  ],
+  "related_destinations": ["san-miguel-de-allende", "puebla", "teotihuacan", "cuernavaca", "taxco"],
+  "tags": ["city", "culture", "museums", "food", "history", "art", "architecture", "unesco"],
+  "schema_type": "TouristDestination"
+}

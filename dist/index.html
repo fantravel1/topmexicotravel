@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="refresh" content="0; url=/en/">
+  <link rel="alternate" hreflang="en" href="https://topmexicotravel.com/en/">
+  <link rel="alternate" hreflang="es" href="https://topmexicotravel.com/es/">
+  <link rel="alternate" hreflang="de" href="https://topmexicotravel.com/de/">
+  <link rel="alternate" hreflang="fr" href="https://topmexicotravel.com/fr/">
+  <link rel="alternate" hreflang="pt" href="https://topmexicotravel.com/pt/">
+  <link rel="alternate" hreflang="x-default" href="https://topmexicotravel.com/en/">
+  <title>Top Mexico Travel</title>
+  <script>
+    const lang = (navigator.language || navigator.userLanguage || 'en').slice(0, 2).toLowerCase();
+    const supported = ['en', 'es', 'de', 'fr', 'pt'];
+    const target = supported.includes(lang) ? lang : 'en';
+    window.location.replace('/' + target + '/');
+  </script>
+</head>
+<body>
+  <p>Redirecting to <a href="/en/">English version</a>...</p>
+</body>
+</html>

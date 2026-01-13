@@ -1,0 +1,176 @@
+{
+  "id": "cancun",
+  "name": "Cancún",
+  "slug": "cancun",
+  "state": "Quintana Roo",
+  "country": "Mexico",
+  "type": "beach",
+  "coordinates": {
+    "latitude": 21.1619,
+    "longitude": -86.8515
+  },
+  "meta_title": "Cancún Travel Guide 2025 - Beaches, Hotels, Things to Do",
+  "meta_description": "Plan your perfect Cancún vacation with our complete travel guide. Discover pristine Caribbean beaches, all-inclusive resorts, Mayan ruins, and vibrant nightlife in Mexico's top beach destination.",
+  "hero_image": "/assets/images/destinations/cancun-hero.jpg",
+  "hero_alt": "Aerial view of Cancún Hotel Zone with turquoise Caribbean waters and white sand beaches",
+  "introduction": {
+    "snippet": "Cancún is Mexico's most popular beach destination, famous for its stunning turquoise Caribbean waters, powdery white sand beaches, and world-class resorts. Located on the Yucatán Peninsula, this tropical paradise offers the perfect blend of relaxation, adventure, and ancient Mayan culture.",
+    "full": "Rising from the mangroves of the Yucatán Peninsula in the 1970s, Cancún has transformed into one of the world's premier vacation destinations. The city is divided into two distinct areas: the Hotel Zone (Zona Hotelera), a 23-kilometer strip of land shaped like the number 7 that's home to most resorts and beaches, and Downtown Cancún (El Centro), where locals live and authentic Mexican culture thrives.\n\nCancún attracts over 6 million visitors annually with its year-round tropical climate, crystal-clear waters perfect for snorkeling and diving, and easy access to some of Mexico's most impressive archaeological sites. Whether you're seeking an all-inclusive resort experience, underwater adventures in the Great Mesoamerican Reef, or day trips to Chichén Itzá, Cancún delivers an unforgettable Mexican Caribbean vacation."
+  },
+  "quick_facts": {
+    "best_time": "December to April",
+    "avg_temp": "27°C (81°F)",
+    "currency": "Mexican Peso (MXN)",
+    "language": "Spanish",
+    "airport": "Cancún International (CUN)",
+    "time_zone": "EST (UTC-5)",
+    "population": "888,000",
+    "beach_type": "Caribbean white sand"
+  },
+  "highlights": [
+    "World-famous turquoise Caribbean beaches",
+    "600+ hotels including all-inclusive resorts",
+    "Gateway to ancient Mayan ruins",
+    "Great Mesoamerican Reef diving",
+    "Vibrant nightlife scene"
+  ],
+  "attractions": [
+    {
+      "name": "Playa Delfines",
+      "type": "Beach",
+      "description": "Cancún's most iconic public beach featuring the famous 'CANCUN' sign, powerful waves, and stunning views. Free admission with no vendors—just pure Caribbean beauty.",
+      "duration": "2-4 hours",
+      "price": "Free",
+      "coordinates": {"lat": 21.0796, "lng": -86.7821}
+    },
+    {
+      "name": "Chichén Itzá Day Trip",
+      "type": "Archaeological Site",
+      "description": "Visit one of the New Seven Wonders of the World. The ancient Mayan city features the iconic El Castillo pyramid and is about 2.5 hours from Cancún.",
+      "duration": "Full day",
+      "price": "$90-150 USD tour",
+      "coordinates": {"lat": 20.6843, "lng": -88.5678}
+    },
+    {
+      "name": "Isla Mujeres",
+      "type": "Island",
+      "description": "A charming island 20 minutes by ferry from Cancún. Rent a golf cart to explore pristine beaches, snorkel with whale sharks (seasonal), and enjoy fresh seafood.",
+      "duration": "Full day",
+      "price": "$15-20 USD ferry",
+      "coordinates": {"lat": 21.2320, "lng": -86.7337}
+    },
+    {
+      "name": "Underwater Museum (MUSA)",
+      "type": "Museum/Diving",
+      "description": "Over 500 underwater sculptures by artist Jason deCaires Taylor. View by snorkeling, scuba diving, or glass-bottom boat.",
+      "duration": "2-3 hours",
+      "price": "$50-100 USD",
+      "coordinates": {"lat": 21.2006, "lng": -86.7227}
+    },
+    {
+      "name": "Xcaret Park",
+      "type": "Eco-Archaeological Park",
+      "description": "All-in-one eco-park featuring underground rivers, snorkeling, wildlife, and evening shows celebrating Mexican culture.",
+      "duration": "Full day",
+      "price": "$120-200 USD",
+      "coordinates": {"lat": 20.5797, "lng": -87.1180}
+    },
+    {
+      "name": "El Rey Archaeological Zone",
+      "type": "Archaeological Site",
+      "description": "Small but fascinating Mayan ruins right in the Hotel Zone. Features 47 structures and resident iguanas.",
+      "duration": "1-2 hours",
+      "price": "$3 USD",
+      "coordinates": {"lat": 21.0634, "lng": -86.7813}
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Le Blanc Spa Resort",
+      "category": "Luxury",
+      "stars": 5,
+      "price_range": "$$$$$",
+      "description": "Adults-only all-inclusive with world-class spa and gourmet dining",
+      "features": ["All-inclusive", "Spa", "Adults-only", "Beachfront"]
+    },
+    {
+      "name": "Hyatt Ziva Cancún",
+      "category": "Luxury",
+      "stars": 5,
+      "price_range": "$$$$",
+      "description": "Family-friendly all-inclusive with dolphin habitat and kids club",
+      "features": ["All-inclusive", "Family-friendly", "Pools", "Beachfront"]
+    },
+    {
+      "name": "Fiesta Americana Condesa",
+      "category": "Mid-Range",
+      "stars": 4,
+      "price_range": "$$$",
+      "description": "Classic Hotel Zone resort with excellent beach location",
+      "features": ["All-inclusive available", "Central location", "Pool"]
+    },
+    {
+      "name": "Selina Cancún Downtown",
+      "category": "Budget",
+      "stars": 3,
+      "price_range": "$$",
+      "description": "Hip hostel-hotel hybrid in downtown with coworking space",
+      "features": ["Coworking", "Social atmosphere", "Restaurant"]
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "Harry's Prime Steakhouse",
+      "cuisine": "Steakhouse",
+      "price_range": "$$$$",
+      "description": "Upscale steakhouse with premium cuts and elegant lagoon views"
+    },
+    {
+      "name": "Puerto Madero",
+      "cuisine": "Seafood",
+      "price_range": "$$$",
+      "description": "Fresh seafood and steaks with stunning lagoon sunset views"
+    },
+    {
+      "name": "Tacos Rigo",
+      "cuisine": "Mexican Street Food",
+      "price_range": "$",
+      "description": "Legendary taco stand in the Hotel Zone open until 4am"
+    },
+    {
+      "name": "La Habichuela Sunset",
+      "cuisine": "Yucatecan",
+      "price_range": "$$$",
+      "description": "Upscale Mayan-inspired cuisine in romantic garden setting"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is the best time to visit Cancún?",
+      "answer": "The best time to visit Cancún is from December to April during the dry season. You'll enjoy sunny skies, low humidity, and comfortable temperatures around 27°C (81°F). Avoid September and October for hurricane season, and be aware that spring break (March) brings large crowds."
+    },
+    {
+      "question": "Is Cancún safe for tourists?",
+      "answer": "Cancún's Hotel Zone is generally very safe for tourists, with heavy security and police presence. The tourism industry is vital to the local economy, and authorities prioritize visitor safety. Exercise normal precautions, stay in well-traveled areas, and avoid displaying expensive jewelry."
+    },
+    {
+      "question": "How do I get from Cancún airport to the Hotel Zone?",
+      "answer": "Cancún International Airport (CUN) is about 20-30 minutes from the Hotel Zone. Options include: official airport taxis ($50-60 USD), shared shuttles ($15-25 USD per person), private transfers (pre-booked, $40-80 USD), or ADO bus to downtown ($5 USD) then taxi to hotels."
+    },
+    {
+      "question": "Do I need to speak Spanish in Cancún?",
+      "answer": "No, English is widely spoken throughout Cancún's Hotel Zone, resorts, and tourist areas. Most hotel staff, tour guides, and restaurant workers speak English. However, learning a few Spanish phrases is appreciated and helpful for downtown exploration."
+    },
+    {
+      "question": "Is the water safe to drink in Cancún?",
+      "answer": "Tap water in Cancún is not recommended for drinking. Stick to bottled or purified water, which is provided free at most hotels. Ice at restaurants and resorts is typically made from purified water and is safe."
+    },
+    {
+      "question": "What currency should I bring to Cancún?",
+      "answer": "While Mexican Pesos (MXN) are the official currency, US dollars are widely accepted in the Hotel Zone. However, you'll get better exchange rates paying in pesos. ATMs are plentiful, and major credit cards are accepted everywhere."
+    }
+  ],
+  "related_destinations": ["playa-del-carmen", "tulum", "isla-mujeres", "cozumel", "holbox"],
+  "tags": ["beach", "caribbean", "all-inclusive", "nightlife", "family-friendly", "diving", "mayan-ruins"],
+  "schema_type": "TouristDestination"
+}

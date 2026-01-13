@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="{{lang}}" dir="ltr">
+<head>
+{{> head}}
+
+<!-- Schema.org Structured Data -->
+<script type="application/ld+json">
+{{schema_json}}
+</script>
+
+<!-- Organization Schema (Site-wide) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "@id": "https://topmexicotravel.com/#organization",
+  "name": "Top Mexico Travel",
+  "url": "https://topmexicotravel.com",
+  "logo": {
+    "@type": "ImageObject",
+    "url": "https://topmexicotravel.com/assets/logo.png",
+    "width": 600,
+    "height": 60
+  },
+  "sameAs": [
+    "https://www.facebook.com/topmexicotravel",
+    "https://twitter.com/topmexicotravel",
+    "https://www.instagram.com/topmexicotravel",
+    "https://www.youtube.com/topmexicotravel",
+    "https://www.pinterest.com/topmexicotravel"
+  ],
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer service",
+    "availableLanguage": ["English", "Spanish", "German", "French", "Portuguese"]
+  }
+}
+</script>
+
+<!-- WebSite Schema -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "@id": "https://topmexicotravel.com/#website",
+  "url": "https://topmexicotravel.com",
+  "name": "Top Mexico Travel",
+  "description": "The premier multilingual travel resource for global travelers visiting Mexico",
+  "publisher": {
+    "@id": "https://topmexicotravel.com/#organization"
+  },
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "https://topmexicotravel.com/search?q={search_term_string}"
+    },
+    "query-input": "required name=search_term_string"
+  },
+  "inLanguage": ["en", "es", "de", "fr", "pt"]
+}
+</script>
+</head>
+<body>
+<!-- Skip Link for Accessibility -->
+<a href="#main-content" class="skip-link">Skip to main content</a>
+
+<!-- Header -->
+{{> header}}
+
+<!-- Breadcrumbs -->
+{{> breadcrumbs}}
+
+<!-- Main Content -->
+<main id="main-content" role="main">
+{{content}}
+</main>
+
+<!-- Footer -->
+{{> footer}}
+
+<!-- Deferred JavaScript (Progressive Enhancement) -->
+<script defer>
+// Mobile menu toggle
+document.addEventListener('DOMContentLoaded', function() {
+  const menuToggle = document.querySelector('.menu-toggle');
+  const mobileNav = document.querySelector('.mobile-nav');
+
+  if (menuToggle && mobileNav) {
+    menuToggle.addEventListener('click', function() {
+      const isOpen = mobileNav.classList.toggle('is-open');
+      this.setAttribute('aria-expanded', isOpen);
+      this.setAttribute('aria-label', isOpen ? 'Close menu' : 'Open menu');
+    });
+  }
+
+  // Smooth scroll for anchor links
+  document.querySelectorAll('a[href^="#"]').forEach(function(anchor) {
+    anchor.addEventListener('click', function(e) {
+      const href = this.getAttribute('href');
+      if (href !== '#') {
+        e.preventDefault();
+        const target = document.querySelector(href);
+        if (target) {
+          target.scrollIntoView({ behavior: 'smooth' });
+        }
+      }
+    });
+  });
+
+  // FAQ accordion tracking
+  document.querySelectorAll('.faq-item').forEach(function(item) {
+    item.addEventListener('toggle', function() {
+      // Analytics tracking placeholder
+    });
+  });
+});
+</script>
+</body>
+</html>

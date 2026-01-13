@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html lang="{{lang}}" dir="ltr">
+<head>
+{{> head}}
+
+<!-- WebSite Schema with SearchAction -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "@id": "https://topmexicotravel.com/#website",
+  "url": "https://topmexicotravel.com",
+  "name": "Top Mexico Travel",
+  "description": "{{meta_description}}",
+  "publisher": {
+    "@id": "https://topmexicotravel.com/#organization"
+  },
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "https://topmexicotravel.com/search?q={search_term_string}"
+    },
+    "query-input": "required name=search_term_string"
+  },
+  "inLanguage": ["en", "es", "de", "fr", "pt"]
+}
+</script>
+
+<!-- Organization Schema -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "@id": "https://topmexicotravel.com/#organization",
+  "name": "Top Mexico Travel",
+  "url": "https://topmexicotravel.com",
+  "logo": {
+    "@type": "ImageObject",
+    "url": "https://topmexicotravel.com/assets/logo.png",
+    "width": 600,
+    "height": 60
+  }
+}
+</script>
+</head>
+<body>
+<a href="#main-content" class="skip-link">Skip to main content</a>
+
+{{> header}}
+
+<main id="main-content" role="main">
+  <!-- Hero Section -->
+  <header class="hero" style="min-height: 80vh;">
+    <img
+      src="/assets/images/mexico-hero.jpg"
+      alt="Stunning beach sunset in Mexico with palm trees and turquoise waters"
+      width="1920"
+      height="1080"
+      fetchpriority="high"
+      decoding="async"
+      class="hero-image">
+    <div class="hero-overlay"></div>
+    <div class="hero-content" style="max-width: 800px;">
+      <h1 class="hero-title">Discover Mexico</h1>
+      <p class="hero-tagline">Your complete guide to Mexico's beaches, culture, cuisine, and adventure. From the Caribbean coast to ancient ruins, plan your perfect Mexican getaway.</p>
+      <div style="margin-top: var(--spacing-lg); display: flex; gap: var(--spacing-md); flex-wrap: wrap;">
+        <a href="/{{lang}}/destinations/" class="cta-link" style="background: var(--color-accent); color: var(--color-text); padding: var(--spacing-sm) var(--spacing-lg); border-radius: var(--radius-sm); font-weight: 600;">
+          Explore Destinations
+        </a>
+        <a href="/{{lang}}/itineraries/" class="cta-link" style="background: rgba(255,255,255,0.2); color: #fff; padding: var(--spacing-sm) var(--spacing-lg); border-radius: var(--radius-sm); backdrop-filter: blur(4px);">
+          View Itineraries
+        </a>
+      </div>
+    </div>
+  </header>
+
+  <!-- Featured Destinations -->
+  <section class="section" aria-labelledby="destinations-heading">
+    <div class="section-container">
+      <div class="section-header">
+        <h2 id="destinations-heading" class="section-title">Popular Destinations</h2>
+        <p class="section-intro">From pristine Caribbean beaches to vibrant colonial cities, discover Mexico's most beloved destinations.</p>
+      </div>
+      <ul class="cards-grid">
+        {{#each featured_destinations}}
+        <li class="card">
+          <a href="{{this.url}}" style="text-decoration: none;">
+            <img
+              src="{{this.image}}"
+              alt="{{this.name}}, Mexico"
+              width="400"
+              height="300"
+              loading="lazy"
+              decoding="async"
+              class="card-image">
+          </a>
+          <div class="card-content">
+            <h3 class="card-title"><a href="{{this.url}}">{{this.name}}</a></h3>
+            <p class="card-description">{{this.description}}</p>
+            <div class="tags">
+              {{#each this.tags}}
+              <span class="tag">{{this}}</span>
+              {{/each}}
+            </div>
+          </div>
+        </li>
+        {{/each}}
+      </ul>
+      <div style="text-align: center; margin-top: var(--spacing-xl);">
+        <a href="/{{lang}}/destinations/" class="cta-link">View All Destinations →</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Travel Styles -->
+  <section class="section" aria-labelledby="styles-heading" style="background: var(--color-bg-alt);">
+    <div class="section-container">
+      <div class="section-header">
+        <h2 id="styles-heading" class="section-title">Plan Your Perfect Trip</h2>
+        <p class="section-intro">Whether you're seeking relaxation, adventure, culture, or cuisine, Mexico has something for every traveler.</p>
+      </div>
+      <div class="cards-grid" style="grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));">
+        <article class="card">
+          <div class="card-content" style="text-align: center; padding: var(--spacing-xl);">
+            <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="var(--color-primary)" stroke-width="1.5" style="margin-bottom: var(--spacing-md);"><path d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"/><path d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"/></svg>
+            <h3 class="card-title"><a href="/{{lang}}/beach-destinations/">Beach Vacations</a></h3>
+            <p class="card-description">Pristine Caribbean and Pacific beaches, world-class resorts, and unforgettable sunsets.</p>
+          </div>
+        </article>
+        <article class="card">
+          <div class="card-content" style="text-align: center; padding: var(--spacing-xl);">
+            <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="var(--color-primary)" stroke-width="1.5" style="margin-bottom: var(--spacing-md);"><path d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5M9 7h1m-1 4h1m4-4h1m-1 4h1m-5 10v-5a1 1 0 011-1h2a1 1 0 011 1v5m-4 0h4"/></svg>
+            <h3 class="card-title"><a href="/{{lang}}/cultural-destinations/">Cultural Exploration</a></h3>
+            <p class="card-description">Ancient pyramids, colonial architecture, indigenous traditions, and world-class museums.</p>
+          </div>
+        </article>
+        <article class="card">
+          <div class="card-content" style="text-align: center; padding: var(--spacing-xl);">
+            <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="var(--color-primary)" stroke-width="1.5" style="margin-bottom: var(--spacing-md);"><path d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z"/></svg>
+            <h3 class="card-title"><a href="/{{lang}}/culinary-travel/">Food & Drink</a></h3>
+            <p class="card-description">From street tacos to Michelin stars, mezcal tastings to cooking classes.</p>
+          </div>
+        </article>
+        <article class="card">
+          <div class="card-content" style="text-align: center; padding: var(--spacing-xl);">
+            <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="var(--color-primary)" stroke-width="1.5" style="margin-bottom: var(--spacing-md);"><path d="M13 10V3L4 14h7v7l9-11h-7z"/></svg>
+            <h3 class="card-title"><a href="/{{lang}}/adventure-travel/">Adventure</a></h3>
+            <p class="card-description">Cenote diving, jungle zip-lines, volcano hikes, and whale watching expeditions.</p>
+          </div>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <!-- Featured Itineraries -->
+  <section class="section" aria-labelledby="itineraries-heading">
+    <div class="section-container">
+      <div class="section-header">
+        <h2 id="itineraries-heading" class="section-title">Popular Itineraries</h2>
+        <p class="section-intro">Expertly crafted travel plans to help you make the most of your Mexico adventure.</p>
+      </div>
+      <ul class="cards-grid">
+        {{#each featured_itineraries}}
+        <li class="card">
+          <img
+            src="{{this.image}}"
+            alt="{{this.title}}"
+            width="400"
+            height="300"
+            loading="lazy"
+            decoding="async"
+            class="card-image">
+          <div class="card-content">
+            <div class="card-meta" style="margin-bottom: var(--spacing-sm);">
+              <span class="badge badge-primary">{{this.duration}}</span>
+            </div>
+            <h3 class="card-title"><a href="{{this.url}}">{{this.title}}</a></h3>
+            <p class="card-description">{{this.description}}</p>
+            <div class="tags">
+              {{#each this.destinations}}
+              <span class="tag">{{this}}</span>
+              {{/each}}
+            </div>
+          </div>
+        </li>
+        {{/each}}
+      </ul>
+      <div style="text-align: center; margin-top: var(--spacing-xl);">
+        <a href="/{{lang}}/itineraries/" class="cta-link">View All Itineraries →</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Essential Guides -->
+  <section class="section" aria-labelledby="guides-heading" style="background: var(--color-bg-alt);">
+    <div class="section-container">
+      <div class="section-header">
+        <h2 id="guides-heading" class="section-title">Essential Travel Guides</h2>
+        <p class="section-intro">Everything you need to know for a safe, enjoyable, and memorable trip to Mexico.</p>
+      </div>
+      <div class="cards-grid" style="grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));">
+        <a href="/{{lang}}/guides/mexico-travel-requirements/" class="card" style="text-decoration: none;">
+          <div class="card-content">
+            <h3 class="card-title">Visa & Entry Requirements</h3>
+            <p class="card-description">Current visa policies, entry requirements, and documentation needed for your Mexico trip.</p>
+          </div>
+        </a>
+        <a href="/{{lang}}/guides/mexico-safety/" class="card" style="text-decoration: none;">
+          <div class="card-content">
+            <h3 class="card-title">Safety Guide</h3>
+            <p class="card-description">Practical safety tips, travel advisories by region, and emergency contacts.</p>
+          </div>
+        </a>
+        <a href="/{{lang}}/guides/best-time-to-visit/" class="card" style="text-decoration: none;">
+          <div class="card-content">
+            <h3 class="card-title">Best Time to Visit</h3>
+            <p class="card-description">Weather patterns, peak seasons, festivals, and the ideal time for your trip.</p>
+          </div>
+        </a>
+        <a href="/{{lang}}/guides/mexico-budget/" class="card" style="text-decoration: none;">
+          <div class="card-content">
+            <h3 class="card-title">Budget Guide</h3>
+            <p class="card-description">Daily costs, money-saving tips, and budget breakdowns by travel style.</p>
+          </div>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Mexico Stats -->
+  <section class="section" aria-labelledby="stats-heading">
+    <div class="section-container" style="text-align: center;">
+      <h2 id="stats-heading" class="section-title">Why Visit Mexico?</h2>
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: var(--spacing-xl); margin-top: var(--spacing-xl);">
+        <div>
+          <div style="font-size: 2.5rem; font-weight: 700; color: var(--color-primary);">36</div>
+          <div style="color: var(--color-text-light);">UNESCO World Heritage Sites</div>
+        </div>
+        <div>
+          <div style="font-size: 2.5rem; font-weight: 700; color: var(--color-primary);">177</div>
+          <div style="color: var(--color-text-light);">Pueblos Mágicos</div>
+        </div>
+        <div>
+          <div style="font-size: 2.5rem; font-weight: 700; color: var(--color-primary);">6,000+</div>
+          <div style="color: var(--color-text-light);">Cenotes</div>
+        </div>
+        <div>
+          <div style="font-size: 2.5rem; font-weight: 700; color: var(--color-primary);">45M</div>
+          <div style="color: var(--color-text-light);">Annual Visitors</div>
+        </div>
+      </div>
+    </div>
+  </section>
+</main>
+
+{{> footer}}
+
+<script defer>
+document.addEventListener('DOMContentLoaded', function() {
+  const menuToggle = document.querySelector('.menu-toggle');
+  const mobileNav = document.querySelector('.mobile-nav');
+
+  if (menuToggle && mobileNav) {
+    menuToggle.addEventListener('click', function() {
+      const isOpen = mobileNav.classList.toggle('is-open');
+      this.setAttribute('aria-expanded', isOpen);
+    });
+  }
+});
+</script>
+</body>
+</html>

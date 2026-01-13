@@ -1,0 +1,24 @@
+<nav class="breadcrumbs" aria-label="Breadcrumb">
+  <div class="breadcrumbs-container">
+    <ol class="breadcrumbs-list" itemscope itemtype="https://schema.org/BreadcrumbList">
+      <li class="breadcrumbs-item" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+        <a href="/{{lang}}/" class="breadcrumbs-link" itemprop="item">
+          <span itemprop="name">Home</span>
+        </a>
+        <meta itemprop="position" content="1" />
+      </li>
+      {{#each breadcrumbs}}
+      <li class="breadcrumbs-item" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+        {{#if this.current}}
+        <span class="breadcrumbs-current" itemprop="name">{{this.name}}</span>
+        {{else}}
+        <a href="{{this.url}}" class="breadcrumbs-link" itemprop="item">
+          <span itemprop="name">{{this.name}}</span>
+        </a>
+        {{/if}}
+        <meta itemprop="position" content="{{this.position}}" />
+      </li>
+      {{/each}}
+    </ol>
+  </div>
+</nav>

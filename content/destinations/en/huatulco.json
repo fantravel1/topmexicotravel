@@ -1,0 +1,176 @@
+{
+  "id": "huatulco",
+  "name": "Huatulco",
+  "slug": "huatulco",
+  "state": "Oaxaca",
+  "country": "Mexico",
+  "type": "beach",
+  "coordinates": {
+    "latitude": 15.7833,
+    "longitude": -96.1333
+  },
+  "meta_title": "Huatulco Travel Guide 2025 - Oaxacan Bays & Eco Beach Resort",
+  "meta_description": "Discover Huatulco, where nine pristine bays meet Oaxacan culture. Experience eco-friendly beaches, excellent snorkeling, waterfalls, sustainable tourism, and authentic Mexican resort life without the crowds.",
+  "hero_image": "/assets/images/destinations/huatulco-hero.jpg",
+  "hero_alt": "Aerial view of Huatulco bays with turquoise waters and green mountains",
+  "introduction": {
+    "snippet": "Huatulco is Mexico's model sustainable beach destination—nine pristine bays with 36 beaches set against the lush Sierra Madre Sur mountains, all developed with ecological preservation in mind. This Oaxacan coastal gem offers excellent snorkeling, waterfalls, authentic Mexican culture, and resort comfort without the overdevelopment or crowds of northern destinations.",
+    "full": "Developed by the Mexican government in the 1980s as a planned resort destination, Huatulco learned from the mistakes of Cancún. The result is a unique place where luxury hotels coexist with protected national park land, where beaches remain uncrowded, and where the local Oaxacan culture hasn't been overwhelmed by tourism. The area was certified as a Green Globe destination for sustainable tourism—a distinction it takes seriously.\n\nThe nine bays (bahías) offer distinct experiences: Santa Cruz has the main marina and town life, Tangolunda hosts the large resorts, Chahué has a growing restaurant scene, and undeveloped bays like Cacaluta and San Agustín provide pristine escapes. Beyond the beaches, the surrounding sierra offers waterfalls, coffee plantations, and Zapotec communities. The waters here feature some of Mexico's best snorkeling and diving, with healthy reefs and abundant marine life. Huatulco attracts those seeking quality beach vacation with Oaxacan food, genuine Mexican atmosphere, and nature that hasn't been sacrificed to development."
+  },
+  "quick_facts": {
+    "best_time": "November to May",
+    "avg_temp": "28°C (82°F)",
+    "currency": "Mexican Peso (MXN)",
+    "language": "Spanish",
+    "airport": "Huatulco Int'l (HUX)",
+    "time_zone": "CST (UTC-6)",
+    "population": "50,000",
+    "number_of_bays": "9"
+  },
+  "highlights": [
+    "Nine pristine bays with 36 beaches",
+    "Eco-certified sustainable destination",
+    "Excellent snorkeling and diving",
+    "Oaxacan culture and cuisine",
+    "Uncrowded and underdeveloped"
+  ],
+  "attractions": [
+    {
+      "name": "Bay Tour (Bahías de Huatulco)",
+      "type": "Boat Tour",
+      "description": "Essential experience visiting multiple bays by boat with snorkeling stops at pristine beaches inaccessible by land.",
+      "duration": "5-7 hours",
+      "price": "$30-50 USD",
+      "coordinates": {"lat": 15.7600, "lng": -96.1200}
+    },
+    {
+      "name": "Playa Cacaluta",
+      "type": "Beach",
+      "description": "Pristine protected beach featured in the film 'Y Tu Mamá También.' Accessible only by boat or hiking trail.",
+      "duration": "Half day",
+      "price": "Free (boat tour)",
+      "coordinates": {"lat": 15.7325, "lng": -96.1567}
+    },
+    {
+      "name": "Cascadas Mágicas (Copalitilla)",
+      "type": "Waterfall",
+      "description": "Beautiful series of waterfalls and natural pools in the Sierra Madre. Combine with coffee plantation visit.",
+      "duration": "Half day",
+      "price": "$40-60 USD tour",
+      "coordinates": {"lat": 15.8667, "lng": -96.2667}
+    },
+    {
+      "name": "La Crucecita Town",
+      "type": "Town Center",
+      "description": "The local town where Huatulqueños live—authentic restaurants, main plaza, church with famous ceiling mural.",
+      "duration": "2-3 hours",
+      "price": "Free",
+      "coordinates": {"lat": 15.7742, "lng": -96.1367}
+    },
+    {
+      "name": "Bahía San Agustín",
+      "type": "Beach/Snorkeling",
+      "description": "Remote bay with excellent snorkeling, seafood palapas, and local fishing village atmosphere.",
+      "duration": "Half-full day",
+      "price": "Free (taxi required)",
+      "coordinates": {"lat": 15.6917, "lng": -96.2333}
+    },
+    {
+      "name": "Snorkeling & Diving",
+      "type": "Water Activity",
+      "description": "Some of Mexico's best Pacific snorkeling and diving with healthy coral, tropical fish, and occasional dolphins.",
+      "duration": "Half day",
+      "price": "$40-80 USD",
+      "coordinates": {"lat": 15.7500, "lng": -96.1000}
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Secrets Huatulco",
+      "category": "Luxury",
+      "stars": 5,
+      "price_range": "$$$$",
+      "description": "Adults-only all-inclusive with excellent beach, spa, and multiple restaurants",
+      "features": ["All-inclusive", "Adults-only", "Beachfront", "Spa"]
+    },
+    {
+      "name": "Dreams Huatulco",
+      "category": "Luxury",
+      "stars": 5,
+      "price_range": "$$$$",
+      "description": "Family-friendly all-inclusive resort on Tangolunda Bay",
+      "features": ["All-inclusive", "Family-friendly", "Beachfront", "Kids club"]
+    },
+    {
+      "name": "Hotel Villablanca",
+      "category": "Mid-Range",
+      "stars": 4,
+      "price_range": "$$",
+      "description": "Pleasant hotel in La Crucecita with pool and garden, near restaurants",
+      "features": ["Pool", "Garden", "Central", "Value"]
+    },
+    {
+      "name": "Hotel María Mixteca",
+      "category": "Budget",
+      "stars": 3,
+      "price_range": "$",
+      "description": "Clean, simple hotel in La Crucecita with pool and friendly service",
+      "features": ["Pool", "Budget", "Central", "Air conditioning"]
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "Terra-Cotta",
+      "cuisine": "International/Mexican",
+      "price_range": "$$$",
+      "description": "Upscale dining in Chahué with excellent steaks, seafood, and wine"
+    },
+    {
+      "name": "La Crema",
+      "cuisine": "Contemporary Oaxacan",
+      "price_range": "$$$",
+      "description": "Creative Oaxacan cuisine with mezcal pairings in elegant setting"
+    },
+    {
+      "name": "Restaurante Avalos",
+      "cuisine": "Seafood",
+      "price_range": "$$",
+      "description": "Local institution for fresh seafood at Santa Cruz marina"
+    },
+    {
+      "name": "Mercado de La Crucecita",
+      "cuisine": "Market/Local",
+      "price_range": "$",
+      "description": "Town market with comida corrida (set lunch) and local Oaxacan food"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Is Huatulco better than Puerto Escondido?",
+      "answer": "They're different experiences. Huatulco has calmer waters (good for swimming/snorkeling), more resort infrastructure, and a quieter vibe. Puerto Escondido has big surf, backpacker scene, and livelier nightlife. Huatulco is better for families, relaxation, and eco-tourism; Puerto for surfing and budget travel."
+    },
+    {
+      "question": "How do I get to Huatulco?",
+      "answer": "Huatulco has an international airport (HUX) with flights from Mexico City, Oaxaca City, Houston, and seasonal US/Canadian connections. Alternatively, drive the scenic coastal highway from Oaxaca City (6 hours) or Puerto Escondido (2 hours)."
+    },
+    {
+      "question": "Is Huatulco good for snorkeling?",
+      "answer": "Yes! Huatulco has some of Mexico's best Pacific snorkeling. The protected bays have clear water and healthy marine life. Best spots include La Entrega beach, Bahía San Agustín, and stops on bay boat tours. Snorkeling here rivals Caribbean destinations."
+    },
+    {
+      "question": "How many days should I spend in Huatulco?",
+      "answer": "4-5 days allows time for a bay boat tour, beach days at different bays, a waterfall/coffee plantation excursion, and exploring La Crucecita. Beach lovers and divers could easily spend a week. Day-trippers from Puerto Escondido miss the best parts."
+    },
+    {
+      "question": "Is Huatulco crowded?",
+      "answer": "No—Huatulco is refreshingly uncrowded even in peak season. Development limits and protected areas keep beaches pristine. You can find empty beaches easily. This is a major advantage over more famous Mexican beach destinations."
+    },
+    {
+      "question": "Is Huatulco safe?",
+      "answer": "Huatulco is very safe. The planned resort development, strong tourism focus, and small-town atmosphere make it one of Mexico's safest beach destinations. Normal precautions apply, but crime against tourists is rare."
+    }
+  ],
+  "related_destinations": ["puerto-escondido", "oaxaca", "mazunte", "zipolite", "mahahual"],
+  "tags": ["beach", "eco-tourism", "snorkeling", "pacific", "oaxaca", "family-friendly", "sustainable", "quiet"],
+  "schema_type": "TouristDestination"
+}

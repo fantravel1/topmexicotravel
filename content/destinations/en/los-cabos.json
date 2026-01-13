@@ -1,0 +1,176 @@
+{
+  "id": "los-cabos",
+  "name": "Los Cabos",
+  "slug": "los-cabos",
+  "state": "Baja California Sur",
+  "country": "Mexico",
+  "type": "beach",
+  "coordinates": {
+    "latitude": 22.8905,
+    "longitude": -109.9167
+  },
+  "meta_title": "Los Cabos Travel Guide 2025 - Cabo San Lucas & San José del Cabo",
+  "meta_description": "Discover Los Cabos, where the Pacific meets the Sea of Cortez. Explore world-class resorts, championship golf, whale watching, sport fishing, and the iconic El Arco in this complete Cabo travel guide.",
+  "hero_image": "/assets/images/destinations/los-cabos-hero.jpg",
+  "hero_alt": "El Arco rock formation at Land's End in Cabo San Lucas at sunset",
+  "introduction": {
+    "snippet": "Los Cabos sits at the dramatic southern tip of the Baja California Peninsula, where the Pacific Ocean meets the Sea of Cortez. This sun-drenched destination encompasses the party town of Cabo San Lucas and the artsy village of San José del Cabo, connected by a corridor of world-class resorts, championship golf courses, and stunning desert-meets-ocean landscapes.",
+    "full": "Los Cabos has transformed from a remote fishing outpost into one of Mexico's most prestigious resort destinations, attracting celebrities, golfers, and sun-seekers with its unique geography and year-round sunshine (350+ sunny days annually). The iconic El Arco—a natural rock arch at Land's End—has become one of Mexico's most photographed landmarks.\n\nThe region offers two distinct experiences: Cabo San Lucas is the lively hub, famous for its marina, sport fishing fleet, beach clubs, and legendary nightlife. Twenty miles northeast, San José del Cabo offers a more refined experience with its historic downtown, art galleries, farm-to-table restaurants, and beautiful estuary. The Tourist Corridor connecting them is home to mega-resorts, world-ranked golf courses, and pristine swimming beaches. Whether you're here for the party scene, a romantic getaway, world-class fishing, or simply to bask in the desert sun, Los Cabos delivers a Mexican vacation unlike any other."
+  },
+  "quick_facts": {
+    "best_time": "November to June",
+    "avg_temp": "26°C (79°F)",
+    "currency": "Mexican Peso (MXN)",
+    "language": "Spanish",
+    "airport": "San José del Cabo (SJD)",
+    "time_zone": "MST (UTC-7)",
+    "population": "350,000 (metro)",
+    "beach_type": "Pacific/Sea of Cortez"
+  },
+  "highlights": [
+    "Iconic El Arco rock formation at Land's End",
+    "World-class sport fishing capital",
+    "Championship golf courses by top designers",
+    "Whale watching (December-April)",
+    "Desert landscapes meeting blue ocean"
+  ],
+  "attractions": [
+    {
+      "name": "El Arco de Cabo San Lucas",
+      "type": "Landmark",
+      "description": "The iconic natural rock arch at Land's End where the Pacific meets the Sea of Cortez. Visit by water taxi or boat tour.",
+      "duration": "1-2 hours",
+      "price": "$15-20 USD water taxi",
+      "coordinates": {"lat": 22.8764, "lng": -109.8836}
+    },
+    {
+      "name": "Medano Beach",
+      "type": "Beach",
+      "description": "Cabo's main swimmable beach with beach clubs, restaurants, water sports, and party atmosphere.",
+      "duration": "Half-full day",
+      "price": "Free (clubs $30-100)",
+      "coordinates": {"lat": 22.8856, "lng": -109.9061}
+    },
+    {
+      "name": "San José del Cabo Art District",
+      "type": "Cultural District",
+      "description": "Historic downtown with galleries, restaurants, and Thursday night Art Walk (November-June).",
+      "duration": "2-4 hours",
+      "price": "Free",
+      "coordinates": {"lat": 23.0586, "lng": -109.6963}
+    },
+    {
+      "name": "Whale Watching",
+      "type": "Wildlife Experience",
+      "description": "Gray and humpback whales migrate through Cabo waters December-April. Best viewing January-March.",
+      "duration": "2-3 hours",
+      "price": "$60-100 USD",
+      "coordinates": {"lat": 22.8900, "lng": -109.8900}
+    },
+    {
+      "name": "Sport Fishing",
+      "type": "Activity",
+      "description": "The 'Marlin Capital of the World' offers year-round fishing for marlin, tuna, dorado, and more.",
+      "duration": "Half-full day",
+      "price": "$400-1,500 USD charter",
+      "coordinates": {"lat": 22.8822, "lng": -109.9067}
+    },
+    {
+      "name": "Lover's Beach (Playa del Amor)",
+      "type": "Beach",
+      "description": "Secluded beach at Land's End accessible only by water taxi. Swim on the Sea of Cortez side only.",
+      "duration": "2-3 hours",
+      "price": "$15-20 USD water taxi",
+      "coordinates": {"lat": 22.8762, "lng": -109.8792}
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Waldorf Astoria Los Cabos Pedregal",
+      "category": "Ultra-Luxury",
+      "stars": 5,
+      "price_range": "$$$$$",
+      "description": "Cliffside resort accessed through a mountain tunnel with private plunge pools in every room",
+      "features": ["Private plunge pools", "Spa", "Fine dining", "Adults-only"]
+    },
+    {
+      "name": "One&Only Palmilla",
+      "category": "Luxury",
+      "stars": 5,
+      "price_range": "$$$$$",
+      "description": "Legendary resort on a swimmable beach with Jean-Georges restaurant",
+      "features": ["Swimmable beach", "Golf", "Spa", "Celebrity favorite"]
+    },
+    {
+      "name": "ME Cabo",
+      "category": "Lifestyle",
+      "stars": 4,
+      "price_range": "$$$",
+      "description": "Stylish beachfront hotel on Medano Beach with rooftop pool and party vibe",
+      "features": ["Medano Beach", "Rooftop pool", "Nightlife", "Central"]
+    },
+    {
+      "name": "The Bungalows Hotel",
+      "category": "Mid-Range",
+      "stars": 3,
+      "price_range": "$$",
+      "description": "Charming breakfast-included hotel in San José del Cabo's art district",
+      "features": ["Breakfast included", "Art district", "Pool", "Value"]
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "Flora Farms",
+      "cuisine": "Farm-to-Table",
+      "price_range": "$$$$",
+      "description": "Magical 25-acre organic farm with outdoor restaurant—the ultimate Cabo dining experience"
+    },
+    {
+      "name": "El Farallon",
+      "cuisine": "Seafood",
+      "price_range": "$$$$",
+      "description": "Dramatic cliffside restaurant at Waldorf Astoria with ocean views and freshest seafood"
+    },
+    {
+      "name": "Tacos Guss",
+      "cuisine": "Tacos",
+      "price_range": "$",
+      "description": "Local favorite for authentic fish and shrimp tacos in San José del Cabo"
+    },
+    {
+      "name": "The Office on the Beach",
+      "cuisine": "Mexican/Seafood",
+      "price_range": "$$",
+      "description": "Iconic feet-in-the-sand restaurant on Medano Beach—a Cabo institution"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is the difference between Cabo San Lucas and San José del Cabo?",
+      "answer": "Cabo San Lucas is the party town with marina nightlife, beach clubs, and touristy atmosphere. San José del Cabo is quieter and more refined, with a historic downtown, art galleries, and upscale restaurants. The Tourist Corridor between them has most of the luxury resorts and golf courses."
+    },
+    {
+      "question": "Can you swim at the beaches in Los Cabos?",
+      "answer": "Many Pacific-facing beaches have dangerous waves and undertow. Swimmable beaches include: Medano Beach in Cabo San Lucas, Chileno Beach, Santa María Beach, and the beach at One&Only Palmilla. Always check conditions and swim only where safe."
+    },
+    {
+      "question": "When is the best time to visit Los Cabos?",
+      "answer": "November to June offers ideal weather with minimal rain. December-April is peak season (and whale watching season). Summer (July-October) brings humidity, potential hurricanes, and occasional rain, but also lower prices and excellent fishing."
+    },
+    {
+      "question": "Is Los Cabos safe?",
+      "answer": "Los Cabos tourist areas are generally very safe. The economy depends heavily on tourism, and security is a priority. Use normal precautions, avoid isolated areas at night, and book tours through reputable operators. Cabo San Lucas's downtown can get rowdy late at night."
+    },
+    {
+      "question": "How do I get from the airport to my hotel?",
+      "answer": "San José del Cabo International Airport (SJD) is about 20 minutes from San José and 45 minutes from Cabo San Lucas. Options include: private transfer ($60-100 USD), shared shuttle ($20-30 per person), taxi, or rental car. Most luxury resorts offer airport transfers."
+    },
+    {
+      "question": "Is Los Cabos expensive?",
+      "answer": "Yes, Los Cabos is one of Mexico's most expensive destinations due to its luxury positioning and remote location. Budget travelers can find mid-range options in downtown Cabo San Lucas or San José del Cabo, but beach resorts and dining tend to be pricey."
+    }
+  ],
+  "related_destinations": ["la-paz", "todos-santos", "loreto", "puerto-vallarta", "mazatlan"],
+  "tags": ["beach", "pacific", "luxury", "golf", "fishing", "whale-watching", "nightlife", "desert"],
+  "schema_type": "TouristDestination"
+}

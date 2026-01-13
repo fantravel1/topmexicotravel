@@ -1,0 +1,176 @@
+{
+  "id": "oaxaca",
+  "name": "Oaxaca",
+  "slug": "oaxaca",
+  "state": "Oaxaca",
+  "country": "Mexico",
+  "type": "cultural",
+  "coordinates": {
+    "latitude": 17.0732,
+    "longitude": -96.7266
+  },
+  "meta_title": "Oaxaca Travel Guide 2025 - Culture, Food, Mezcal & Artisans",
+  "meta_description": "Explore Oaxaca, Mexico's cultural heart. Discover world-famous cuisine, artisan crafts, mezcal distilleries, ancient Zapotec ruins at Monte Albán, and vibrant indigenous traditions in this UNESCO World Heritage city.",
+  "hero_image": "/assets/images/destinations/oaxaca-hero.jpg",
+  "hero_alt": "Colorful colonial buildings and Santo Domingo church in Oaxaca's historic center",
+  "introduction": {
+    "snippet": "Oaxaca is Mexico's cultural capital—a UNESCO World Heritage city where indigenous traditions flourish, artisans create world-renowned crafts, mezcal flows freely, and the food scene rivals any city on earth. Nestled in a mountain valley surrounded by Zapotec ruins, this colonial gem offers travelers an authentic, deeply Mexican experience.",
+    "full": "Oaxaca (pronounced wa-HA-ka) is the capital of Mexico's most ethnically diverse state, home to 16 distinct indigenous groups including the Zapotec and Mixtec peoples. This diversity manifests in an extraordinarily rich cultural landscape: from the seven moles (complex sauces) that define Oaxacan cuisine to the black pottery of San Bartolo Coyotepec and the fantastical alebrijes of Arrazola.\n\nThe city's colonial center, built by the Spanish over an ancient Zapotec settlement, has been carefully preserved with its iconic green cantera stone architecture, most dramatically displayed in the Baroque Santo Domingo church. Beyond the city, the Central Valleys are dotted with craft villages, mezcal distilleries (palenques), and the remarkable pre-Columbian ruins of Monte Albán, perched 400 meters above the valley floor. Oaxaca is also ground zero for mezcal, the smoky agave spirit experiencing a global renaissance, with hundreds of small-batch producers welcoming visitors. If you're seeking the soul of Mexico, you'll find it in Oaxaca."
+  },
+  "quick_facts": {
+    "best_time": "October to April",
+    "avg_temp": "22°C (72°F)",
+    "currency": "Mexican Peso (MXN)",
+    "language": "Spanish, Zapotec, Mixtec",
+    "airport": "Oaxaca Int'l (OAX)",
+    "time_zone": "CST (UTC-6)",
+    "population": "270,000 (city)",
+    "altitude": "1,550m (5,085ft)"
+  },
+  "highlights": [
+    "UNESCO World Heritage colonial center",
+    "World-famous Oaxacan cuisine and moles",
+    "Monte Albán ancient Zapotec ruins",
+    "Mezcal distillery tours",
+    "Traditional artisan villages"
+  ],
+  "attractions": [
+    {
+      "name": "Monte Albán",
+      "type": "Archaeological Site",
+      "description": "Spectacular Zapotec city perched on a mountain overlooking Oaxaca. Founded around 500 BCE, it was one of Mesoamerica's first major cities.",
+      "duration": "3-4 hours",
+      "price": "$5 USD",
+      "coordinates": {"lat": 17.0439, "lng": -96.7680}
+    },
+    {
+      "name": "Santo Domingo Church & Museum",
+      "type": "Historic Site/Museum",
+      "description": "Magnificent Baroque church with gold-covered interior, adjacent to the excellent Oaxacan cultures museum in the former monastery.",
+      "duration": "2-3 hours",
+      "price": "Free church, $5 museum",
+      "coordinates": {"lat": 17.0652, "lng": -96.7242}
+    },
+    {
+      "name": "Mercado Benito Juárez",
+      "type": "Market",
+      "description": "Vibrant downtown market selling mezcal, chocolate, cheese, dried chiles, and traditional foods. Perfect for food souvenirs.",
+      "duration": "1-2 hours",
+      "price": "Free",
+      "coordinates": {"lat": 17.0598, "lng": -96.7261}
+    },
+    {
+      "name": "Hierve el Agua",
+      "type": "Natural Wonder",
+      "description": "Petrified waterfalls and natural infinity pools with spectacular valley views. About 70km from Oaxaca city.",
+      "duration": "Half day",
+      "price": "$3 USD entry + transport",
+      "coordinates": {"lat": 16.8661, "lng": -96.2761}
+    },
+    {
+      "name": "Mezcal Route",
+      "type": "Cultural Experience",
+      "description": "Visit traditional palenques (distilleries) in Santiago Matatlán, the 'World Capital of Mezcal,' to see production and taste varieties.",
+      "duration": "Half-full day",
+      "price": "$50-100 USD tour",
+      "coordinates": {"lat": 16.8667, "lng": -96.3833}
+    },
+    {
+      "name": "Artisan Village Circuit",
+      "type": "Cultural Experience",
+      "description": "Visit craft villages: black pottery in San Bartolo Coyotepec, wool rugs in Teotitlán del Valle, alebrijes in San Martín Tilcajete.",
+      "duration": "Full day",
+      "price": "$40-80 USD tour",
+      "coordinates": {"lat": 16.9561, "lng": -96.5225}
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Hotel Escondido",
+      "category": "Boutique Luxury",
+      "stars": 5,
+      "price_range": "$$$$",
+      "description": "Stunning rooftop pool with Santo Domingo views in beautifully restored colonial building",
+      "features": ["Rooftop pool", "Santo Domingo views", "Restaurant", "Central"]
+    },
+    {
+      "name": "Casa Oaxaca",
+      "category": "Boutique",
+      "stars": 4,
+      "price_range": "$$$",
+      "description": "Intimate boutique hotel with acclaimed restaurant by chef Alejandro Ruiz",
+      "features": ["Fine dining", "Cooking classes", "Pool", "Art collection"]
+    },
+    {
+      "name": "Hotel Casa Vertiz",
+      "category": "Mid-Range",
+      "stars": 3,
+      "price_range": "$$",
+      "description": "Charming colonial property with beautiful courtyard near the Zócalo",
+      "features": ["Courtyard", "Central location", "Good value"]
+    },
+    {
+      "name": "Casa Angel",
+      "category": "Budget",
+      "stars": 2,
+      "price_range": "$",
+      "description": "Popular hostel with rooftop terrace and social atmosphere",
+      "features": ["Rooftop terrace", "Kitchen", "Social", "Central"]
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "Casa Oaxaca El Restaurante",
+      "cuisine": "Contemporary Oaxacan",
+      "price_range": "$$$$",
+      "description": "Chef Alejandro Ruiz's flagship showcasing refined Oaxacan cuisine with local ingredients"
+    },
+    {
+      "name": "Los Danzantes",
+      "cuisine": "Modern Oaxacan",
+      "price_range": "$$$",
+      "description": "Beautiful courtyard restaurant with creative takes on traditional dishes and excellent mezcal selection"
+    },
+    {
+      "name": "Mercado 20 de Noviembre",
+      "cuisine": "Market Food",
+      "price_range": "$",
+      "description": "Legendary market for tasajo (dried beef) cooked over open flames—sit at the grills in the 'Pasillo de Carnes'"
+    },
+    {
+      "name": "Itanoní",
+      "cuisine": "Traditional Oaxacan",
+      "price_range": "$$",
+      "description": "Celebrated for its artisanal tortillas made from heirloom corn varieties—the best in Oaxaca"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What food is Oaxaca known for?",
+      "answer": "Oaxaca is famous for its seven moles (complex sauces), especially negro and coloradito. Other specialties include tlayudas (Oaxacan pizza), tasajo (dried beef), chapulines (grasshoppers), Oaxacan cheese (quesillo), chocolate, and mezcal. The food scene is considered Mexico's best."
+    },
+    {
+      "question": "When is the best time to visit Oaxaca?",
+      "answer": "October to April offers dry, pleasant weather. Late October/early November brings the spectacular Día de los Muertos celebrations. July's Guelaguetza festival is the state's biggest cultural event. The rainy season (May-September) brings afternoon showers but fewer tourists."
+    },
+    {
+      "question": "How do I get to Oaxaca?",
+      "answer": "Oaxaca has a small international airport (OAX) with flights from Mexico City, Houston, Dallas, and Los Angeles. Alternatively, fly to Mexico City and take a 6-7 hour luxury bus (ADO), or the scenic but long drive through the mountains."
+    },
+    {
+      "question": "Is Oaxaca safe for tourists?",
+      "answer": "Oaxaca city is considered one of Mexico's safest destinations for tourists. The historic center is very walkable day and night. Use normal precautions, and be aware of occasional political protests (typically peaceful). The surrounding valleys are equally safe."
+    },
+    {
+      "question": "What is the Guelaguetza festival?",
+      "answer": "The Guelaguetza is Oaxaca's biggest cultural celebration, held on the last two Mondays of July. Indigenous groups from across the state perform traditional dances in colorful costumes at a hillside amphitheater. Book accommodation months in advance."
+    },
+    {
+      "question": "How many days should I spend in Oaxaca?",
+      "answer": "Plan for at least 4-5 days: 2 days for the city (markets, museums, food), 1 day for Monte Albán, and 1-2 days for day trips (mezcal route, artisan villages, Hierve el Agua). Food and mezcal enthusiasts could easily spend a week or more."
+    }
+  ],
+  "related_destinations": ["puerto-escondido", "huatulco", "san-cristobal-de-las-casas", "puebla", "mexico-city"],
+  "tags": ["cultural", "food", "mezcal", "unesco", "artisan", "indigenous", "ruins", "colonial"],
+  "schema_type": "TouristDestination"
+}

@@ -1,0 +1,176 @@
+{
+  "id": "todos-santos",
+  "name": "Todos Santos",
+  "slug": "todos-santos",
+  "state": "Baja California Sur",
+  "country": "Mexico",
+  "type": "town",
+  "coordinates": {
+    "latitude": 23.4475,
+    "longitude": -110.2258
+  },
+  "meta_title": "Todos Santos Travel Guide 2025 - Baja's Artistic Beach Town",
+  "meta_description": "Discover Todos Santos, a Pueblo Mágico oasis in Baja California Sur. Explore art galleries, farm-to-table dining, surf beaches, desert landscapes, and the 'Hotel California' legend in this bohemian escape.",
+  "hero_image": "/assets/images/destinations/todos-santos-hero.jpg",
+  "hero_alt": "Colorful colonial street in Todos Santos with desert mountains in background",
+  "introduction": {
+    "snippet": "Todos Santos is Baja California Sur's bohemian heart—a Pueblo Mágico oasis where desert meets Pacific, colonial architecture houses world-class galleries, and artists and surfers have created one of Mexico's most culturally rich small towns. Just an hour from Cabo, this palm-lined retreat offers a completely different experience.",
+    "full": "Nestled between the Sierra de la Laguna mountains and the Pacific Ocean, Todos Santos was founded in 1723 as a Jesuit mission. The town flourished during the sugarcane boom of the 1800s, declined when the industry collapsed, and was reborn in the 1980s when artists discovered its perfect light, cheap real estate, and inspiring landscapes. Today, the historic center is filled with galleries, boutique hotels, and restaurants that rival any in Los Cabos—at a fraction of the price and pretension.\n\nThe town is perhaps most famous for the Hotel California, which may or may not have inspired the Eagles' song (the band denies it, the hotel embraces the legend). Beyond the myth, Todos Santos offers genuine appeal: organic farms supply excellent restaurants, surf breaks like Cerritos and San Pedrito attract wave riders of all levels, sea turtles nest on local beaches, and the annual Open Studios event showcases the thriving art community. Whether you're fleeing Cabo's party scene or seeking an authentic Baja experience, Todos Santos delivers creative soul in a stunning desert setting."
+  },
+  "quick_facts": {
+    "best_time": "October to May",
+    "avg_temp": "23°C (73°F)",
+    "currency": "Mexican Peso (MXN)",
+    "language": "Spanish",
+    "airport": "San José del Cabo (SJD) - 1 hr",
+    "time_zone": "MST (UTC-7)",
+    "population": "6,000",
+    "pueblo_magico": "Yes"
+  },
+  "highlights": [
+    "Thriving art galleries and studios",
+    "Farm-to-table dining scene",
+    "Surf beaches (Cerritos, San Pedrito)",
+    "Hotel California legend",
+    "Desert-meets-ocean landscapes"
+  ],
+  "attractions": [
+    {
+      "name": "Historic Centro",
+      "type": "Town Center",
+      "description": "Walk the colonial streets exploring galleries, boutiques, cafés, and the famous Hotel California. Best explored on foot.",
+      "duration": "2-4 hours",
+      "price": "Free",
+      "coordinates": {"lat": 23.4478, "lng": -110.2258}
+    },
+    {
+      "name": "Playa Cerritos",
+      "type": "Beach/Surfing",
+      "description": "One of Baja's best beginner surf beaches with consistent waves, surf schools, and the Cerritos Beach Club.",
+      "duration": "Half-full day",
+      "price": "Free",
+      "coordinates": {"lat": 23.3333, "lng": -110.2167}
+    },
+    {
+      "name": "Hotel California",
+      "type": "Landmark/Hotel",
+      "description": "The legendary hotel that may have inspired the Eagles' song. Browse the gallery and gift shop, or stay the night.",
+      "duration": "30 min-1 hour",
+      "price": "Free to visit",
+      "coordinates": {"lat": 23.4481, "lng": -110.2239}
+    },
+    {
+      "name": "Art Galleries",
+      "type": "Cultural",
+      "description": "Dozens of galleries showcase local and international artists. Don't miss Galería de Todos Santos and Galería Logan.",
+      "duration": "2-3 hours",
+      "price": "Free",
+      "coordinates": {"lat": 23.4475, "lng": -110.2258}
+    },
+    {
+      "name": "Sierra de la Laguna",
+      "type": "Nature/Hiking",
+      "description": "Mountain biosphere reserve with hiking trails through pine and oak forests—a dramatic contrast to the desert coast.",
+      "duration": "Full day",
+      "price": "$50-100 USD guided hike",
+      "coordinates": {"lat": 23.5500, "lng": -109.9500}
+    },
+    {
+      "name": "Sea Turtle Release",
+      "type": "Wildlife",
+      "description": "Join turtle conservation efforts releasing baby Olive Ridley turtles (season typically October-February).",
+      "duration": "1-2 hours",
+      "price": "$10-20 USD donation",
+      "coordinates": {"lat": 23.4200, "lng": -110.2100}
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Rancho Pescadero",
+      "category": "Boutique Resort",
+      "stars": 5,
+      "price_range": "$$$$",
+      "description": "Stunning beachfront resort with farm-to-table restaurant, pool, and surf program",
+      "features": ["Beachfront", "Farm-to-table", "Pool", "Surf program"]
+    },
+    {
+      "name": "Hotel San Cristóbal",
+      "category": "Boutique",
+      "stars": 4,
+      "price_range": "$$$$",
+      "description": "Stylish beachfront hotel with excellent restaurant and bar overlooking the Pacific",
+      "features": ["Beachfront", "Restaurant", "Design", "Bar"]
+    },
+    {
+      "name": "Hotel California",
+      "category": "Boutique",
+      "stars": 4,
+      "price_range": "$$$",
+      "description": "The legendary hotel with eclectic decor, courtyard bar, and center-of-town location",
+      "features": ["Historic", "Central", "Pool", "Bar"]
+    },
+    {
+      "name": "Todos Santos Inn",
+      "category": "Mid-Range",
+      "stars": 4,
+      "price_range": "$$$",
+      "description": "Beautifully restored 19th-century sugar baron mansion with garden and pool",
+      "features": ["Historic", "Pool", "Garden", "Character"]
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "Hierbabuena",
+      "cuisine": "Contemporary Mexican",
+      "price_range": "$$$",
+      "description": "Farm-to-table excellence in beautiful garden setting—Todos Santos' best restaurant"
+    },
+    {
+      "name": "Jazamango",
+      "cuisine": "Contemporary Mexican",
+      "price_range": "$$$",
+      "description": "Chef Javier Plascencia's farm restaurant with stunning valley views and seasonal menus"
+    },
+    {
+      "name": "Taller 17:20",
+      "cuisine": "International",
+      "price_range": "$$",
+      "description": "Creative dishes in artistic space with excellent cocktails"
+    },
+    {
+      "name": "Tacos Guss",
+      "cuisine": "Tacos",
+      "price_range": "$",
+      "description": "Local favorite for fish and shrimp tacos—simple and delicious"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Is Hotel California related to the Eagles song?",
+      "answer": "The Eagles have denied any connection, saying the song is metaphorical. However, the hotel has embraced the legend with memorabilia and guitar-shaped pool. The truth is unknowable—but visiting is fun regardless. The hotel opened in 1950; the song was released in 1977."
+    },
+    {
+      "question": "How do I get to Todos Santos?",
+      "answer": "Fly into San José del Cabo (SJD) and drive about 1 hour north on Highway 19. The drive through desert landscape is beautiful. Alternatively, take a taxi or shuttle from Cabo (~$100-150 USD). No public buses serve Todos Santos directly."
+    },
+    {
+      "question": "Is Todos Santos better than Cabo?",
+      "answer": "They're very different experiences. Todos Santos is quieter, artier, more affordable, with a bohemian vibe and no major nightlife. Cabo is resort-focused, with mega-hotels, golf, and party scene. Many visitors stay in Todos Santos and day-trip to Cabo, or vice versa."
+    },
+    {
+      "question": "Can you surf in Todos Santos?",
+      "answer": "Yes! Playa Cerritos (15 minutes south) is one of Baja's best beginner beaches with surf schools and consistent waves. More advanced surfers head to San Pedrito or Los Cerritos Point. Note: town beaches can have strong currents—swim at designated areas."
+    },
+    {
+      "question": "When is the Todos Santos art season?",
+      "answer": "While galleries are open year-round, the art scene peaks during the annual Open Studios tour in February, when artists throughout town open their doors. The Festival de Cine and Founder's Day (October) also bring cultural events."
+    },
+    {
+      "question": "Is Todos Santos expensive?",
+      "answer": "Todos Santos is mid-to-high range for Mexico—cheaper than Cabo, comparable to San Miguel de Allende. Boutique hotels run $150-400+ per night. Farm-to-table restaurants are pricey by Mexican standards but excellent value for the quality. Budget options are limited."
+    }
+  ],
+  "related_destinations": ["los-cabos", "la-paz", "loreto", "mulege", "bahia-magdalena"],
+  "tags": ["art", "pueblo-magico", "surfing", "desert", "farm-to-table", "bohemian", "baja", "pacific"],
+  "schema_type": "TouristDestination"
+}
