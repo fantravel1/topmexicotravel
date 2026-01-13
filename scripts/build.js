@@ -470,6 +470,9 @@ Allow: /
     fs.copyFileSync(cnameSrc, path.join(CONFIG.distDir, 'CNAME'));
   }
 
+  // Add .nojekyll to skip Jekyll processing on GitHub Pages
+  fs.writeFileSync(path.join(CONFIG.distDir, '.nojekyll'), '');
+
   console.log(`\n✅ Build complete! Generated ${pageCount} pages.`);
   console.log(`📁 Output: ${CONFIG.distDir}`);
 }
