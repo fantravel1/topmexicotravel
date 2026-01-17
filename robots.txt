@@ -1,0 +1,23 @@
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://topmexicotravel.com/sitemap.xml
+
+# Disallow admin/build paths
+Disallow: /admin/
+Disallow: /_build/
+Disallow: /node_modules/
+
+# AI Bots Welcome
+User-agent: GPTBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: Anthropic-AI
+Allow: /
+
+User-agent: CCBot
+Allow: /
