@@ -5,149 +5,330 @@
   "state": "Guanajuato",
   "country": "Mexico",
   "type": "colonial",
+  "lang": "en",
   "coordinates": {
     "latitude": 20.9144,
     "longitude": -100.7452
   },
-  "meta_title": "San Miguel de Allende Travel Guide 2025 - Best Colonial Town in Mexico",
+  "meta_title": "San Miguel de Allende Travel Guide 2025 - Best Colonial Town in Mexico | Top Mexico Travel",
   "meta_description": "Discover San Miguel de Allende, voted the world's best city multiple times. Explore stunning colonial architecture, vibrant arts scene, world-class restaurants, and timeless Mexican charm in this UNESCO World Heritage town.",
-  "hero_image": "/assets/images/destinations/san-miguel-de-allende-hero.jpg",
-  "hero_alt": "Iconic pink Parroquia de San Miguel Arcángel church with colorful streets of San Miguel de Allende",
-  "introduction": {
-    "snippet": "San Miguel de Allende is Mexico's most picturesque colonial town—a UNESCO World Heritage site where cobblestone streets wind past pastel-colored buildings beneath the fairy-tale spires of the iconic Parroquia church. Repeatedly voted 'Best City in the World' by Travel + Leisure readers, this artistic haven offers timeless charm, sophisticated dining, and a thriving expat community.",
-    "full": "Founded in 1542, San Miguel de Allende played a crucial role in Mexican independence and has been carefully preserved ever since. The entire historic center is a designated UNESCO World Heritage site, with not a single power line or neon sign to disrupt the colonial aesthetic. The town's unlikely landmark, the neo-Gothic Parroquia de San Miguel Arcángel, was redesigned in the late 1800s by a self-taught indigenous mason reportedly inspired by European cathedral postcards.\n\nSan Miguel has attracted artists and writers since the 1930s, and today hosts a vibrant creative community alongside a large expat population (some estimate 10-15% of residents are foreigners). This international influence has created an unusually sophisticated dining and shopping scene for a town of its size, with galleries, boutiques, and restaurants rivaling those in major cities. Yet San Miguel remains unmistakably Mexican, from the mariachis in the jardín to the family-owned shops selling traditional crafts. Whether you're drawn by art, food, architecture, or simply the magic of walking these timeless streets, San Miguel de Allende casts a spell that keeps visitors returning."
-  },
-  "quick_facts": {
-    "best_time": "March to May, October",
-    "avg_temp": "18°C (64°F)",
-    "currency": "Mexican Peso (MXN)",
-    "language": "Spanish",
-    "airport": "León/Bajío (BJX) - 1.5 hrs",
-    "time_zone": "CST (UTC-6)",
-    "population": "175,000 (municipality)",
-    "altitude": "1,900m (6,234ft)"
-  },
-  "highlights": [
-    "UNESCO World Heritage colonial center",
-    "Iconic Parroquia de San Miguel Arcángel",
-    "Thriving arts and gallery scene",
-    "World-class restaurants and boutiques",
-    "Hot springs (thermal baths) nearby"
-  ],
+  "og_image": "https://images.unsplash.com/photo-1585160788981-2d5def9f04ab?w=1200&h=630&fit=crop&q=80",
+  "og_image_alt": "Iconic pink Parroquia de San Miguel Arcángel church in San Miguel de Allende",
+  "canonical_url": "https://topmexicotravel.com/en/san-miguel-de-allende/",
+  "hero_image": "https://images.unsplash.com/photo-1585160788981-2d5def9f04ab?w=1920&h=1080&fit=crop&q=80",
+  "hero_image_alt": "Pink spires of the Parroquia church rising above colorful colonial streets in San Miguel de Allende",
+  "tagline": "Timeless colonial splendor — where cobblestone streets, art galleries, and the world's most beautiful church create pure magic",
+  "featured_snippet_intro": "San Miguel de Allende is Mexico's most picturesque colonial town—a UNESCO World Heritage site where cobblestone streets wind past pastel-colored buildings beneath the fairy-tale spires of the iconic Parroquia church. Repeatedly voted 'Best City in the World' by Travel + Leisure, this artistic haven offers timeless charm, sophisticated dining, and a thriving creative community.",
+  "introduction": "<p>Founded in 1542, San Miguel de Allende played a crucial role in Mexican independence and has been carefully preserved ever since. The entire historic center is a designated UNESCO World Heritage site, with not a single power line or neon sign to disrupt the colonial aesthetic. The town's unlikely landmark, the neo-Gothic Parroquia de San Miguel Arcángel, was redesigned in the late 1800s by a self-taught indigenous mason reportedly inspired by European cathedral postcards.</p><p>San Miguel has attracted artists and writers since the 1930s, and today hosts a vibrant creative community alongside a large expat population. This international influence has created an unusually sophisticated dining and shopping scene for a town of its size, with galleries, boutiques, and restaurants rivaling those in major cities.</p><p>Yet San Miguel remains unmistakably Mexican, from the mariachis in the jardín to the family-owned shops selling traditional crafts. Whether you're drawn by art, food, architecture, or simply the magic of walking these timeless streets, San Miguel de Allende casts a spell that keeps visitors returning for decades.</p>",
+  "best_time_to_visit": "March - May, October",
+  "average_temperature": "18°C / 64°F",
+  "known_for": "Parroquia Church & Art Scene",
+  "airport_code": "BJX (1.5 hrs)",
+  "rating": "4.9",
+  "review_count": "4820",
+  "tourist_types_json": "[\"Art Lover\", \"Architecture Enthusiast\", \"Food & Wine Traveler\", \"Romantic Getaway\", \"Expat Curious\"]",
+
   "attractions": [
     {
       "name": "Parroquia de San Miguel Arcángel",
       "type": "Historic Church",
-      "description": "San Miguel's iconic pink neo-Gothic church dominating the main plaza. The dramatic façade is best photographed at sunset or lit up at night.",
+      "description": "San Miguel's iconic neo-Gothic church with its distinctive pink spires dominates the main plaza. The remarkable façade was created by indigenous mason Zeferino Gutiérrez, inspired by European cathedral postcards.",
+      "image": "https://images.unsplash.com/photo-1585160788981-2d5def9f04ab?w=800&h=600&fit=crop&q=80",
       "duration": "30 min - 1 hour",
       "price": "Free",
+      "tip": "Photograph at sunset when the stone turns golden, or at night when illuminated.",
       "coordinates": {"lat": 20.9148, "lng": -100.7450}
     },
     {
       "name": "El Jardín (Main Plaza)",
       "type": "Historic Plaza",
-      "description": "The heart of San Miguel, a shaded plaza surrounded by restaurants and shops where locals and visitors gather beneath the Parroquia.",
+      "description": "The heart of San Miguel, a shaded plaza with perfectly trimmed Indian laurel trees where locals and visitors gather beneath the Parroquia. Surrounded by restaurants with balcony seating.",
+      "image": "https://images.unsplash.com/photo-1578469550956-0e16b69c6a3d?w=800&h=600&fit=crop&q=80",
       "duration": "1-2 hours",
       "price": "Free",
+      "tip": "Grab a balcony seat at a restaurant for prime people-watching and church views.",
       "coordinates": {"lat": 20.9148, "lng": -100.7452}
     },
     {
       "name": "Fábrica La Aurora",
       "type": "Art Complex",
-      "description": "Former textile factory converted into galleries, antique shops, restaurants, and design studios. San Miguel's artistic heart.",
+      "description": "Former textile factory converted into San Miguel's artistic heart—a complex of contemporary art galleries, antique shops, design studios, and restaurants in beautiful industrial spaces.",
+      "image": "https://images.unsplash.com/photo-1594608661623-aa0bd3a69d98?w=800&h=600&fit=crop&q=80",
       "duration": "2-3 hours",
       "price": "Free entry",
+      "tip": "Visit on Saturday mornings for the brunch scene and full gallery activity.",
       "coordinates": {"lat": 20.9225, "lng": -100.7478}
     },
     {
       "name": "El Charco del Ingenio",
       "type": "Botanical Garden",
-      "description": "Expansive botanical garden and nature preserve with Mexico's largest collection of cacti and stunning valley views.",
+      "description": "Expansive botanical garden and nature preserve with Mexico's largest collection of cacti and succulents, plus stunning canyon views, walking trails, and a sacred ceremonial site.",
+      "image": "https://images.unsplash.com/photo-1585320806297-9794b3e4eeae?w=800&h=600&fit=crop&q=80",
       "duration": "2-3 hours",
       "price": "$5 USD",
+      "tip": "Come early morning for birdwatching. The canyon views are spectacular at sunrise.",
       "coordinates": {"lat": 20.9064, "lng": -100.7306}
     },
     {
       "name": "La Gruta Hot Springs",
       "type": "Hot Springs",
-      "description": "Natural thermal pools including a unique cave pool—perfect for relaxing after exploring the cobblestones.",
+      "description": "Natural thermal pools including a unique grotto pool inside a cave—geothermally heated water from volcanic activity. Perfect for relaxing after exploring cobblestones.",
+      "image": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&h=600&fit=crop&q=80",
       "duration": "2-4 hours",
       "price": "$15-20 USD",
+      "tip": "Go on weekday mornings to avoid crowds. The cave pool is magical.",
       "coordinates": {"lat": 20.9539, "lng": -100.7033}
     },
     {
       "name": "Sanctuary of Atotonilco",
       "type": "Historic Church",
-      "description": "Called 'The Sistine Chapel of Mexico,' this UNESCO church features extraordinary 18th-century murals. 15km from town.",
+      "description": "Called 'The Sistine Chapel of Mexico,' this UNESCO-listed 18th-century church 15km from town features extraordinary murals covering every surface—a masterpiece of religious folk art.",
+      "image": "https://images.unsplash.com/photo-1518638150340-f706e86654de?w=800&h=600&fit=crop&q=80",
       "duration": "1-2 hours",
-      "price": "Free",
+      "price": "Free (donation suggested)",
+      "tip": "Combine with the hot springs, which are on the same road. Photography prohibited inside.",
       "coordinates": {"lat": 20.9933, "lng": -100.7883}
+    },
+    {
+      "name": "Mirador Viewpoint",
+      "type": "Viewpoint",
+      "description": "Panoramic overlook with postcard-perfect views of San Miguel's church spires and colorful rooftops. Best at sunset with a drink from the nearby café.",
+      "image": "https://images.unsplash.com/photo-1585160788981-2d5def9f04ab?w=800&h=600&fit=crop&q=80",
+      "duration": "30 min - 1 hour",
+      "price": "Free",
+      "tip": "Time your visit for sunset when the light is golden. Bring a jacket—it's often breezy.",
+      "coordinates": {"lat": 20.9180, "lng": -100.7400}
+    },
+    {
+      "name": "Casa del Mayorazgo de la Canal",
+      "type": "Historic Building",
+      "description": "Stunning 18th-century mansion now housing Banamex cultural center with rotating art exhibitions, beautiful courtyard, and original colonial architecture.",
+      "image": "https://images.unsplash.com/photo-1578469550956-0e16b69c6a3d?w=800&h=600&fit=crop&q=80",
+      "duration": "1 hour",
+      "price": "Free",
+      "tip": "Check for current exhibitions. The building itself is worth the visit.",
+      "coordinates": {"lat": 20.9140, "lng": -100.7445}
+    },
+    {
+      "name": "Art Gallery Walking Tour",
+      "type": "Cultural Experience",
+      "description": "Explore dozens of galleries showcasing Mexican and international contemporary art. The scene is especially vibrant during the summer's Festival de las Artes.",
+      "image": "https://images.unsplash.com/photo-1594608661623-aa0bd3a69d98?w=800&h=600&fit=crop&q=80",
+      "duration": "2-4 hours",
+      "price": "Free (guided tours available)",
+      "tip": "Start at Fábrica La Aurora, then walk through centro. Many galleries offer wine.",
+      "coordinates": {"lat": 20.9148, "lng": -100.7450}
+    },
+    {
+      "name": "Cooking Classes",
+      "type": "Cultural Experience",
+      "description": "Learn traditional Mexican cooking from expert chefs. Many classes include market tours to select ingredients and end with a feast of your creations.",
+      "image": "https://images.unsplash.com/photo-1466637574441-749b8f19452f?w=800&h=600&fit=crop&q=80",
+      "duration": "4-6 hours",
+      "price": "$80-150 USD",
+      "tip": "Book Sazón or El Buen Café for highly-rated experiences. Reserve in advance.",
+      "coordinates": {"lat": 20.9150, "lng": -100.7450}
     }
   ],
-  "hotels": [
+
+  "neighborhoods": [
+    {
+      "name": "Centro Histórico",
+      "slug": "centro-historico",
+      "description": "The UNESCO-protected colonial heart of San Miguel, radiating from the Parroquia and El Jardín. Every street offers photogenic colonial architecture, galleries, boutiques, and restaurants.",
+      "image": "https://images.unsplash.com/photo-1585160788981-2d5def9f04ab?w=800&h=600&fit=crop&q=80",
+      "vibe": "Historic, romantic, cultural",
+      "best_for": "First-time visitors, photographers, culture lovers",
+      "highlights": ["Parroquia church", "El Jardín plaza", "Galleries", "Boutique shopping"]
+    },
+    {
+      "name": "Guadiana",
+      "slug": "guadiana",
+      "description": "Upscale residential neighborhood with stunning views, contemporary architecture, and some of the town's best restaurants. Where many expats have settled.",
+      "image": "https://images.unsplash.com/photo-1578469550956-0e16b69c6a3d?w=800&h=600&fit=crop&q=80",
+      "vibe": "Upscale, modern, residential",
+      "best_for": "Fine dining, sunset views, longer stays",
+      "highlights": ["Viewpoints", "Contemporary restaurants", "Quiet streets"]
+    },
+    {
+      "name": "La Aurora / Fábrica Area",
+      "slug": "la-aurora",
+      "description": "The artsy neighborhood surrounding Fábrica La Aurora, with galleries, design shops, and creative energy. More contemporary than the historic center.",
+      "image": "https://images.unsplash.com/photo-1594608661623-aa0bd3a69d98?w=800&h=600&fit=crop&q=80",
+      "vibe": "Artsy, creative, bohemian",
+      "best_for": "Art collectors, design enthusiasts, gallery hopping",
+      "highlights": ["Fábrica La Aurora", "Contemporary galleries", "Antique shops"]
+    },
+    {
+      "name": "San Antonio",
+      "slug": "san-antonio",
+      "description": "Traditional Mexican neighborhood with local markets, authentic taquerías, and a glimpse of everyday San Miguel life beyond the tourist center.",
+      "image": "https://images.unsplash.com/photo-1574781330855-d0db8cc6a79c?w=800&h=600&fit=crop&q=80",
+      "vibe": "Local, authentic, affordable",
+      "best_for": "Budget travelers, authentic experiences, local food",
+      "highlights": ["Local markets", "Street food", "Traditional life"]
+    }
+  ],
+
+  "featured_hotels": [
     {
       "name": "Rosewood San Miguel de Allende",
       "category": "Ultra-Luxury",
       "stars": 5,
-      "price_range": "$$$$$",
-      "description": "World-class luxury hotel with rooftop pool, spa, and stunning Parroquia views",
-      "features": ["Rooftop pool", "Spa", "Parroquia views", "Fine dining"]
+      "price_range": "$700",
+      "description": "World-class luxury hotel with rooftop pool, Luna rooftop bar with Parroquia views, full spa, and exquisite service. The pinnacle of San Miguel hospitality.",
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800&h=600&fit=crop&q=80",
+      "features": ["Rooftop pool", "Parroquia views", "Spa", "Fine dining"]
     },
     {
       "name": "Hotel Matilda",
       "category": "Luxury Boutique",
       "stars": 5,
-      "price_range": "$$$$",
-      "description": "Contemporary design hotel with acclaimed Moxi restaurant and rooftop bar",
-      "features": ["Contemporary design", "Restaurant", "Spa", "Art collection"]
+      "price_range": "$450",
+      "description": "Contemporary design hotel with acclaimed Moxi restaurant, rooftop bar, and impressive contemporary art collection. Where design meets Mexican hospitality.",
+      "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=800&h=600&fit=crop&q=80",
+      "features": ["Contemporary design", "Moxi restaurant", "Spa", "Art collection"]
     },
     {
       "name": "Belmond Casa de Sierra Nevada",
       "category": "Luxury",
       "stars": 5,
-      "price_range": "$$$$",
-      "description": "Collection of colonial mansions converted into elegant hotel with cooking school",
+      "price_range": "$400",
+      "description": "Collection of colonial mansions converted into elegant hotel with beautiful courtyards, cooking school, and traditional Mexican charm.",
+      "image": "https://images.unsplash.com/photo-1582719508461-905c673771fd?w=800&h=600&fit=crop&q=80",
       "features": ["Colonial mansions", "Cooking school", "Pool", "Restaurant"]
+    },
+    {
+      "name": "Casa de la Noche",
+      "category": "Boutique",
+      "stars": 4,
+      "price_range": "$200",
+      "description": "Intimate boutique hotel in restored colonial home with rooftop terrace, beautiful gardens, and personalized service.",
+      "image": "https://images.unsplash.com/photo-1564501049412-61c2a3083791?w=800&h=600&fit=crop&q=80",
+      "features": ["Rooftop terrace", "Gardens", "Personal service", "Central location"]
     },
     {
       "name": "Posada Corazón",
       "category": "Mid-Range",
       "stars": 3,
-      "price_range": "$$",
-      "description": "Charming boutique B&B in a restored colonial home near the jardín",
+      "price_range": "$120",
+      "description": "Charming boutique B&B in a beautifully restored colonial home near the jardín. Excellent value with character and wonderful breakfast.",
+      "image": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=800&h=600&fit=crop&q=80",
       "features": ["Breakfast included", "Rooftop terrace", "Central", "Character"]
+    },
+    {
+      "name": "Hostal Alcatraz",
+      "category": "Budget",
+      "stars": 2,
+      "price_range": "$30",
+      "description": "Popular budget hostel with private rooms and dorms, communal kitchen, and great location for exploring on foot.",
+      "image": "https://images.unsplash.com/photo-1555854877-bab0e564b8d5?w=800&h=600&fit=crop&q=80",
+      "features": ["Central location", "Kitchen", "Social", "Budget-friendly"]
     }
   ],
-  "restaurants": [
+
+  "featured_restaurants": [
     {
-      "name": "Moxi",
+      "name": "Moxi (Hotel Matilda)",
       "cuisine": "Contemporary Mexican",
       "price_range": "$$$$",
-      "description": "Hotel Matilda's acclaimed restaurant with creative Mexican cuisine in stylish setting"
+      "description": "Hotel Matilda's acclaimed restaurant with creative Mexican cuisine, beautiful presentation, and stylish contemporary setting.",
+      "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800&h=600&fit=crop&q=80",
+      "must_try": ["Tasting menu", "Creative cocktails", "Sunday brunch"]
     },
     {
       "name": "The Restaurant (Rosewood)",
       "cuisine": "Fine Dining",
       "price_range": "$$$$",
-      "description": "Elegant dining with farm-to-table philosophy and stunning rooftop setting"
-    },
-    {
-      "name": "Hank's New Orleans Café",
-      "cuisine": "Cajun/Mexican",
-      "price_range": "$$",
-      "description": "Quirky local institution mixing New Orleans and Mexican flavors since 1958"
+      "description": "Elegant rooftop dining at the Rosewood with farm-to-table philosophy, stunning views, and impeccable service.",
+      "image": "https://images.unsplash.com/photo-1544025162-d76694265947?w=800&h=600&fit=crop&q=80",
+      "must_try": ["Rooftop views", "Seasonal tasting menu", "Mexican wines"]
     },
     {
       "name": "La Posadita",
       "cuisine": "Traditional Mexican",
       "price_range": "$$",
-      "description": "Rooftop restaurant with best Parroquia views—come for sunset and stay for margaritas"
+      "description": "Beloved rooftop restaurant with the best Parroquia views in town. Come for sunset margaritas and stay for traditional Mexican comfort food.",
+      "image": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=800&h=600&fit=crop&q=80",
+      "must_try": ["Margaritas at sunset", "Enchiladas", "Parroquia views"]
+    },
+    {
+      "name": "Hank's New Orleans Café",
+      "cuisine": "Cajun/Mexican",
+      "price_range": "$$",
+      "description": "Quirky local institution since 1958, mixing New Orleans and Mexican flavors in an eccentric, art-filled setting.",
+      "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800&h=600&fit=crop&q=80",
+      "must_try": ["Jambalaya", "Margaritas", "Unique atmosphere"]
+    },
+    {
+      "name": "Lavanda Café",
+      "cuisine": "Café/Brunch",
+      "price_range": "$$",
+      "description": "Charming garden café famous for breakfast and brunch with Mexican and international options in a beautiful courtyard setting.",
+      "image": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=800&h=600&fit=crop&q=80",
+      "must_try": ["Chilaquiles", "Fresh juices", "Garden seating"]
+    },
+    {
+      "name": "Nectar",
+      "cuisine": "Mediterranean/Mexican",
+      "price_range": "$$$",
+      "description": "Farm-to-table restaurant in a beautiful courtyard setting, with ingredients from local organic farms and creative seasonal menus.",
+      "image": "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=800&h=600&fit=crop&q=80",
+      "must_try": ["Seasonal menu", "Garden vegetables", "Natural wines"]
+    },
+    {
+      "name": "Mercado del Carmen",
+      "cuisine": "Market Food",
+      "price_range": "$",
+      "description": "Local market with food stalls serving authentic, cheap, delicious Mexican food. Where locals eat—not tourists.",
+      "image": "https://images.unsplash.com/photo-1574781330855-d0db8cc6a79c?w=800&h=600&fit=crop&q=80",
+      "must_try": ["Carnitas", "Fresh juices", "Tortas"]
+    },
+    {
+      "name": "Aperi",
+      "cuisine": "Contemporary Mexican",
+      "price_range": "$$$$",
+      "description": "Modern Mexican cuisine by chef Matteo Salas, using indigenous ingredients and contemporary techniques. Rising star of the San Miguel food scene.",
+      "image": "https://images.unsplash.com/photo-1544025162-d76694265947?w=800&h=600&fit=crop&q=80",
+      "must_try": ["Tasting menu", "Local ingredients", "Wine pairing"]
     }
   ],
+
+  "day_trips": [
+    {
+      "name": "Guanajuato City",
+      "distance": "85km (1.5 hours)",
+      "description": "UNESCO colorful colonial city with underground streets, vibrant plazas, famous Mummy Museum, and traditional callejoneadas (musical walking tours).",
+      "image": "https://images.unsplash.com/photo-1585468274952-66591eb14165?w=800&h=600&fit=crop&q=80",
+      "tips": "Allow a full day. The colorful hillside houses and underground streets are unlike anywhere else in Mexico."
+    },
+    {
+      "name": "Dolores Hidalgo",
+      "distance": "40km (45 min)",
+      "description": "Birthplace of Mexican independence with historic church, famous ice cream shops offering exotic flavors, and Talavera pottery workshops.",
+      "image": "https://images.unsplash.com/photo-1578469550956-0e16b69c6a3d?w=800&h=600&fit=crop&q=80",
+      "tips": "Try unusual ice cream flavors like mole, avocado, or shrimp. Visit the parish church where the independence movement began."
+    },
+    {
+      "name": "Pozos (Mineral de Pozos)",
+      "distance": "50km (1 hour)",
+      "description": "Atmospheric ghost mining town being revived as an artsy weekend destination, with ruins, galleries, and excellent mezcal bars.",
+      "image": "https://images.unsplash.com/photo-1578469550956-0e16b69c6a3d?w=800&h=600&fit=crop&q=80",
+      "tips": "Go on a weekend when galleries and restaurants are open. The abandoned mine ruins are haunting and photogenic."
+    },
+    {
+      "name": "Querétaro",
+      "distance": "75km (1 hour)",
+      "description": "Underrated colonial city with beautiful aqueduct, excellent food scene, growing wine country, and fewer tourists than San Miguel.",
+      "image": "https://images.unsplash.com/photo-1585160788981-2d5def9f04ab?w=800&h=600&fit=crop&q=80",
+      "tips": "Visit the baroque churches, walk the aqueduct, and explore the wine country if time allows."
+    }
+  ],
+
   "faqs": [
     {
       "question": "Why is San Miguel de Allende so popular?",
-      "answer": "San Miguel combines stunning colonial architecture, perfect weather, safety, walkability, a thriving arts scene, and sophisticated dining. The UNESCO-protected town has been repeatedly voted 'Best City in the World' by Travel + Leisure readers. A large expat community has created international-quality amenities while preserving Mexican charm."
+      "answer": "San Miguel combines stunning colonial architecture, perfect weather (mild year-round at 6,200 feet), safety, walkability, a thriving arts scene, and sophisticated dining. The UNESCO-protected town has been repeatedly voted 'Best City in the World' by Travel + Leisure readers. A large expat community has created international-quality amenities while preserving Mexican charm."
     },
     {
       "question": "How do I get to San Miguel de Allende?",
@@ -155,11 +336,11 @@
     },
     {
       "question": "Is San Miguel de Allende expensive?",
-      "answer": "San Miguel is one of Mexico's more expensive destinations, especially for accommodation and dining in tourist areas. Luxury hotels can exceed $500/night, though charming mid-range options exist for $100-200. Eating at local spots in the market is much cheaper than tourist restaurants."
+      "answer": "San Miguel is one of Mexico's more expensive destinations, especially for accommodation and dining in tourist areas. Luxury hotels can exceed $500/night, though charming mid-range options exist for $100-200. Eating at local spots in the markets is much cheaper than tourist restaurants. Budget travelers can manage with careful planning."
     },
     {
       "question": "How many days do you need in San Miguel de Allende?",
-      "answer": "2-3 days is ideal for exploring the historic center, visiting galleries, and experiencing the food scene. Add another day for the hot springs and Atotonilco sanctuary. Many visitors extend their stay or return repeatedly—San Miguel has a way of capturing hearts."
+      "answer": "2-3 days is ideal for exploring the historic center, visiting galleries, and experiencing the food scene. Add another day for the hot springs and Atotonilco sanctuary. Add a day trip to Guanajuato for the full experience. Many visitors extend their stay or return repeatedly—San Miguel has a way of capturing hearts."
     },
     {
       "question": "Is San Miguel de Allende safe?",
@@ -167,10 +348,53 @@
     },
     {
       "question": "When are the best festivals in San Miguel de Allende?",
-      "answer": "Major events include Semana Santa (Easter week) with elaborate processions, Independence Day (September 15-16), Day of the Dead (late October/early November), and La Alborada fireworks festival (September). Christmas and New Year feature beautiful decorations and celebrations."
+      "answer": "Major events include Semana Santa (Easter week) with elaborate processions, Independence Day (September 15-16), Day of the Dead (late October/early November), and La Alborada fireworks festival (September). Christmas features beautiful decorations. The Cervantino Festival in nearby Guanajuato (October) spills over to San Miguel."
+    },
+    {
+      "question": "What is the weather like in San Miguel de Allende?",
+      "answer": "At 6,234 feet elevation, San Miguel has mild weather year-round. Days are warm (70-85°F) and nights are cool (50-60°F). Rainy season (June-September) brings afternoon showers but plenty of sunshine. November through May is dry. Pack layers—temperatures drop quickly after sunset."
+    },
+    {
+      "question": "Is San Miguel de Allende good for art lovers?",
+      "answer": "Yes, San Miguel is one of Mexico's premier art destinations. The town has attracted artists since the 1930s and today hosts dozens of galleries, artist studios, and art schools. Fábrica La Aurora is the main gallery complex. The Instituto Allende offers art courses, and the annual Festival de las Artes draws international artists."
+    },
+    {
+      "question": "Can I drink the water in San Miguel de Allende?",
+      "answer": "As in most of Mexico, stick to bottled or purified water for drinking. Most hotels and restaurants use purified water for cooking and ice. The local hot springs use natural geothermal water and are safe for soaking (not drinking)."
+    },
+    {
+      "question": "Is San Miguel de Allende good for a honeymoon?",
+      "answer": "Absolutely. San Miguel is one of Mexico's most romantic destinations, with beautiful boutique hotels, excellent restaurants, charming streets, and a timeless atmosphere. Many couples come for destination weddings. The Rosewood, Belmond, and smaller boutique hotels specialize in romance."
     }
   ],
-  "related_destinations": ["guanajuato", "queretaro", "mexico-city", "dolores-hidalgo", "pozos"],
+
+  "getting_there": "The nearest major airport is León/Bajío (BJX), about 1.5 hours away, with flights from the US and Mexico City. Querétaro airport (QRO) is closer but has fewer flights. Private transfers from BJX cost $100-150 USD. Luxury bus lines (ETN, Primera Plus) connect San Miguel to Mexico City (4 hours) and Guadalajara (5 hours).",
+  "getting_around": "San Miguel's centro is very walkable—that's part of its charm. The cobblestones are uneven, so wear comfortable shoes. Taxis are available for outlying attractions like hot springs and Atotonilco. Uber works. For day trips to Guanajuato or Dolores Hidalgo, hire a car or join a tour. Parking in centro is extremely limited.",
+  "safety_info": "San Miguel de Allende is one of Mexico's safest destinations. The historic center is safe to walk day and night. The large expat community and tourism-dependent economy ensure security is prioritized. Use normal precautions: don't flash valuables, use ATMs inside banks, and be aware of your surroundings.",
+
+  "related_destinations": [
+    {
+      "name": "Guanajuato",
+      "url": "/en/guanajuato/",
+      "image": "https://images.unsplash.com/photo-1585468274952-66591eb14165?w=400&h=300&fit=crop&q=80"
+    },
+    {
+      "name": "Mexico City",
+      "url": "/en/mexico-city/",
+      "image": "https://images.unsplash.com/photo-1518659526054-e8b8b4a8e1b6?w=400&h=300&fit=crop&q=80"
+    },
+    {
+      "name": "Oaxaca",
+      "url": "/en/oaxaca/",
+      "image": "https://images.unsplash.com/photo-1518638150340-f706e86654de?w=400&h=300&fit=crop&q=80"
+    },
+    {
+      "name": "Querétaro",
+      "url": "/en/queretaro/",
+      "image": "https://images.unsplash.com/photo-1585160788981-2d5def9f04ab?w=400&h=300&fit=crop&q=80"
+    }
+  ],
+
   "tags": ["colonial", "unesco", "art", "architecture", "romantic", "expat", "food", "luxury"],
   "schema_type": "TouristDestination"
 }

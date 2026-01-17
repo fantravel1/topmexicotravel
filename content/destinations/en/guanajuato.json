@@ -5,149 +5,305 @@
   "state": "Guanajuato",
   "country": "Mexico",
   "type": "colonial",
+  "lang": "en",
   "coordinates": {
     "latitude": 21.0190,
     "longitude": -101.2574
   },
-  "meta_title": "Guanajuato Travel Guide 2025 - Mexico's Most Colorful Colonial City",
+  "meta_title": "Guanajuato Travel Guide 2025 - Mexico's Most Colorful Colonial City | Top Mexico Travel",
   "meta_description": "Explore Guanajuato, Mexico's most colorful colonial city. Discover underground streets, vibrant painted houses, famous mummies museum, and lively plazas in this UNESCO World Heritage student town.",
-  "hero_image": "/assets/images/destinations/guanajuato-hero.jpg",
-  "hero_alt": "Colorful hillside houses of Guanajuato with University of Guanajuato and Basilica",
-  "introduction": {
-    "snippet": "Guanajuato is Mexico's most dramatically beautiful colonial city—a UNESCO World Heritage gem nestled in a narrow ravine where colorful houses cascade down hillsides, underground streets wind through old mine tunnels, and callejoneadas (musical walking tours) fill the night with song. This vibrant university town delivers visual wonder at every turn.",
-    "full": "Founded in 1559 after silver was discovered in the surrounding hills, Guanajuato became one of the world's most productive silver mining regions, funding ornate churches and grand theaters. When the mines declined, the city preserved its colonial character almost perfectly. Today, the winding streets (some running underground through former mine tunnels and a riverbed), colorful facades, and elaborate plazas create one of Mexico's most photogenic urban landscapes.\n\nHome to the prestigious University of Guanajuato, the city pulses with youthful energy. Students and visitors gather in the jardín principal, wander the underground streets, and join the callejoneadas—traditional musical processions through the alleys led by estudiantinas (student troubadours). The city is also famous for the Mummy Museum, displaying naturally mummified bodies from the 19th century, and the annual Festival Cervantino, Latin America's largest performing arts festival. Guanajuato pairs perfectly with nearby San Miguel de Allende for an unforgettable colonial Mexico experience."
-  },
-  "quick_facts": {
-    "best_time": "October to May",
-    "avg_temp": "18°C (64°F)",
-    "currency": "Mexican Peso (MXN)",
-    "language": "Spanish",
-    "airport": "León/Bajío (BJX) - 45 min",
-    "time_zone": "CST (UTC-6)",
-    "population": "185,000 (city)",
-    "altitude": "2,000m (6,562ft)"
-  },
-  "highlights": [
-    "Spectacularly colorful hillside architecture",
-    "Underground streets through old mine tunnels",
-    "Traditional callejoneadas night tours",
-    "UNESCO World Heritage center",
-    "Famous Mummy Museum"
-  ],
+  "og_image": "https://images.unsplash.com/photo-1585468274952-66591eb14165?w=1200&h=630&fit=crop&q=80",
+  "og_image_alt": "Colorful hillside houses of Guanajuato city",
+  "canonical_url": "https://topmexicotravel.com/en/guanajuato/",
+  "hero_image": "https://images.unsplash.com/photo-1585468274952-66591eb14165?w=1920&h=1080&fit=crop&q=80",
+  "hero_image_alt": "Stunning panorama of colorful houses cascading down Guanajuato's hillsides",
+  "tagline": "A rainbow city in a ravine — where underground streets, colorful houses, and musical traditions create Mexico's most magical urban landscape",
+  "featured_snippet_intro": "Guanajuato is Mexico's most dramatically beautiful colonial city—a UNESCO World Heritage gem nestled in a narrow ravine where colorful houses cascade down hillsides, underground streets wind through old mine tunnels, and callejoneadas (musical walking tours) fill the night with song. This vibrant university town delivers visual wonder at every turn.",
+  "introduction": "<p>Founded in 1559 after silver was discovered in the surrounding hills, Guanajuato became one of the world's most productive silver mining regions, funding ornate churches and grand theaters. When the mines declined, the city preserved its colonial character almost perfectly. Today, the winding streets (some running underground through former mine tunnels and a riverbed), colorful facades, and elaborate plazas create one of Mexico's most photogenic urban landscapes.</p><p>Home to the prestigious University of Guanajuato, the city pulses with youthful energy. Students and visitors gather in the jardín principal, wander the underground streets, and join the callejoneadas—traditional musical processions through the alleys led by estudiantinas (student troubadours).</p><p>The city is also famous for the Mummy Museum, displaying naturally mummified bodies from the 19th century, and the annual Festival Cervantino, Latin America's largest performing arts festival. Guanajuato pairs perfectly with nearby San Miguel de Allende for an unforgettable colonial Mexico experience.</p>",
+  "best_time_to_visit": "October - May",
+  "average_temperature": "18°C / 64°F",
+  "known_for": "Colorful Houses & Callejoneadas",
+  "airport_code": "BJX (45 min)",
+  "rating": "4.8",
+  "review_count": "3920",
+  "tourist_types_json": "[\"Culture Enthusiast\", \"Photographer\", \"History Buff\", \"Festival Goer\", \"Romantic Traveler\"]",
+
   "attractions": [
     {
       "name": "Callejoneada",
       "type": "Cultural Experience",
-      "description": "Traditional musical procession through the alleys led by troubadours in colonial dress. Includes wine and stories of the callejones.",
+      "description": "Traditional musical procession through Guanajuato's narrow alleys led by estudiantinas in colonial dress. Participants carry wine in ceramic jugs while troubadours play guitars and tell tales of love and legend.",
+      "image": "https://images.unsplash.com/photo-1578469550956-0e16b69c6a3d?w=800&h=600&fit=crop&q=80",
       "duration": "2-3 hours",
       "price": "$10-20 USD",
+      "tip": "Tours depart from the jardín most nights around 8pm. Book in advance on weekends. Wear comfortable walking shoes.",
       "coordinates": {"lat": 21.0186, "lng": -101.2562}
     },
     {
       "name": "Museo de las Momias",
       "type": "Museum",
-      "description": "Famous (and slightly macabre) museum displaying over 100 naturally mummified bodies from the 19th century, including children.",
+      "description": "Famous (and slightly macabre) museum displaying over 100 naturally mummified bodies from the 19th century, preserved by the area's unique mineral-rich dry climate. Not for the faint of heart.",
+      "image": "https://images.unsplash.com/photo-1594608661623-aa0bd3a69d98?w=800&h=600&fit=crop&q=80",
       "duration": "1-2 hours",
       "price": "$5 USD",
+      "tip": "Take a taxi as it's uphill from centro. Photography is allowed. Some find it unsettling—skip if you're squeamish.",
       "coordinates": {"lat": 21.0267, "lng": -101.2711}
     },
     {
-      "name": "Pipila Monument",
+      "name": "Pípila Monument & Viewpoint",
       "type": "Viewpoint",
-      "description": "Hilltop statue honoring independence hero with spectacular panoramic views of the colorful city. Reach by funicular or steep climb.",
-      "duration": "1 hour",
+      "description": "Hilltop statue honoring independence hero with spectacular 360-degree panoramic views of the entire colorful city. Reach by funicular or steep climb through winding alleys.",
+      "image": "https://images.unsplash.com/photo-1585468274952-66591eb14165?w=800&h=600&fit=crop&q=80",
+      "duration": "1-2 hours",
       "price": "$3 USD funicular",
+      "tip": "Come at sunset when the city glows golden. The funicular runs until 10pm. Walking up offers its own rewards.",
       "coordinates": {"lat": 21.0161, "lng": -101.2533}
     },
     {
       "name": "Teatro Juárez",
       "type": "Historic Theater",
-      "description": "Ornate 19th-century theater with Moorish interior—one of Mexico's most beautiful performance venues.",
-      "duration": "30 min tour",
+      "description": "Ornate 19th-century theater with Moorish interior, bronze lion statues, and elaborate decoration—one of Mexico's most beautiful performance venues and a symbol of the city's silver wealth.",
+      "image": "https://images.unsplash.com/photo-1578469550956-0e16b69c6a3d?w=800&h=600&fit=crop&q=80",
+      "duration": "30 min - 1 hour",
       "price": "$3 USD",
+      "tip": "Check for performances during your visit. The interior is stunning—try to catch a concert if possible.",
       "coordinates": {"lat": 21.0183, "lng": -101.2556}
     },
     {
       "name": "Underground Streets",
       "type": "Urban Feature",
-      "description": "Unique network of streets running through old mine tunnels and the covered riverbed beneath the city center.",
+      "description": "Unique network of streets running through old mine tunnels and the covered riverbed beneath the city. A completely surreal experience driving or walking through tunnels within the city.",
+      "image": "https://images.unsplash.com/photo-1585468274952-66591eb14165?w=800&h=600&fit=crop&q=80",
       "duration": "1-2 hours walking",
       "price": "Free",
+      "tip": "The main underground artery runs through the old riverbed. Walk or take a taxi through to experience this unique feature.",
       "coordinates": {"lat": 21.0190, "lng": -101.2574}
     },
     {
       "name": "Alhóndiga de Granaditas",
       "type": "Museum/Historic Site",
-      "description": "Former granary and key Independence War battle site, now a history museum with Chávez Morado murals.",
+      "description": "Former granary where a pivotal Independence War battle occurred, now housing an excellent history museum with Chávez Morado murals and regional artifacts.",
+      "image": "https://images.unsplash.com/photo-1594608661623-aa0bd3a69d98?w=800&h=600&fit=crop&q=80",
       "duration": "1-2 hours",
       "price": "$5 USD",
+      "tip": "The murals alone are worth the visit. Ask about the hooks where the heads of independence heroes were displayed.",
       "coordinates": {"lat": 21.0197, "lng": -101.2525}
+    },
+    {
+      "name": "Jardín de la Unión",
+      "type": "Plaza",
+      "description": "The main plaza and social heart of Guanajuato, a triangular garden surrounded by cafés and the Teatro Juárez. Musicians often perform under the trimmed laurel trees.",
+      "image": "https://images.unsplash.com/photo-1578469550956-0e16b69c6a3d?w=800&h=600&fit=crop&q=80",
+      "duration": "1-2 hours",
+      "price": "Free",
+      "tip": "Grab a coffee at an outdoor café and watch the world go by. Evenings are particularly lively.",
+      "coordinates": {"lat": 21.0184, "lng": -101.2558}
+    },
+    {
+      "name": "Callejón del Beso (Alley of the Kiss)",
+      "type": "Historic Alley",
+      "description": "Narrow alley where opposing balconies are so close that lovers could kiss across the gap. Legend says couples who kiss on the third step will have seven years of happiness.",
+      "image": "https://images.unsplash.com/photo-1585468274952-66591eb14165?w=800&h=600&fit=crop&q=80",
+      "duration": "15 min",
+      "price": "Free",
+      "tip": "Listen to the romantic legend from local storytellers, then take your own photo on the famous steps.",
+      "coordinates": {"lat": 21.0175, "lng": -101.2545}
+    },
+    {
+      "name": "University of Guanajuato",
+      "type": "Historic Building",
+      "description": "Impressive white stone university building dominating the hillside, with distinctive Neoclassical architecture and sweeping staircases. Students give the city its youthful energy.",
+      "image": "https://images.unsplash.com/photo-1585468274952-66591eb14165?w=800&h=600&fit=crop&q=80",
+      "duration": "30 min - 1 hour",
+      "price": "Free (exterior)",
+      "tip": "The facade is spectacular at night when illuminated. Climb the stairs for city views.",
+      "coordinates": {"lat": 21.0178, "lng": -101.2548}
+    },
+    {
+      "name": "Mercado Hidalgo",
+      "type": "Market",
+      "description": "Beautiful ironwork market building (designed by the same engineers as Eiffel Tower) with food stalls, crafts, and local snacks. A great place for breakfast or souvenirs.",
+      "image": "https://images.unsplash.com/photo-1574781330855-d0db8cc6a79c?w=800&h=600&fit=crop&q=80",
+      "duration": "1-2 hours",
+      "price": "Free entry",
+      "tip": "Try the local enchiladas mineras and fresh fruit. The architecture is worth seeing as much as the goods.",
+      "coordinates": {"lat": 21.0203, "lng": -101.2536}
     }
   ],
-  "hotels": [
+
+  "neighborhoods": [
+    {
+      "name": "Centro Histórico",
+      "slug": "centro-historico",
+      "description": "The UNESCO-protected heart of Guanajuato, built along the ravine floor with colonial plazas, churches, the university, and the main jardín. Most attractions are here.",
+      "image": "https://images.unsplash.com/photo-1585468274952-66591eb14165?w=800&h=600&fit=crop&q=80",
+      "vibe": "Historic, bustling, pedestrian-friendly",
+      "best_for": "First-time visitors, walkers, culture lovers",
+      "highlights": ["Jardín de la Unión", "Teatro Juárez", "University", "Underground streets"]
+    },
+    {
+      "name": "San Roque / Presa Area",
+      "slug": "san-roque",
+      "description": "Charming neighborhood surrounding Plaza San Roque, known for the entremeses (short plays) performed during Festival Cervantino. Quieter than the main jardín.",
+      "image": "https://images.unsplash.com/photo-1578469550956-0e16b69c6a3d?w=800&h=600&fit=crop&q=80",
+      "vibe": "Artistic, theatrical, atmospheric",
+      "best_for": "Theater lovers, those seeking local atmosphere",
+      "highlights": ["Plaza San Roque", "Entremeses performances", "Local cafés"]
+    },
+    {
+      "name": "Panorámica (Hillside)",
+      "slug": "panoramica",
+      "description": "The colorful houses climbing the hillsides that give Guanajuato its famous look. Best viewed from afar or from the Pípila monument. A maze of steep alleys.",
+      "image": "https://images.unsplash.com/photo-1585468274952-66591eb14165?w=800&h=600&fit=crop&q=80",
+      "vibe": "Photogenic, local, hilly",
+      "best_for": "Photographers, adventurous walkers",
+      "highlights": ["Colorful houses", "Pípila viewpoint", "Winding alleys"]
+    },
+    {
+      "name": "Marfil",
+      "slug": "marfil",
+      "description": "Historic district on the outskirts that was once the hacienda area, now with boutique hotels and hacienda restaurants. More tranquil than the center.",
+      "image": "https://images.unsplash.com/photo-1578469550956-0e16b69c6a3d?w=800&h=600&fit=crop&q=80",
+      "vibe": "Tranquil, historic, upscale",
+      "best_for": "Those seeking quiet, hacienda stays",
+      "highlights": ["Historic haciendas", "Boutique hotels", "Ex-Hacienda San Gabriel de Barrera"]
+    }
+  ],
+
+  "featured_hotels": [
     {
       "name": "Edelmira Hotel Boutique",
       "category": "Boutique Luxury",
       "stars": 5,
-      "price_range": "$$$$",
-      "description": "Beautifully restored colonial mansion with rooftop terrace overlooking the city",
-      "features": ["Rooftop terrace", "Colonial mansion", "Central", "Restaurant"]
+      "price_range": "$250",
+      "description": "Beautifully restored colonial mansion with rooftop terrace offering panoramic city views, elegant rooms, and sophisticated service in the heart of centro.",
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800&h=600&fit=crop&q=80",
+      "features": ["Rooftop terrace", "City views", "Colonial mansion", "Restaurant"]
     },
     {
       "name": "Villa María Cristina",
       "category": "Boutique",
       "stars": 4,
-      "price_range": "$$$",
-      "description": "Elegant hotel in former 19th-century mansion with garden and excellent service",
-      "features": ["Garden", "Historic building", "Restaurant", "Central"]
+      "price_range": "$150",
+      "description": "Elegant hotel in a former 19th-century mansion with beautiful garden courtyard, attentive service, and refined colonial atmosphere.",
+      "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=800&h=600&fit=crop&q=80",
+      "features": ["Garden", "Historic building", "Restaurant", "Central location"]
     },
     {
       "name": "Hotel Boutique 1850",
       "category": "Mid-Range",
       "stars": 3,
-      "price_range": "$$",
-      "description": "Charming restored building with rooftop views near the main jardín",
-      "features": ["Rooftop terrace", "Central location", "Value"]
+      "price_range": "$90",
+      "description": "Charming restored building with rooftop views near the main jardín. Excellent value with character and convenient location.",
+      "image": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=800&h=600&fit=crop&q=80",
+      "features": ["Rooftop terrace", "Central location", "Good value"]
+    },
+    {
+      "name": "Hotel Posada Santa Fe",
+      "category": "Classic",
+      "stars": 3,
+      "price_range": "$80",
+      "description": "Historic hotel directly on the jardín with traditional charm, restaurant with outdoor seating, and prime location for watching city life.",
+      "image": "https://images.unsplash.com/photo-1564501049412-61c2a3083791?w=800&h=600&fit=crop&q=80",
+      "features": ["Jardín location", "Restaurant", "Traditional", "Central"]
     },
     {
       "name": "Hostal La Casa del Tío",
       "category": "Budget",
       "stars": 2,
-      "price_range": "$",
-      "description": "Popular budget option with colorful rooms and great social atmosphere",
-      "features": ["Central", "Social atmosphere", "Kitchen", "Tours"]
+      "price_range": "$25",
+      "description": "Popular colorful hostel with great social atmosphere, tours, and warm hospitality. One of Mexico's best budget options.",
+      "image": "https://images.unsplash.com/photo-1555854877-bab0e564b8d5?w=800&h=600&fit=crop&q=80",
+      "features": ["Central", "Social atmosphere", "Kitchen", "Tours organized"]
     }
   ],
-  "restaurants": [
+
+  "featured_restaurants": [
     {
       "name": "Casa Valadez",
       "cuisine": "Mexican/International",
       "price_range": "$$$",
-      "description": "Prime location on the jardín with balcony seating overlooking the plaza"
+      "description": "Prime location on the jardín with balcony seating overlooking the plaza, Teatro Juárez, and all the action. Great for people-watching.",
+      "image": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=800&h=600&fit=crop&q=80",
+      "must_try": ["Balcony seating", "Mexican classics", "Margaritas with a view"]
     },
     {
       "name": "Mestizo",
       "cuisine": "Contemporary Mexican",
       "price_range": "$$$",
-      "description": "Creative Mexican cuisine in intimate setting with excellent cocktails"
+      "description": "Creative Mexican cuisine in an intimate setting with excellent cocktails and sophisticated atmosphere. One of the best in the city.",
+      "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800&h=600&fit=crop&q=80",
+      "must_try": ["Tasting menu", "Craft cocktails", "Contemporary dishes"]
     },
     {
       "name": "Mercado Hidalgo",
       "cuisine": "Market Food",
       "price_range": "$",
-      "description": "Beautiful ironwork market (designed by Eiffel's company) with food stalls and local snacks"
+      "description": "Beautiful ironwork market with food stalls serving local specialties—enchiladas mineras, gorditas, fresh juices, and more.",
+      "image": "https://images.unsplash.com/photo-1574781330855-d0db8cc6a79c?w=800&h=600&fit=crop&q=80",
+      "must_try": ["Enchiladas mineras", "Fresh fruit", "Gorditas"]
     },
     {
       "name": "Santo Café",
       "cuisine": "Café/Light Meals",
       "price_range": "$$",
-      "description": "Rooftop café with University and city views—perfect for breakfast or coffee"
+      "description": "Rooftop café with stunning views of the university and city. Perfect for breakfast, coffee, or sunset drinks.",
+      "image": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=800&h=600&fit=crop&q=80",
+      "must_try": ["Coffee with a view", "Breakfast", "Sunset cocktails"]
+    },
+    {
+      "name": "Truco 7",
+      "cuisine": "Mexican",
+      "price_range": "$$",
+      "description": "Beloved local spot in a charming colonial building with traditional Mexican food, live music, and festive atmosphere.",
+      "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800&h=600&fit=crop&q=80",
+      "must_try": ["Chiles en nogada (seasonal)", "Mezcal selection", "Live music nights"]
+    },
+    {
+      "name": "Los Campos",
+      "cuisine": "Mexican Grill",
+      "price_range": "$$",
+      "description": "Local institution for grilled meats and traditional dishes. Packed with locals on weekends.",
+      "image": "https://images.unsplash.com/photo-1544025162-d76694265947?w=800&h=600&fit=crop&q=80",
+      "must_try": ["Carne asada", "Enchiladas", "Local atmosphere"]
     }
   ],
+
+  "day_trips": [
+    {
+      "name": "San Miguel de Allende",
+      "distance": "85km (1.5 hours)",
+      "description": "Mexico's most beautiful colonial town with iconic pink Parroquia church, thriving art scene, excellent restaurants, and romantic cobblestone streets.",
+      "image": "https://images.unsplash.com/photo-1585160788981-2d5def9f04ab?w=800&h=600&fit=crop&q=80",
+      "tips": "Can be a day trip but deserves at least 2 nights. Combine both cities for the ultimate colonial Mexico experience."
+    },
+    {
+      "name": "Dolores Hidalgo",
+      "distance": "55km (1 hour)",
+      "description": "Birthplace of Mexican independence, famous for its historic church, unusual ice cream flavors, and Talavera pottery. An important pilgrimage site.",
+      "image": "https://images.unsplash.com/photo-1578469550956-0e16b69c6a3d?w=800&h=600&fit=crop&q=80",
+      "tips": "Try bizarre ice cream flavors like mole, chicharrón, or shrimp in the main plaza."
+    },
+    {
+      "name": "La Valenciana Mine & Church",
+      "distance": "5km (15 min)",
+      "description": "Historic silver mine that funded much of Guanajuato's wealth, alongside an opulent baroque church. Still an active mine with tours available.",
+      "image": "https://images.unsplash.com/photo-1594608661623-aa0bd3a69d98?w=800&h=600&fit=crop&q=80",
+      "tips": "The church interior is stunning—funded by mining wealth. Mine tours go deep underground."
+    },
+    {
+      "name": "Ex-Hacienda San Gabriel de Barrera",
+      "distance": "3km (10 min)",
+      "description": "Beautifully restored 17th-century hacienda with gorgeous gardens in different international styles, a museum, and a glimpse into colonial-era wealth.",
+      "image": "https://images.unsplash.com/photo-1578469550956-0e16b69c6a3d?w=800&h=600&fit=crop&q=80",
+      "tips": "The gardens are peaceful and photogenic. A nice escape from the busy centro."
+    }
+  ],
+
   "faqs": [
     {
       "question": "What is a callejoneada?",
-      "answer": "A callejoneada is a traditional walking tour through Guanajuato's narrow alleys (callejones) led by estudiantinas—students in colonial-era dress playing music and telling stories. Participants carry wine or drinks in ceramic jugs. Tours leave from the jardín principal most nights and last 2-3 hours."
+      "answer": "A callejoneada is a traditional musical walking tour through Guanajuato's narrow alleys (callejones) led by estudiantinas—students in colonial-era dress playing music and telling romantic stories. Participants carry wine or drinks in ceramic jugs. Tours leave from the jardín principal most nights and last 2-3 hours. It's a quintessential Guanajuato experience."
     },
     {
       "question": "How do I get to Guanajuato?",
@@ -155,22 +311,65 @@
     },
     {
       "question": "Is Guanajuato walkable?",
-      "answer": "Guanajuato's centro is very walkable but hilly—wear comfortable shoes. The underground streets require navigation. Taxis are available for outlying sights like the Mummy Museum. The funicular to Pípila saves a steep climb. Many streets are pedestrian-only."
+      "answer": "Guanajuato's centro is very walkable but hilly—wear comfortable shoes. The underground streets require navigation but are fascinating to explore. Taxis are available for outlying sights like the Mummy Museum. The funicular to Pípila saves a steep climb. Many streets are pedestrian-only, which makes walking pleasant."
     },
     {
       "question": "When is the Festival Cervantino?",
-      "answer": "The Festival Internacional Cervantino, Latin America's largest performing arts festival, takes place over three weeks in October. The city fills with performances, art, and visitors. Book accommodation months in advance, or enjoy the festive spillover atmosphere in nearby San Miguel."
+      "answer": "The Festival Internacional Cervantino, Latin America's largest performing arts festival, takes place over three weeks in October. The city fills with performances, art, and visitors from around the world. Book accommodation months in advance if visiting during the festival, or enjoy the festive spillover atmosphere in nearby San Miguel."
     },
     {
       "question": "Can you visit the Guanajuato mummies?",
-      "answer": "Yes, the Museo de las Momias displays over 100 naturally mummified bodies from the 19th century, preserved by the area's dry climate. It's fascinating but not for the squeamish—children's mummies are included. Located on the outskirts of centro, easily reached by taxi."
+      "answer": "Yes, the Museo de las Momias displays over 100 naturally mummified bodies from the 19th century, preserved by the area's unique dry climate and mineral-rich soil. It's fascinating but not for the squeamish—children's mummies are included. Located on the outskirts of centro, easily reached by taxi."
     },
     {
       "question": "How many days do you need in Guanajuato?",
-      "answer": "2-3 days is ideal for Guanajuato: wandering the colorful streets, visiting museums and viewpoints, and experiencing a callejoneada. Add an extra day to combine with San Miguel de Allende (1.5 hours away) or explore the surrounding mining villages."
+      "answer": "2-3 days is ideal for Guanajuato: wandering the colorful streets, visiting museums and viewpoints, exploring the underground streets, and experiencing a callejoneada. Add an extra day to combine with San Miguel de Allende (1.5 hours away) or explore the surrounding mining villages."
+    },
+    {
+      "question": "What are the underground streets in Guanajuato?",
+      "answer": "Guanajuato's underground streets were created from old mine tunnels and by covering the riverbed that once ran through the city center. Today, traffic flows through these tunnels beneath the city while pedestrians walk above. It's a unique urban feature found nowhere else in Mexico."
+    },
+    {
+      "question": "Is Guanajuato safe for tourists?",
+      "answer": "Guanajuato is generally considered safe for tourists. The historic center is walkable day and night, with a strong police presence especially during festivals. Use normal precautions, be aware of your surroundings, and avoid isolated areas late at night. The university atmosphere keeps the city lively and relatively safe."
+    },
+    {
+      "question": "What is the best viewpoint in Guanajuato?",
+      "answer": "The Pípila monument offers the best panoramic view of the colorful city. Take the funicular or walk up through winding alleys. Sunset is particularly beautiful when the city glows golden. There are cafés at the top for drinks with a view. Come at night when the city sparkles below."
+    },
+    {
+      "question": "What should I eat in Guanajuato?",
+      "answer": "Try enchiladas mineras (local-style enchiladas), gorditas from Mercado Hidalgo, local mezcal, and traditional Mexican dishes. The market is excellent for cheap, authentic food. For upscale dining, try Mestizo or Truco 7. Don't miss the unusual ice cream flavors in Dolores Hidalgo nearby."
     }
   ],
-  "related_destinations": ["san-miguel-de-allende", "guadalajara", "queretaro", "dolores-hidalgo", "leon"],
+
+  "getting_there": "León/Bajío International Airport (BJX) is the nearest airport, about 45 minutes away, with flights from the US and Mexico City. Luxury buses (ETN, Primera Plus) connect Guanajuato to Mexico City (5 hours) and Guadalajara (4 hours). From San Miguel de Allende, it's a 1.5-hour drive or bus ride.",
+  "getting_around": "Guanajuato's centro is pedestrian-friendly but hilly. Many streets are pedestrian-only, making walking pleasant. The underground streets handle most vehicular traffic. Taxis are available for outlying attractions like the Mummy Museum. The Pípila funicular saves a steep climb. Parking in centro is very limited—most visitors park outside and walk.",
+  "safety_info": "Guanajuato is generally safe for tourists, especially the centro area. The university presence keeps the city lively. Use normal precautions: don't flash valuables, be aware of your surroundings at night, and use official taxis. During Festival Cervantino, crowds can be overwhelming but security is heightened.",
+
+  "related_destinations": [
+    {
+      "name": "San Miguel de Allende",
+      "url": "/en/san-miguel-de-allende/",
+      "image": "https://images.unsplash.com/photo-1585160788981-2d5def9f04ab?w=400&h=300&fit=crop&q=80"
+    },
+    {
+      "name": "Guadalajara",
+      "url": "/en/guadalajara/",
+      "image": "https://images.unsplash.com/photo-1578469550956-0e16b69c6a3d?w=400&h=300&fit=crop&q=80"
+    },
+    {
+      "name": "Mexico City",
+      "url": "/en/mexico-city/",
+      "image": "https://images.unsplash.com/photo-1518659526054-e8b8b4a8e1b6?w=400&h=300&fit=crop&q=80"
+    },
+    {
+      "name": "Querétaro",
+      "url": "/en/queretaro/",
+      "image": "https://images.unsplash.com/photo-1585160788981-2d5def9f04ab?w=400&h=300&fit=crop&q=80"
+    }
+  ],
+
   "tags": ["colonial", "unesco", "colorful", "university", "culture", "nightlife", "photography", "architecture"],
   "schema_type": "TouristDestination"
 }
