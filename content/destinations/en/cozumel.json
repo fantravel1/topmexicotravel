@@ -11,12 +11,23 @@
   },
   "meta_title": "Cozumel Travel Guide 2025 - World-Class Diving & Caribbean Beaches",
   "meta_description": "Discover Cozumel, Mexico's premier diving destination. Explore world-famous coral reefs, pristine Caribbean beaches, Mayan ruins, and a laid-back island atmosphere just off the Riviera Maya coast.",
-  "hero_image": "/assets/images/destinations/cozumel-hero.jpg",
+  "og_image": "https://images.unsplash.com/photo-1552074284-5e88ef1aef18?w=1200&h=630&fit=crop&q=80",
+  "canonical_url": "https://topmexicotravel.com/en/destinations/cozumel",
+  "hero_image": "https://images.unsplash.com/photo-1552074284-5e88ef1aef18?w=1920&h=1080&fit=crop&q=80",
   "hero_alt": "Crystal clear turquoise waters and coral reefs at Cozumel island Mexico",
+  "tagline": "Where World-Class Diving Meets Caribbean Paradise",
+  "featured_snippet_intro": "Cozumel is Mexico's largest Caribbean island, renowned for spectacular coral reefs, crystal-clear waters with 30m+ visibility, and some of the world's best drift diving at Palancar and Santa Rosa.",
   "introduction": {
     "snippet": "Cozumel is Mexico's largest Caribbean island and one of the world's top diving destinations. Jacques Cousteau put this paradise on the map in 1961, and divers have been flocking ever since to explore the spectacular coral formations of Palancar and Santa Rosa reefs. Beyond diving, the island offers pristine beaches, laid-back vibes, and easy access from the Riviera Maya.",
     "full": "Located 19 kilometers off the coast of Playa del Carmen, Cozumel is the antidote to the mainland's tourist bustle. While cruise ships bring day-trippers to the western shore, most of the island remains undeveloped, with wild eastern beaches, mangrove lagoons, and the ancient Maya site of San Gervasio. The small downtown of San Miguel offers a relaxed pace, colorful streets, and authentic Mexican atmosphere.\n\nThe underwater world is Cozumel's crown jewel. The island sits within the Mesoamerican Reef system, the world's second-largest barrier reef, and its protected marine park ensures pristine conditions. Visibility regularly exceeds 30 meters, and the drift diving along vertical walls teeming with marine life is legendary. Even snorkelers can experience world-class reef systems at several beach clubs. Whether you're a certified diver chasing eagle rays through swim-throughs or a beach lover seeking Caribbean perfection, Cozumel delivers an island escape at its finest."
   },
+  "best_time_to_visit": "March to June offers perfect conditions with calm seas, excellent visibility (30-40m), and warm water. December-February can have occasional norte winds. Hurricane season runs September-November.",
+  "average_temperature": "27°C (81°F) year-round",
+  "known_for": "World-class diving and snorkeling, pristine coral reefs, Caribbean beaches, laid-back island atmosphere, cruise port",
+  "airport_code": "CZM",
+  "rating": 4.8,
+  "review_count": 15680,
+  "tourist_types_json": "[\"Divers\", \"Snorkelers\", \"Beach lovers\", \"Couples\", \"Cruise passengers\", \"Nature enthusiasts\"]",
   "quick_facts": {
     "best_time": "March to June",
     "avg_temp": "27°C (81°F)",
@@ -38,136 +49,337 @@
     {
       "name": "Palancar Reef",
       "type": "Diving/Snorkeling",
-      "description": "Cozumel's most famous reef system featuring dramatic coral formations, underwater caverns, and abundant marine life.",
+      "description": "Cozumel's most famous reef system, featuring dramatic coral formations rising from the seafloor like underwater cathedrals. Multiple dive sites include Palancar Gardens (shallow, great for snorkeling), Palancar Caves (swim-throughs), and Palancar Horseshoe (advanced). Expect to see eagle rays, sea turtles, nurse sharks, and countless tropical fish among pristine coral towers.",
+      "image": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&h=600&fit=crop&q=80",
       "duration": "Half day",
-      "price": "$80-120 USD 2-tank dive",
+      "price": "$80-120 USD for 2-tank dive",
+      "tip": "Book morning dives for the best visibility. Palancar Gardens is perfect for snorkeling if you're not certified. Ask your dive operator about the 'Palancar Caves' drift dive—it's unforgettable.",
       "coordinates": {"lat": 20.3333, "lng": -87.0333}
     },
     {
       "name": "Santa Rosa Wall",
       "type": "Diving",
-      "description": "Spectacular vertical wall dive dropping 15-30 meters with overhangs, tunnels, and large pelagics. For intermediate+ divers.",
+      "description": "A spectacular vertical wall dive plunging from 15m to over 30m, featuring dramatic overhangs, swim-throughs, tunnels, and large pelagics. The wall is covered in colorful sponges, sea fans, and black coral. Strong currents make this an exhilarating drift dive. Look for spotted eagle rays, turtles, and the occasional shark.",
+      "image": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=800&h=600&fit=crop&q=80",
       "duration": "Half day",
-      "price": "$80-120 USD 2-tank dive",
+      "price": "$80-120 USD for 2-tank dive",
+      "tip": "This is an intermediate to advanced dive due to depth and currents. The 'Devil's Throat' swim-through (starting at 25m) is bucket-list material for experienced divers.",
       "coordinates": {"lat": 20.3567, "lng": -87.0417}
     },
     {
       "name": "Punta Sur Eco Beach Park",
       "type": "Nature Park/Beach",
-      "description": "Ecological reserve at the island's southern tip with lighthouse, crocodile lagoon, beaches, and snorkeling at Colombia Reef.",
+      "description": "A 1,000-hectare ecological reserve at the island's southern tip encompassing beaches, lagoons, coral formations, and wildlife. Highlights include the Celarain Lighthouse (climb for panoramic views), crocodile lagoon observation area, ancient Tumba del Caracol Maya temple, and pristine beaches. Snorkeling at Colombia Reef is excellent.",
+      "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&h=600&fit=crop&q=80",
       "duration": "Half-full day",
-      "price": "$20 USD",
+      "price": "$18 USD adults",
+      "tip": "Rent a snorkel set here and explore Colombia Reef. Visit early morning to spot crocodiles in the lagoon. The lighthouse views at sunset are spectacular but check closing times.",
       "coordinates": {"lat": 20.2833, "lng": -86.9500}
     },
     {
-      "name": "San Gervasio",
+      "name": "San Gervasio Archaeological Site",
       "type": "Archaeological Site",
-      "description": "The island's most important Maya site, once a pilgrimage destination for the goddess Ixchel.",
+      "description": "Cozumel's most important Maya ruins, once a pilgrimage destination for women honoring Ixchel, the goddess of fertility, medicine, and the moon. The site features several temple structures connected by ancient roads (sacbés). While smaller than mainland sites, the jungle setting and spiritual significance make it worthwhile.",
+      "image": "https://images.unsplash.com/photo-1518638150340-f706e86654de?w=800&h=600&fit=crop&q=80",
       "duration": "1-2 hours",
-      "price": "$10 USD",
+      "price": "$12 USD",
+      "tip": "Hire a guide at the entrance ($15-20) to understand the site's fascinating history. Morning visits are cooler. Bring bug spray—the jungle mosquitoes are persistent.",
       "coordinates": {"lat": 20.4983, "lng": -86.8417}
     },
     {
       "name": "Chankanaab Adventure Beach Park",
       "type": "Beach/Activities",
-      "description": "Popular beach park with snorkeling, dolphin encounters, sea lion shows, and a botanical garden.",
+      "description": "Cozumel's most popular beach park, perfect for families. Features include a protected lagoon and reef for snorkeling, dolphin and sea lion encounters, botanical garden with replicas of Maya ruins, beach with loungers, and multiple restaurants. The snorkeling is excellent for beginners with calm waters and abundant fish.",
+      "image": "https://images.unsplash.com/photo-1590523741831-ab7e8b8f9c7f?w=800&h=600&fit=crop&q=80",
       "duration": "Half-full day",
-      "price": "$25-35 USD",
+      "price": "$25 USD (beach only), $99+ with dolphin swim",
+      "tip": "Arrive early for the best lounge chairs near the snorkeling area. The underwater sculptures are great for photos. All-inclusive packages with food and drinks offer good value.",
       "coordinates": {"lat": 20.4369, "lng": -87.0053}
     },
     {
-      "name": "East Coast Beaches",
-      "type": "Beach",
-      "description": "Wild, undeveloped eastern shore with powerful waves, beach bars, and dramatic scenery. Not safe for swimming but stunning.",
+      "name": "East Coast Scenic Drive",
+      "type": "Scenic Drive/Beaches",
+      "description": "The wild, undeveloped eastern shore is Cozumel's most dramatic scenery—powerful waves crashing on rocky limestone, secluded beaches, and beach bars serving cold beers and fresh ceviche. The coastal road offers stunning views and opportunities to stop at places like Coconuts Bar, Mezcalitos, and Chen Rio (one of the few swimmable east coast beaches).",
+      "image": "https://images.unsplash.com/photo-1473116763249-2faaef81ccda?w=800&h=600&fit=crop&q=80",
       "duration": "Half day",
-      "price": "Free",
+      "price": "Free (beach bar food/drinks extra)",
+      "tip": "Rent a scooter, Jeep, or convertible to explore. Swimming is dangerous at most eastern beaches due to powerful currents—Chen Rio has a protected cove that's safe. Watch the sunrise from Mezcalitos.",
       "coordinates": {"lat": 20.4500, "lng": -86.8500}
+    },
+    {
+      "name": "El Cielo Sandbar",
+      "type": "Snorkeling/Beach",
+      "description": "A shallow sandbar in southern Cozumel where the water is only waist-deep, impossibly clear, and dotted with starfish (estrellas de mar). The name means 'The Sky' because the turquoise water and starfish create a celestial effect. Most boat tours stop here for swimming and photos in paradise-like conditions.",
+      "image": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=800&h=600&fit=crop&q=80",
+      "duration": "2-3 hours (as part of boat tour)",
+      "price": "$50-80 USD (included in snorkel tours)",
+      "tip": "Book a catamaran tour that includes El Cielo—they usually combine it with snorkeling at Palancar or Colombia. Please don't pick up or disturb the starfish; they're protected.",
+      "coordinates": {"lat": 20.3000, "lng": -87.0167}
+    },
+    {
+      "name": "San Miguel de Cozumel",
+      "type": "Town",
+      "description": "The island's only town and cultural heart, with a laid-back Caribbean atmosphere, colorful buildings, and the main plaza (Benito Juárez Park). Explore local shops, restaurants, and the waterfront Malecón. The downtown clock tower and Museo de la Isla provide cultural context. Great for evening strolls and authentic Mexican dining away from cruise port crowds.",
+      "image": "https://images.unsplash.com/photo-1518105779142-d975f22f1b0a?w=800&h=600&fit=crop&q=80",
+      "duration": "2-4 hours",
+      "price": "Free to explore",
+      "tip": "Come in the evening after cruise ships depart for a more authentic experience. Sunday evenings feature live music in the plaza. The streets between Avenida 5 and 10 have the best local restaurants.",
+      "coordinates": {"lat": 20.5083, "lng": -86.9461}
+    },
+    {
+      "name": "Columbia Reef",
+      "type": "Diving/Snorkeling",
+      "description": "One of Cozumel's most pristine reef systems in the far south, known for its impressive coral pillars, swim-throughs, and abundant marine life. Less visited than Palancar, it offers a sense of discovery. The shallow Colombia Gardens section is perfect for snorkeling with large brain corals, sea fans, and schools of tropical fish.",
+      "image": "https://images.unsplash.com/photo-1546026423-cc4642628d2b?w=800&h=600&fit=crop&q=80",
+      "duration": "Half day",
+      "price": "$80-120 USD for 2-tank dive",
+      "tip": "Request Columbia as your second dive site if your boat visits the south. For snorkelers, access via Punta Sur park is excellent. Early morning offers the best visibility.",
+      "coordinates": {"lat": 20.2850, "lng": -87.0250}
+    },
+    {
+      "name": "Playa Mia Grand Beach Park",
+      "type": "Beach Park",
+      "description": "The largest beach park on the island with extensive facilities including floating water park, multiple pools, kayaks, snorkeling, beach volleyball, and Mexican buffet. Ideal for families and cruise passengers wanting an all-inclusive beach day. The snorkeling area has good fish life in calm, shallow waters.",
+      "image": "https://images.unsplash.com/photo-1519046904884-53103b34b206?w=800&h=600&fit=crop&q=80",
+      "duration": "Full day",
+      "price": "$55-70 USD (all-inclusive)",
+      "tip": "The all-inclusive package with food, drinks, and activities is the best value. Visit on non-cruise days for a calmer experience. The floating water park is a hit with kids.",
+      "coordinates": {"lat": 20.4533, "lng": -87.0083}
     }
   ],
-  "hotels": [
+  "neighborhoods": [
+    {
+      "name": "Downtown San Miguel",
+      "slug": "downtown-san-miguel",
+      "description": "The colorful heart of Cozumel with the main plaza, local restaurants, shops, and evening atmosphere. This is where residents live and work, offering authentic Mexican vibes away from the cruise port tourism. The waterfront Malecón provides sunset views and evening strolls.",
+      "image": "https://images.unsplash.com/photo-1518105779142-d975f22f1b0a?w=800&h=600&fit=crop&q=80",
+      "vibe": "Authentic, local, colorful, evening life",
+      "best_for": "Budget travelers, foodies seeking authentic cuisine, those wanting local atmosphere",
+      "highlights": ["Main plaza with Sunday concerts", "Museo de la Isla", "Local taco spots", "Malecón waterfront", "Colorful streets"]
+    },
+    {
+      "name": "North Hotel Zone",
+      "slug": "north-hotel-zone",
+      "description": "The northern stretch of the western coast featuring luxury and mid-range hotels, calm beaches, and easy access to both downtown and the marine park. Most upscale resorts are here, with beach clubs, diving centers, and waterfront dining.",
+      "image": "https://images.unsplash.com/photo-1590523741831-ab7e8b8f9c7f?w=800&h=600&fit=crop&q=80",
+      "vibe": "Resort, relaxed, upscale beach",
+      "best_for": "Resort seekers, beach lovers, divers wanting convenience",
+      "highlights": ["Luxury resorts", "Calm swimming beaches", "Hotel B Cozumel", "Beach clubs", "Dive centers"]
+    },
+    {
+      "name": "South Coast (Zona Hotelera Sur)",
+      "slug": "south-coast",
+      "description": "The southern hotel zone along the coastal road, home to major beach parks (Chankanaab, Playa Mia), all-inclusive resorts, and access to the best dive sites. Cruise ships dock here, so it's busier during ship days but offers the best reef access.",
+      "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&h=600&fit=crop&q=80",
+      "vibe": "Beach parks, cruise tourism, diving",
+      "best_for": "Beach park enthusiasts, divers, families with kids",
+      "highlights": ["Chankanaab Park", "Playa Mia", "Cruise terminals", "Best reef access", "All-inclusive resorts"]
+    },
+    {
+      "name": "East Coast",
+      "slug": "east-coast",
+      "description": "The wild, undeveloped eastern shore is pure Caribbean nature—rocky coastline, powerful waves, secluded beaches, and rustic beach bars. No hotels here, just dramatic scenery and places like Mezcalitos, Coconuts Bar, and the swimmable Chen Rio beach.",
+      "image": "https://images.unsplash.com/photo-1473116763249-2faaef81ccda?w=800&h=600&fit=crop&q=80",
+      "vibe": "Wild, natural, adventurous, rustic",
+      "best_for": "Adventure seekers, photographers, those escaping crowds",
+      "highlights": ["Chen Rio beach (swimmable)", "Coconuts Bar", "Mezcalitos sunrise", "Dramatic coastline", "Sea turtle nesting"]
+    }
+  ],
+  "featured_hotels": [
     {
       "name": "Hotel B Cozumel",
-      "category": "Boutique",
+      "category": "Boutique Luxury",
       "stars": 5,
       "price_range": "$$$$",
-      "description": "Stylish boutique hotel on its own beach with design-forward rooms and excellent restaurant",
-      "features": ["Private beach", "Restaurant", "Pool", "Design hotel"]
+      "description": "Cozumel's most stylish boutique hotel, featuring design-forward rooms with local artwork, a private beach club, excellent restaurant (Kinta Cozumel), and attentive service. Each room is uniquely decorated. Perfect for couples seeking sophistication on the island.",
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800&h=600&fit=crop&q=80",
+      "features": ["Private beach", "Rooftop pool", "Design boutique", "Excellent restaurant", "Beach club"]
+    },
+    {
+      "name": "Secrets Aura Cozumel",
+      "category": "Adults-Only All-Inclusive",
+      "stars": 5,
+      "price_range": "$$$$",
+      "description": "Luxurious adults-only all-inclusive resort with swim-out suites, multiple gourmet restaurants, premium spirits, and full-service spa. Secluded beach and comprehensive dive center make it perfect for romantic getaways and diving couples.",
+      "image": "https://images.unsplash.com/photo-1582719508461-905c673771fd?w=800&h=600&fit=crop&q=80",
+      "features": ["Adults-only", "Swim-out suites", "Premium all-inclusive", "Spa", "Dive center"]
     },
     {
       "name": "Cozumel Palace",
       "category": "All-Inclusive",
       "stars": 4,
       "price_range": "$$$",
-      "description": "Beachfront all-inclusive with in-room jacuzzis and excellent diving center",
-      "features": ["All-inclusive", "Beachfront", "Diving center", "Jacuzzis"]
+      "description": "Beachfront all-inclusive resort popular with divers, featuring in-room jacuzzis, full-service diving center, and excellent value. The oceanfront rooms have stunning views, and the included diving packages make it a top choice for underwater enthusiasts.",
+      "image": "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?w=800&h=600&fit=crop&q=80",
+      "features": ["All-inclusive", "In-room jacuzzis", "Dive center", "Beachfront", "Water sports"]
+    },
+    {
+      "name": "Presidente InterContinental Cozumel",
+      "category": "Luxury Resort",
+      "stars": 5,
+      "price_range": "$$$$",
+      "description": "Elegant resort on Cozumel's finest beach with 218 rooms, two pools, full-service spa, and multiple dining options. The beach is one of the island's best for swimming, and the resort offers excellent diving partnerships.",
+      "image": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=800&h=600&fit=crop&q=80",
+      "features": ["Premium beach", "Two pools", "Full-service spa", "Multiple restaurants", "Dive partnerships"]
     },
     {
       "name": "Casa del Mar Cozumel",
       "category": "Mid-Range",
       "stars": 3,
       "price_range": "$$",
-      "description": "Cozy hotel near the waterfront with pool and dive shop",
-      "features": ["Pool", "Dive shop", "Downtown location", "Value"]
+      "description": "Friendly hotel near the waterfront with pool, on-site dive shop, and excellent value. The location between downtown and the beach offers flexibility, and the dive packages are well-priced for budget-conscious divers.",
+      "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=800&h=600&fit=crop&q=80",
+      "features": ["Pool", "Dive shop", "Near downtown", "Good value", "Dive packages"]
     },
     {
-      "name": "Amigo's Hostel",
-      "category": "Budget",
-      "stars": 2,
+      "name": "Villas Las Anclas",
+      "category": "Budget/Apartments",
+      "stars": 3,
       "price_range": "$",
-      "description": "Popular hostel in downtown San Miguel with dive trip organization",
-      "features": ["Downtown", "Dive packages", "Social", "Kitchen"]
+      "description": "Comfortable apartment-style accommodations in central San Miguel with kitchens, good for longer stays and budget-conscious travelers. Walking distance to downtown restaurants and the ferry pier.",
+      "image": "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?w=800&h=600&fit=crop&q=80",
+      "features": ["Kitchens", "Central location", "Budget-friendly", "Longer stays", "Near ferry"]
     }
   ],
-  "restaurants": [
-    {
-      "name": "Buccanos at Night",
-      "cuisine": "Seafood/Mexican",
-      "price_range": "$$$",
-      "description": "Beachfront dining with fresh ceviche, grilled seafood, and sunset views"
-    },
-    {
-      "name": "Casa Mission",
-      "cuisine": "Mexican",
-      "price_range": "$$",
-      "description": "Traditional Mexican cuisine in beautiful hacienda-style setting with garden"
-    },
+  "featured_restaurants": [
     {
       "name": "Kinta",
       "cuisine": "Contemporary Mexican",
       "price_range": "$$$",
-      "description": "Chef-driven seasonal menu in romantic garden courtyard"
+      "description": "Chef-driven seasonal Mexican cuisine in a romantic garden courtyard with candlelit tables. The menu showcases local ingredients with creative preparations—think duck carnitas, cochinita pibil, and creative ceviches. Excellent cocktail program.",
+      "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800&h=600&fit=crop&q=80",
+      "must_try": ["Duck carnitas", "Cochinita pibil tacos", "Mezcal cocktails", "Chocolate lava cake"]
+    },
+    {
+      "name": "Buccanos at Night",
+      "cuisine": "Seafood/Mexican",
+      "price_range": "$$$",
+      "description": "Upscale beachfront dining at this day-club-turned-evening-restaurant. Fresh ceviche, grilled seafood, and Mexican favorites with toes in the sand and sunset views. The lobster tacos and whole fried fish are legendary.",
+      "image": "https://images.unsplash.com/photo-1579631542720-3a87824fff86?w=800&h=600&fit=crop&q=80",
+      "must_try": ["Lobster tacos", "Whole fried fish", "Aguachile", "Sunset cocktails"]
+    },
+    {
+      "name": "Casa Mission",
+      "cuisine": "Traditional Mexican",
+      "price_range": "$$",
+      "description": "Beautiful hacienda-style restaurant set in tropical gardens with fountains and colonial decor. Traditional Mexican cuisine including regional specialties, excellent margaritas, and live music on weekends. A romantic classic.",
+      "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800&h=600&fit=crop&q=80",
+      "must_try": ["Mole enchiladas", "Arrachera steak", "Tableside guacamole", "Tres leches cake"]
+    },
+    {
+      "name": "La Candela",
+      "cuisine": "Mexican/Seafood",
+      "price_range": "$$",
+      "description": "Cozy downtown restaurant with a charming courtyard, known for creative Mexican dishes and excellent seafood. Popular with locals and repeat visitors for its consistent quality and welcoming atmosphere.",
+      "image": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=800&h=600&fit=crop&q=80",
+      "must_try": ["Coconut shrimp", "Fish tacos", "Chile relleno", "Flan"]
     },
     {
       "name": "Wet Wendy's",
       "cuisine": "Casual/Margaritas",
       "price_range": "$$",
-      "description": "Famous for its vast margarita selection—a lively institution in downtown"
+      "description": "A lively Cozumel institution famous for its extensive margarita menu (over 100 flavors!) and festive atmosphere. The food is casual American-Mexican, but people come for the drinks and the party. A must-visit for margarita lovers.",
+      "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?w=800&h=600&fit=crop&q=80",
+      "must_try": ["Flavored margaritas", "Nachos", "Fish tacos", "Wings"]
+    },
+    {
+      "name": "Mezcalitos",
+      "cuisine": "Beach Bar/Seafood",
+      "price_range": "$$",
+      "description": "Rustic beach bar on the wild east coast, perfect for watching sunrise over the Caribbean. Fresh ceviche, cold beers, and grilled fish in a castaway setting. The waves crash dramatically while you dine barefoot.",
+      "image": "https://images.unsplash.com/photo-1514933651103-005eec06c04b?w=800&h=600&fit=crop&q=80",
+      "must_try": ["Fresh ceviche", "Grilled fish", "Micheladas", "Sunrise view"]
+    },
+    {
+      "name": "Guido's",
+      "cuisine": "Italian/Pizza",
+      "price_range": "$$$",
+      "description": "Long-running Italian restaurant downtown with excellent wood-fired pizzas, homemade pastas, and a lovely garden setting. A welcome change from Mexican cuisine after several days, with consistently good quality.",
+      "image": "https://images.unsplash.com/photo-1559329007-40df8a9345d8?w=800&h=600&fit=crop&q=80",
+      "must_try": ["Wood-fired pizza", "Lasagna", "Tiramisu", "Italian wines"]
+    },
+    {
+      "name": "Taquería El Pique",
+      "cuisine": "Tacos",
+      "price_range": "$",
+      "description": "Authentic local taquería serving residents since forever. No-frills setting with outstanding al pastor, carnitas, and suadero tacos at local prices. This is where Cozumeleños eat—follow their lead.",
+      "image": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?w=800&h=600&fit=crop&q=80",
+      "must_try": ["Tacos al pastor", "Carnitas", "Suadero", "Fresh salsas"]
     }
   ],
+  "day_trips": [
+    {
+      "name": "Playa del Carmen & Tulum",
+      "distance": "Ferry + 1 hour",
+      "description": "Take the morning ferry to Playa del Carmen (30 minutes) and continue to Tulum's clifftop ruins (1 hour by bus or car). Visit the iconic seaside Maya ruins, swim in cenotes along the way, and experience 5th Avenue in Playa before the evening ferry back.",
+      "image": "https://images.unsplash.com/photo-1518105779142-d975f22f1b0a?w=800&h=600&fit=crop&q=80",
+      "tips": "Book the first ferry (7am) to maximize time. Rent a car in Playa for flexibility with cenotes. Return ferry runs until 10pm."
+    },
+    {
+      "name": "Cenote Snorkeling Tour",
+      "distance": "Ferry + 30 min",
+      "description": "Explore the magical cenotes (underground sinkholes) of the Riviera Maya. Tours from Cozumel typically include 2-3 cenotes like Dos Ojos or Gran Cenote, with crystal-clear freshwater swimming and snorkeling among stalactites.",
+      "image": "https://images.unsplash.com/photo-1552074284-5e88ef1aef18?w=800&h=600&fit=crop&q=80",
+      "tips": "Book an organized tour that includes ferry tickets and transportation. Bring biodegradable sunscreen (required at cenotes). Snorkeling gear usually included."
+    },
+    {
+      "name": "Xcaret or Xel-Há Parks",
+      "distance": "Ferry + 45 min",
+      "description": "Visit the famous eco-parks on the mainland. Xcaret offers underground rivers, wildlife, cultural shows, and evening spectaculars. Xel-Há is an all-inclusive snorkeling paradise in a natural inlet. Both make excellent day trips from Cozumel.",
+      "image": "https://images.unsplash.com/photo-1590523741831-ab7e8b8f9c7f?w=800&h=600&fit=crop&q=80",
+      "tips": "Book in advance online for discounts. Xcaret's night show is spectacular—stay for it. Xel-Há is best for unlimited snorkeling and relaxation."
+    },
+    {
+      "name": "Isla Mujeres Day Trip",
+      "distance": "Ferry + 1.5 hours",
+      "description": "Combine ferry travel to reach charming Isla Mujeres north of Cancún. Take the ferry to Playa del Carmen, bus or taxi to Cancún, then the Ultramar ferry. Explore Isla's southern sculpture park, beaches, and golf cart-filled streets.",
+      "image": "https://images.unsplash.com/photo-1519046904884-53103b34b206?w=800&h=600&fit=crop&q=80",
+      "tips": "This is a long day—consider an overnight on Isla Mujeres instead. Alternatively, organized tours handle all logistics."
+    }
+  ],
+  "getting_there": "Cozumel has its own international airport (CZM) with direct flights from US cities including Dallas, Houston, Atlanta, and Charlotte. The more common route is flying into Cancún (CUN) and taking ground transportation to Playa del Carmen (1 hour), then the ferry to Cozumel (30 minutes, $18-20 USD round trip, ferries every 30 minutes from 6am-11pm).",
+  "getting_around": "Rent a car, Jeep, or scooter to explore the island—this is the best way to see the east coast and reach Punta Sur. Taxis are available but unmetered; agree on price before riding. The downtown area is walkable. For diving, most operators provide hotel pickup.",
+  "safety_info": "Cozumel is very safe—one of Mexico's safest destinations. Use normal precautions: don't leave valuables unattended on beaches, use hotel safes, and avoid riding scooters without experience (many tourist injuries are scooter accidents). The east coast has dangerous currents—swim only at designated safe beaches like Chen Rio.",
   "faqs": [
     {
-      "question": "How do I get to Cozumel?",
-      "answer": "The easiest way is by ferry from Playa del Carmen (30 minutes, $20 USD round trip, frequent departures). Cozumel also has its own international airport (CZM) with direct flights from US cities. From Cancún, take transportation to Playa del Carmen then the ferry."
+      "question": "How do I get to Cozumel from Cancún?",
+      "answer": "From Cancún airport, take an ADO bus or private transfer to Playa del Carmen (about 1 hour, $12-50 USD depending on option). Then take the ferry from Playa del Carmen to Cozumel (30 minutes, $18-20 USD round trip). Ferries depart every 30 minutes from early morning to 11pm. Alternatively, Cozumel has direct flights from some US cities."
     },
     {
       "question": "Do I need to be a certified diver to enjoy Cozumel?",
-      "answer": "No! Cozumel offers excellent snorkeling at beach parks and from boats. Non-divers can try 'Discover Scuba' introductory dives. The clarity and reef health mean snorkelers see nearly as much as divers at shallow sites. Glass-bottom boats are also available."
+      "answer": "No! Cozumel offers excellent snorkeling at beach parks like Chankanaab and on boat tours to Palancar and El Cielo. Non-divers can try 'Discover Scuba' introductory dives with an instructor. The incredible visibility (30-40m) means snorkelers see nearly as much as divers at shallow reef sections."
     },
     {
       "question": "Is Cozumel better than Cancún for diving?",
-      "answer": "Yes, Cozumel is generally considered far superior for diving due to better visibility (30-40m), protected marine park status, healthier coral, and world-famous sites like Palancar and Santa Rosa. The diving infrastructure is also more established and dive-focused."
+      "answer": "Absolutely. Cozumel is considered far superior for diving due to better visibility (30-40m vs 15-20m), protected marine park status ensuring healthy coral, world-famous drift diving sites (Palancar, Santa Rosa, Columbia), and more established dive infrastructure. Serious divers choose Cozumel; Cancún is better for partying."
     },
     {
       "question": "When is the best time to dive in Cozumel?",
-      "answer": "March to June offers the best conditions: calm seas, excellent visibility, and warm water. December-February can have occasional norte (north wind) days. Hurricane season (September-November) brings some risk. Water temperature is warm (26-29°C) year-round."
+      "answer": "March to June offers optimal conditions: calm seas, excellent visibility, and warm water (27-29°C). December-February can have occasional norte (north wind) days that cancel boat trips. Hurricane season (September-November) brings some risk, though most storms miss the island. Diving is possible year-round."
     },
     {
       "question": "Is Cozumel safe?",
-      "answer": "Cozumel is very safe—one of Mexico's safest destinations. The small island has a tight-knit community, tourism-dependent economy, and low crime. Normal precautions apply: don't leave valuables unattended on beaches, use hotel safes, and avoid riding motorbikes without experience."
+      "answer": "Yes, Cozumel is very safe—one of Mexico's safest destinations. The small island has a tight-knit community, tourism-dependent economy, and low crime rate. Use normal precautions: don't leave valuables unattended, use hotel safes, avoid riding scooters without experience, and be cautious of currents when swimming on the east coast."
     },
     {
       "question": "Can you swim at Cozumel beaches?",
-      "answer": "The calm western shore has excellent swimming beaches, especially at beach clubs like Playa Mia, Paradise Beach, and Mr. Sanchos. The wild eastern coast has powerful waves and currents—beautiful but dangerous for swimming. Always check local conditions."
+      "answer": "Yes, but location matters. The calm western shore has excellent swimming beaches at beach clubs like Playa Mia, Paradise Beach, and Chankanaab. The wild eastern coast has powerful waves and dangerous currents—beautiful for scenery but unsafe for swimming except at Chen Rio, which has a protected natural pool."
+    },
+    {
+      "question": "Is Cozumel crowded with cruise ships?",
+      "answer": "Cruise ships dock primarily on the southern coast and passengers tend to stay at beach parks or excursions. Downtown San Miguel and the northern hotel zone remain relatively calm. Check cruise ship schedules online and plan your downtown/beach park visits on non-cruise days for a quieter experience."
+    },
+    {
+      "question": "How many days should I spend in Cozumel?",
+      "answer": "3-5 days is ideal. Plan 2-3 days of diving or snorkeling to experience multiple reef systems, one day to explore the island (San Gervasio, east coast, Punta Sur), and time for downtown dining and relaxation. Divers often spend a week to take advantage of unlimited dive packages."
+    },
+    {
+      "question": "What should I pack for Cozumel?",
+      "answer": "Reef-safe sunscreen (regular sunscreen is banned in the marine park), swimsuits, light cover-ups, sandals, snorkeling gear (optional—widely available to rent), dive certification card if diving, and casual evening wear. The dress code is very relaxed. Don't forget seasickness medication if prone to motion sickness."
+    },
+    {
+      "question": "Is there nightlife in Cozumel?",
+      "answer": "Cozumel has a laid-back evening scene rather than clubs. Downtown San Miguel has bars, restaurants with live music, and the famous Wet Wendy's for margaritas. The vibe is relaxed rather than party-oriented. If you want clubbing, visit Playa del Carmen on the mainland."
     }
   ],
   "related_destinations": ["playa-del-carmen", "tulum", "isla-mujeres", "cancun", "holbox"],

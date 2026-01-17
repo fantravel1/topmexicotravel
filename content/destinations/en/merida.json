@@ -5,172 +5,343 @@
   "state": "Yucatán",
   "country": "Mexico",
   "type": "colonial",
+  "lang": "en",
   "coordinates": {
     "latitude": 20.9674,
     "longitude": -89.5926
   },
-  "meta_title": "Mérida Travel Guide 2025 - Gateway to Yucatán's Mayan Wonders",
+  "meta_title": "Mérida Travel Guide 2025 - Gateway to Yucatán's Mayan Wonders | Top Mexico Travel",
   "meta_description": "Discover Mérida, the vibrant 'White City' and cultural capital of the Yucatán Peninsula. Explore colonial architecture, Mayan heritage, cenotes, amazing cuisine, and easy access to Chichén Itzá and Uxmal.",
-  "hero_image": "/assets/images/destinations/merida-hero.jpg",
-  "hero_alt": "Mérida Cathedral and main plaza with colonial buildings and horse carriages",
-  "introduction": {
-    "snippet": "Mérida is the elegant capital of the Yucatán—a colonial city known as 'La Ciudad Blanca' (The White City) for its beautiful limestone buildings. This sophisticated cultural hub offers incredible Yucatecan cuisine, vibrant plazas with nightly entertainment, and serves as the perfect base for exploring the Mayan wonders of Chichén Itzá, Uxmal, and the region's magical cenotes.",
-    "full": "Founded in 1542 on the ruins of the ancient Maya city of T'ho, Mérida became one of the wealthiest cities in the Americas during the henequén (sisal) boom of the late 1800s. The legacy of that era lives on in the grand mansions lining Paseo de Montejo, the tree-lined boulevard modeled after the Champs-Élysées. Today, Mérida is experiencing a renaissance, with restored colonial homes, art galleries, and a food scene that showcases Yucatecan cuisine—considered distinct from the rest of Mexico.\n\nWhat sets Mérida apart is its living culture. Every night of the week, the main plaza and surrounding streets host free entertainment: danzon dancing, traditional jarana music, concerts, and markets. The Mayan heritage remains strong, with indigenous language still spoken and traditional dress worn. Beyond the city, the Yucatán Peninsula offers Mexico's richest archaeological heritage—Chichén Itzá is 1.5 hours away, the elaborate Uxmal even closer—along with cenotes, flamingo reserves, and the Gulf Coast beach of Progreso. Mérida offers a window into a proud, unique corner of Mexico that feels quite unlike anywhere else."
-  },
-  "quick_facts": {
-    "best_time": "November to March",
-    "avg_temp": "27°C (81°F)",
-    "currency": "Mexican Peso (MXN)",
-    "language": "Spanish, Maya",
-    "airport": "Mérida Int'l (MID)",
-    "time_zone": "CST (UTC-6)",
-    "population": "1.1 million (metro)",
-    "nickname": "La Ciudad Blanca"
-  },
-  "highlights": [
-    "Gateway to Chichén Itzá and Uxmal",
-    "Elegant colonial architecture",
-    "Exceptional Yucatecan cuisine",
-    "Free nightly cultural events",
-    "Nearby cenotes and beaches"
-  ],
+  "og_image": "https://images.unsplash.com/photo-1585160788981-2d5def9f04ab?w=1200&h=630&fit=crop&q=80",
+  "og_image_alt": "Beautiful colonial architecture and Mérida Cathedral in the main plaza",
+  "canonical_url": "https://topmexicotravel.com/en/merida/",
+  "hero_image": "https://images.unsplash.com/photo-1585160788981-2d5def9f04ab?w=1920&h=1080&fit=crop&q=80",
+  "hero_image_alt": "Grand colonial buildings and the Cathedral of Mérida at sunset",
+  "tagline": "The White City — where Maya heritage, colonial elegance, and the best food in Mexico create an unforgettable cultural experience",
+  "featured_snippet_intro": "Mérida is the elegant capital of the Yucatán—a colonial city known as 'La Ciudad Blanca' (The White City) for its beautiful limestone buildings. This sophisticated cultural hub offers incredible Yucatecan cuisine, vibrant plazas with nightly entertainment, and serves as the perfect base for exploring Chichén Itzá, Uxmal, and the region's magical cenotes.",
+  "introduction": "<p>Founded in 1542 on the ruins of the ancient Maya city of T'ho, Mérida became one of the wealthiest cities in the Americas during the henequén (sisal) boom of the late 1800s. The legacy of that era lives on in the grand mansions lining Paseo de Montejo, the tree-lined boulevard modeled after the Champs-Élysées.</p><p>What sets Mérida apart is its living culture. Every night of the week, the main plaza hosts free entertainment: danzón dancing, traditional jarana music, concerts, and markets. The Mayan heritage remains strong, with indigenous language still spoken and traditional dress worn. The food scene showcases Yucatecan cuisine—considered distinct from the rest of Mexico and utterly delicious.</p><p>Beyond the city, the Yucatán Peninsula offers Mexico's richest archaeological heritage—Chichén Itzá is 1.5 hours away, the elaborate Uxmal even closer—along with cenotes, flamingo reserves, and the Gulf Coast beach of Progreso. Mérida offers a window into a proud, unique corner of Mexico.</p>",
+  "best_time_to_visit": "November - March",
+  "average_temperature": "27°C / 81°F",
+  "known_for": "Mayan Heritage & Yucatecan Cuisine",
+  "airport_code": "MID",
+  "rating": "4.8",
+  "review_count": "4150",
+  "tourist_types_json": "[\"Culture Enthusiast\", \"Food Lover\", \"History Buff\", \"Archaeological Explorer\", \"Safe City Seeker\"]",
+
   "attractions": [
     {
       "name": "Chichén Itzá",
       "type": "Archaeological Site",
-      "description": "One of the New Seven Wonders of the World, about 1.5 hours from Mérida. Best visited at opening (8am) or for the evening light show.",
+      "description": "One of the New Seven Wonders of the World, this ancient Maya city features the iconic El Castillo pyramid, the largest ball court in Mesoamerica, and extraordinary astronomical precision.",
+      "image": "https://images.unsplash.com/photo-1518638150340-f706e86654de?w=800&h=600&fit=crop&q=80",
       "duration": "Half-full day",
       "price": "$30 USD entry",
+      "tip": "Arrive at 8am opening to beat crowds and heat. Combine with Cenote Ik Kil for a swim afterward.",
       "coordinates": {"lat": 20.6843, "lng": -88.5678}
     },
     {
       "name": "Uxmal",
       "type": "Archaeological Site",
-      "description": "Stunning Puuc-style Mayan city with the unique oval Pyramid of the Magician. Less crowded than Chichén Itzá, about 1 hour from Mérida.",
+      "description": "Stunning Puuc-style Maya city with the unique oval Pyramid of the Magician and intricate stone mosaics. Less crowded than Chichén Itzá with equally impressive architecture.",
+      "image": "https://images.unsplash.com/photo-1568402102990-bc541580b59f?w=800&h=600&fit=crop&q=80",
       "duration": "Half day",
       "price": "$15 USD",
+      "tip": "The evening light show is spectacular. Combine with the Ruta Puuc to visit nearby smaller sites.",
       "coordinates": {"lat": 20.3597, "lng": -89.7714}
     },
     {
       "name": "Plaza Grande & Cathedral",
       "type": "Historic District",
-      "description": "Mérida's main square, one of Mexico's largest and most elegant, surrounded by the cathedral, government buildings, and colonial mansions.",
+      "description": "Mérida's main square, one of Mexico's largest, surrounded by the oldest cathedral on the American mainland (1598), government buildings, and stately colonial mansions.",
+      "image": "https://images.unsplash.com/photo-1585160788981-2d5def9f04ab?w=800&h=600&fit=crop&q=80",
       "duration": "2-3 hours",
       "price": "Free",
+      "tip": "Visit in the evening when the plaza comes alive with free cultural performances every night of the week.",
       "coordinates": {"lat": 20.9672, "lng": -89.6237}
     },
     {
       "name": "Paseo de Montejo",
       "type": "Boulevard",
-      "description": "Grand tree-lined avenue with henequén-era mansions, museums, restaurants, and monuments. Best explored on Sunday when open to bikes.",
-      "duration": "1-2 hours",
+      "description": "Grand tree-lined avenue with magnificent henequén-era mansions, museums, sidewalk cafés, and monuments. Best explored on Sunday when it's closed to cars for bikes.",
+      "image": "https://images.unsplash.com/photo-1578469550956-0e16b69c6a3d?w=800&h=600&fit=crop&q=80",
+      "duration": "2-3 hours",
       "price": "Free",
+      "tip": "Rent a bike on Sunday mornings when the street is pedestrianized. Stop at museums and mansions along the way.",
       "coordinates": {"lat": 20.9850, "lng": -89.6136}
     },
     {
       "name": "Cenotes Near Mérida",
       "type": "Natural Wonder",
-      "description": "Dozens of cenotes within easy reach: Cuzamá (three cenotes by horse cart), Homún, X'kekén, and Santa Barbara.",
+      "description": "Dozens of magical cenotes within easy reach. Popular options include Cuzamá (three cenotes by horse cart), Homún, X'kekén, and the Santa Barbara cenote circuit.",
+      "image": "https://images.unsplash.com/photo-1543168256-8133cc8e3ee2?w=800&h=600&fit=crop&q=80",
       "duration": "Half day",
       "price": "$10-30 USD per cenote",
+      "tip": "Rent a car for flexibility or book a tour. Bring biodegradable sunscreen and water shoes.",
       "coordinates": {"lat": 20.7500, "lng": -89.3500}
     },
     {
-      "name": "Celestún Flamingo Reserve",
+      "name": "Celestún Biosphere Reserve",
       "type": "Wildlife",
-      "description": "Biosphere reserve about 1 hour from Mérida where thousands of pink flamingos gather, especially November-March.",
+      "description": "Coastal biosphere reserve where thousands of pink flamingos gather, especially from November to March. Boat tours wind through mangroves teeming with wildlife.",
+      "image": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&h=600&fit=crop&q=80",
       "duration": "Half day",
       "price": "$40-80 USD tour",
+      "tip": "Go early morning for best flamingo viewing. Combine with a swim at the beach.",
       "coordinates": {"lat": 20.8592, "lng": -90.3975}
+    },
+    {
+      "name": "Mercado Lucas de Gálvez",
+      "type": "Market",
+      "description": "Authentic local market spanning several blocks with fresh produce, Yucatecan ingredients, handicrafts, and food stalls serving regional specialties. A sensory feast.",
+      "image": "https://images.unsplash.com/photo-1574781330855-d0db8cc6a79c?w=800&h=600&fit=crop&q=80",
+      "duration": "2-3 hours",
+      "price": "Free entry",
+      "tip": "The second floor has the best food stalls. Try panuchos, salbutes, and fresh juices.",
+      "coordinates": {"lat": 20.9650, "lng": -89.6200}
+    },
+    {
+      "name": "Gran Museo del Mundo Maya",
+      "type": "Museum",
+      "description": "Stunning modern museum showcasing Maya civilization from ancient times to the present. Excellent way to understand the culture before visiting archaeological sites.",
+      "image": "https://images.unsplash.com/photo-1594608661623-aa0bd3a69d98?w=800&h=600&fit=crop&q=80",
+      "duration": "2-3 hours",
+      "price": "$10 USD",
+      "tip": "Start here before visiting the ruins to better appreciate what you'll see.",
+      "coordinates": {"lat": 21.0200, "lng": -89.5850}
     }
   ],
-  "hotels": [
+
+  "neighborhoods": [
+    {
+      "name": "Centro Histórico",
+      "slug": "centro-historico",
+      "description": "The colonial heart of Mérida surrounding the Plaza Grande, with the cathedral, government buildings, museums, and bustling commercial streets. Where all the action happens.",
+      "image": "https://images.unsplash.com/photo-1585160788981-2d5def9f04ab?w=800&h=600&fit=crop&q=80",
+      "vibe": "Historic, bustling, cultural",
+      "best_for": "First-time visitors, culture lovers, foodies",
+      "highlights": ["Plaza Grande", "Cathedral", "Nightly entertainment", "Markets"]
+    },
+    {
+      "name": "Paseo de Montejo",
+      "slug": "paseo-de-montejo",
+      "description": "The elegant boulevard with grand 19th-century mansions, museums, upscale restaurants, and tree-lined sidewalks. Mérida's most prestigious address.",
+      "image": "https://images.unsplash.com/photo-1578469550956-0e16b69c6a3d?w=800&h=600&fit=crop&q=80",
+      "vibe": "Elegant, upscale, beautiful",
+      "best_for": "Architecture lovers, upscale dining, museum visitors",
+      "highlights": ["Henequén mansions", "Museums", "Sunday bike ride", "Cafés"]
+    },
+    {
+      "name": "Santa Ana",
+      "slug": "santa-ana",
+      "description": "Charming traditional neighborhood with beautiful park, colonial church, and Saturday craft market. More local feel with excellent restaurants.",
+      "image": "https://images.unsplash.com/photo-1578469550956-0e16b69c6a3d?w=800&h=600&fit=crop&q=80",
+      "vibe": "Traditional, charming, local",
+      "best_for": "Those seeking local atmosphere, Saturday market",
+      "highlights": ["Parque Santa Ana", "Saturday market", "Colonial church"]
+    },
+    {
+      "name": "Santiago",
+      "slug": "santiago",
+      "description": "Quiet residential neighborhood popular with expats and visitors seeking tranquility. Beautiful restored homes, boutique hotels, and peaceful streets.",
+      "image": "https://images.unsplash.com/photo-1578469550956-0e16b69c6a3d?w=800&h=600&fit=crop&q=80",
+      "vibe": "Quiet, residential, charming",
+      "best_for": "Longer stays, those seeking peace, expat community",
+      "highlights": ["Restored colonial homes", "Boutique hotels", "Local life"]
+    }
+  ],
+
+  "featured_hotels": [
     {
       "name": "Casa Lecanda",
       "category": "Boutique Luxury",
       "stars": 5,
-      "price_range": "$$$$",
-      "description": "Intimate boutique hotel in beautifully restored mansion with courtyard pool",
-      "features": ["Pool", "Colonial mansion", "Central", "Garden"]
+      "price_range": "$350",
+      "description": "Intimate boutique hotel in a beautifully restored mansion with courtyard pool, lush gardens, and impeccable service. One of Mérida's finest.",
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800&h=600&fit=crop&q=80",
+      "features": ["Pool", "Colonial mansion", "Garden", "Central location"]
     },
     {
       "name": "Rosas & Xocolate",
-      "category": "Boutique",
+      "category": "Design Boutique",
       "stars": 5,
-      "price_range": "$$$$",
-      "description": "Striking pink hotel on Paseo de Montejo with spa and excellent restaurant",
-      "features": ["Spa", "Paseo de Montejo", "Restaurant", "Design"]
+      "price_range": "$300",
+      "description": "Striking pink hotel on Paseo de Montejo with design-forward rooms, chocolate spa treatments, and excellent restaurant. Utterly unique.",
+      "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=800&h=600&fit=crop&q=80",
+      "features": ["Spa", "Paseo de Montejo", "Restaurant", "Design hotel"]
     },
     {
       "name": "Luz en Yucatán",
-      "category": "Mid-Range",
+      "category": "Boutique",
       "stars": 4,
-      "price_range": "$$",
-      "description": "Beautiful converted home in Santiago neighborhood with pool and breakfast",
-      "features": ["Pool", "Breakfast included", "Central", "Garden"]
+      "price_range": "$120",
+      "description": "Beautiful converted home in the Santiago neighborhood with pool, excellent breakfast, and warm hospitality. Perfect base for exploring.",
+      "image": "https://images.unsplash.com/photo-1564501049412-61c2a3083791?w=800&h=600&fit=crop&q=80",
+      "features": ["Pool", "Breakfast included", "Santiago neighborhood", "Garden"]
+    },
+    {
+      "name": "Hotel Julamis",
+      "category": "Mid-Range",
+      "stars": 3,
+      "price_range": "$80",
+      "description": "Charming hotel in restored colonial building with pool, rooftop terrace, and central location. Excellent value.",
+      "image": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=800&h=600&fit=crop&q=80",
+      "features": ["Pool", "Rooftop", "Central", "Good value"]
     },
     {
       "name": "Nomadas Hostel",
       "category": "Budget",
       "stars": 2,
-      "price_range": "$",
-      "description": "Excellent central hostel with pool in colonial building near main plaza",
-      "features": ["Pool", "Central", "Kitchen", "Tours"]
+      "price_range": "$20",
+      "description": "Excellent central hostel in a colonial building with pool, tours, and great social atmosphere. Best budget option in Mérida.",
+      "image": "https://images.unsplash.com/photo-1555854877-bab0e564b8d5?w=800&h=600&fit=crop&q=80",
+      "features": ["Pool", "Central", "Kitchen", "Tours organized"]
     }
   ],
-  "restaurants": [
+
+  "featured_restaurants": [
     {
       "name": "Apoala",
       "cuisine": "Contemporary Yucatecan",
       "price_range": "$$$",
-      "description": "Creative Yucatecan cuisine in stunning colonial courtyard setting"
+      "description": "Creative Yucatecan cuisine in a stunning colonial courtyard. One of Mérida's best restaurants, showcasing the depth of regional flavors.",
+      "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800&h=600&fit=crop&q=80",
+      "must_try": ["Tasting menu", "Papadzules", "Courtyard dining"]
     },
     {
       "name": "La Chaya Maya",
       "cuisine": "Traditional Yucatecan",
       "price_range": "$$",
-      "description": "The best introduction to Yucatecan classics—try the papadzules and poc chuc"
-    },
-    {
-      "name": "Mercado Lucas de Gálvez",
-      "cuisine": "Market Food",
-      "price_range": "$",
-      "description": "Authentic local market with food stalls serving fresh Yucatecan specialties"
+      "description": "The best introduction to Yucatecan classics in a cheerful garden setting. The place to try papadzules, poc chuc, and panuchos.",
+      "image": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=800&h=600&fit=crop&q=80",
+      "must_try": ["Papadzules", "Poc chuc", "Sopa de lima"]
     },
     {
       "name": "Wayan'e",
       "cuisine": "Tacos",
       "price_range": "$",
-      "description": "Local legend for cochinita pibil tacos—expect a line but it moves fast"
+      "description": "Local legend for cochinita pibil tacos served from a market stall. Expect a line but it moves fast. Cash only.",
+      "image": "https://images.unsplash.com/photo-1551504734-5ee1c4a1479b?w=800&h=600&fit=crop&q=80",
+      "must_try": ["Cochinita pibil tacos", "Early arrival to avoid sellout"]
+    },
+    {
+      "name": "Mercado Santiago",
+      "cuisine": "Market Food",
+      "price_range": "$",
+      "description": "Neighborhood market with excellent food stalls serving authentic Yucatecan breakfast and lunch. Where locals eat.",
+      "image": "https://images.unsplash.com/photo-1574781330855-d0db8cc6a79c?w=800&h=600&fit=crop&q=80",
+      "must_try": ["Huevos motuleños", "Panuchos", "Fresh juices"]
+    },
+    {
+      "name": "K'u'uk",
+      "cuisine": "Fine Dining Yucatecan",
+      "price_range": "$$$$",
+      "description": "Modern Yucatecan fine dining in a stunning mansion. The tasting menu is a journey through regional flavors elevated to art.",
+      "image": "https://images.unsplash.com/photo-1544025162-d76694265947?w=800&h=600&fit=crop&q=80",
+      "must_try": ["Tasting menu", "Seasonal Yucatecan dishes"]
+    },
+    {
+      "name": "Manjar Blanco",
+      "cuisine": "Traditional Yucatecan",
+      "price_range": "$$",
+      "description": "Beloved local restaurant serving homestyle Yucatecan cooking. Perfect for a traditional Sunday lunch.",
+      "image": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=800&h=600&fit=crop&q=80",
+      "must_try": ["Relleno negro", "Frijol con puerco (Monday)", "Cochinita"]
     }
   ],
+
+  "day_trips": [
+    {
+      "name": "Chichén Itzá",
+      "distance": "120km (1.5 hours)",
+      "description": "One of the New Seven Wonders of the World. The iconic Maya city with El Castillo pyramid, the largest ball court, and extraordinary astronomical precision.",
+      "image": "https://images.unsplash.com/photo-1518638150340-f706e86654de?w=800&h=600&fit=crop&q=80",
+      "tips": "Leave at 6am to arrive at 8am opening. Combine with Cenote Ik Kil or Valladolid. Consider hiring a guide."
+    },
+    {
+      "name": "Uxmal & Ruta Puuc",
+      "distance": "80km (1 hour)",
+      "description": "Stunning Puuc-style ruins with elaborate stone mosaics. The Ruta Puuc includes Kabah, Sayil, and other impressive sites.",
+      "image": "https://images.unsplash.com/photo-1568402102990-bc541580b59f?w=800&h=600&fit=crop&q=80",
+      "tips": "Uxmal alone takes half a day. Add the Ruta Puuc for a full day of archaeology. Evening light show is beautiful."
+    },
+    {
+      "name": "Celestún Flamingos",
+      "distance": "95km (1.5 hours)",
+      "description": "Biosphere reserve with thousands of pink flamingos. Boat tours through mangroves see flamingos, crocodiles, and abundant birdlife.",
+      "image": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&h=600&fit=crop&q=80",
+      "tips": "Peak flamingo season is November-March. Go early morning for best viewing. Combine with beach time."
+    },
+    {
+      "name": "Cenote Hopping",
+      "distance": "Various",
+      "description": "Dozens of cenotes within an hour of Mérida. Popular routes include Cuzamá (horse-cart access), Homún circuit, and Santa Barbara.",
+      "image": "https://images.unsplash.com/photo-1543168256-8133cc8e3ee2?w=800&h=600&fit=crop&q=80",
+      "tips": "Rent a car for flexibility. Bring biodegradable sunscreen, water shoes, and cash for entry fees."
+    }
+  ],
+
   "faqs": [
     {
       "question": "What food is Mérida/Yucatán known for?",
-      "answer": "Yucatecan cuisine is distinct from the rest of Mexico. Must-try dishes include: cochinita pibil (slow-roasted pork), poc chuc (grilled pork), papadzules (egg tacos in pumpkin seed sauce), sopa de lima (lime soup), panuchos and salbutes (stuffed tortillas), and Marquesitas (rolled crepe street snack)."
+      "answer": "Yucatecan cuisine is distinct from the rest of Mexico, influenced by Maya traditions and local ingredients. Must-try dishes include: cochinita pibil (slow-roasted achiote pork), poc chuc (grilled citrus pork), papadzules (egg tacos in pumpkin seed sauce), sopa de lima (lime soup), panuchos and salbutes (stuffed tortillas), and Marquesitas (rolled crepe street snacks)."
     },
     {
       "question": "Is Mérida a good base for visiting Chichén Itzá?",
-      "answer": "Yes, Mérida is an excellent base for Chichén Itzá (1.5 hours away). You can book tours, rent a car, or take an ADO bus. Staying in Mérida offers more dining, accommodation, and cultural options than staying near the ruins. Go early to avoid crowds and heat."
+      "answer": "Yes, Mérida is an excellent base for Chichén Itzá, about 1.5 hours away. You can book tours, rent a car, or take an ADO bus. Staying in Mérida offers more dining, accommodation, and cultural options than staying near the ruins. Leave early (6am) to arrive at opening and beat crowds."
     },
     {
       "question": "When is the best time to visit Mérida?",
       "answer": "November to March offers cooler, drier weather. Mérida can be extremely hot and humid from April to October, with temperatures exceeding 35°C (95°F). The shoulder season (October-November) offers good weather and fewer tourists. Holy Week is festive but crowded."
     },
     {
-      "question": "How do I get around Mérida?",
-      "answer": "The centro histórico is very walkable. Use Uber or taxis for longer distances. For day trips to cenotes and ruins, rent a car for flexibility or join organized tours. ADO buses connect to major destinations. Sunday closures of main streets make biking popular."
-    },
-    {
       "question": "Is Mérida safe?",
-      "answer": "Mérida is consistently ranked as one of Mexico's safest cities. The centro histórico and tourist areas are very safe to walk day and night. Use normal precautions as you would anywhere. The city's safety is a major factor in its growing popularity with visitors and expats."
+      "answer": "Mérida is consistently ranked as one of Mexico's safest cities and is often cited as a reason tourists choose it. The centro histórico and tourist areas are very safe to walk day and night. Use normal precautions as you would anywhere. The city's safety is a major factor in its growing popularity with expats and visitors."
     },
     {
       "question": "How many days do you need in Mérida?",
-      "answer": "Plan for at least 3-4 days: 1-2 days for the city itself (centro, Paseo de Montejo, food scene), 1 day for Chichén Itzá or Uxmal, 1 day for cenotes. Add more time for Celestún flamingos, the Ruta Puuc, or beach time at Progreso. Many visitors stay a week or more."
+      "answer": "Plan for at least 3-4 days: 1-2 days for the city itself (centro, Paseo de Montejo, food scene, nightly entertainment), 1 day for Chichén Itzá or Uxmal, 1 day for cenotes or flamingos. Add more time for the Ruta Puuc, beach at Progreso, or simply enjoying the city's rhythm. Many visitors stay a week or more."
+    },
+    {
+      "question": "What makes Mérida different from other Mexican cities?",
+      "answer": "Mérida's Maya heritage is still very much alive—you'll hear Maya spoken and see traditional dress. The Yucatecan cuisine is distinct and delicious. The city hosts free cultural events every night of the week. It's also one of Mexico's safest cities, with beautiful colonial architecture and easy access to world-class archaeological sites."
+    },
+    {
+      "question": "Are there beaches near Mérida?",
+      "answer": "Progreso beach is about 30 minutes north of Mérida. It's a popular weekend escape for locals with a long beach, seafood restaurants, and the famous pier. The beach isn't Caribbean-beautiful but offers a nice break from the city. Celestún also has a beach combined with flamingo viewing."
+    },
+    {
+      "question": "What's the best way to visit cenotes from Mérida?",
+      "answer": "Rent a car for maximum flexibility—cenotes are scattered around the region. Popular circuits include Cuzamá (three cenotes accessed by horse cart), Homún (several cenotes close together), and Santa Barbara. Many hotels offer cenote tours. Bring biodegradable sunscreen, water shoes, and cash."
     }
   ],
-  "related_destinations": ["chichen-itza", "valladolid", "tulum", "cancun", "campeche"],
+
+  "getting_there": "Mérida International Airport (MID) has flights from Mexico City, the US (Houston, Miami, Dallas), and seasonal routes from other cities. The airport is 15 minutes from downtown. ADO luxury buses connect Mérida to Cancún (4 hours), Campeche (2.5 hours), and Playa del Carmen (4 hours).",
+  "getting_around": "The centro histórico is very walkable. Use Uber or taxis for longer distances like Paseo de Montejo or Gran Museo del Mundo Maya. For day trips to cenotes and ruins, rent a car for flexibility or join organized tours. Sunday closures of main streets make cycling popular—bikes can be rented throughout the city.",
+  "safety_info": "Mérida is consistently ranked as one of Mexico's safest cities. The centro and tourist areas are safe to walk day and night. The city takes safety seriously, and the economy benefits significantly from tourism and expat residents. Use normal precautions: don't flash valuables, use hotel safes, and be aware of your surroundings.",
+
+  "related_destinations": [
+    {
+      "name": "Valladolid",
+      "url": "/en/valladolid/",
+      "image": "https://images.unsplash.com/photo-1578469550956-0e16b69c6a3d?w=400&h=300&fit=crop&q=80"
+    },
+    {
+      "name": "Cancún",
+      "url": "/en/cancun/",
+      "image": "https://images.unsplash.com/photo-1510097467424-192d713fd8b2?w=400&h=300&fit=crop&q=80"
+    },
+    {
+      "name": "Tulum",
+      "url": "/en/tulum/",
+      "image": "https://images.unsplash.com/photo-1547995886-6dc09384c6e6?w=400&h=300&fit=crop&q=80"
+    },
+    {
+      "name": "Campeche",
+      "url": "/en/campeche/",
+      "image": "https://images.unsplash.com/photo-1585160788981-2d5def9f04ab?w=400&h=300&fit=crop&q=80"
+    }
+  ],
+
   "tags": ["colonial", "mayan", "culture", "food", "cenotes", "archaeological", "safe", "yucatan"],
   "schema_type": "TouristDestination"
 }
