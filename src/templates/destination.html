@@ -285,6 +285,78 @@
     </section>
     {{/if}}
 
+    <!-- Neighborhoods Section -->
+    {{#if neighborhoods}}
+    <section class="section" aria-labelledby="neighborhoods-heading">
+      <div class="section-container">
+        <div class="section-header">
+          <h2 id="neighborhoods-heading" class="section-title">Neighborhoods in {{name}}</h2>
+          <p class="section-intro">Explore the unique character of each neighborhood and find the perfect area for your stay.</p>
+        </div>
+        <ul class="cards-grid neighborhoods-grid">
+          {{#each neighborhoods}}
+          <li class="card neighborhood-card">
+            <img
+              src="{{this.image}}"
+              alt="{{this.name}} neighborhood in {{../name}}"
+              width="400"
+              height="300"
+              loading="lazy"
+              decoding="async"
+              class="card-image">
+            <div class="card-content">
+              <h3 class="card-title">{{this.name}}</h3>
+              {{#if this.vibe}}
+              <p class="neighborhood-vibe"><strong>Vibe:</strong> {{this.vibe}}</p>
+              {{/if}}
+              <p class="card-description">{{this.description}}</p>
+              {{#if this.best_for}}
+              <p class="neighborhood-best-for"><strong>Best for:</strong> {{this.best_for}}</p>
+              {{/if}}
+            </div>
+          </li>
+          {{/each}}
+        </ul>
+      </div>
+    </section>
+    {{/if}}
+
+    <!-- Day Trips Section -->
+    {{#if day_trips}}
+    <section class="section" aria-labelledby="daytrips-heading" style="background: var(--color-bg-alt);">
+      <div class="section-container">
+        <div class="section-header">
+          <h2 id="daytrips-heading" class="section-title">Day Trips from {{name}}</h2>
+          <p class="section-intro">Explore the surrounding region with these popular excursions.</p>
+        </div>
+        <ul class="cards-grid daytrips-grid">
+          {{#each day_trips}}
+          <li class="card daytrip-card">
+            <img
+              src="{{this.image}}"
+              alt="{{this.name}}"
+              width="400"
+              height="300"
+              loading="lazy"
+              decoding="async"
+              class="card-image">
+            <div class="card-content">
+              <h3 class="card-title">{{this.name}}</h3>
+              {{#if this.distance}}
+              <p class="daytrip-distance"><strong>Distance:</strong> {{this.distance}}</p>
+              {{/if}}
+              <p class="card-description">{{this.description}}</p>
+              {{#if this.tips}}
+              <p class="daytrip-tips"><em>Tip: {{this.tips}}</em></p>
+              {{/if}}
+            </div>
+          </li>
+          {{/each}}
+        </ul>
+      </div>
+    </section>
+    {{/if}}
+
     <!-- Practical Information -->
     <section class="section" aria-labelledby="practical-heading">
       <div class="section-container">
