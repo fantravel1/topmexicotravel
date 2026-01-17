@@ -40,7 +40,7 @@ export const destinationImages = {
     credit: 'Unsplash'
   },
 
-  // MEXICO CITY - Architecture, culture, urban
+  // MEXICO CITY - Architecture, culture, urban - EXPANDED FEATURE
   'mexico-city': {
     hero: 'https://images.unsplash.com/photo-1518659526054-e8b8b4a8e1b6?w=1920&h=1080&fit=crop&q=80',
     alt: 'Palacio de Bellas Artes in Mexico City at sunset',
@@ -49,6 +49,144 @@ export const destinationImages = {
       'https://images.unsplash.com/photo-1567622661983-57a88fbc03e5?w=800&h=600&fit=crop&q=80',
       'https://images.unsplash.com/photo-1574493264149-87880133a2ba?w=800&h=600&fit=crop&q=80'
     ],
+    // LANDMARKS & ARCHITECTURE
+    landmarks: {
+      bellasArtes: {
+        image: 'https://images.unsplash.com/photo-1518659526054-e8b8b4a8e1b6?w=1200&h=800&fit=crop&q=80',
+        alt: 'Palacio de Bellas Artes - Art Nouveau and Art Deco masterpiece'
+      },
+      angelIndependencia: {
+        image: 'https://images.unsplash.com/photo-1567622661983-57a88fbc03e5?w=1200&h=800&fit=crop&q=80',
+        alt: 'Angel of Independence monument on Paseo de la Reforma'
+      },
+      zocalo: {
+        image: 'https://images.unsplash.com/photo-1574493264149-87880133a2ba?w=1200&h=800&fit=crop&q=80',
+        alt: 'Zócalo - the main plaza and Metropolitan Cathedral'
+      },
+      nationalPalace: {
+        image: 'https://images.unsplash.com/photo-1585464231875-d9ef1f5ad396?w=1200&h=800&fit=crop&q=80',
+        alt: 'National Palace with Diego Rivera murals'
+      },
+      chapultepec: {
+        image: 'https://images.unsplash.com/photo-1599063570110-a9ae6c5d47e4?w=1200&h=800&fit=crop&q=80',
+        alt: 'Chapultepec Castle overlooking Mexico City'
+      },
+      latinoamericana: {
+        image: 'https://images.unsplash.com/photo-1567627097931-5d9aabe8d1ee?w=1200&h=800&fit=crop&q=80',
+        alt: 'Torre Latinoamericana - iconic Art Deco skyscraper'
+      }
+    },
+    // NEIGHBORHOODS
+    neighborhoods: {
+      roma: {
+        image: 'https://images.unsplash.com/photo-1585464231875-d9ef1f5ad396?w=1200&h=800&fit=crop&q=80',
+        alt: 'Colonia Roma - tree-lined streets and Art Deco architecture'
+      },
+      condesa: {
+        image: 'https://images.unsplash.com/photo-1567622661983-57a88fbc03e5?w=1200&h=800&fit=crop&q=80',
+        alt: 'La Condesa - hip cafés and beautiful parks'
+      },
+      coyoacan: {
+        image: 'https://images.unsplash.com/photo-1570737209810-87a8e7245f88?w=1200&h=800&fit=crop&q=80',
+        alt: 'Coyoacán - bohemian charm and colonial architecture'
+      },
+      polanco: {
+        image: 'https://images.unsplash.com/photo-1518659526054-e8b8b4a8e1b6?w=1200&h=800&fit=crop&q=80',
+        alt: 'Polanco - upscale dining and luxury shopping'
+      },
+      centroHistorico: {
+        image: 'https://images.unsplash.com/photo-1574493264149-87880133a2ba?w=1200&h=800&fit=crop&q=80',
+        alt: 'Centro Histórico - colonial buildings and vibrant street life'
+      },
+      sanRafael: {
+        image: 'https://images.unsplash.com/photo-1567627097931-5d9aabe8d1ee?w=1200&h=800&fit=crop&q=80',
+        alt: 'San Rafael - Art Deco gems and local character'
+      }
+    },
+    // MUSEUMS & CULTURE
+    museums: {
+      anthropology: {
+        image: 'https://images.unsplash.com/photo-1580492516014-4d0c2e2bc3d8?w=1200&h=800&fit=crop&q=80',
+        alt: 'National Museum of Anthropology - world-class Mesoamerican collection'
+      },
+      fridaKahlo: {
+        image: 'https://images.unsplash.com/photo-1570737209810-87a8e7245f88?w=1200&h=800&fit=crop&q=80',
+        alt: 'Casa Azul - Frida Kahlo Museum in Coyoacán'
+      },
+      soumaya: {
+        image: 'https://images.unsplash.com/photo-1567622661983-57a88fbc03e5?w=1200&h=800&fit=crop&q=80',
+        alt: 'Museo Soumaya - stunning architecture and European art'
+      },
+      modernArt: {
+        image: 'https://images.unsplash.com/photo-1574493264149-87880133a2ba?w=1200&h=800&fit=crop&q=80',
+        alt: 'Museo de Arte Moderno in Chapultepec'
+      },
+      temploMayor: {
+        image: 'https://images.unsplash.com/photo-1585464231875-d9ef1f5ad396?w=1200&h=800&fit=crop&q=80',
+        alt: 'Templo Mayor - ancient Aztec ruins in the heart of the city'
+      }
+    },
+    // FOOD & DINING
+    food: {
+      tacos: {
+        image: 'https://images.unsplash.com/photo-1565299585323-38d6b0865b47?w=1200&h=800&fit=crop&q=80',
+        alt: 'Authentic Mexico City street tacos al pastor'
+      },
+      fineDining: {
+        image: 'https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=1200&h=800&fit=crop&q=80',
+        alt: 'World-class contemporary Mexican cuisine'
+      },
+      market: {
+        image: 'https://images.unsplash.com/photo-1577003811926-53b288a6e5d0?w=1200&h=800&fit=crop&q=80',
+        alt: 'Colorful market stalls with fresh produce and spices'
+      },
+      churros: {
+        image: 'https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=1200&h=800&fit=crop&q=80',
+        alt: 'Traditional churros con chocolate'
+      },
+      mezcal: {
+        image: 'https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?w=1200&h=800&fit=crop&q=80',
+        alt: 'Craft mezcal and cocktails'
+      },
+      mercado: {
+        image: 'https://images.unsplash.com/photo-1577003811926-53b288a6e5d0?w=1200&h=800&fit=crop&q=80',
+        alt: 'Mercado Roma gourmet food hall'
+      }
+    },
+    // STREETS & ATMOSPHERE
+    streets: {
+      reforma: {
+        image: 'https://images.unsplash.com/photo-1567622661983-57a88fbc03e5?w=1200&h=800&fit=crop&q=80',
+        alt: 'Paseo de la Reforma - grand boulevard'
+      },
+      colorfulBuildings: {
+        image: 'https://images.unsplash.com/photo-1585468274952-66591eb14165?w=1200&h=800&fit=crop&q=80',
+        alt: 'Colorful colonial buildings in the historic center'
+      },
+      artDeco: {
+        image: 'https://images.unsplash.com/photo-1567627097931-5d9aabe8d1ee?w=1200&h=800&fit=crop&q=80',
+        alt: 'Art Deco architectural details'
+      },
+      night: {
+        image: 'https://images.unsplash.com/photo-1518659526054-e8b8b4a8e1b6?w=1200&h=800&fit=crop&q=80',
+        alt: 'Mexico City illuminated at night'
+      },
+      parqueEspana: {
+        image: 'https://images.unsplash.com/photo-1567622661983-57a88fbc03e5?w=1200&h=800&fit=crop&q=80',
+        alt: 'Parque España in Condesa'
+      }
+    },
+    // DAY TRIPS
+    dayTrips: {
+      teotihuacan: {
+        image: 'https://images.unsplash.com/photo-1518105779142-d975f22f1b0a?w=1200&h=800&fit=crop&q=80',
+        alt: 'Pyramid of the Sun at Teotihuacán'
+      },
+      xochimilco: {
+        image: 'https://images.unsplash.com/photo-1570737209810-87a8e7245f88?w=1200&h=800&fit=crop&q=80',
+        alt: 'Colorful trajineras on the canals of Xochimilco'
+      }
+    },
     credit: 'Unsplash'
   },
 

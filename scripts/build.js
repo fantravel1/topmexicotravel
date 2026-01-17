@@ -251,6 +251,40 @@ function generateDestinationPage(lang, content, template, criticalCss) {
   // Extract quick facts from content
   const quickFacts = content.quick_facts || {};
 
+  // Process attractions with fallback images
+  const processedAttractions = (content.attractions || []).map(attr => ({
+    ...attr,
+    image: attr.image || (imageData?.gallery?.[0]) || genericImages.culture,
+    url: `/${lang}/${content.slug}/things-to-do/#${attr.name.toLowerCase().replace(/\s+/g, '-')}`
+  }));
+
+  // Process neighborhoods with images
+  const processedNeighborhoods = (content.neighborhoods || []).map(nb => ({
+    ...nb,
+    image: nb.image || (imageData?.neighborhoods?.[nb.slug]?.image) || genericImages.colonial,
+    url: `/${lang}/${content.slug}/neighborhoods/${nb.slug || nb.name.toLowerCase().replace(/\s+/g, '-')}/`
+  }));
+
+  // Process restaurants with images
+  const processedRestaurants = (content.restaurants || []).map(rest => ({
+    ...rest,
+    image: rest.image || genericImages.food,
+    url: rest.url || '#'
+  }));
+
+  // Process hotels with images
+  const processedHotels = (content.hotels || []).map(hotel => ({
+    ...hotel,
+    image: hotel.image || genericImages.colonial,
+    url: hotel.url || '#'
+  }));
+
+  // Process day trips with images
+  const processedDayTrips = (content.day_trips || []).map(trip => ({
+    ...trip,
+    image: trip.image || genericImages.ruins
+  }));
+
   const pageData = {
     ...content,
     lang,
@@ -262,7 +296,7 @@ function generateDestinationPage(lang, content, template, criticalCss) {
     canonical_url: `${CONFIG.baseUrl}/${lang}/${content.slug}/`,
     og_type: 'website',
     og_locale: ogLocales[lang] || 'en_US',
-    og_image: `${CONFIG.baseUrl}${heroImage}`,
+    og_image: heroImage.startsWith('http') ? heroImage : `${CONFIG.baseUrl}${heroImage}`,
     og_image_alt: content.hero_alt || `${content.name}, Mexico`,
     meta_title: content.meta_title || `${content.name} Travel Guide 2026 | Top Mexico Travel`,
     meta_description: content.meta_description || `Complete ${content.name} travel guide: best things to do, hotels, restaurants, and insider tips for your Mexico vacation.`,
@@ -270,15 +304,27 @@ function generateDestinationPage(lang, content, template, criticalCss) {
     breadcrumbs: generateBreadcrumbs(lang, 'destination', content.name, content.slug),
     currentYear: new Date().getFullYear(),
     // Map quick facts for template
-    best_time_to_visit: quickFacts.best_time || 'Year-round',
-    average_temperature: quickFacts.avg_temp || '25°C (77°F)',
-    known_for: content.highlights ? content.highlights.slice(0, 2).join(', ') : 'Beautiful scenery',
-    airport_code: quickFacts.airport || 'Various',
-    tagline: content.introduction?.snippet?.substring(0, 100) + '...' || `Discover ${content.name}`,
-    featured_snippet_intro: content.introduction?.snippet || `Discover the best of ${content.name}, Mexico.`,
+    best_time_to_visit: content.best_time_to_visit || quickFacts.best_time || 'Year-round',
+    average_temperature: content.average_temperature || quickFacts.avg_temp || '25°C (77°F)',
+    known_for: content.known_for || (content.highlights ? content.highlights.slice(0, 2).join(', ') : 'Beautiful scenery'),
+    airport_code: content.airport_code || quickFacts.airport || 'Various',
+    tagline: content.tagline || content.introduction?.snippet?.substring(0, 100) + '...' || `Discover ${content.name}`,
+    featured_snippet_intro: content.featured_snippet_intro || content.introduction?.snippet || `Discover the best of ${content.name}, Mexico.`,
     introduction: content.introduction?.full || '',
     latitude: content.coordinates?.latitude || 23.6345,
-    longitude: content.coordinates?.longitude || -102.5528
+    longitude: content.coordinates?.longitude || -102.5528,
+    // Processed content with images
+    attractions: processedAttractions,
+    neighborhoods: processedNeighborhoods,
+    featured_restaurants: processedRestaurants.slice(0, 4),
+    featured_hotels: processedHotels.slice(0, 4),
+    day_trips: processedDayTrips,
+    // Practical info
+    getting_there: content.practical_info?.getting_there || '',
+    getting_around: content.practical_info?.getting_around || '',
+    safety_info: content.practical_info?.safety_info || '',
+    // Food guide
+    food_guide: content.food_guide || null
   };
 
   return compileTemplate(template, pageData);
