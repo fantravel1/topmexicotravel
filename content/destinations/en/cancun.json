@@ -5,18 +5,21 @@
   "state": "Quintana Roo",
   "country": "Mexico",
   "type": "beach",
+  "featured": true,
   "coordinates": {
     "latitude": 21.1619,
     "longitude": -86.8515
   },
-  "meta_title": "Cancún Travel Guide 2025 - Beaches, Hotels, Things to Do",
-  "meta_description": "Plan your perfect Cancún vacation with our complete travel guide. Discover pristine Caribbean beaches, all-inclusive resorts, Mayan ruins, and vibrant nightlife in Mexico's top beach destination.",
+  "tagline": "Mexico's Caribbean paradise - pristine beaches, ancient ruins, and world-class resorts",
+  "meta_title": "Cancún Travel Guide 2025 - Beaches, Hotels, Things to Do & Nightlife",
+  "meta_description": "Plan your perfect Cancún vacation with our complete travel guide. Discover pristine Caribbean beaches, all-inclusive resorts, Mayan ruins, cenotes, and vibrant nightlife in Mexico's top beach destination.",
   "hero_image": "/assets/images/destinations/cancun-hero.jpg",
   "hero_alt": "Aerial view of Cancún Hotel Zone with turquoise Caribbean waters and white sand beaches",
   "introduction": {
-    "snippet": "Cancún is Mexico's most popular beach destination, famous for its stunning turquoise Caribbean waters, powdery white sand beaches, and world-class resorts. Located on the Yucatán Peninsula, this tropical paradise offers the perfect blend of relaxation, adventure, and ancient Mayan culture.",
-    "full": "Rising from the mangroves of the Yucatán Peninsula in the 1970s, Cancún has transformed into one of the world's premier vacation destinations. The city is divided into two distinct areas: the Hotel Zone (Zona Hotelera), a 23-kilometer strip of land shaped like the number 7 that's home to most resorts and beaches, and Downtown Cancún (El Centro), where locals live and authentic Mexican culture thrives.\n\nCancún attracts over 6 million visitors annually with its year-round tropical climate, crystal-clear waters perfect for snorkeling and diving, and easy access to some of Mexico's most impressive archaeological sites. Whether you're seeking an all-inclusive resort experience, underwater adventures in the Great Mesoamerican Reef, or day trips to Chichén Itzá, Cancún delivers an unforgettable Mexican Caribbean vacation."
+    "snippet": "Cancún is Mexico's most popular beach destination, famous for its stunning turquoise Caribbean waters, powdery white sand beaches, and world-class resorts. Located on the Yucatán Peninsula, this tropical paradise offers the perfect blend of relaxation, adventure, and ancient Mayan culture, attracting over 6 million visitors annually.",
+    "full": "Rising from the mangroves of the Yucatán Peninsula in the 1970s, Cancún has transformed into one of the world's premier vacation destinations. The city is divided into two distinct areas: the Hotel Zone (Zona Hotelera), a 23-kilometer strip of land shaped like the number 7 that's home to most resorts and beaches, and Downtown Cancún (El Centro), where locals live and authentic Mexican culture thrives.\n\nCancún attracts over 6 million visitors annually with its year-round tropical climate, crystal-clear waters perfect for snorkeling and diving, and easy access to some of Mexico's most impressive archaeological sites. Whether you're seeking an all-inclusive resort experience, underwater adventures in the Great Mesoamerican Reef, or day trips to Chichén Itzá, Cancún delivers an unforgettable Mexican Caribbean vacation.\n\nWhat sets Cancún apart is its versatility. Families love the calm waters of Playa Langosta and the adventure parks. Couples find romance in sunset sailing and spa retreats. Party-goers flock to the legendary nightclubs of the Hotel Zone. And culture enthusiasts use Cancún as a base to explore ancient Mayan cities, mystical cenotes, and colonial towns throughout the Yucatán."
   },
+  "featured_snippet_intro": "Cancún is Mexico's premier Caribbean beach destination, offering pristine white sand beaches, turquoise waters, 600+ hotels including world-class all-inclusive resorts, and easy access to ancient Mayan ruins like Chichén Itzá. Over 6 million visitors come annually for the perfect blend of relaxation, adventure, and culture.",
   "quick_facts": {
     "best_time": "December to April",
     "avg_temp": "27°C (81°F)",
@@ -27,61 +30,166 @@
     "population": "888,000",
     "beach_type": "Caribbean white sand"
   },
+  "best_time_to_visit": "December to April",
+  "average_temperature": "27°C (81°F) year-round",
+  "known_for": "Caribbean beaches, all-inclusive resorts, Mayan ruins",
+  "airport_code": "CUN",
   "highlights": [
     "World-famous turquoise Caribbean beaches",
-    "600+ hotels including all-inclusive resorts",
-    "Gateway to ancient Mayan ruins",
-    "Great Mesoamerican Reef diving",
-    "Vibrant nightlife scene"
+    "600+ hotels including luxury all-inclusive resorts",
+    "Gateway to ancient Mayan ruins (Chichén Itzá, Tulum, Cobá)",
+    "Great Mesoamerican Reef - world's 2nd largest barrier reef",
+    "Mystical cenotes for swimming and diving",
+    "Vibrant nightlife and entertainment",
+    "Adventure parks (Xcaret, Xel-Há, Xplor)",
+    "Family-friendly with calm beach areas"
   ],
   "attractions": [
     {
       "name": "Playa Delfines",
       "type": "Beach",
-      "description": "Cancún's most iconic public beach featuring the famous 'CANCUN' sign, powerful waves, and stunning views. Free admission with no vendors—just pure Caribbean beauty.",
+      "description": "Cancún's most iconic public beach featuring the famous 'CANCUN' sign, powerful waves, and stunning panoramic views. Free admission with no vendors or umbrellas—just pure Caribbean beauty and great photo opportunities.",
       "duration": "2-4 hours",
       "price": "Free",
-      "coordinates": {"lat": 21.0796, "lng": -86.7821}
+      "image": "https://images.unsplash.com/photo-1510097467424-192d713fd8b2?w=800&h=600&fit=crop&q=80",
+      "coordinates": {"lat": 21.0796, "lng": -86.7821},
+      "tips": "Come early morning for fewer crowds. Strong currents - be cautious swimming. Best sunset views in Cancún."
     },
     {
-      "name": "Chichén Itzá Day Trip",
+      "name": "Chichén Itzá",
       "type": "Archaeological Site",
-      "description": "Visit one of the New Seven Wonders of the World. The ancient Mayan city features the iconic El Castillo pyramid and is about 2.5 hours from Cancún.",
+      "description": "One of the New Seven Wonders of the World and a UNESCO World Heritage site. The ancient Mayan city features the iconic El Castillo pyramid, the Temple of Warriors, and the largest ball court in Mesoamerica. About 2.5 hours from Cancún.",
       "duration": "Full day",
       "price": "$90-150 USD tour",
-      "coordinates": {"lat": 20.6843, "lng": -88.5678}
+      "image": "https://images.unsplash.com/photo-1518105779142-d975f22f1b0a?w=800&h=600&fit=crop&q=80",
+      "coordinates": {"lat": 20.6843, "lng": -88.5678},
+      "tips": "Leave by 7am to beat crowds and heat. Hire a guide for historical context. Bring water, hat, and sunscreen."
     },
     {
       "name": "Isla Mujeres",
       "type": "Island",
-      "description": "A charming island 20 minutes by ferry from Cancún. Rent a golf cart to explore pristine beaches, snorkel with whale sharks (seasonal), and enjoy fresh seafood.",
+      "description": "A charming Caribbean island just 20 minutes by ferry from Cancún. Rent a golf cart to explore pristine Playa Norte (one of the world's best beaches), snorkel with whale sharks (June-September), visit the clifftop sculpture garden, and enjoy fresh seafood.",
       "duration": "Full day",
-      "price": "$15-20 USD ferry",
-      "coordinates": {"lat": 21.2320, "lng": -86.7337}
+      "price": "$15-20 USD ferry round trip",
+      "image": "https://images.unsplash.com/photo-1548678747-f382e36e3e54?w=800&h=600&fit=crop&q=80",
+      "coordinates": {"lat": 21.2320, "lng": -86.7337},
+      "tips": "Take the first ferry to maximize time. Playa Norte is must-visit. Golf cart rental ~$45/day."
     },
     {
       "name": "Underwater Museum (MUSA)",
       "type": "Museum/Diving",
-      "description": "Over 500 underwater sculptures by artist Jason deCaires Taylor. View by snorkeling, scuba diving, or glass-bottom boat.",
+      "description": "Over 500 life-sized underwater sculptures by artist Jason deCaires Taylor, creating an artificial reef ecosystem. View by snorkeling, scuba diving, or glass-bottom boat. A truly unique artistic and environmental experience.",
       "duration": "2-3 hours",
       "price": "$50-100 USD",
-      "coordinates": {"lat": 21.2006, "lng": -86.7227}
+      "image": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&h=600&fit=crop&q=80",
+      "coordinates": {"lat": 21.2006, "lng": -86.7227},
+      "tips": "Snorkeling is sufficient for shallow gallery. Book dive tours in advance. Best visibility November-May."
+    },
+    {
+      "name": "Cenote Ik Kil",
+      "type": "Natural Wonder",
+      "description": "One of the most photogenic cenotes in the Yucatán, featuring a deep natural sinkhole with hanging vines and crystal-clear water. Often combined with Chichén Itzá day trips. Swimming platform allows easy access.",
+      "duration": "1-2 hours",
+      "price": "$10-15 USD",
+      "image": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&h=600&fit=crop&q=80",
+      "coordinates": {"lat": 20.6615, "lng": -88.5508},
+      "tips": "Arrives early or late to avoid tour bus crowds. Life jackets required. Restaurant on site."
     },
     {
       "name": "Xcaret Park",
       "type": "Eco-Archaeological Park",
-      "description": "All-in-one eco-park featuring underground rivers, snorkeling, wildlife, and evening shows celebrating Mexican culture.",
+      "description": "All-in-one eco-park featuring underground rivers for snorkeling, natural pools, wildlife sanctuary, butterfly pavilion, and spectacular evening show celebrating Mexican culture with 300+ performers.",
       "duration": "Full day",
       "price": "$120-200 USD",
-      "coordinates": {"lat": 20.5797, "lng": -87.1180}
+      "image": "https://images.unsplash.com/photo-1570737209810-87a8e7245f88?w=800&h=600&fit=crop&q=80",
+      "coordinates": {"lat": 20.5797, "lng": -87.1180},
+      "tips": "Book online for discounts. Stay for the evening show - it's spectacular. Wear water shoes."
+    },
+    {
+      "name": "Xel-Há",
+      "type": "Natural Aquatic Park",
+      "description": "All-inclusive natural aquatic park known as the world's largest natural aquarium. Unlimited snorkeling in a massive inlet, cliff jumping, floating river, and all food/drinks included.",
+      "duration": "Full day",
+      "price": "$100-150 USD",
+      "image": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&h=600&fit=crop&q=80",
+      "coordinates": {"lat": 20.3164, "lng": -87.3614},
+      "tips": "Arrive early to maximize snorkeling time. All equipment included. The cliff jump is thrilling."
     },
     {
       "name": "El Rey Archaeological Zone",
       "type": "Archaeological Site",
-      "description": "Small but fascinating Mayan ruins right in the Hotel Zone. Features 47 structures and resident iguanas.",
+      "description": "Small but fascinating Mayan ruins right in the Hotel Zone, offering an easy introduction to Mayan culture without a day trip. Features 47 structures and dozens of resident iguanas basking in the sun.",
       "duration": "1-2 hours",
       "price": "$3 USD",
-      "coordinates": {"lat": 21.0634, "lng": -86.7813}
+      "image": "https://images.unsplash.com/photo-1518105779142-d975f22f1b0a?w=800&h=600&fit=crop&q=80",
+      "coordinates": {"lat": 21.0634, "lng": -86.7813},
+      "tips": "Great for iguana photos. Combine with Playa Delfines nearby. Bring insect repellent."
+    },
+    {
+      "name": "Coco Bongo",
+      "type": "Nightclub",
+      "description": "Cancún's legendary nightclub featuring live performances, acrobatics, celebrity impersonators, and a party atmosphere unlike anywhere else. It's dinner theater, nightclub, and circus rolled into one.",
+      "duration": "4-6 hours",
+      "price": "$80-150 USD",
+      "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?w=800&h=600&fit=crop&q=80",
+      "coordinates": {"lat": 21.1372, "lng": -86.7469},
+      "tips": "Book VIP for better views. Open bar included. Shows start around 10:30pm. Reserve in advance."
+    },
+    {
+      "name": "Rio Secreto",
+      "type": "Underground River",
+      "description": "Explore a mystical underground cave system with crystal-clear water and stunning stalactite formations. A more intimate and natural alternative to the mega-parks.",
+      "duration": "Half day",
+      "price": "$80-120 USD",
+      "image": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&h=600&fit=crop&q=80",
+      "coordinates": {"lat": 20.5028, "lng": -87.2558},
+      "tips": "Wear water shoes and biodegradable sunscreen only. Photography equipment available for rent."
+    }
+  ],
+  "neighborhoods": [
+    {
+      "name": "Hotel Zone (Zona Hotelera)",
+      "slug": "hotel-zone",
+      "description": "The iconic 23km strip of beachfront hotels, resorts, restaurants, and nightclubs. Shaped like a '7', it's where most tourists stay and play. All-inclusive resorts, shopping malls, and the famous party scene.",
+      "image": "https://images.unsplash.com/photo-1510097467424-192d713fd8b2?w=800&h=600&fit=crop&q=80",
+      "vibe": "Resort paradise, touristy, convenient",
+      "best_for": "Beach access, all-inclusive stays, nightlife, water sports",
+      "highlights": ["La Isla Shopping Village", "Forum by the Sea", "Playa Forum", "Coco Bongo"],
+      "where_to_eat": ["Harry's Prime Steakhouse", "Puerto Madero", "Tacos Rigo"],
+      "where_to_stay": "Best for first-time visitors who want beach access and convenience"
+    },
+    {
+      "name": "Downtown Cancún (El Centro)",
+      "slug": "downtown",
+      "description": "Where locals live and authentic Mexico thrives. Budget-friendly hotels, real Mexican restaurants, markets, and a genuine cultural experience away from the resort bubble.",
+      "image": "https://images.unsplash.com/photo-1570737209810-87a8e7245f88?w=800&h=600&fit=crop&q=80",
+      "vibe": "Authentic, local, budget-friendly",
+      "best_for": "Authentic food, culture, budget travel, local markets",
+      "highlights": ["Parque de las Palapas", "Mercado 28", "Avenida Tulum", "Ceviche Square"],
+      "where_to_eat": ["Pescaditos", "La Parrilla", "Tacos Rigo Downtown"],
+      "where_to_stay": "Great for budget travelers and those seeking authentic experiences"
+    },
+    {
+      "name": "Puerto Cancún",
+      "slug": "puerto-cancun",
+      "description": "Upscale marina development with luxury residences, shopping, and dining. A calmer, more sophisticated alternative to the Hotel Zone party scene.",
+      "image": "https://images.unsplash.com/photo-1510097467424-192d713fd8b2?w=800&h=600&fit=crop&q=80",
+      "vibe": "Upscale, marina life, relaxed luxury",
+      "best_for": "Fine dining, shopping, calm atmosphere, marina views",
+      "highlights": ["Marina Town Center", "Golf course", "Luxury boutiques"],
+      "where_to_eat": ["Tempo by Martin Berasategui", "Catch"],
+      "where_to_stay": "Perfect for those seeking luxury without the Hotel Zone crowds"
+    },
+    {
+      "name": "Punta Nizuc",
+      "slug": "punta-nizuc",
+      "description": "The quiet southern tip of the Hotel Zone where the Caribbean meets the lagoon. Home to exclusive resorts, great snorkeling, and the underwater museum.",
+      "image": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&h=600&fit=crop&q=80",
+      "vibe": "Exclusive, tranquil, nature-focused",
+      "best_for": "Snorkeling, quiet beaches, exclusive resorts",
+      "highlights": ["MUSA snorkeling", "Club Med reef", "Quiet beaches"],
+      "where_to_eat": ["Resort restaurants"],
+      "where_to_stay": "Ideal for couples and those wanting seclusion"
     }
   ],
   "hotels": [
@@ -90,32 +198,50 @@
       "category": "Luxury",
       "stars": 5,
       "price_range": "$$$$$",
-      "description": "Adults-only all-inclusive with world-class spa and gourmet dining",
-      "features": ["All-inclusive", "Spa", "Adults-only", "Beachfront"]
+      "description": "Adults-only all-inclusive resort with world-class spa, gourmet dining, butler service, and impeccable attention to detail. Consistently ranked among Mexico's best resorts.",
+      "features": ["All-inclusive", "Spa", "Adults-only", "Beachfront", "Butler service"],
+      "neighborhood": "Hotel Zone",
+      "image": "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?w=800&h=600&fit=crop&q=80"
     },
     {
       "name": "Hyatt Ziva Cancún",
       "category": "Luxury",
       "stars": 5,
       "price_range": "$$$$",
-      "description": "Family-friendly all-inclusive with dolphin habitat and kids club",
-      "features": ["All-inclusive", "Family-friendly", "Pools", "Beachfront"]
+      "description": "Family-friendly all-inclusive at the tip of Punta Cancún with dolphin habitat, kids' club, and both calm and wave-side beaches.",
+      "features": ["All-inclusive", "Family-friendly", "Multiple pools", "Beachfront", "Kids club"],
+      "neighborhood": "Hotel Zone",
+      "image": "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?w=800&h=600&fit=crop&q=80"
+    },
+    {
+      "name": "Nizuc Resort & Spa",
+      "category": "Luxury",
+      "stars": 5,
+      "price_range": "$$$$$",
+      "description": "Exclusive boutique resort on a private peninsula with two beaches, world-class spa, and celebrity chef restaurants. The most exclusive address in Cancún.",
+      "features": ["Private peninsula", "Multiple restaurants", "Spa", "Secluded beaches"],
+      "neighborhood": "Punta Nizuc",
+      "image": "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?w=800&h=600&fit=crop&q=80"
     },
     {
       "name": "Fiesta Americana Condesa",
       "category": "Mid-Range",
       "stars": 4,
       "price_range": "$$$",
-      "description": "Classic Hotel Zone resort with excellent beach location",
-      "features": ["All-inclusive available", "Central location", "Pool"]
+      "description": "Classic Hotel Zone resort with excellent Playa Forum beach location, multiple pools, and central access to shopping and nightlife.",
+      "features": ["All-inclusive available", "Central location", "Pool", "Beach club"],
+      "neighborhood": "Hotel Zone",
+      "image": "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?w=800&h=600&fit=crop&q=80"
     },
     {
       "name": "Selina Cancún Downtown",
       "category": "Budget",
       "stars": 3,
       "price_range": "$$",
-      "description": "Hip hostel-hotel hybrid in downtown with coworking space",
-      "features": ["Coworking", "Social atmosphere", "Restaurant"]
+      "description": "Hip hostel-hotel hybrid in downtown with coworking space, pool, and social atmosphere. Perfect for digital nomads and budget travelers.",
+      "features": ["Coworking", "Social atmosphere", "Restaurant", "Pool"],
+      "neighborhood": "Downtown",
+      "image": "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?w=800&h=600&fit=crop&q=80"
     }
   ],
   "restaurants": [
@@ -123,54 +249,142 @@
       "name": "Harry's Prime Steakhouse",
       "cuisine": "Steakhouse",
       "price_range": "$$$$",
-      "description": "Upscale steakhouse with premium cuts and elegant lagoon views"
+      "description": "Upscale steakhouse serving premium USDA Prime cuts in an elegant setting with stunning lagoon views. Cancún's top fine dining destination.",
+      "neighborhood": "Hotel Zone",
+      "image": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=800&h=600&fit=crop&q=80",
+      "must_try": "Tomahawk steak for two"
     },
     {
       "name": "Puerto Madero",
-      "cuisine": "Seafood",
+      "cuisine": "Seafood & Steaks",
       "price_range": "$$$",
-      "description": "Fresh seafood and steaks with stunning lagoon sunset views"
+      "description": "Fresh seafood and Argentine-style steaks with stunning lagoon sunset views. A Cancún institution since 1989.",
+      "neighborhood": "Hotel Zone",
+      "image": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?w=800&h=600&fit=crop&q=80",
+      "must_try": "Grilled lobster tail and sunset views"
+    },
+    {
+      "name": "La Habichuela Sunset",
+      "cuisine": "Yucatecan Fine Dining",
+      "price_range": "$$$",
+      "description": "Upscale Mayan-inspired cuisine in a romantic garden setting with fountains and Mayan sculptures. The signature cochinita pibil is legendary.",
+      "neighborhood": "Hotel Zone",
+      "image": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=800&h=600&fit=crop&q=80",
+      "must_try": "Cocobichuela (lobster and shrimp in coconut curry)"
     },
     {
       "name": "Tacos Rigo",
       "cuisine": "Mexican Street Food",
       "price_range": "$",
-      "description": "Legendary taco stand in the Hotel Zone open until 4am"
+      "description": "Legendary late-night taco stand in the Hotel Zone, serving hungry club-goers until 4am. No frills, just delicious tacos al pastor and gringa.",
+      "neighborhood": "Hotel Zone",
+      "image": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?w=800&h=600&fit=crop&q=80",
+      "must_try": "Gringa (flour tortilla quesadilla with al pastor)"
     },
     {
-      "name": "La Habichuela Sunset",
-      "cuisine": "Yucatecan",
-      "price_range": "$$$",
-      "description": "Upscale Mayan-inspired cuisine in romantic garden setting"
+      "name": "Pescaditos",
+      "cuisine": "Seafood",
+      "price_range": "$$",
+      "description": "Downtown favorite for fresh ceviche, fish tacos, and seafood cocktails. Where locals go for quality seafood at fair prices.",
+      "neighborhood": "Downtown",
+      "image": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?w=800&h=600&fit=crop&q=80",
+      "must_try": "Ceviche sampler and beer-battered fish tacos"
+    },
+    {
+      "name": "La Parrilla",
+      "cuisine": "Traditional Mexican",
+      "price_range": "$$",
+      "description": "Festive downtown restaurant with live mariachi music, flaming fajitas, and an authentic Mexican party atmosphere nightly.",
+      "neighborhood": "Downtown",
+      "image": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?w=800&h=600&fit=crop&q=80",
+      "must_try": "Molcajete (sizzling volcanic stone bowl)"
+    }
+  ],
+  "day_trips": [
+    {
+      "name": "Chichén Itzá",
+      "distance": "200 km (2.5 hours)",
+      "description": "One of the New Seven Wonders of the World. Explore El Castillo pyramid, the ball court, and the Temple of Warriors at this UNESCO World Heritage Mayan city.",
+      "image": "https://images.unsplash.com/photo-1518105779142-d975f22f1b0a?w=800&h=600&fit=crop&q=80",
+      "tips": "Leave by 7am to beat crowds. Most tours include cenote stop. Bring cash for vendors."
+    },
+    {
+      "name": "Tulum",
+      "distance": "130 km (2 hours)",
+      "description": "Stunning clifftop Mayan ruins overlooking the Caribbean Sea, plus beautiful beaches and the trendy hotel zone. Can easily fill a full day.",
+      "image": "https://images.unsplash.com/photo-1518105779142-d975f22f1b0a?w=800&h=600&fit=crop&q=80",
+      "tips": "Visit ruins early morning, then enjoy the beaches. Combine with a cenote visit."
+    },
+    {
+      "name": "Isla Mujeres",
+      "distance": "20 min ferry",
+      "description": "Laid-back Caribbean island with world-famous Playa Norte, golf cart exploration, snorkeling, and excellent seafood restaurants.",
+      "image": "https://images.unsplash.com/photo-1548678747-f382e36e3e54?w=800&h=600&fit=crop&q=80",
+      "tips": "Take the first ferry. Rent a golf cart to explore. Playa Norte is a must."
+    },
+    {
+      "name": "Cozumel",
+      "distance": "1.5 hour (ferry from Playa del Carmen)",
+      "description": "World-renowned diving destination with pristine reefs, clear visibility, and relaxed island atmosphere. Great for snorkelers too.",
+      "image": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&h=600&fit=crop&q=80",
+      "tips": "Best diving in Mexico. Book dive operators in advance. Palancar Reef is legendary."
+    },
+    {
+      "name": "Cobá",
+      "distance": "170 km (2 hours)",
+      "description": "Lesser-visited Mayan ruins where you can still climb the 42-meter pyramid Nohoch Mul for jungle views. Rent bikes to explore the vast site.",
+      "image": "https://images.unsplash.com/photo-1518105779142-d975f22f1b0a?w=800&h=600&fit=crop&q=80",
+      "tips": "Rent bikes at entrance. Climb Nohoch Mul early. Combine with Tulum or cenotes."
     }
   ],
   "faqs": [
     {
       "question": "What is the best time to visit Cancún?",
-      "answer": "The best time to visit Cancún is from December to April during the dry season. You'll enjoy sunny skies, low humidity, and comfortable temperatures around 27°C (81°F). Avoid September and October for hurricane season, and be aware that spring break (March) brings large crowds."
+      "answer": "The best time to visit Cancún is from December to April during the dry season. You'll enjoy sunny skies, low humidity, and comfortable temperatures around 27°C (81°F). Avoid September and October for hurricane season, and be aware that spring break (March) brings large crowds and higher prices."
     },
     {
       "question": "Is Cancún safe for tourists?",
-      "answer": "Cancún's Hotel Zone is generally very safe for tourists, with heavy security and police presence. The tourism industry is vital to the local economy, and authorities prioritize visitor safety. Exercise normal precautions, stay in well-traveled areas, and avoid displaying expensive jewelry."
+      "answer": "Cancún's Hotel Zone is generally very safe for tourists, with heavy security and police presence. The tourism industry is vital to the economy, and authorities prioritize visitor safety. Exercise normal precautions: stay in well-traveled areas, use authorized taxis or Uber, and avoid displaying expensive jewelry."
     },
     {
       "question": "How do I get from Cancún airport to the Hotel Zone?",
       "answer": "Cancún International Airport (CUN) is about 20-30 minutes from the Hotel Zone. Options include: official airport taxis ($50-60 USD), shared shuttles ($15-25 USD per person), private transfers (pre-booked, $40-80 USD), or ADO bus to downtown ($5 USD) then taxi to hotels."
     },
     {
+      "question": "Should I stay in the Hotel Zone or Downtown?",
+      "answer": "The Hotel Zone offers beach access, resorts, nightlife, and convenience - ideal for first-time visitors and beach lovers. Downtown Cancún is more authentic, budget-friendly, and offers real Mexican culture. Many visitors combine both: stay in the Hotel Zone but venture downtown for food and markets."
+    },
+    {
       "question": "Do I need to speak Spanish in Cancún?",
-      "answer": "No, English is widely spoken throughout Cancún's Hotel Zone, resorts, and tourist areas. Most hotel staff, tour guides, and restaurant workers speak English. However, learning a few Spanish phrases is appreciated and helpful for downtown exploration."
+      "answer": "No, English is widely spoken throughout Cancún's Hotel Zone, resorts, and tourist areas. Most hotel staff, tour guides, and restaurant workers speak English. However, learning basic Spanish phrases is appreciated and helpful for downtown exploration."
+    },
+    {
+      "question": "Is all-inclusive worth it in Cancún?",
+      "answer": "For many visitors, yes. All-inclusive resorts offer convenience, predictable costs, and quality dining. They're especially valuable for families and those who want to relax without planning. However, if you want to explore local restaurants and culture, European Plan (room only) gives more flexibility."
+    },
+    {
+      "question": "What currency should I bring to Cancún?",
+      "answer": "While Mexican Pesos (MXN) are the official currency, US dollars are widely accepted in the Hotel Zone. However, you'll get better exchange rates paying in pesos. ATMs are plentiful, and major credit cards are accepted everywhere. Avoid exchanging money at the airport."
     },
     {
       "question": "Is the water safe to drink in Cancún?",
       "answer": "Tap water in Cancún is not recommended for drinking. Stick to bottled or purified water, which is provided free at most hotels. Ice at restaurants and resorts is typically made from purified water and is safe."
     },
     {
-      "question": "What currency should I bring to Cancún?",
-      "answer": "While Mexican Pesos (MXN) are the official currency, US dollars are widely accepted in the Hotel Zone. However, you'll get better exchange rates paying in pesos. ATMs are plentiful, and major credit cards are accepted everywhere."
+      "question": "What are the must-do excursions from Cancún?",
+      "answer": "Top day trips include: Chichén Itzá (Mayan ruins, 2.5 hours), Tulum (clifftop ruins and beaches, 2 hours), Isla Mujeres (island paradise, 20 min ferry), cenotes (natural sinkholes for swimming), and Xcaret/Xel-Há adventure parks. Book in advance during peak season."
+    },
+    {
+      "question": "When is hurricane season in Cancún?",
+      "answer": "Hurricane season runs from June to November, with September and October being the peak risk months. While hurricanes are relatively rare, tropical storms and heavy rain are more common. Hotels have cancellation policies for weather events, and travel insurance is recommended during this period."
     }
   ],
+  "practical_info": {
+    "getting_there": "Cancún International Airport (CUN) is Mexico's second busiest airport with direct flights from across North America, Europe, and South America. The airport is about 20km from the Hotel Zone. Options include official taxis ($50-60 USD), shared shuttles, pre-booked transfers, or ADO buses to downtown.",
+    "getting_around": "The Hotel Zone has frequent R-1 and R-2 buses ($1 USD) running the length of Boulevard Kukulcán. Taxis are plentiful but agree on price before boarding. Uber works in Cancún. For day trips, organized tours or rental cars are best. Don't rent a car just for the Hotel Zone - parking is limited.",
+    "safety_info": "The Hotel Zone and major tourist areas are well-policed and generally safe. Use common sense: don't flash expensive items, use hotel safes, take authorized taxis at night. The tourist police are helpful. Downtown is safe during the day; stick to main areas at night. Avoid isolated beaches after dark."
+  },
   "related_destinations": ["playa-del-carmen", "tulum", "isla-mujeres", "cozumel", "holbox"],
-  "tags": ["beach", "caribbean", "all-inclusive", "nightlife", "family-friendly", "diving", "mayan-ruins"],
+  "tags": ["beach", "caribbean", "all-inclusive", "nightlife", "family-friendly", "diving", "mayan-ruins", "featured"],
   "schema_type": "TouristDestination"
 }
