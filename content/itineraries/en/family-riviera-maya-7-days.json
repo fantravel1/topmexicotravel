@@ -1,0 +1,196 @@
+{
+  "id": "family-riviera-maya-7-days",
+  "slug": "family-riviera-maya-7-days",
+  "title": "7 Days in the Riviera Maya with Kids",
+  "subtitle": "The Perfect Family Beach Vacation in Mexico",
+  "duration": "7 Days",
+  "meta_title": "Family-Friendly Riviera Maya Itinerary - 7 Days with Kids in Mexico",
+  "meta_description": "Plan the perfect family vacation to Mexico's Riviera Maya. 7 days of kid-friendly beaches, eco-parks, Mayan ruins, cenotes, and all-inclusive resort fun. Complete guide for traveling with children.",
+  "hero_image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1920&h=1080&fit=crop&q=80",
+  "hero_alt": "Family enjoying beach vacation in Mexico's Riviera Maya",
+  "og_image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&h=630&fit=crop&q=80",
+  "introduction": "The Riviera Maya is Mexico's premier family destination—and for good reason. Crystal-clear Caribbean waters, kid-friendly eco-parks, accessible Mayan ruins, magical cenotes, and world-class all-inclusive resorts create the perfect mix of adventure, education, and relaxation. This 7-day itinerary balances activities with downtime, keeping both kids and parents happy.",
+  "best_for": ["Families with kids", "Multi-generational trips", "First-time Mexico visitors", "Beach lovers"],
+  "estimated_budget": {
+    "budget": "$2,000-3,000 USD for family of 4",
+    "mid_range": "$4,000-6,000 USD for family of 4",
+    "luxury": "$8,000+ USD for family of 4"
+  },
+  "best_time": "December to April for best weather; July-August for summer vacation (busier, hotter)",
+  "destinations": ["Cancún", "Playa del Carmen", "Tulum", "Riviera Maya"],
+  "highlights": [
+    "Swim in crystal-clear cenotes",
+    "Explore kid-friendly Tulum ruins",
+    "Play at Xcaret or Xel-Há eco-parks",
+    "Snorkel with tropical fish",
+    "Learn about Mayan culture",
+    "Build sandcastles on perfect beaches"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Arrive & Resort Fun",
+      "location": "Riviera Maya Resort",
+      "description": "Fly into Cancún International Airport (CUN) and transfer to your family-friendly resort (45-90 minutes depending on location). Let kids decompress from travel with pool time, beach exploration, and resort activities. Most all-inclusives have kids' clubs, splash parks, and evening entertainment. Take it easy—you've earned it!",
+      "image": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Airport arrival and resort transfer",
+        "Resort check-in and orientation",
+        "Pool and beach time",
+        "Kids' club exploration",
+        "Family dinner at resort"
+      ],
+      "accommodation": {
+        "budget": "Sandos Caracol Eco Resort ($250-350/night all-inclusive)",
+        "mid_range": "Dreams Riviera Cancun ($400-550/night all-inclusive)",
+        "luxury": "Grand Velas Riviera Maya ($800+/night all-inclusive)"
+      },
+      "tips": ["Book airport transfer in advance—private is worth it with kids and car seats", "Request early check-in if arriving in morning", "Let kids adjust before big activities—jet lag is real"]
+    },
+    {
+      "day": 2,
+      "title": "Xcaret Eco-Park Adventure",
+      "location": "Xcaret",
+      "description": "Full day at Xcaret, the ultimate family eco-park. Snorkel in underground rivers, swim with dolphins (optional), explore a butterfly pavilion, see jaguars and monkeys, watch traditional performances, and end with the spectacular Mexico Espectacular night show featuring 300 performers. It's exhausting in the best way.",
+      "image": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Underground river snorkeling (life vests provided)",
+        "Butterfly pavilion and aviary",
+        "Wildlife area (jaguars, monkeys, deer)",
+        "Mayan village and cultural exhibits",
+        "Beach and swimming areas",
+        "Mexico Espectacular evening show"
+      ],
+      "accommodation": {
+        "budget": "Sandos Caracol Eco Resort ($250-350/night all-inclusive)",
+        "mid_range": "Dreams Riviera Cancun ($400-550/night all-inclusive)",
+        "luxury": "Grand Velas Riviera Maya ($800+/night all-inclusive)"
+      },
+      "tips": ["Book Xcaret Plus package (includes food/drinks and lockers)", "Bring water shoes for river activities", "Stay for the night show—it's spectacular and kids love it", "Arrive early to beat crowds"]
+    },
+    {
+      "day": 3,
+      "title": "Cenote Swimming & Beach Day",
+      "location": "Riviera Maya",
+      "description": "Morning adventure to a family-friendly cenote—natural limestone sinkholes filled with crystal-clear water. Cenote Azul near Playa del Carmen is perfect for families with shallow areas and easy access. Afternoon back at the resort for beach time, pool play, and kids' club activities. Let the kids lead the pace.",
+      "image": "https://images.unsplash.com/photo-1504730655501-24c39ac53f0e?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Morning cenote visit (Cenote Azul or Jardín del Eden)",
+        "Swimming and jumping platforms",
+        "Picnic lunch at cenote",
+        "Return to resort",
+        "Afternoon beach and pool time",
+        "Kids' club or family games"
+      ],
+      "accommodation": {
+        "budget": "Sandos Caracol Eco Resort ($250-350/night all-inclusive)",
+        "mid_range": "Dreams Riviera Cancun ($400-550/night all-inclusive)",
+        "luxury": "Grand Velas Riviera Maya ($800+/night all-inclusive)"
+      },
+      "tips": ["Cenote Azul has a restaurant on-site", "Bring reef-safe sunscreen (required at cenotes)", "Life jackets available for young swimmers", "Go early before tour groups arrive"]
+    },
+    {
+      "day": 4,
+      "title": "Tulum Ruins & Beach",
+      "location": "Tulum",
+      "description": "Visit the iconic Tulum ruins—the only Mayan city built on the coast. The clifftop setting is stunning and the site is compact enough for kids (1-2 hours). Descend to the beach below the ruins for swimming in turquoise water with ancient temples above. Lunch in Tulum town before returning to the resort.",
+      "image": "https://images.unsplash.com/photo-1518105779142-d975f22f1b0a?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Tulum archaeological site (arrive early)",
+        "Explore ruins with kid-friendly guide",
+        "Beach time below the ruins",
+        "Lunch in Tulum town",
+        "Optional: Cenote swim on way back",
+        "Evening at resort"
+      ],
+      "accommodation": {
+        "budget": "Sandos Caracol Eco Resort ($250-350/night all-inclusive)",
+        "mid_range": "Dreams Riviera Cancun ($400-550/night all-inclusive)",
+        "luxury": "Grand Velas Riviera Maya ($800+/night all-inclusive)"
+      },
+      "tips": ["Arrive at 8am opening to avoid heat and crowds", "Hire a guide to make ruins come alive for kids ($30-50)", "Bring water and snacks—limited inside", "The beach stairs are steep—watch little ones"]
+    },
+    {
+      "day": 5,
+      "title": "Xel-Há All-Inclusive Water Park",
+      "location": "Xel-Há",
+      "description": "Day at Xel-Há, nature's ultimate water park. This all-inclusive eco-park features a massive natural inlet perfect for snorkeling with hundreds of tropical fish. Kids can float down a lazy river, jump off cliffs (age-appropriate heights), explore caves, and eat unlimited tacos. The all-inclusive format means no stress about food/drink costs.",
+      "image": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Snorkeling in natural inlet",
+        "River float on inner tubes",
+        "Cliff jumping (various heights)",
+        "Rope bridges and jungle trails",
+        "Unlimited food and drinks",
+        "Beach and swimming"
+      ],
+      "accommodation": {
+        "budget": "Sandos Caracol Eco Resort ($250-350/night all-inclusive)",
+        "mid_range": "Dreams Riviera Cancun ($400-550/night all-inclusive)",
+        "luxury": "Grand Velas Riviera Maya ($800+/night all-inclusive)"
+      },
+      "tips": ["Xel-Há is calmer than Xcaret—better for younger kids", "Snorkel gear included—bring prescription masks if needed", "Lockers and towels included", "Pace yourselves—it's easy to overdo it"]
+    },
+    {
+      "day": 6,
+      "title": "Playa del Carmen & Free Day",
+      "location": "Playa del Carmen / Resort",
+      "description": "Flexible day based on family energy levels. Option 1: Morning in Playa del Carmen walking Quinta Avenida (5th Avenue), shopping, eating, people-watching. Option 2: Full resort day with spa for parents while kids enjoy kids' club. Option 3: Mix of both. This is your recovery day before heading home.",
+      "image": "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Optional: Playa del Carmen 5th Avenue walk",
+        "Shopping for souvenirs",
+        "Beachfront lunch",
+        "Resort pool and beach time",
+        "Parents' spa time (kids' club)",
+        "Special family dinner"
+      ],
+      "accommodation": {
+        "budget": "Sandos Caracol Eco Resort ($250-350/night all-inclusive)",
+        "mid_range": "Dreams Riviera Cancun ($400-550/night all-inclusive)",
+        "luxury": "Grand Velas Riviera Maya ($800+/night all-inclusive)"
+      },
+      "tips": ["Playa del Carmen is 15-30 min from most resorts", "5th Avenue is pedestrian-only and kid-friendly", "Ice cream stops are mandatory", "Pack souvenirs today to avoid airport rush"]
+    },
+    {
+      "day": 7,
+      "title": "Final Beach Time & Departure",
+      "location": "Resort / Cancún Airport",
+      "description": "Final morning enjoying the resort. Most resorts offer late checkout or day passes if your flight is evening. Squeeze in one more beach session, a final swim, and lunch before transferring to Cancún airport. Let kids say goodbye to new friends and collect their memories.",
+      "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Morning beach and pool time",
+        "Pack and check out (or use late checkout)",
+        "Final resort lunch",
+        "Transfer to Cancún airport",
+        "Departure"
+      ],
+      "tips": ["Request late checkout in advance", "Some resorts offer day passes for after checkout", "Allow 2-3 hours for transfer + airport", "Check bags for sand—it gets everywhere!"]
+    }
+  ],
+  "practical_info": {
+    "getting_there": "Fly into Cancún International Airport (CUN). Most US cities have direct flights. Book airport transfers in advance—private transfers with car seats are available. Drive time to Riviera Maya resorts is 45-90 minutes depending on location.",
+    "getting_around": "For this itinerary, book organized tours or private drivers rather than renting a car. Resorts arrange Xcaret/Xel-Há transport. For Tulum, hire a private driver ($80-120 for the day) for flexibility with kids. Taxis and Uber available in Playa del Carmen.",
+    "what_to_pack": ["Reef-safe sunscreen (required at eco-parks)", "Water shoes for cenotes and rocks", "Swim diapers for babies", "Snacks for car rides", "Motion sickness meds", "Familiar comfort items for little ones"]
+  },
+  "faqs": [
+    {
+      "question": "What's the best age for kids on this trip?",
+      "answer": "This itinerary works great for ages 4-14. Toddlers can enjoy it too, but may miss out on some activities. Teens may want more adventure—consider adding ATV tours or zip-lining for older kids. Babies are welcome but require more logistics (strollers on sand, nap schedules, etc.)."
+    },
+    {
+      "question": "Are Mexican resorts really all-inclusive?",
+      "answer": "Yes, most Riviera Maya family resorts are truly all-inclusive: all meals, drinks (including alcohol for adults), snacks, room service, non-motorized water sports, kids' clubs, and entertainment. Spa, excursions, and premium restaurants may cost extra. Read the fine print for your specific resort."
+    },
+    {
+      "question": "Is it safe to travel to Mexico with kids?",
+      "answer": "The Riviera Maya is very safe for families. It's one of Mexico's most visited tourist regions with excellent infrastructure. Stick to tourist areas, use reputable tour operators, and take normal precautions. Crime against tourists is rare. The biggest risks are sunburn, jellyfish stings, and tummy troubles from new foods."
+    },
+    {
+      "question": "Should we do Xcaret or Xel-Há?",
+      "answer": "Both are excellent, but they're different. Xcaret is more varied with cultural shows, wildlife, and activities—better for families wanting variety and older kids. Xel-Há is a giant natural water park focused on snorkeling and swimming—better for water-loving families and younger kids. Many families do both on a week trip."
+    }
+  ],
+  "related_itineraries": ["yucatan-7-days", "mexico-city-5-days"],
+  "tags": ["family", "kids", "beach", "all-inclusive", "riviera-maya", "cenotes", "eco-parks", "snorkeling"]
+}

@@ -1,0 +1,261 @@
+{
+  "id": "romantic-mexico-10-days",
+  "slug": "romantic-mexico-10-days",
+  "title": "10-Day Romantic Mexico Honeymoon",
+  "subtitle": "Beaches, Colonial Charm & Unforgettable Experiences",
+  "duration": "10 Days",
+  "meta_title": "Mexico Honeymoon Itinerary - 10 Days of Romance in Mexico",
+  "meta_description": "Plan the perfect Mexico honeymoon: 10 days of romantic beaches, boutique hotels, candlelit dinners, and intimate experiences. From Tulum to San Miguel de Allende to Los Cabos.",
+  "hero_image": "https://images.unsplash.com/photo-1510414842594-a61c69b5ae57?w=1920&h=1080&fit=crop&q=80",
+  "hero_alt": "Romantic sunset over Mexican beach with couple silhouette",
+  "og_image": "https://images.unsplash.com/photo-1510414842594-a61c69b5ae57?w=1200&h=630&fit=crop&q=80",
+  "introduction": "Mexico is one of the world's most romantic destinations—where bohemian beach towns meet colonial splendor, world-class cuisine pairs with stunning sunsets, and every corner offers opportunities for intimate moments. This 10-day honeymoon itinerary combines three distinct settings: the bohemian luxury of Tulum, the artistic romance of San Miguel de Allende, and the dramatic beauty of Los Cabos.",
+  "best_for": ["Honeymooners", "Couples", "Anniversary trips", "Romantic getaways"],
+  "estimated_budget": {
+    "budget": "$3,000-4,500 USD per couple",
+    "mid_range": "$6,000-10,000 USD per couple",
+    "luxury": "$15,000+ USD per couple"
+  },
+  "best_time": "November to April for perfect weather; avoid spring break weeks",
+  "destinations": ["Tulum", "San Miguel de Allende", "Los Cabos"],
+  "highlights": [
+    "Private cenote swim at sunrise",
+    "Candlelit dinner in a colonial courtyard",
+    "Couples spa with Mayan rituals",
+    "Sunset sailing to El Arco",
+    "Wine tasting in a rooftop garden",
+    "Private beach picnic"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Arrive in Tulum",
+      "location": "Tulum",
+      "description": "Fly into Cancún and transfer to Tulum (2 hours). Check into your boutique hotel in the beach zone—where jungle meets Caribbean. Spend the afternoon lounging at your hotel's beach club with mezcal cocktails. Watch the sunset paint the sky, then dinner at a candlelit restaurant in the jungle. The bohemian romance of Tulum begins.",
+      "image": "https://images.unsplash.com/photo-1518105779142-d975f22f1b0a?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Airport arrival and private transfer",
+        "Check into boutique beach hotel",
+        "Beach club afternoon",
+        "Sunset cocktails",
+        "Romantic jungle dinner"
+      ],
+      "accommodation": {
+        "budget": "Ahau Tulum ($200-350)",
+        "mid_range": "Be Tulum ($400-600)",
+        "luxury": "Casa Malca ($700+)"
+      },
+      "tips": ["Book a private transfer for a smooth start to your honeymoon", "Request a room with ocean view or private plunge pool", "Make dinner reservations—popular spots book up"]
+    },
+    {
+      "day": 2,
+      "title": "Tulum Ruins & Cenote Magic",
+      "location": "Tulum",
+      "description": "Early morning visit to Tulum ruins before the crowds—just the two of you and the ancient Mayans overlooking the sea. Swim in the turquoise waters below the cliffs. Afternoon private cenote experience—arrange access to a cenote during off-hours for an intimate swim in sacred waters. Evening mezcal tasting followed by farm-to-table dinner.",
+      "image": "https://images.unsplash.com/photo-1504730655501-24c39ac53f0e?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Sunrise at Tulum ruins",
+        "Swim at ruins beach",
+        "Private cenote swim",
+        "Afternoon rest at hotel",
+        "Mezcal tasting experience",
+        "Farm-to-table dinner at Arca or Hartwood"
+      ],
+      "accommodation": {
+        "budget": "Ahau Tulum ($200-350)",
+        "mid_range": "Be Tulum ($400-600)",
+        "luxury": "Casa Malca ($700+)"
+      },
+      "tips": ["Arrive at ruins at 8am opening for magical photos alone", "Book cenote privately through your hotel", "Hartwood and Arca require reservations weeks ahead"]
+    },
+    {
+      "day": 3,
+      "title": "Spa Day & Beach Bliss",
+      "location": "Tulum",
+      "description": "Sleep in, have breakfast delivered to your room, then indulge in a couples Mayan spa experience. Traditional temazcal (sweat lodge) ceremonies, jungle massages, and healing rituals connect you to ancient traditions. Afternoon bike ride along the beach road, stopping at beach clubs for champagne. Sunset dinner on the sand.",
+      "image": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Late breakfast in bed",
+        "Couples spa with temazcal ceremony",
+        "Jungle massage",
+        "Bike ride along beach road",
+        "Beach club champagne stop",
+        "Beachfront dinner at sunset"
+      ],
+      "accommodation": {
+        "budget": "Ahau Tulum ($200-350)",
+        "mid_range": "Be Tulum ($400-600)",
+        "luxury": "Casa Malca ($700+)"
+      },
+      "tips": ["Book spa treatments in advance", "Yaan Wellness has excellent temazcal ceremonies", "Rent bikes from your hotel—most include them free"]
+    },
+    {
+      "day": 4,
+      "title": "Fly to San Miguel de Allende",
+      "location": "San Miguel de Allende",
+      "description": "Morning flight from Cancún to León/Guanajuato (via Mexico City), then private transfer to San Miguel de Allende (1.5 hours). This colonial gem is pure romance—cobblestone streets, pink Parroquia church, rooftop terraces. Check into your colonial boutique hotel, take an evening walk through the jardin, and dine in a candlelit courtyard.",
+      "image": "https://images.unsplash.com/photo-1570737209810-87a8e7245f88?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Morning in Tulum, transfer to airport",
+        "Flight to León/Guanajuato",
+        "Private transfer to San Miguel",
+        "Boutique hotel check-in",
+        "Evening walk to Parroquia",
+        "Courtyard dinner at The Restaurant"
+      ],
+      "accommodation": {
+        "budget": "Casa Schuck ($150-250)",
+        "mid_range": "L'Otel ($350-500)",
+        "luxury": "Rosewood San Miguel de Allende ($600+)"
+      },
+      "tips": ["San Miguel is at 6,200 feet—take it easy first evening", "Request a room with Parroquia view if possible", "The pink church glows golden at sunset"]
+    },
+    {
+      "day": 5,
+      "title": "Art, Wine & Romance",
+      "location": "San Miguel de Allende",
+      "description": "Morning exploring the Fábrica La Aurora art galleries hand-in-hand. Lunch at a rooftop restaurant with church views. Afternoon wine tasting in the nearby wine country—the Guanajuato wine region is emerging and romantic. Return for sunset drinks on your hotel rooftop, then a special tasting menu dinner at Moxi.",
+      "image": "https://images.unsplash.com/photo-1560179707-f14e90ef3623?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Breakfast at café in the jardin",
+        "Fábrica La Aurora gallery walk",
+        "Rooftop lunch with views",
+        "Wine country tour and tasting",
+        "Sunset rooftop drinks",
+        "Tasting menu at Moxi"
+      ],
+      "accommodation": {
+        "budget": "Casa Schuck ($150-250)",
+        "mid_range": "L'Otel ($350-500)",
+        "luxury": "Rosewood San Miguel de Allende ($600+)"
+      },
+      "tips": ["Book Moxi weeks in advance", "Dos Buhos and Cuna de Tierra are top wineries", "Rooftop of Rosewood Luna bar is magical at sunset"]
+    },
+    {
+      "day": 6,
+      "title": "Hot Springs & Colonial Charm",
+      "location": "San Miguel de Allende",
+      "description": "Morning at La Gruta hot springs—natural thermal pools in a cave setting. Float together in warm mineral waters as light filters through steam. Afternoon visit to the Sanctuary of Atotonilco (the 'Sistine Chapel of Mexico') for its incredible murals. Evening cooking class together, learning to make traditional Mexican dishes.",
+      "image": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "La Gruta hot springs morning",
+        "Spa treatments at springs",
+        "Lunch at hot springs",
+        "Sanctuary of Atotonilco visit",
+        "Return to San Miguel",
+        "Couples cooking class",
+        "Dinner you prepared together"
+      ],
+      "accommodation": {
+        "budget": "Casa Schuck ($150-250)",
+        "mid_range": "L'Otel ($350-500)",
+        "luxury": "Rosewood San Miguel de Allende ($600+)"
+      },
+      "tips": ["Go to hot springs early before day-trippers arrive", "The sanctuary murals took 30 years to complete—hire a guide", "Cooking classes at Sazon or La Cocina Cooking School"]
+    },
+    {
+      "day": 7,
+      "title": "Fly to Los Cabos",
+      "location": "Los Cabos",
+      "description": "Morning flight from León to Los Cabos (San José del Cabo airport). Transfer to your oceanfront resort—dramatic desert-meets-ocean landscape completely different from your previous stops. Afternoon at the infinity pool overlooking the Sea of Cortez. Sunset dinner at Flora Farms or Acre, farm-to-table magic in the desert.",
+      "image": "https://images.unsplash.com/photo-1510414842594-a61c69b5ae57?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Morning in San Miguel",
+        "Flight to Los Cabos",
+        "Resort check-in",
+        "Pool and beach afternoon",
+        "Sunset watching",
+        "Farm-to-table dinner at Flora Farms"
+      ],
+      "accommodation": {
+        "budget": "Casa Natalia ($200-350)",
+        "mid_range": "The Cape ($400-600)",
+        "luxury": "One&Only Palmilla ($800+)"
+      },
+      "tips": ["Stay in San José del Cabo for more charm, Cabo San Lucas for more action", "Flora Farms requires reservations and a short drive", "The corridor between towns has stunning resorts"]
+    },
+    {
+      "day": 8,
+      "title": "Sunset Sailing to El Arco",
+      "location": "Los Cabos",
+      "description": "Lazy morning—sleep in, order room service, enjoy your private balcony. Afternoon private sunset sail to El Arco, the iconic rock formation where the Pacific meets the Sea of Cortez. Watch the sun set from the water with champagne and appetizers. Return for a late dinner at Manta or Nick-San.",
+      "image": "https://images.unsplash.com/photo-1519046904884-53103b34b206?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Room service breakfast",
+        "Morning pool and beach",
+        "Spa treatments",
+        "Private sunset sailing",
+        "El Arco and Lover's Beach",
+        "Champagne on the water",
+        "Late seafood dinner"
+      ],
+      "accommodation": {
+        "budget": "Casa Natalia ($200-350)",
+        "mid_range": "The Cape ($400-600)",
+        "luxury": "One&Only Palmilla ($800+)"
+      },
+      "tips": ["Book private yacht rather than party boat for romance", "Timing depends on sunset—usually depart 4-5pm", "Sea can be choppy—take motion sickness meds if sensitive"]
+    },
+    {
+      "day": 9,
+      "title": "Beach & Celebration",
+      "location": "Los Cabos",
+      "description": "Final full day in Mexico. Morning at Chileno Bay—one of the few swimmable beaches with excellent snorkeling. Afternoon couples massage at your resort spa. Evening: your most special dinner of the trip. Arrange a private beach dinner, a chef's table experience, or the best table at Cocina del Mar. Celebrate your love.",
+      "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Morning at Chileno Bay beach",
+        "Snorkeling together",
+        "Beach lunch",
+        "Couples spa afternoon",
+        "Prepare for special dinner",
+        "Private beach dinner or chef's table"
+      ],
+      "accommodation": {
+        "budget": "Casa Natalia ($200-350)",
+        "mid_range": "The Cape ($400-600)",
+        "luxury": "One&Only Palmilla ($800+)"
+      },
+      "tips": ["Arrange private dinner through resort concierge", "Chileno Bay has calm water—perfect for snorkeling", "Many resorts offer honeymoon specials—ask!"]
+    },
+    {
+      "day": 10,
+      "title": "Departure",
+      "location": "Los Cabos",
+      "description": "Final morning in Mexico. Watch the sunrise over the Sea of Cortez, have a leisurely breakfast, and soak in the last moments of your honeymoon. Transfer to San José del Cabo airport for your flight home, full of memories and already planning your return.",
+      "image": "https://images.unsplash.com/photo-1510414842594-a61c69b5ae57?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Sunrise watching",
+        "Final breakfast",
+        "Last beach walk",
+        "Check out and airport transfer",
+        "Departure"
+      ],
+      "tips": ["Los Cabos airport is efficient—arrive 2 hours before international flights", "Buy mezcal or tequila at duty-free", "Take photos of your favorite moments to remember"]
+    }
+  ],
+  "practical_info": {
+    "getting_there": "Multi-city routing: Fly into Cancún (CUN), out of San José del Cabo (SJD). Internal flights on Volaris or Viva Aerobus are affordable if booked in advance. León/Guanajuato (BJX) serves San Miguel de Allende.",
+    "getting_around": "Private transfers for each segment are worth the splurge on a honeymoon. Within Tulum, bikes or walking. Within San Miguel, walking. In Los Cabos, resort shuttle or taxi/Uber for restaurants.",
+    "what_to_pack": ["Elegant resort wear for dinners", "Comfortable walking shoes for cobblestones", "Swimwear for multiple settings", "Light layers for San Miguel evenings", "Camera for memories"]
+  },
+  "faqs": [
+    {
+      "question": "Is this itinerary too rushed for a honeymoon?",
+      "answer": "It's active but not rushed. Each stop has 3 nights, giving you 2 full days per destination. The variety (beach, colonial, desert) keeps things exciting. If you prefer slower travel, extend each stop by 1-2 nights or choose just 2 of the 3 destinations."
+    },
+    {
+      "question": "What's the best time of year for this honeymoon?",
+      "answer": "November to April offers the best weather at all three destinations. December and February are popular for weddings/honeymoons—book well ahead. Avoid spring break weeks (March) if you want tranquility. Shoulder season (May, early December) offers deals."
+    },
+    {
+      "question": "How do we let hotels know we're on our honeymoon?",
+      "answer": "Tell them! When booking and at check-in, mention it's your honeymoon. Most hotels offer complimentary upgrades, champagne, room decorations, or special amenities for honeymooners. The more advance notice, the more they can prepare."
+    },
+    {
+      "question": "Can we combine this with our wedding in Mexico?",
+      "answer": "Absolutely! Many couples marry in one destination and honeymoon in others. Popular combos: wedding in San Miguel or Tulum, then honeymoon in Los Cabos. Work with a wedding planner who knows multi-destination Mexican weddings."
+    }
+  ],
+  "related_itineraries": ["baja-california-7-days", "colonial-heartland-8-days"],
+  "tags": ["honeymoon", "romance", "couples", "luxury", "beach", "colonial", "spa", "fine-dining"]
+}
