@@ -1,0 +1,423 @@
+{
+  "id": "copper-canyon-7-days",
+  "slug": "copper-canyon-7-days",
+  "title": "Copper Canyon: 7 Days",
+  "subtitle": "Mexico's Grand Canyon by Train",
+  "meta_title": "Copper Canyon Itinerary 7 Days - El Chepe Train, Hiking, Tarahumara 2025",
+  "meta_description": "7-day Copper Canyon itinerary: ride the spectacular El Chepe train, hike dramatic canyon trails, visit Tarahumara communities, and explore Mexico's wild northwest.",
+  "duration": "7 days",
+  "destinations": ["Los Mochis", "El Fuerte", "Cerocahui", "Divisadero", "Creel", "Chihuahua"],
+  "hero_image": "https://images.unsplash.com/photo-1594843227917-2a4e28f0a07f?w=1920&h=1080&fit=crop&q=80",
+  "hero_alt": "Dramatic Copper Canyon vista with train track",
+  "og_image": "https://images.unsplash.com/photo-1594843227917-2a4e28f0a07f?w=1200&h=630&fit=crop&q=80",
+  "introduction": "Copper Canyon (Barrancas del Cobre) is actually a series of six interconnected canyons—larger and deeper than the Grand Canyon. The legendary El Chepe train traverses this spectacular landscape, passing through 86 tunnels and over 37 bridges. Combined with hiking, Tarahumara indigenous culture, and authentic Northern Mexican hospitality, this is one of Mexico's greatest adventures.",
+  "best_time": "October-November (fall colors), March-April (spring). Avoid summer (rainy, obscured views) and deep winter (cold at altitude).",
+  "budget": "$1,200-2,000 per person",
+  "highlights": [
+    "Ride the El Chepe scenic railway through 37 bridges and 86 tunnels",
+    "Gaze into canyons deeper than the Grand Canyon",
+    "Meet the Tarahumara (Rarámuri) people and learn their traditions",
+    "Hike to waterfalls, canyon rims, and remote villages",
+    "Experience authentic Northern Mexico culture and cuisine",
+    "Stay in cliff-edge lodges with dramatic views"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Arrive Los Mochis or El Fuerte",
+      "description": "Begin your journey in Sinaloa state, gateway to the canyons.",
+      "activities": [
+        {
+          "time": "Afternoon",
+          "title": "Arrive Los Mochis",
+          "description": "Fly into Los Mochis (LMM) from major Mexican cities. Alternatively, fly to Chihuahua to travel the route in reverse. Los Mochis is a modern city—the Pacific coast starting point.",
+          "duration": "Variable",
+          "tips": "Volaris, Viva, and Aeromexico fly to Los Mochis. Book ahead. The route can be done either direction; west-to-east (Los Mochis to Chihuahua) is described here."
+        },
+        {
+          "time": "4:00 PM",
+          "title": "Transfer to El Fuerte",
+          "description": "Drive 1.5 hours to the charming colonial town of El Fuerte. This former silver mining town has cobblestone streets, a lovely plaza, and is the traditional starting point for the train.",
+          "duration": "1.5 hours",
+          "tips": "El Fuerte is far more atmospheric than Los Mochis as a base. Many tours include this transfer. Alternatively, stay in Los Mochis if arriving late."
+        },
+        {
+          "time": "6:00 PM",
+          "title": "Explore El Fuerte",
+          "description": "Walk the colonial centro, see the old fort (el fuerte), and enjoy the peaceful plaza. The town has excellent historic hotels.",
+          "duration": "2 hours",
+          "tips": "El Fuerte was the Spanish colonial capital before Culiacán. The architecture and atmosphere are lovely."
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Dinner",
+          "description": "Try northern Mexican cuisine—machaca (dried beef), flour tortillas, and local specialties.",
+          "duration": "2 hours",
+          "tips": "Hotel El Fuerte and Posada del Hidalgo have good restaurants. The pace here is relaxed."
+        }
+      ],
+      "meals": {
+        "dinner": "El Fuerte"
+      },
+      "accommodation": "Hotel in El Fuerte"
+    },
+    {
+      "day": 2,
+      "title": "El Chepe Train to Cerocahui",
+      "description": "Begin the spectacular railway journey into the canyons.",
+      "activities": [
+        {
+          "time": "6:00 AM",
+          "title": "Early Start to Station",
+          "description": "Transfer to the El Fuerte train station. The El Chepe departs early—don't miss it!",
+          "duration": "30 min",
+          "tips": "The train leaves with or without you. Be at the station 30+ minutes early. Buy tickets in advance through El Chepe website or tour operator."
+        },
+        {
+          "time": "7:30 AM",
+          "title": "Board El Chepe Regional",
+          "description": "Begin the journey! The train climbs from near sea level into the Sierra Madre. Watch the landscape transform from tropical to pine forest as you gain 8,000+ feet elevation.",
+          "duration": "5-6 hours to Bahuichivo",
+          "tips": "El Chepe has two classes: Regional (más económico) and Express (primera clase with meals). Both have great views. Sit on the right side going up for best canyon views."
+        },
+        {
+          "time": "1:00 PM",
+          "title": "Arrive Bahuichivo",
+          "description": "Exit at Bahuichivo station. From here, transfer by van to the remote village of Cerocahui (30 minutes up a mountain road).",
+          "duration": "30 min transfer",
+          "tips": "Cerocahui is a tiny mission village with about 600 people. It's peaceful, authentic, and gateway to spectacular Urique Canyon."
+        },
+        {
+          "time": "2:30 PM",
+          "title": "Lunch & Check In",
+          "description": "Arrive at your lodge in Cerocahui. Lunch and time to settle in. The lodges here are atmospheric—Mission-style buildings, big fireplaces, canyon views.",
+          "duration": "2 hours",
+          "tips": "Hotel Misión Cerocahui and Paraíso del Oso are the main options. Both have character and good food. Electricity may be limited."
+        },
+        {
+          "time": "5:00 PM",
+          "title": "Canyon Viewpoint or Village Walk",
+          "description": "Short drive or hike to a canyon viewpoint. Or walk the village—see the 300-year-old Jesuit mission church, meet locals, absorb the quiet.",
+          "duration": "2 hours",
+          "tips": "The views from Cerro del Gallego overlook are stunning. The village pace of life is part of the experience."
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Dinner at Lodge",
+          "description": "Communal dinner at your lodge. Share stories with other travelers. The remoteness creates community.",
+          "duration": "Evening",
+          "tips": "Meals are included at most lodges. The food is simple, hearty, delicious. Bring a flashlight—it gets DARK here."
+        }
+      ],
+      "meals": {
+        "breakfast": "El Fuerte hotel",
+        "lunch": "Lodge",
+        "dinner": "Lodge"
+      },
+      "accommodation": "Lodge in Cerocahui"
+    },
+    {
+      "day": 3,
+      "title": "Urique Canyon - Mexico's Deepest",
+      "description": "Full day exploring the deepest of the Copper Canyon system.",
+      "activities": [
+        {
+          "time": "7:00 AM",
+          "title": "Breakfast",
+          "description": "Early breakfast at the lodge. Fuel up for a big adventure day.",
+          "duration": "1 hour",
+          "tips": "Coffee is strong in Northern Mexico. You'll need it."
+        },
+        {
+          "time": "8:00 AM",
+          "title": "Drive to Urique Canyon",
+          "description": "Dramatic drive down a winding mountain road into Urique Canyon—dropping 6,000 feet. The road clings to cliffsides with heart-stopping views.",
+          "duration": "2.5-3 hours",
+          "tips": "This is an adventure just driving! Hold on to something. The views are incredible. Some find the road scary—it's safe but dramatic."
+        },
+        {
+          "time": "11:00 AM",
+          "title": "Urique Village",
+          "description": "Reach the canyon floor and the small town of Urique on the river. The climate here is subtropical—dramatically warmer than the rim above.",
+          "duration": "2 hours exploring",
+          "tips": "Urique feels like another world from the pine forests above. Walk the town, see the river, feel the warmth."
+        },
+        {
+          "time": "1:00 PM",
+          "title": "Lunch in Urique",
+          "description": "Eat at a local restaurant. The drive back is long—you need fuel.",
+          "duration": "1 hour",
+          "tips": "Simple restaurants serve good food. Try the local specialties."
+        },
+        {
+          "time": "2:30 PM",
+          "title": "Return to Cerocahui",
+          "description": "The long climb back up, with different views and different light.",
+          "duration": "2.5-3 hours",
+          "tips": "Afternoon light creates beautiful colors on canyon walls. You'll be tired—this is a full adventure day."
+        },
+        {
+          "time": "6:00 PM",
+          "title": "Rest & Dinner",
+          "description": "Recover at the lodge. Another communal dinner.",
+          "duration": "Evening",
+          "tips": "You've had a BIG day. Rest well for tomorrow's train continuation."
+        }
+      ],
+      "meals": {
+        "breakfast": "Lodge",
+        "lunch": "Urique",
+        "dinner": "Lodge"
+      },
+      "accommodation": "Lodge in Cerocahui"
+    },
+    {
+      "day": 4,
+      "title": "Train to Divisadero - The Great Views",
+      "description": "Continue by train to the most dramatic viewpoints of the canyon system.",
+      "activities": [
+        {
+          "time": "7:00 AM",
+          "title": "Transfer to Station",
+          "description": "Return to Bahuichivo station to continue the train journey.",
+          "duration": "30 min",
+          "tips": "Timing depends on train schedule—verify with lodge. Don't miss the train!"
+        },
+        {
+          "time": "9:00 AM",
+          "title": "Train to Divisadero",
+          "description": "Continue climbing through forests and tunnels. The train makes a famous 15-minute stop at Divisadero where three canyons meet—the most photographed viewpoint.",
+          "duration": "2-3 hours",
+          "tips": "At Divisadero stop, buy gorditas from Tarahumara vendors, take photos, marvel at the view. 15 minutes goes FAST."
+        },
+        {
+          "time": "12:00 PM",
+          "title": "Arrive Divisadero/Arepo Area",
+          "description": "Exit at Posada Barrancas station (near Divisadero). This area has cliff-edge lodges with the most dramatic views.",
+          "duration": "Arrival",
+          "tips": "Several excellent lodges here: Hotel Mirador (right at viewpoint), Mansion Tarahumara, Hotel Divisadero Barrancas."
+        },
+        {
+          "time": "1:00 PM",
+          "title": "Lunch with Views",
+          "description": "Lunch at your lodge, gazing into the massive canyon system. This is the iconic Copper Canyon view.",
+          "duration": "1.5 hours",
+          "tips": "Hotel Mirador's restaurant sits right on the rim. You eat staring into 5,000 feet of void. Unforgettable."
+        },
+        {
+          "time": "3:00 PM",
+          "title": "Adventure Park or Hike",
+          "description": "Options: Ride the cable car (teleférico) over the canyon, walk the via ferrata, explore rim trails, or zipline.",
+          "duration": "3 hours",
+          "tips": "The Parque de Aventura has several activities including one of Mexico's longest ziplines. Cable car descent gives different perspective."
+        },
+        {
+          "time": "6:30 PM",
+          "title": "Sunset at the Rim",
+          "description": "Watch the sun set over the canyons. The light turns the walls orange, red, purple. Bring a jacket—it's cold.",
+          "duration": "1 hour",
+          "tips": "This might be the most dramatic sunset view in Mexico. Have camera ready."
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Dinner",
+          "description": "Dinner at lodge. The night sky here is incredible—zero light pollution.",
+          "duration": "Evening",
+          "tips": "Stargazing after dinner is spectacular. Bring binoculars if you have them."
+        }
+      ],
+      "meals": {
+        "breakfast": "Lodge Cerocahui",
+        "lunch": "Divisadero lodge",
+        "dinner": "Divisadero lodge"
+      },
+      "accommodation": "Lodge in Divisadero area"
+    },
+    {
+      "day": 5,
+      "title": "Train to Creel - Mountain Town",
+      "description": "Continue to the Sierra Tarahumara's main town.",
+      "activities": [
+        {
+          "time": "7:00 AM",
+          "title": "Sunrise at Canyon Rim",
+          "description": "Wake early to see sunrise light the canyon walls. Morning light is magical here.",
+          "duration": "1 hour",
+          "tips": "Bundle up—mornings are COLD, especially in winter. Worth it."
+        },
+        {
+          "time": "9:00 AM",
+          "title": "Train to Creel",
+          "description": "Short train segment (1.5 hours) to Creel, the largest town in the Sierra Tarahumara and adventure tourism hub.",
+          "duration": "1.5 hours",
+          "tips": "Creel has more services, shops, and tour options. Different vibe from remote lodges—more infrastructure."
+        },
+        {
+          "time": "11:00 AM",
+          "title": "Arrive Creel & Check In",
+          "description": "Creel is a real mountain town—sawmills, Tarahumara selling crafts, pickup trucks, adventure outfitters. Check into hotel and explore.",
+          "duration": "2 hours",
+          "tips": "Best Western and other comfortable hotels available. Casa Margarita is a budget-traveler institution. The town plaza has Tarahumara vendors."
+        },
+        {
+          "time": "1:00 PM",
+          "title": "Lunch & Town Exploration",
+          "description": "Eat in town and explore. The Casa de las Artesanías has quality Tarahumara crafts. The mission church is worth seeing.",
+          "duration": "2 hours",
+          "tips": "Buy genuine Tarahumara baskets, woven items, or carved figures directly from artisans in plaza or at Casa de Artesanías."
+        },
+        {
+          "time": "4:00 PM",
+          "title": "Valley of the Monks",
+          "description": "Short drive to see the bizarre rock formations—volcanic spires that resemble hooded monks. An easy walk among the formations.",
+          "duration": "2 hours",
+          "tips": "Late afternoon light is best for the rock formations. Accessible site, good for all fitness levels."
+        },
+        {
+          "time": "7:00 PM",
+          "title": "Dinner in Creel",
+          "description": "More restaurant options here. Try machaca burritos, carne asada, or trout from local streams.",
+          "duration": "2 hours",
+          "tips": "Veronica's and Layetana have good reviews. Creel has more nightlife than you'd expect—check if any music is happening."
+        }
+      ],
+      "meals": {
+        "breakfast": "Divisadero lodge",
+        "lunch": "Creel",
+        "dinner": "Creel"
+      },
+      "accommodation": "Hotel in Creel"
+    },
+    {
+      "day": 6,
+      "title": "Creel Excursions - Lakes & Waterfalls",
+      "description": "Full day exploring the spectacular surroundings of Creel.",
+      "activities": [
+        {
+          "time": "8:00 AM",
+          "title": "Breakfast & Tour Departure",
+          "description": "Join a day tour or hire a guide/vehicle to explore the area. Several excellent options—below is a popular combination.",
+          "duration": "1 hour",
+          "tips": "Tours bookable through hotels or agencies in Creel. Having a guide helps—roads are confusing."
+        },
+        {
+          "time": "9:00 AM",
+          "title": "Lake Arareco",
+          "description": "Serene lake surrounded by pine forest and interesting rock formations. Rent a rowboat, walk the shores, enjoy the peace.",
+          "duration": "1.5 hours",
+          "tips": "Tarahumara families live around the lake—you may meet them. The formations are called 'elephant rocks.'"
+        },
+        {
+          "time": "11:00 AM",
+          "title": "Cusárare Waterfall",
+          "description": "Hike to this 100-foot waterfall in a forested canyon. The trail is moderate difficulty, about 30 minutes each way.",
+          "duration": "2 hours (including hike)",
+          "tips": "Waterfall is most impressive in/after rainy season. The Tarahumara village of Cusárare has a 17th-century mission."
+        },
+        {
+          "time": "1:30 PM",
+          "title": "Lunch",
+          "description": "Eat at a local spot near the attractions or return to Creel.",
+          "duration": "1 hour",
+          "tips": "Pack snacks in case options are limited. Rural restaurants can be basic but authentic."
+        },
+        {
+          "time": "3:00 PM",
+          "title": "Tarahumara Cave Dwellings",
+          "description": "Visit San Ignacio or other communities where Tarahumara families still live in cliff caves during winter months. Learn about their culture, running traditions, and crafts.",
+          "duration": "2 hours",
+          "tips": "Be respectful—these are people's homes. Many welcome visitors and sell crafts. Small donations/purchases support families directly."
+        },
+        {
+          "time": "5:30 PM",
+          "title": "Return to Creel",
+          "description": "Head back to town as evening approaches.",
+          "duration": "Variable",
+          "tips": "Tired but fulfilled. Tomorrow is the final train segment."
+        },
+        {
+          "time": "7:30 PM",
+          "title": "Final Creel Dinner",
+          "description": "Last night in the Sierra. Enjoy a good meal.",
+          "duration": "Evening",
+          "tips": "Maybe try the trout if you haven't—it's local and fresh."
+        }
+      ],
+      "meals": {
+        "breakfast": "Hotel",
+        "lunch": "Excursion area",
+        "dinner": "Creel"
+      },
+      "accommodation": "Hotel in Creel"
+    },
+    {
+      "day": 7,
+      "title": "Train to Chihuahua - Journey's End",
+      "description": "Complete the El Chepe journey descending to Chihuahua city.",
+      "activities": [
+        {
+          "time": "8:00 AM",
+          "title": "Breakfast & Station",
+          "description": "Final breakfast in the Sierra. Transfer to Creel station for last train segment.",
+          "duration": "1 hour",
+          "tips": "Verify train schedule—they can change. Be at station early."
+        },
+        {
+          "time": "9:30 AM",
+          "title": "Train to Chihuahua",
+          "description": "The final 5-6 hour segment descends from the Sierra through farmland and high desert to Chihuahua city. Different landscape from the canyons—more open, agricultural.",
+          "duration": "5-6 hours",
+          "tips": "This segment is less dramatic than canyon portions but pleasant. Read, reflect, rest. You've completed an epic journey."
+        },
+        {
+          "time": "3:30 PM",
+          "title": "Arrive Chihuahua",
+          "description": "Arrive in Chihuahua, capital of Mexico's largest state. The city has its own attractions and is a logical endpoint.",
+          "duration": "Arrival",
+          "tips": "Chihuahua has good hotels, museums, and connections. Flight out tomorrow or continue exploring."
+        },
+        {
+          "time": "5:00 PM",
+          "title": "Explore Chihuahua (Optional)",
+          "description": "If time permits: Plaza de Armas, the Cathedral, Palacio de Gobierno (murals), or Pancho Villa's home (now a museum).",
+          "duration": "2-3 hours",
+          "tips": "Chihuahua has strong Pancho Villa/Revolution history. The mansion where he lived and was assassinated is fascinating."
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Celebration Dinner",
+          "description": "Celebrate completing the Copper Canyon journey with an excellent Northern Mexican meal—carne asada, machaca, flour tortillas, and perhaps sotol (local spirit).",
+          "duration": "2 hours",
+          "tips": "La Casa de los Milagros and Mesón de Catedral are good choices. Chihuahuan beef is famous—you're in cattle country."
+        }
+      ],
+      "meals": {
+        "breakfast": "Creel hotel",
+        "lunch": "Train/packed",
+        "dinner": "Chihuahua"
+      },
+      "accommodation": "Hotel in Chihuahua or departure"
+    }
+  ],
+  "practical_info": {
+    "getting_there": "Fly into Los Mochis (LMM) or Chihuahua (CUU) from Mexico City, Guadalajara, or other hubs. The route can be done either direction. West-to-east (Los Mochis to Chihuahua) means climbing into the canyons; east-to-west descends.",
+    "el_chepe_train": "Two services: El Chepe Regional (cheaper, stops at all stations, more flexible) and El Chepe Express (first class, fewer stops, meals included). Book at chepe.com.mx or through tour operators. Trains run roughly 3 times per week.",
+    "when_to_go": "October-November has fall colors and comfortable temperatures. March-April is spring, wildflowers possible. Summer (July-Sept) is rainy season—often foggy, views obscured. Winter is cold at altitude but clear; canyon bottoms stay warm.",
+    "what_to_wear": "Layers essential—you'll experience tropical heat in canyon bottoms and near-freezing at rim lodges. Good walking shoes, warm jacket, sun protection.",
+    "money": "Limited ATMs outside Creel and Chihuahua. Bring cash (pesos). Cards accepted at larger hotels/lodges."
+  },
+  "packing_tips": [
+    "Warm layers (it's COLD at night/morning)",
+    "Rain jacket (if traveling in summer/fall)",
+    "Comfortable walking shoes",
+    "Sun hat and sunscreen",
+    "Binoculars for views and wildlife",
+    "Camera with charged batteries",
+    "Flashlight/headlamp (lodges can have limited power)",
+    "Cash in pesos",
+    "Snacks for long train segments",
+    "Book or entertainment for train",
+    "Motion sickness medication if needed"
+  ],
+  "tags": ["copper-canyon", "train", "el-chepe", "tarahumara", "hiking", "adventure", "northern-mexico", "7-days"]
+}
