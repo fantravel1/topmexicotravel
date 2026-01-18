@@ -331,7 +331,7 @@ function generateDestinationPage(lang, content, template, criticalCss) {
 }
 
 // Generate homepage
-function generateHomepage(lang, template, criticalCss, destinations) {
+function generateHomepage(lang, template, criticalCss, destinations, itineraries) {
   const t = translations[lang];
   const ogLocales = { en: 'en_US', es: 'es_MX', de: 'de_DE', fr: 'fr_FR', pt: 'pt_BR' };
 
@@ -347,32 +347,15 @@ function generateHomepage(lang, template, criticalCss, destinations) {
     };
   });
 
-  const featuredItineraries = [
-    {
-      title: '7 Days in the Yucatán Peninsula',
-      description: 'From Caribbean beaches to ancient pyramids, explore the best of the Yucatán.',
-      image: itineraryImages['yucatan-7-days']?.image || '/assets/images/itineraries/yucatan-7-days.svg',
-      url: `/${lang}/itineraries/yucatan-7-days/`,
-      duration: '7 Days',
-      destinations: ['Cancún', 'Tulum', 'Chichén Itzá']
-    },
-    {
-      title: '5 Days in Mexico City',
-      description: 'Culture, cuisine, and history in one of the world\'s greatest cities.',
-      image: itineraryImages['mexico-city-5-days']?.image || '/assets/images/itineraries/cdmx-5-days.svg',
-      url: `/${lang}/itineraries/mexico-city-5-days/`,
-      duration: '5 Days',
-      destinations: ['Mexico City']
-    },
-    {
-      title: '10 Days: Pacific Coast Road Trip',
-      description: 'Sun, surf, and seafood from Puerto Vallarta to Oaxaca.',
-      image: itineraryImages['pacific-coast-10-days']?.image || '/assets/images/itineraries/pacific-coast.svg',
-      url: `/${lang}/itineraries/pacific-coast-10-days/`,
-      duration: '10 Days',
-      destinations: ['Puerto Vallarta', 'Sayulita', 'Oaxaca']
-    }
-  ];
+  // Dynamic itineraries from content (passed as parameter)
+  const featuredItineraries = (itineraries || []).slice(0, 6).map(itin => ({
+    title: itin.title,
+    description: itin.introduction?.substring(0, 120) + '...' || `Explore ${itin.title}`,
+    image: itin.hero_image?.replace('w=1920&h=1080', 'w=800&h=600') || itineraryImages[itin.slug]?.image || '/assets/images/itineraries/default.svg',
+    url: `/${lang}/itineraries/${itin.slug}/`,
+    duration: itin.duration,
+    destinations: itin.destinations || []
+  }));
 
   const pageData = {
     lang,
@@ -659,7 +642,7 @@ async function build() {
     fs.mkdirSync(langDir, { recursive: true });
 
     // Generate homepage
-    const homepageHtml = generateHomepage(lang, homepageTemplate, criticalCss, destinations);
+    const homepageHtml = generateHomepage(lang, homepageTemplate, criticalCss, destinations, itineraries);
     fs.writeFileSync(path.join(langDir, 'index.html'), homepageHtml);
     pageCount++;
 

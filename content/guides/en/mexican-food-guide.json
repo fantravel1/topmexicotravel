@@ -1,0 +1,75 @@
+{
+  "id": "mexican-food-guide",
+  "slug": "mexican-food-guide",
+  "title": "Mexican Food Guide",
+  "subtitle": "The Complete Guide to Mexico's Incredible Cuisine",
+  "meta_title": "Mexican Food Guide - Tacos, Regional Cuisine & Where to Eat",
+  "meta_description": "Discover authentic Mexican cuisine: tacos, mole, ceviche, and regional specialties. Learn what to eat, how to order, street food safety, and the best food destinations in Mexico.",
+  "hero_image": "https://images.unsplash.com/photo-1551504734-5ee1c4a1479b?w=1920&h=1080&fit=crop&q=80",
+  "hero_alt": "Authentic Mexican tacos with fresh ingredients",
+  "og_image": "https://images.unsplash.com/photo-1551504734-5ee1c4a1479b?w=1200&h=630&fit=crop&q=80",
+  "introduction": "Mexican cuisine is one of the world's great culinary traditions—UNESCO-recognized as Intangible Cultural Heritage. Forget Tex-Mex and chain restaurants; real Mexican food is infinitely more diverse, sophisticated, and delicious. From street tacos to world-class fine dining, Mexico offers some of the best eating on the planet. Here's your complete guide.",
+  "last_updated": "January 2025",
+  "sections": [
+    {
+      "title": "Essential Mexican Dishes",
+      "content": "**Tacos:** The foundation of Mexican cuisine. A corn tortilla with meat, salsa, onion, and cilantro. Varieties include:\n- Tacos al pastor (marinated pork from vertical spit)\n- Tacos de carnitas (slow-cooked pulled pork)\n- Tacos de barbacoa (steamed beef/lamb)\n- Tacos de birria (stewed meat, often with consommé)\n- Tacos de pescado (battered fish, Baja-style)\n- Tacos de suadero (beef brisket)\n\n**Mole:** Complex sauces with 20-30+ ingredients, simmered for hours. Most famous is mole negro from Oaxaca. Others include mole poblano (chocolate), mole amarillo (yellow), and mole coloradito.\n\n**Tamales:** Corn masa (dough) stuffed with meat, cheese, or vegetables, wrapped in corn husks or banana leaves and steamed.\n\n**Pozole:** Hominy corn soup with pork or chicken, served with cabbage, radishes, oregano, and lime. Red, green, or white versions exist.\n\n**Chiles Rellenos:** Roasted poblano peppers stuffed with cheese or meat, often battered and fried.\n\n**Enchiladas:** Corn tortillas rolled around filling, covered in sauce (red, green, or mole)."
+    },
+    {
+      "title": "Street Food Must-Tries",
+      "content": "**Tacos de Canasta:** 'Basket tacos' steamed in a cloth-lined basket, sold by bicycle vendors. Soft, oily, cheap, delicious.\n\n**Elotes & Esquites:** Grilled corn on the cob (elotes) or corn kernels in a cup (esquites) with mayo, chile, lime, and cheese.\n\n**Tortas:** Mexican sandwiches on crusty bolillo bread. Try torta ahogada (drowned in spicy sauce) in Guadalajara.\n\n**Quesadillas:** Folded tortillas with melted cheese and fillings. In Mexico City, they controversially may not include cheese unless you specify 'con queso.'\n\n**Gorditas & Sopes:** Thick corn masa pockets (gorditas) or rounds (sopes) with various toppings.\n\n**Tlayudas:** Oaxacan 'pizza'—large crispy tortilla with beans, cheese, meat, and vegetables.\n\n**Marquesitas:** Yucatán street dessert—crispy rolled wafer with Nutella and cheese.\n\n**Churros:** Fried dough sticks with sugar, often served with chocolate sauce."
+    },
+    {
+      "title": "Regional Specialties",
+      "content": "**Oaxaca (Food Capital of Mexico):**\n- Seven moles (especially negro and coloradito)\n- Tlayudas (giant crispy tortillas)\n- Mezcal with sal de gusano (worm salt)\n- Chapulines (grasshoppers)\n- Chocolate de agua\n\n**Yucatán:**\n- Cochinita pibil (slow-roasted pork in achiote)\n- Papadzules (egg-filled tortillas in pumpkin seed sauce)\n- Sopa de lima (lime soup with chicken)\n- Poc chuc (grilled pork)\n- Panuchos and salbutes (fried tortillas with toppings)\n\n**Mexico City:**\n- Tacos al pastor (the definitive version)\n- Suadero and longaniza tacos\n- Blue corn quesadillas at markets\n- World-class fine dining\n\n**Guadalajara/Jalisco:**\n- Birria (stewed meat, often goat)\n- Torta ahogada (drowned sandwich)\n- Tejuino (fermented corn drink)\n- Tequila (obviously)\n\n**Baja California:**\n- Fish tacos (battered, fried, perfect)\n- Ceviche and aguachile\n- Caesar salad (invented in Tijuana)\n- Wine from Valle de Guadalupe\n\n**Veracruz:**\n- Huachinango a la veracruzana (red snapper in tomato sauce)\n- Seafood everything\n- Coffee from Coatepec"
+    },
+    {
+      "title": "Seafood Guide",
+      "content": "**Ceviche:** Raw fish 'cooked' in citrus juice with onion, tomato, cilantro, and chile. Served with tostadas.\n\n**Aguachile:** Shrimp in spicy lime-chile water. More intense than ceviche. Sinaloa specialty.\n\n**Cockteles:** Seafood cocktails in tomato-citrus sauce with avocado. Different from ceviche.\n\n**Tacos de Pescado:** Battered and fried fish in a tortilla with cabbage, crema, and salsa. Baja California's gift to the world.\n\n**Camarones al Mojo de Ajo:** Shrimp sautéed in garlic butter. Simple and perfect.\n\n**Pulpo:** Octopus, prepared various ways—grilled, in tacos, in ceviche.\n\n**Fresh Catches:** Look for 'del día' (of the day) for the freshest fish. Huachinango (red snapper), robalo (snook), and mero (grouper) are common.\n\n**Safety Tip:** Eat seafood at busy restaurants with high turnover. Coastal towns are generally safe; be cautious with seafood inland or at empty restaurants."
+    },
+    {
+      "title": "Drinks",
+      "content": "**Alcoholic:**\n- **Mezcal:** Smoky agave spirit, usually from Oaxaca. Sip it slowly—this is not tequila.\n- **Tequila:** Made from blue agave in Jalisco. Blanco (unaged), reposado (2-12 months), añejo (1-3 years).\n- **Michelada:** Beer with lime, salt, and various sauces/spices. Variations range from simple to complex.\n- **Paloma:** Tequila with grapefruit soda. Refreshing classic.\n- **Mexican beer:** Try local craft beers beyond Corona—Cervecería de Colima, Agua Mala, etc.\n\n**Non-Alcoholic:**\n- **Agua fresca:** Fresh fruit water. Horchata (rice), jamaica (hibiscus), tamarindo, and seasonal fruits.\n- **Café de olla:** Coffee brewed with cinnamon and piloncillo (unrefined sugar).\n- **Chocolate de agua:** Traditional hot chocolate made with water, not milk. Oaxacan style.\n- **Tepache:** Fermented pineapple drink, lightly alcoholic.\n- **Tejuino:** Fermented corn drink from Jalisco."
+    },
+    {
+      "title": "How to Eat Like a Local",
+      "content": "**Meal Times:**\n- Breakfast (desayuno): 7-10am. Light—coffee and pan dulce, or eggs and beans.\n- Main meal (comida): 2-4pm. This is the big meal. Look for 'comida corrida' (set lunch menu) at restaurants—soup, main, drink, dessert for $4-7.\n- Dinner (cena): 8-10pm. Often lighter—tacos, quesadillas, or just snacks.\n\n**Ordering Tips:**\n- Point at what you want at taco stands (it's normal)\n- 'Una orden' usually means 3-5 tacos\n- Salsa bars are self-service—try small amounts first\n- 'Para llevar' = to go; 'para comer aquí' = to eat here\n- Ask for 'sin cilantro' if you hate cilantro\n\n**Tipping:**\n- Restaurants: 15-20%\n- Taco stands: Not expected, but spare change appreciated\n- Market stalls: Not expected"
+    },
+    {
+      "title": "Street Food Safety",
+      "content": "**The Golden Rule:** Eat where locals eat. A busy taco stand with high turnover is safer than an empty restaurant.\n\n**Green Flags:**\n- Long lines of Mexican customers\n- Food cooked fresh in front of you\n- High turnover (nothing sitting out for hours)\n- Clean hands and utensils\n- Separate tongs for raw and cooked meat\n\n**Yellow Flags:**\n- Pre-made food sitting at room temperature\n- Empty stalls with sad-looking food\n- Flies everywhere\n- Raw meat not kept cold\n\n**Stomach Tips:**\n- Start slowly—don't go crazy on spicy food day one\n- Stay hydrated (but drink bottled water)\n- Ice in restaurants is usually purified and safe\n- Wash hands frequently\n- Pepto-Bismol/Imodium as backup\n\n**Reality Check:** Most travelers eat street food daily without problems. Don't let fear stop you from experiencing Mexico's best cuisine."
+    },
+    {
+      "title": "Vegetarian & Vegan Guide",
+      "content": "**Good News:** Mexican cuisine has many naturally vegetarian/vegan options.\n\n**Naturally Vegan:**\n- Guacamole and chips\n- Many salsas\n- Nopales (cactus)\n- Frijoles de olla (whole beans in broth—confirm no lard)\n- Elotes/esquites (without mayo for vegan)\n- Fresh fruit\n\n**Vegetarian Options:**\n- Queso fundido (melted cheese)\n- Quesadillas de flor de calabaza (squash blossom)\n- Quesadillas de huitlacoche (corn fungus—delicious!)\n- Enfrijoladas with cheese\n- Chiles rellenos de queso\n\n**Challenges:**\n- Lard (manteca) in beans and tortillas is common\n- Chicken broth in rice and soups\n- Ask 'sin carne, sin pollo, sin manteca' (no meat, no chicken, no lard)\n- 'Soy vegetariano/a' = I'm vegetarian\n\n**Best Cities for Vegetarians:**\n- Mexico City (many dedicated veggie restaurants)\n- Oaxaca (strong veggie-friendly scene)\n- San Miguel de Allende (expat influence = options)\n- Tulum (health-focused tourism)"
+    },
+    {
+      "title": "Best Food Destinations",
+      "content": "**Oaxaca City:** Mexico's undisputed food capital. Markets, moles, mezcal, chapulines, tlayudas, chocolate. Every meal is an adventure.\n\n**Mexico City:** World-class fine dining (Pujol, Quintonil) alongside incredible street food. Tacos al pastor perfected here.\n\n**Mérida:** Yucatecan cuisine—cochinita pibil, poc chuc, panuchos. Unique flavors influenced by Mayan traditions.\n\n**Guadalajara:** Birria capital, tortas ahogadas, tequila distilleries, and an emerging food scene.\n\n**Ensenada/Valle de Guadalupe:** Baja wine country meets fresh seafood. Fish tacos born here.\n\n**Puebla:** Mole poblano originated here. Also chiles en nogada and cemitas (local sandwiches).\n\n**San Cristóbal de las Casas:** Highland Chiapas cuisine plus great coffee.\n\n**Puerto Escondido:** Fresh seafood, Oaxacan coast style. Ceviches and moles meet the beach."
+    },
+    {
+      "title": "Fine Dining Scene",
+      "content": "**Mexico's World-Class Restaurants:**\n\nMexico has multiple restaurants on the World's 50 Best list. Notable experiences:\n\n**Mexico City:**\n- Pujol (Chef Enrique Olvera) — Contemporary Mexican, famous mole aging\n- Quintonil (Chef Jorge Vallejo) — Seasonal, market-driven\n- Contramar — Legendary seafood, the tuna tostada\n- Máximo Bistrot — Farm-to-table pioneer\n\n**Elsewhere:**\n- Pangea (Monterrey) — Innovation meets Northern Mexico\n- Alcalde (Guadalajara) — Modern Jaliscan cuisine\n- Casa Oaxaca (Oaxaca) — Contemporary Oaxacan\n- Fauna (Valle de Guadalupe) — Wine country dining\n\n**Booking Tips:**\n- Reserve 2-4 weeks ahead for top restaurants\n- Lunch tasting menus are often cheaper\n- Mexico fine dining is 30-50% cheaper than comparable US/European restaurants"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Will I get sick from eating street food in Mexico?",
+      "answer": "Most travelers eat street food without problems. Stick to busy stalls with high turnover, freshly cooked food, and visible cleanliness. Start slowly, stay hydrated, and your stomach will adjust. Bring Pepto-Bismol as backup, but don't let fear prevent you from experiencing Mexico's best food."
+    },
+    {
+      "question": "What's the difference between a taqueria and a restaurant?",
+      "answer": "A taqueria specializes in tacos—usually a casual stand or small shop. Restaurants (restaurantes or fondas) serve full menus. Taquerias are often cheaper and more authentic. The best tacos usually come from humble stands, not fancy restaurants."
+    },
+    {
+      "question": "Is Mexican food very spicy?",
+      "answer": "Not automatically. Salsas are served on the side, so you control the heat. Ask 'es picante?' (is it spicy?) before ordering. Green salsas can be hotter than red. Start small with salsas until you know your tolerance. Staff will warn you about especially hot items."
+    },
+    {
+      "question": "What's the best food tour to take?",
+      "answer": "Food tours are excellent for orientation. Top options: Eat Mexico or Club Tengo Hambre in Mexico City, Oaxaca Eats in Oaxaca, and Vallarta Food Tours in Puerto Vallarta. Book early—good tours sell out. After the tour, return to your favorite spots independently."
+    }
+  ],
+  "related_guides": ["mexico-budget", "spanish-phrases", "mexico-safety"],
+  "tags": ["food", "cuisine", "tacos", "restaurants", "street-food", "mezcal", "tequila", "regional"]
+}
