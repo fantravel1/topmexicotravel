@@ -1,0 +1,475 @@
+{
+  "id": "mayan-ruins-10-days",
+  "slug": "mayan-ruins-10-days",
+  "title": "Mayan Ruins Explorer: 10 Days",
+  "subtitle": "Ancient Cities of the Maya World",
+  "meta_title": "Mayan Ruins Itinerary 10 Days - Chichén Itzá, Palenque, Tulum 2025",
+  "meta_description": "10-day Mayan ruins itinerary: Chichén Itzá, Uxmal, Palenque, Calakmul, Tulum, and more. Complete guide to Mexico's ancient Maya archaeological sites.",
+  "duration": "10 days",
+  "destinations": ["Mérida", "Chichén Itzá", "Uxmal", "Campeche", "Calakmul", "Palenque", "Tulum"],
+  "hero_image": "https://images.unsplash.com/photo-1518638150340-f706e86654de?w=1920&h=1080&fit=crop&q=80",
+  "hero_alt": "El Castillo pyramid at Chichén Itzá",
+  "og_image": "https://images.unsplash.com/photo-1518638150340-f706e86654de?w=1200&h=630&fit=crop&q=80",
+  "introduction": "The ancient Maya built one of history's most sophisticated civilizations across the Yucatán Peninsula and beyond. This 10-day itinerary takes you to their greatest cities—from the iconic Chichén Itzá to the jungle-wrapped temples of Palenque to the remote wilderness of Calakmul. You'll gain deep understanding of Maya astronomy, architecture, politics, and daily life.",
+  "best_time": "November-April (dry season, cooler temperatures for ruin exploration)",
+  "budget": "$1,800-3,000 per person",
+  "highlights": [
+    "Chichén Itzá - New Wonder of the World",
+    "Uxmal - Puuc architectural masterpiece",
+    "Palenque - Jungle-shrouded royal city with famous tomb",
+    "Calakmul - Remote superpower in the biosphere",
+    "Tulum - Only major Maya city on the Caribbean coast",
+    "Lesser-known gems: Edzná, Kabah, Ek Balam, Cobá"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Arrive Mérida - Gateway to the Maya World",
+      "description": "Begin in the elegant colonial capital of Yucatán state.",
+      "activities": [
+        {
+          "time": "Afternoon",
+          "title": "Arrive Mérida",
+          "description": "Fly into Mérida International Airport (MID). Transfer to your hotel in the historic centro. Mérida is one of Mexico's safest, most charming cities.",
+          "duration": "1.5 hours",
+          "tips": "Mérida is a great base for Maya ruins. It's called 'La Ciudad Blanca' for its white limestone buildings. The centro is walkable and beautiful."
+        },
+        {
+          "time": "5:00 PM",
+          "title": "Walk the Centro Histórico",
+          "description": "Explore the main plaza, San Ildefonso Cathedral (oldest in the Americas mainland), and Paseo de Montejo boulevard with its French-style mansions.",
+          "duration": "2 hours",
+          "tips": "The cathedral was built using stones from Maya temples. Mérida was built atop the Maya city of T'hó. History is everywhere."
+        },
+        {
+          "time": "7:00 PM",
+          "title": "Yucatecan Dinner",
+          "description": "Try regional specialties: cochinita pibil (slow-roasted pork), papadzules (egg enchiladas), or poc chuc (grilled pork).",
+          "duration": "2 hours",
+          "tips": "La Chaya Maya and Apoala serve excellent Yucatecan cuisine. The food here is distinctly different from other Mexican regions."
+        }
+      ],
+      "meals": {
+        "dinner": "Yucatecan restaurant"
+      },
+      "accommodation": "Hotel in Mérida Centro"
+    },
+    {
+      "day": 2,
+      "title": "Chichén Itzá - Wonder of the World",
+      "description": "Visit the most famous Maya site and New Wonder of the World.",
+      "activities": [
+        {
+          "time": "6:00 AM",
+          "title": "Early Departure",
+          "description": "Leave Mérida early to arrive at Chichén Itzá when it opens (8 AM). Beat the heat and tour bus crowds.",
+          "duration": "1.5 hours drive",
+          "tips": "Hire a driver or join a small tour. The site gets extremely crowded and hot by midday. Early is essential."
+        },
+        {
+          "time": "8:00 AM",
+          "title": "Explore Chichén Itzá",
+          "description": "See El Castillo pyramid (aligned with equinox), the Great Ball Court (largest in Mesoamerica), Temple of Warriors, and the Sacred Cenote.",
+          "duration": "3-4 hours",
+          "tips": "Hire a guide at the entrance for context—the astronomy, acoustics, and symbolism are mind-blowing. The clap echo at the pyramid is famous."
+        },
+        {
+          "time": "12:00 PM",
+          "title": "Cenote Ik Kil",
+          "description": "Cool off at this stunning cenote near Chichén Itzá. Vines hang to the water, sunlight streams through—magical swimming experience.",
+          "duration": "1.5 hours",
+          "tips": "Touristy but worth it. Entry ~$150 MXN. The jump from the platform is exhilarating. Showers and lockers available."
+        },
+        {
+          "time": "2:00 PM",
+          "title": "Lunch & Valladolid",
+          "description": "Stop in the colonial town of Valladolid for late lunch. Walk the pretty zócalo and visit Cenote Zací in town.",
+          "duration": "2 hours",
+          "tips": "Valladolid is charming and much less touristy than it should be. Good option for overnight if you want to stay near ruins."
+        },
+        {
+          "time": "5:00 PM",
+          "title": "Return to Mérida",
+          "description": "Drive back to Mérida. Evening at leisure to rest and explore.",
+          "duration": "2 hours",
+          "tips": "Or stay in Valladolid to be closer to tomorrow's Ek Balam visit."
+        }
+      ],
+      "meals": {
+        "breakfast": "Hotel/early",
+        "lunch": "Valladolid",
+        "dinner": "Mérida"
+      },
+      "accommodation": "Hotel in Mérida or Valladolid"
+    },
+    {
+      "day": 3,
+      "title": "Ek Balam & Uxmal",
+      "description": "Two contrasting sites: intimate jungle ruins and Puuc architectural perfection.",
+      "activities": [
+        {
+          "time": "7:00 AM",
+          "title": "Ek Balam",
+          "description": "Drive to this lesser-known site with remarkably preserved stucco sculptures. The main pyramid (Acropolis) has a stunning carved monster mouth entrance and is climbable.",
+          "duration": "2 hours",
+          "tips": "From Valladolid: 30 min. From Mérida: 2 hours. Much less crowded than Chichén. You can still climb this pyramid—the view is incredible."
+        },
+        {
+          "time": "10:00 AM",
+          "title": "Drive to Uxmal",
+          "description": "Cross the Yucatán to the Puuc region. The Puuc hills have their own Maya architectural style—considered the most refined.",
+          "duration": "3 hours",
+          "tips": "Long drive but worth it. Consider stopping in Mérida briefly or driving direct. Uxmal is south of Mérida."
+        },
+        {
+          "time": "2:00 PM",
+          "title": "Uxmal",
+          "description": "Explore this UNESCO site, considered the finest example of Puuc architecture. The Pyramid of the Magician's unique oval shape, the Nunnery Quadrangle's intricate facades, and the Governor's Palace are highlights.",
+          "duration": "3 hours",
+          "tips": "Entry $494 MXN (higher than others, worth it). Bring water—no shade. The stonework details here surpass even Chichén. Truly breathtaking craftsmanship."
+        },
+        {
+          "time": "6:00 PM",
+          "title": "Uxmal Light & Sound Show (Optional)",
+          "description": "Evening sound and light show illuminates the ruins with Maya myths narrated.",
+          "duration": "1 hour",
+          "tips": "Check schedule—not every night. Atmospheric but cheesy narration. The illuminated ruins are beautiful regardless."
+        }
+      ],
+      "meals": {
+        "breakfast": "Hotel",
+        "lunch": "En route or Uxmal",
+        "dinner": "Uxmal area or Mérida"
+      },
+      "accommodation": "Hotel near Uxmal or return to Mérida"
+    },
+    {
+      "day": 4,
+      "title": "Puuc Route - Kabah & Beyond",
+      "description": "Explore the Puuc Route's smaller but equally impressive sites.",
+      "activities": [
+        {
+          "time": "9:00 AM",
+          "title": "Kabah",
+          "description": "Just 20 minutes from Uxmal, Kabah features the incredible Palace of Masks—a facade covered with hundreds of Chaac (rain god) masks.",
+          "duration": "1.5 hours",
+          "tips": "Entry ~$55 MXN. Less visited than Uxmal. The mask facade is one of Maya architecture's most intense expressions. Don't miss the arch."
+        },
+        {
+          "time": "11:00 AM",
+          "title": "Sayil & Labná",
+          "description": "Continue on the Puuc Route to these smaller sites. Sayil has a massive palace, Labná has a famous ceremonial arch.",
+          "duration": "2 hours combined",
+          "tips": "These sites are nearly empty. Explore at your pace. The Puuc Route gives sense of the region's ancient prosperity."
+        },
+        {
+          "time": "2:00 PM",
+          "title": "Drive to Campeche",
+          "description": "Head to the walled colonial city of Campeche, a UNESCO World Heritage site and gateway to Calakmul.",
+          "duration": "2.5 hours",
+          "tips": "Campeche is underrated—beautiful colored buildings, city walls, excellent seafood. Good base for Calakmul."
+        },
+        {
+          "time": "5:00 PM",
+          "title": "Explore Campeche",
+          "description": "Walk the walled city centro, see the bastions and gates, enjoy the malecón (waterfront) at sunset.",
+          "duration": "2 hours",
+          "tips": "The colored buildings in the centro are photogenic. Much quieter than Mérida. Campeche has excellent, affordable seafood."
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Seafood Dinner",
+          "description": "Campeche is famous for seafood. Try pan de cazón (dogfish layered with tortillas), shrimp cocktails, or fresh fish.",
+          "duration": "2 hours",
+          "tips": "La Pigua is famous but touristy. Marganzo has great seafood at better prices. Eat by the water."
+        }
+      ],
+      "meals": {
+        "breakfast": "Hotel",
+        "lunch": "Puuc Route/packed",
+        "dinner": "Campeche seafood"
+      },
+      "accommodation": "Hotel in Campeche"
+    },
+    {
+      "day": 5,
+      "title": "Edzná & Travel to Calakmul",
+      "description": "Visit an underrated site, then head deep into the biosphere.",
+      "activities": [
+        {
+          "time": "8:00 AM",
+          "title": "Edzná",
+          "description": "45 minutes from Campeche, this site combines multiple Maya styles. The Five-Story Building is unique—combining a palace base with a temple pyramid top.",
+          "duration": "2 hours",
+          "tips": "Entry ~$75 MXN. Often empty. Excellent for photos and contemplation. The main plaza's acoustics are impressive."
+        },
+        {
+          "time": "11:00 AM",
+          "title": "Drive to Calakmul Biosphere",
+          "description": "Long drive (4+ hours) into the massive jungle biosphere reserve. The road passes through pristine forest—watch for wildlife.",
+          "duration": "4-5 hours",
+          "tips": "Fill up on gas before entering the reserve. The access road (60km) is slow but scenic. You'll see toucans, monkeys, possibly jaguar tracks."
+        },
+        {
+          "time": "4:00 PM",
+          "title": "Arrive & Settle",
+          "description": "Check into eco-lodge near the ruins. Options are basic but atmospheric—you're in the middle of the jungle.",
+          "duration": "1 hour",
+          "tips": "Book ahead—limited accommodations. Puerta Calakmul and Chicanna Ecovillage are options. Bring bug spray, flashlight."
+        },
+        {
+          "time": "6:00 PM",
+          "title": "Jungle Evening",
+          "description": "Listen to howler monkeys, bird calls, and jungle sounds. Early night for tomorrow's dawn exploration.",
+          "duration": "Evening",
+          "tips": "The jungle at night is LOUD. Embrace it. You're in one of the most biodiverse places in Mexico."
+        }
+      ],
+      "meals": {
+        "breakfast": "Campeche hotel",
+        "lunch": "Packed or roadside",
+        "dinner": "Eco-lodge"
+      },
+      "accommodation": "Eco-lodge near Calakmul"
+    },
+    {
+      "day": 6,
+      "title": "Calakmul - The Lost Superpower",
+      "description": "Explore one of the Maya world's most powerful cities, hidden in jungle.",
+      "activities": [
+        {
+          "time": "6:00 AM",
+          "title": "Dawn Entry to Calakmul",
+          "description": "Enter the reserve at first light. The 60km access road takes an hour. Arrive at the ruins as they open. Morning mist, wildlife active, no crowds.",
+          "duration": "1.5 hours",
+          "tips": "Calakmul opens at 8 AM but the drive takes time. You might be the only visitors. Bring water, food—no services inside."
+        },
+        {
+          "time": "8:00 AM",
+          "title": "Explore Calakmul",
+          "description": "This was Tikal's great rival, capital of the 'Snake Kingdom.' Climb Structure I and II—among the tallest Maya pyramids. At the top, you see only jungle to the horizon.",
+          "duration": "4-5 hours",
+          "tips": "Bring sturdy shoes, lots of water, snacks. The site is HUGE and mostly unexcavated—mounds everywhere are buried temples. The view from Structure II is life-changing."
+        },
+        {
+          "time": "1:00 PM",
+          "title": "Wildlife Watching",
+          "description": "Drive slowly out of the reserve watching for wildlife. Spider and howler monkeys, toucans, ocellated turkeys, and occasionally jaguar or puma sightings.",
+          "duration": "2 hours",
+          "tips": "Early morning and late afternoon are best for animals. Stop at pullouts and listen. The forest is teeming with life."
+        },
+        {
+          "time": "4:00 PM",
+          "title": "Chicanna or Becán (Optional)",
+          "description": "Small sites near Calakmul with Rio Bec style architecture—monster mouth doorways and false pyramid temples.",
+          "duration": "1.5 hours each",
+          "tips": "Chicanna has amazing monster mouth doorways. Becán is a fortified city with moat. Both are nearly empty and atmospheric."
+        },
+        {
+          "time": "Evening",
+          "title": "Rest at Lodge",
+          "description": "Another night in the jungle. Process the incredible day.",
+          "duration": "Evening",
+          "tips": "Tomorrow is another long drive to Palenque. Rest well."
+        }
+      ],
+      "meals": {
+        "breakfast": "Early at lodge",
+        "lunch": "Packed for ruins",
+        "dinner": "Eco-lodge"
+      },
+      "accommodation": "Eco-lodge near Calakmul"
+    },
+    {
+      "day": 7,
+      "title": "Calakmul to Palenque",
+      "description": "Cross Chiapas to another of the Maya world's greatest cities.",
+      "activities": [
+        {
+          "time": "7:00 AM",
+          "title": "Drive to Palenque",
+          "description": "4-5 hour drive west through jungle and farmland into Chiapas state. The landscape gradually changes.",
+          "duration": "5 hours",
+          "tips": "Fill gas before leaving. The road is good but long. Consider audiobook or podcast about Maya history to enrich tomorrow's visit."
+        },
+        {
+          "time": "12:00 PM",
+          "title": "Arrive Palenque Area",
+          "description": "Head to El Panchan or hotels near the ruins rather than Palenque town. Jungle setting, backpacker vibes, restaurants, close to ruins.",
+          "duration": "Afternoon",
+          "tips": "El Panchan is a jungle settlement with cheap cabañas and good restaurants. More atmospheric than town hotels."
+        },
+        {
+          "time": "3:00 PM",
+          "title": "Rest & Acclimatize",
+          "description": "Palenque is hot and humid. Rest during peak heat. Prepare for early morning ruins visit.",
+          "duration": "3 hours",
+          "tips": "Hydrate constantly. The humidity is intense here. Hammock time is appropriate."
+        },
+        {
+          "time": "6:00 PM",
+          "title": "Dinner at El Panchan",
+          "description": "Several jungle restaurants with good food, live music some nights, bonfire vibes.",
+          "duration": "Evening",
+          "tips": "Don Mucho's is popular. Listen for howler monkeys at dusk—they're incredibly loud. The jungle evening atmosphere is special."
+        }
+      ],
+      "meals": {
+        "breakfast": "Eco-lodge",
+        "lunch": "En route",
+        "dinner": "El Panchan"
+      },
+      "accommodation": "El Panchan or hotel near Palenque ruins"
+    },
+    {
+      "day": 8,
+      "title": "Palenque - Jungle City of Kings",
+      "description": "Explore one of the Maya world's most artistic and atmospheric sites.",
+      "activities": [
+        {
+          "time": "7:00 AM",
+          "title": "Early Entry to Palenque",
+          "description": "Walk from El Panchan (20 min) or take colectivo. Arrive at opening (8 AM) for cooler temperatures, morning mist, and howler monkey chorus.",
+          "duration": "30 min",
+          "tips": "Entry ~$85 MXN. The early morning atmosphere—mist, jungle sounds, few people—is magical. This is why you came early."
+        },
+        {
+          "time": "8:00 AM",
+          "title": "Temple of Inscriptions & Palace",
+          "description": "See King Pakal's famous tomb location (the jade mask is in Mexico City's anthropology museum). Climb the Palace tower for views over the jungle canopy.",
+          "duration": "2 hours",
+          "tips": "You can't enter the tomb anymore but can see into it. The carved panels and stucco work are Maya art at its finest. The palace complex is intricate."
+        },
+        {
+          "time": "10:00 AM",
+          "title": "Cross of Group & Jungle Trails",
+          "description": "Hike to the Temple of the Cross group—three temples on a hillside with incredible roof combs and carvings. Continue on jungle trails to smaller temples.",
+          "duration": "2 hours",
+          "tips": "The Cross group is steep but rewarding. Only 5% of Palenque is excavated—mounds in the jungle are unexcavated temples. Mind-bending scale."
+        },
+        {
+          "time": "12:00 PM",
+          "title": "Exit via Waterfalls",
+          "description": "Take the selva (jungle) exit path passing waterfalls and swimming holes. Refreshing way to end the hot ruins visit.",
+          "duration": "1 hour",
+          "tips": "Bring swimsuit! The falls are beautiful and you'll be sweaty. Colectivos wait at the lower entrance to return you to town/El Panchan."
+        },
+        {
+          "time": "2:00 PM",
+          "title": "Lunch & Rest",
+          "description": "Return to base, lunch, hammock time during peak heat.",
+          "duration": "4 hours",
+          "tips": "This is appropriate Palenque behavior. The heat is serious. Rest and hydrate."
+        },
+        {
+          "time": "7:00 PM",
+          "title": "Evening",
+          "description": "Dinner and perhaps live music at El Panchan.",
+          "duration": "Evening",
+          "tips": "Some nights have fire performances, drum circles. The jungle backpacker community is social and international."
+        }
+      ],
+      "meals": {
+        "breakfast": "Early/light",
+        "lunch": "El Panchan",
+        "dinner": "El Panchan"
+      },
+      "accommodation": "El Panchan"
+    },
+    {
+      "day": 9,
+      "title": "Palenque to Tulum",
+      "description": "Long travel day to the Caribbean coast for final ruins.",
+      "activities": [
+        {
+          "time": "6:00 AM",
+          "title": "Fly or Bus to Cancún/Tulum",
+          "description": "Option A: Small plane from Palenque to Cancún (seasonal). Option B: Long bus (12+ hours) to Tulum/Playa. Option C: Fly via Mexico City (longer but comfortable).",
+          "duration": "Variable (6-14 hours)",
+          "tips": "Flying saves massive time if available. Otherwise, ADO first-class bus is comfortable but long. Book ahead."
+        },
+        {
+          "time": "Afternoon/Evening",
+          "title": "Arrive Tulum Area",
+          "description": "Check into hotel in Tulum. The Caribbean awaits.",
+          "duration": "Variable",
+          "tips": "Tulum Pueblo is cheaper and more authentic than beach zone. Beach is 5-10 min by bike."
+        },
+        {
+          "time": "Evening",
+          "title": "Beach Dinner",
+          "description": "First sight of Caribbean turquoise. Dinner with ocean views.",
+          "duration": "Evening",
+          "tips": "You've earned beach relaxation. The contrast from jungle to Caribbean is dramatic."
+        }
+      ],
+      "meals": {
+        "breakfast": "Early",
+        "lunch": "Transit",
+        "dinner": "Tulum"
+      },
+      "accommodation": "Hotel in Tulum"
+    },
+    {
+      "day": 10,
+      "title": "Tulum & Cobá - Coastal & Jungle Ruins",
+      "description": "Finish with clifftop Caribbean ruins and the tallest climbable pyramid.",
+      "activities": [
+        {
+          "time": "8:00 AM",
+          "title": "Tulum Ruins",
+          "description": "Arrive when the clifftop ruins open. The only major Maya coastal city. Incredible views over Caribbean turquoise.",
+          "duration": "2 hours",
+          "tips": "Entry ~$85 MXN. The ruins are small but the setting is unmatched. Beach below is swimmable. Come early before cruise ship crowds."
+        },
+        {
+          "time": "11:00 AM",
+          "title": "Drive to Cobá",
+          "description": "45 minutes inland to Cobá, a massive site in the jungle. Still possible to climb the main pyramid—the tallest you can ascend in Yucatán.",
+          "duration": "3 hours at site",
+          "tips": "Entry ~$85 MXN. Rent a bike or hire a bike taxi to cover the spread-out site. The climb up Nohoch Mul pyramid (120 steps, 42m high) is thrilling—and the jungle view from top is spectacular."
+        },
+        {
+          "time": "3:00 PM",
+          "title": "Cenote Swim",
+          "description": "Several cenotes near Cobá. Cool off after climbing pyramids in the heat.",
+          "duration": "1.5 hours",
+          "tips": "Cenote Choo-Ha, Tamcach-Ha, and Multum-Ha are nearby. Refreshing end to 10 days of ruins."
+        },
+        {
+          "time": "6:00 PM",
+          "title": "Final Evening",
+          "description": "Return to Tulum for Caribbean sunset. Reflect on 10 days exploring one of humanity's great civilizations.",
+          "duration": "Evening",
+          "tips": "You've seen Maya cities spanning a thousand years—from superpowers like Calakmul to coastal outposts like Tulum. Toast to the ancient Maya."
+        }
+      ],
+      "meals": {
+        "breakfast": "Hotel",
+        "lunch": "Cobá area",
+        "dinner": "Tulum celebration"
+      },
+      "accommodation": "Hotel in Tulum or departure"
+    }
+  ],
+  "practical_info": {
+    "getting_there": "Fly into Mérida (MID) or Cancún (CUN). This itinerary starts Mérida, ends Tulum/Cancún. Rent a car or use combination of tours, buses, and drivers.",
+    "getting_around": "Rental car gives most flexibility for this itinerary, especially for Puuc Route and Calakmul. Some sites accessible by bus/colectivo.",
+    "where_to_stay": "Mérida centro, Campeche centro, eco-lodges near Calakmul, El Panchan (Palenque), Tulum.",
+    "money": "Budget $150-250/day including car rental, entry fees, accommodations, and meals. Entry fees add up—budget $30-50 total for sites.",
+    "best_guides": "Hire local guides at major sites (Chichén, Uxmal, Palenque). They provide context that transforms the experience. $40-60 for 2-hour tour."
+  },
+  "packing_tips": [
+    "Comfortable walking shoes (lots of climbing)",
+    "Hat and quality sunglasses",
+    "Reef-safe sunscreen",
+    "Bug spray (especially for jungle sites)",
+    "Reusable water bottle",
+    "Light, breathable clothing",
+    "Rain jacket (jungle sites)",
+    "Binoculars for wildlife",
+    "Flashlight for some tomb entrances",
+    "Camera with good zoom"
+  ],
+  "tags": ["mayan-ruins", "archaeology", "history", "culture", "yucatan", "chiapas", "10-days"]
+}
