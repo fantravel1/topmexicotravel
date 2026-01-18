@@ -10,12 +10,16 @@
     "longitude": -88.2024
   },
   "meta_title": "Valladolid Travel Guide 2025 - Yucatán's Colonial Gem & Cenote Gateway",
-  "meta_description": "Discover Valladolid, a stunning colonial city in the heart of Yucatán. Explore colorful streets, swim in cenotes, visit Chichén Itzá, and experience authentic Mexican culture in this underrated Pueblo Mágico.",
-  "hero_image": "/assets/images/destinations/valladolid-hero.jpg",
+  "meta_description": "Discover Valladolid, a stunning colonial city in the heart of Yucatán. Explore colorful streets, swim in cenotes, visit Chichén Itzá, and experience authentic Yucatecan culture in this underrated Pueblo Mágico.",
+  "og_image": "https://images.unsplash.com/photo-1518638150340-f706e86654de?w=1200&h=630&fit=crop&q=80",
+  "canonical_url": "https://topmexicotravel.com/destinations/valladolid",
+  "hero_image": "https://images.unsplash.com/photo-1518638150340-f706e86654de?w=1920&h=1080&fit=crop&q=80",
   "hero_alt": "Colorful colonial buildings and San Servacio church in Valladolid Yucatán",
+  "tagline": "Colonial Charm Meets Cenote Magic",
+  "featured_snippet_intro": "Valladolid is the Yucatán Peninsula's most charming colonial city—a Pueblo Mágico where pastel-colored buildings line cobblestone streets, cenotes hide within city limits, and authentic Yucatecan culture thrives untouched by mass tourism.",
   "introduction": {
     "snippet": "Valladolid is the Yucatán Peninsula's most charming colonial city—a Pueblo Mágico where pastel-colored buildings line cobblestone streets, cenotes hide within city limits, and authentic Yucatecan culture thrives untouched by mass tourism. Perfectly positioned between Mérida and Cancún, it's the ideal base for exploring Chichén Itzá and the region's finest cenotes.",
-    "full": "Founded by the Spanish in 1543, Valladolid was built on the sacred Maya city of Zací and became an important colonial center in the Yucatán. The city played a role in the Caste War of Yucatán and has preserved its historic character while the coastal regions transformed with tourism. Today, Valladolid offers a more authentic, slower-paced alternative to the beaches, with genuine Yucatecan food, Maya heritage, and prices that feel refreshingly fair.\n\nWhat makes Valladolid special is its perfect location and preserved charm. Cenote Zací sits right in town—a massive underground swimming hole within walking distance of the main plaza. The famous cenotes of the region (Suytun, Ik Kil, Oxman) are minutes away, and Chichén Itzá is just 40 minutes by car. The town itself rewards exploration with its Calzada de los Frailes (a photogenic street leading to the San Bernardino convent), excellent restaurants serving Yucatecan cuisine, and a main plaza alive with local life. Whether you're using Valladolid as a base or discovering it as a destination, this colonial gem delivers the real Mexico."
+    "full": "Founded by the Spanish in 1543, Valladolid was built on the sacred Maya city of Zací and became an important colonial center in the Yucatán. The city played a role in the Caste War of Yucatán and has preserved its historic character while the coastal regions transformed with tourism. Today, Valladolid offers a more authentic, slower-paced alternative to the beaches, with genuine Yucatecan food, Maya heritage, and prices that feel refreshingly fair.\n\nWhat makes Valladolid special is its perfect location and preserved charm. Cenote Zací sits right in town—a massive underground swimming hole within walking distance of the main plaza. The famous cenotes of the region (Suytun, Ik Kil, Oxman) are minutes away, and Chichén Itzá is just 40 minutes by car. The town itself rewards exploration with its Calzada de los Frailes (a photogenic street leading to the San Bernardino convent), excellent restaurants serving Yucatecan cuisine, and a main plaza alive with local life.\n\nWhether you're using Valladolid as a base for cenote-hopping and archaeological exploration, or discovering it as a destination in its own right, this colonial gem delivers the real Mexico—colonial architecture, Maya heritage, traditional cuisine, and genuine warmth—at a fraction of the price and crowds of coastal destinations."
   },
   "quick_facts": {
     "best_time": "November to April",
@@ -27,150 +31,337 @@
     "population": "80,000",
     "pueblo_magico": "Yes"
   },
+  "best_time_to_visit": "November to April offers dry weather and comfortable temperatures. December-January and Semana Santa are busiest. Summer months bring heat (35°C+) and humidity but fewer tourists and lower prices. Cenotes are refreshing year-round.",
+  "average_temperature": "26°C (79°F) year-round",
+  "known_for": "Colonial architecture, cenotes, gateway to Chichén Itzá, authentic Yucatecan cuisine, Pueblo Mágico designation, affordable prices",
+  "airport_code": "CUN",
+  "rating": 4.6,
+  "review_count": 5120,
+  "tourist_types_json": "[\"history buffs\",\"budget travelers\",\"cenote enthusiasts\",\"couples\",\"cultural travelers\",\"photographers\",\"foodies\"]",
+  "getting_there": "Fly into Cancún International Airport (CUN). ADO buses run frequently to Valladolid (2 hours, $15-20 USD). Alternatively, rent a car for flexibility exploring cenotes and ruins. Colectivos from Cancún, Tulum, and Mérida offer budget options. From Mérida: 2 hours by car or ADO bus.",
+  "getting_around": "Valladolid's historic center is very walkable—everything is within 15 minutes on foot. For cenotes and day trips, rent a car or join tours. Local taxis charge $2-5 USD within town. Bicycle rentals ($10/day) are popular for exploring at a relaxed pace.",
+  "safety_info": "Valladolid is very safe for tourists. The small colonial city has a peaceful atmosphere and strong community. Violent crime against tourists is essentially unheard of. Normal precautions apply: watch valuables in crowded areas. The town is well-lit and feels safe walking at night. Medical facilities are basic; serious issues require Cancún or Mérida.",
   "highlights": [
     "Stunning colonial architecture",
     "Cenote Zací within city limits",
     "Gateway to Chichén Itzá",
     "Authentic Yucatecan cuisine",
-    "Nearby cenotes (Suytun, Ik Kil, Oxman)"
+    "Nearby cenotes (Suytun, Ik Kil, Oxman)",
+    "Pueblo Mágico designation",
+    "Affordable prices",
+    "Ek Balam ruins nearby"
   ],
   "attractions": [
     {
       "name": "Cenote Zací",
       "type": "Cenote",
-      "description": "Massive semi-open cenote right in town with swimming, cliff jumping, and a restaurant. A remarkable urban cenote experience.",
+      "description": "A massive semi-open cenote right in the heart of town—one of few urban cenotes in Mexico. Swim in crystalline waters surrounded by hanging vines and stalactites, watch cliff jumpers, and enjoy the on-site restaurant afterward. An incredible natural wonder steps from the main plaza.",
+      "image": "https://images.unsplash.com/photo-1552074284-5e88ef1aef18?w=800&h=600&fit=crop&q=80",
       "duration": "1-2 hours",
       "price": "$3 USD",
+      "tip": "Go early morning or late afternoon to avoid tour groups. The restaurant overlooking the cenote serves excellent Yucatecan food. Bring your own snorkel gear.",
       "coordinates": {"lat": 20.6880, "lng": -88.1936}
     },
     {
       "name": "Chichén Itzá",
       "type": "Archaeological Site",
-      "description": "One of the New Seven Wonders of the World, just 40 minutes from Valladolid. Arrive at opening (8am) to beat crowds.",
+      "description": "One of the New Seven Wonders of the World and Mexico's most visited archaeological site. The iconic El Castillo pyramid, the Ball Court, and Temple of Warriors showcase the brilliance of Maya civilization. Just 40 minutes from Valladolid—arrive at opening to beat the crowds.",
+      "image": "https://images.unsplash.com/photo-1518638150340-f706e86654de?w=800&h=600&fit=crop&q=80",
       "duration": "3-4 hours",
-      "price": "$30 USD",
+      "price": "$30 USD (includes Kukulcán light show)",
+      "tip": "Arrive at 8am opening to avoid cruise ship crowds. Bring water, hat, and sunscreen—there's little shade. Stay for the evening light and sound show if possible.",
       "coordinates": {"lat": 20.6843, "lng": -88.5678}
     },
     {
       "name": "Cenote Suytun",
       "type": "Cenote",
-      "description": "Instagram-famous cenote with a circular platform, dramatic light beam, and stunning photography opportunities.",
+      "description": "The Instagram-famous cenote features a circular stone platform in the center, with a dramatic beam of sunlight streaming through the ceiling opening. Stunning photography opportunities in a cathedral-like underground cavern.",
+      "image": "https://images.unsplash.com/photo-1552074284-5e88ef1aef18?w=800&h=600&fit=crop&q=80",
       "duration": "1-2 hours",
       "price": "$10-15 USD",
+      "tip": "Visit between 11am-1pm when the light beam is strongest. The platform gets crowded—wait for your turn for photos. The water is cold but swimmable.",
       "coordinates": {"lat": 20.6925, "lng": -88.3072}
     },
     {
       "name": "Calzada de los Frailes",
       "type": "Street/Walking",
-      "description": "Picturesque colonial street leading to the San Bernardino convent, lined with colorful buildings and boutiques.",
+      "description": "This picturesque colonial street lined with colorful buildings connects the main plaza to the San Bernardino convent. Boutiques, galleries, cafes, and restaurants occupy restored colonial mansions along the way—Valladolid's most photogenic stroll.",
+      "image": "https://images.unsplash.com/photo-1570654621852-9dd25b76b38d?w=800&h=600&fit=crop&q=80",
       "duration": "1 hour",
       "price": "Free",
+      "tip": "Walk in late afternoon for the best light and cooler temperatures. Stop at Ix Cat Ik for traditional Yucatecan cuisine or grab a craft cocktail at Esquina 39.",
       "coordinates": {"lat": 20.6858, "lng": -88.2106}
     },
     {
       "name": "San Bernardino de Siena Convent",
       "type": "Historic Site",
-      "description": "16th-century Franciscan convent with beautiful church and gardens. Has its own cenote inside the grounds.",
+      "description": "This stunning 16th-century Franciscan convent at the end of Calzada de los Frailes features a beautiful church, peaceful gardens, and—remarkably—its own cenote within the grounds. The oldest religious building in the Yucatán Peninsula.",
+      "image": "https://images.unsplash.com/photo-1585506942812-e72b29cef752?w=800&h=600&fit=crop&q=80",
       "duration": "1 hour",
       "price": "$3 USD",
+      "tip": "Visit during the evening light show on weekends for a magical experience. The cenote inside the grounds is small but fascinating—ask staff for access.",
       "coordinates": {"lat": 20.6822, "lng": -88.2167}
     },
     {
       "name": "Cenote Oxman",
       "type": "Cenote",
-      "description": "Beautiful hacienda cenote with rope swing and lush vegetation. Part of Hacienda San Lorenzo Oxman.",
+      "description": "Part of Hacienda San Lorenzo Oxman, this beautiful cenote features a famous rope swing, lush hanging vegetation, and hacienda grounds perfect for relaxing. Combine swimming with exploring the historic estate.",
+      "image": "https://images.unsplash.com/photo-1552074284-5e88ef1aef18?w=800&h=600&fit=crop&q=80",
       "duration": "2-3 hours",
       "price": "$10 USD",
+      "tip": "The rope swing is thrilling but test the swing first if you're nervous. The hacienda restaurant serves decent lunch. Visit early morning to avoid crowds.",
       "coordinates": {"lat": 20.6731, "lng": -88.1664}
+    },
+    {
+      "name": "Ek Balam",
+      "type": "Archaeological Site",
+      "description": "A less-visited Maya archaeological site with an incredible climbable pyramid (Acropolis) offering panoramic jungle views. The remarkably preserved stucco facade of the main temple features detailed Maya figures and glyphs.",
+      "image": "https://images.unsplash.com/photo-1518638150340-f706e86654de?w=800&h=600&fit=crop&q=80",
+      "duration": "2-3 hours",
+      "price": "$15 USD",
+      "tip": "One of the few major ruins you can still climb! The Cenote X'canché is adjacent and perfect for cooling off afterward. Hire a local guide for deeper insights.",
+      "coordinates": {"lat": 20.8822, "lng": -88.1367}
+    },
+    {
+      "name": "Cenote Ik Kil",
+      "type": "Cenote",
+      "description": "Perhaps the Yucatán's most famous cenote, this dramatic open-air swimming hole near Chichén Itzá features 26-meter walls draped with hanging vines. Stairs lead down to the swimming platform in an otherworldly setting.",
+      "image": "https://images.unsplash.com/photo-1552074284-5e88ef1aef18?w=800&h=600&fit=crop&q=80",
+      "duration": "1-2 hours",
+      "price": "$10 USD",
+      "tip": "Very crowded with tour buses midday—visit first thing in the morning or late afternoon. Combine with Chichén Itzá as they're close together.",
+      "coordinates": {"lat": 20.6606, "lng": -88.5500}
+    },
+    {
+      "name": "Main Plaza (Parque Principal)",
+      "type": "Town Center",
+      "description": "The heart of Valladolid where locals gather, vendors sell traditional sweets, and the imposing San Servacio church anchors one end. Tree-shaded benches, colonial buildings painted in pastels, and evening strollers create authentic Mexican plaza life.",
+      "image": "https://images.unsplash.com/photo-1570654621852-9dd25b76b38d?w=800&h=600&fit=crop&q=80",
+      "duration": "1-2 hours",
+      "price": "Free",
+      "tip": "Visit in the evening when locals gather, children play, and the church is beautifully lit. Try marquesitas (crispy rolled crepes) from street vendors—the local specialty.",
+      "coordinates": {"lat": 20.6890, "lng": -88.2024}
+    },
+    {
+      "name": "Yucatecan Cooking Class",
+      "type": "Cultural",
+      "description": "Learn to prepare authentic Yucatecan dishes like cochinita pibil, papadzules, and sopa de lima. Classes typically include a market visit to select ingredients and conclude with enjoying your creations—a delicious cultural immersion.",
+      "image": "https://images.unsplash.com/photo-1556910103-1c02745aae4d?w=800&h=600&fit=crop&q=80",
+      "duration": "4-5 hours",
+      "price": "$50-80 USD",
+      "tip": "Book through Yucatan Jay or local guesthouses. Classes fill up in high season. Some offer vegetarian versions of traditional dishes.",
+      "coordinates": {"lat": 20.6890, "lng": -88.2024}
     }
   ],
-  "hotels": [
+  "neighborhoods": [
+    {
+      "name": "Centro Histórico",
+      "slug": "centro-historico",
+      "description": "The colonial heart of Valladolid surrounds the main plaza with pastel-colored buildings housing restaurants, hotels, and shops. This is where most visitors stay and where colonial architecture, churches, and local life converge beautifully.",
+      "image": "https://images.unsplash.com/photo-1570654621852-9dd25b76b38d?w=800&h=600&fit=crop&q=80",
+      "vibe": "Historic, authentic, walkable, charming",
+      "best_for": "First-time visitors, history lovers, photographers",
+      "highlights": ["Main plaza", "San Servacio church", "Best restaurants", "Colonial architecture"]
+    },
+    {
+      "name": "Barrio Sisal",
+      "slug": "barrio-sisal",
+      "description": "The neighborhood anchored by San Bernardino convent at the end of Calzada de los Frailes. More residential and quiet than the center, with local life unfolding around small parks and traditional homes.",
+      "image": "https://images.unsplash.com/photo-1585506942812-e72b29cef752?w=800&h=600&fit=crop&q=80",
+      "vibe": "Quiet, residential, historic, peaceful",
+      "best_for": "Those seeking tranquility, convent visitors, evening strollers",
+      "highlights": ["San Bernardino convent", "Quiet streets", "Local life", "Evening light shows"]
+    },
+    {
+      "name": "Zací Area",
+      "slug": "zaci-area",
+      "description": "The neighborhood surrounding Cenote Zací offers easy access to this urban natural wonder. Budget accommodations, local eateries, and a more everyday Mexican atmosphere than the tourist-focused plaza area.",
+      "image": "https://images.unsplash.com/photo-1552074284-5e88ef1aef18?w=800&h=600&fit=crop&q=80",
+      "vibe": "Local, budget-friendly, convenient",
+      "best_for": "Budget travelers, cenote enthusiasts, authentic atmosphere seekers",
+      "highlights": ["Cenote Zací", "Budget hotels", "Local restaurants", "Easy access to center"]
+    },
+    {
+      "name": "Calzada de los Frailes",
+      "slug": "calzada-de-los-frailes",
+      "description": "The picturesque street connecting plaza to convent has become Valladolid's trendiest strip, lined with boutique hotels, upscale restaurants, galleries, and craft shops in beautifully restored colonial buildings.",
+      "image": "https://images.unsplash.com/photo-1570654621852-9dd25b76b38d?w=800&h=600&fit=crop&q=80",
+      "vibe": "Trendy, photogenic, boutique, romantic",
+      "best_for": "Couples, boutique hotel seekers, foodies, photographers",
+      "highlights": ["Best restaurants", "Boutique hotels", "Galleries and shops", "Colonial beauty"]
+    }
+  ],
+  "featured_hotels": [
     {
       "name": "Casa Tía Micha",
-      "category": "Boutique",
+      "category": "Boutique Luxury",
       "stars": 4,
       "price_range": "$$$",
-      "description": "Beautiful colonial hotel with rooftop pool and excellent restaurant",
-      "features": ["Rooftop pool", "Restaurant", "Central", "Colonial"]
+      "description": "Beautiful colonial mansion transformed into an intimate boutique hotel with rooftop pool, excellent restaurant serving Yucatecan cuisine, and central location steps from the plaza. The perfect blend of heritage and comfort.",
+      "image": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?w=800&h=600&fit=crop&q=80",
+      "features": ["Rooftop pool", "Restaurant", "Central location", "Colonial charm", "Spa"]
     },
     {
       "name": "Hotel Zentik Project",
-      "category": "Boutique",
+      "category": "Boutique Design",
       "stars": 4,
       "price_range": "$$$",
-      "description": "Design hotel with underground pool in a cenote-like cave",
-      "features": ["Cave pool", "Design", "Restaurant", "Unique"]
+      "description": "Unique design hotel featuring an underground swimming pool in a cenote-like cave—the most unusual hotel amenity in Valladolid. Contemporary design meets Maya-inspired aesthetics in this Instagram-worthy property.",
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800&h=600&fit=crop&q=80",
+      "features": ["Underground cave pool", "Design hotel", "Restaurant", "Unique experience", "Garden"]
+    },
+    {
+      "name": "Hotel Mesón del Marqués",
+      "category": "Historic",
+      "stars": 4,
+      "price_range": "$$",
+      "description": "Beautifully restored 16th-century colonial mansion on the main plaza with courtyard pool, excellent restaurant, and history-soaked atmosphere. The original arches and tiles transport you to another era.",
+      "image": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=800&h=600&fit=crop&q=80",
+      "features": ["Plaza location", "Historic building", "Pool", "Restaurant", "Colonial character"]
     },
     {
       "name": "Casa San Roque",
       "category": "Mid-Range",
       "stars": 3,
       "price_range": "$$",
-      "description": "Charming colonial B&B with pool, steps from the main plaza",
-      "features": ["Pool", "Breakfast", "Central", "Character"]
+      "description": "Charming colonial B&B with pool, delicious breakfast, and warm hospitality. Steps from the main plaza with comfortable rooms, garden courtyard, and personal attention that makes you feel like a guest, not a tourist.",
+      "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=800&h=600&fit=crop&q=80",
+      "features": ["Pool", "Breakfast included", "Central location", "Personal service", "Garden"]
     },
     {
-      "name": "Hostal La Candelaria",
+      "name": "Posada San Juan",
       "category": "Budget",
       "stars": 2,
       "price_range": "$",
-      "description": "Popular central hostel with pool, garden, and great vibes",
-      "features": ["Pool", "Central", "Social", "Budget"]
+      "description": "Excellent value colonial house with clean, simple rooms around a plant-filled courtyard. Helpful owners, great breakfast options nearby, and an unbeatable location one block from the plaza.",
+      "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=800&h=600&fit=crop&q=80",
+      "features": ["Budget-friendly", "Central location", "Colonial building", "Courtyard", "Clean and simple"]
+    },
+    {
+      "name": "Hostal La Candelaria",
+      "category": "Budget/Hostel",
+      "stars": 2,
+      "price_range": "$",
+      "description": "Popular backpacker haven with dorms and private rooms, refreshing pool, tropical garden, and excellent social atmosphere. The best budget option in Valladolid with good facilities and helpful staff.",
+      "image": "https://images.unsplash.com/photo-1555854877-bab0e564b8d5?w=800&h=600&fit=crop&q=80",
+      "features": ["Pool", "Dorms and privates", "Social atmosphere", "Garden", "Budget-friendly"]
     }
   ],
-  "restaurants": [
+  "featured_restaurants": [
     {
       "name": "Ix Cat Ik",
-      "cuisine": "Yucatecan",
+      "cuisine": "Traditional Yucatecan",
       "price_range": "$$",
-      "description": "Excellent traditional Yucatecan cuisine using local Maya ingredients"
+      "description": "Chef-owner Miriam uses local Maya ingredients and traditional techniques to create the finest Yucatecan cuisine in Valladolid. Set in a beautiful garden on Calzada de los Frailes, it's an essential culinary experience.",
+      "image": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?w=800&h=600&fit=crop&q=80",
+      "must_try": ["Cochinita pibil", "Papadzules", "Poc chuc", "Sikil pak"]
     },
     {
       "name": "Conato 1910",
       "cuisine": "Contemporary Mexican",
       "price_range": "$$$",
-      "description": "Creative Mexican dishes in beautifully restored colonial setting"
+      "description": "Creative Mexican dishes served in a beautifully restored colonial building with romantic courtyard seating. Local ingredients elevated with modern techniques—Valladolid's most elegant dining experience.",
+      "image": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=800&h=600&fit=crop&q=80",
+      "must_try": ["Octopus", "Duck carnitas", "Chaya salad", "Mezcal cocktails"]
     },
     {
       "name": "Yerbabuena del Sisal",
       "cuisine": "Mexican/Vegetarian",
       "price_range": "$$",
-      "description": "Farm-to-table restaurant with excellent vegetarian options in garden setting"
+      "description": "Delightful farm-to-table restaurant in a lush garden setting near San Bernardino convent. Excellent vegetarian options, fresh juices, and creative Mexican dishes using ingredients from their own garden.",
+      "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=800&h=600&fit=crop&q=80",
+      "must_try": ["Panuchos", "Fresh juices", "Garden salads", "Vegetarian tasting plate"]
     },
     {
       "name": "Loncheria El Bazar",
-      "cuisine": "Yucatecan",
+      "cuisine": "Yucatecan Street Food",
       "price_range": "$",
-      "description": "Local market eatery for authentic salbutes, panuchos, and lomitos"
+      "description": "Authentic market eatery in the bazaar serving traditional Yucatecan breakfast and lunch. Locals pack this no-frills spot for salbutes, panuchos, and lomitos—the real deal at real prices.",
+      "image": "https://images.unsplash.com/photo-1551504734-5ee1c4a1479b?w=800&h=600&fit=crop&q=80",
+      "must_try": ["Salbutes", "Panuchos", "Lomitos de Valladolid", "Agua de chaya"]
+    },
+    {
+      "name": "Hostería del Marqués",
+      "cuisine": "Yucatecan/International",
+      "price_range": "$$",
+      "description": "The elegant restaurant at Hotel Mesón del Marqués serves traditional Yucatecan dishes and international options in a beautiful colonial courtyard setting right on the main plaza.",
+      "image": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=800&h=600&fit=crop&q=80",
+      "must_try": ["Cochinita pibil", "Sopa de lima", "Queso relleno", "Marquesitas for dessert"]
+    },
+    {
+      "name": "El Toro Negro",
+      "cuisine": "Steakhouse/Mexican",
+      "price_range": "$$",
+      "description": "Popular evening spot for grilled meats, tacos, and cold beer. The informal atmosphere draws locals and tourists alike for generous portions and reliable quality at fair prices.",
+      "image": "https://images.unsplash.com/photo-1558030006-450675393462?w=800&h=600&fit=crop&q=80",
+      "must_try": ["Arrachera", "Tacos de pastor", "Queso fundido", "Micheladas"]
+    }
+  ],
+  "day_trips": [
+    {
+      "name": "Ek Balam & Cenote X'canché",
+      "distance": "30 minutes north",
+      "description": "Less-visited Maya ruins with a climbable pyramid offering stunning jungle views, followed by a swim in the beautiful adjacent cenote. Perfect combination of archaeology and nature without Chichén Itzá crowds.",
+      "image": "https://images.unsplash.com/photo-1518638150340-f706e86654de?w=800&h=600&fit=crop&q=80",
+      "tips": "Hire a guide at the entrance for deeper insights. The cenote is a 15-minute walk or rent bikes ($3 USD). Bring swimsuit and cash—cenote is separate entrance."
+    },
+    {
+      "name": "Río Lagartos & Las Coloradas",
+      "distance": "1.5 hours north",
+      "description": "Boat tours through mangrove-lined estuaries to see flamingos, crocodiles, and diverse birdlife, followed by the surreal pink lakes of Las Coloradas—Mexico's most Instagram-famous natural phenomenon.",
+      "image": "https://images.unsplash.com/photo-1564053489984-317bbd824340?w=800&h=600&fit=crop&q=80",
+      "tips": "Book a boat tour in Río Lagartos for the best flamingo sightings. Las Coloradas is pinkest midday with strong sun. Don't swim in the salt lakes—they're fragile and protected."
+    },
+    {
+      "name": "Cobá Archaeological Zone",
+      "distance": "1 hour east",
+      "description": "Ancient Maya city with the tallest climbable pyramid in the Yucatán (42 meters) surrounded by jungle. Rent a bike or hire a bicycle taxi to explore the extensive site including multiple pyramids, ball courts, and ancient roads.",
+      "image": "https://images.unsplash.com/photo-1518638150340-f706e86654de?w=800&h=600&fit=crop&q=80",
+      "tips": "Arrive at 8am opening to climb the pyramid before it gets hot. Rent bikes at the entrance ($5 USD). Combine with cenotes on the way back to Valladolid."
+    },
+    {
+      "name": "Izamal - The Yellow City",
+      "distance": "1 hour west",
+      "description": "An entire colonial city painted bright yellow, centered on an enormous Franciscan convent built atop a Maya pyramid. A Pueblo Mágico with a completely different character from Valladolid—magical at sunset.",
+      "image": "https://images.unsplash.com/photo-1570654621852-9dd25b76b38d?w=800&h=600&fit=crop&q=80",
+      "tips": "Visit late afternoon when the yellow buildings glow in golden light. Climb to the top of the convent for views. Can combine with Chichén Itzá as it's en route to Mérida."
     }
   ],
   "faqs": [
     {
       "question": "Is Valladolid worth visiting?",
-      "answer": "Absolutely. Valladolid offers authentic colonial Mexico, excellent cenotes, proximity to Chichén Itzá, and genuine Yucatecan culture at fair prices. It's a refreshing alternative to beach resorts and increasingly popular with travelers seeking deeper experiences."
+      "answer": "Absolutely. Valladolid offers authentic colonial Mexico, excellent cenotes, proximity to Chichén Itzá and Ek Balam, and genuine Yucatecan culture at fair prices. It's a refreshing alternative to beach resorts and increasingly popular with travelers seeking deeper experiences. Most visitors wish they'd stayed longer."
     },
     {
       "question": "How far is Valladolid from Cancún?",
-      "answer": "Valladolid is about 2 hours from Cancún airport by car or ADO bus (frequent service, ~$15 USD). It's 40 minutes from Chichén Itzá, 2 hours from Mérida, and 1.5 hours from Tulum. The central location makes it an ideal base."
+      "answer": "Valladolid is about 2 hours from Cancún airport by car or ADO bus (frequent service, $15-20 USD). It's 40 minutes from Chichén Itzá, 2 hours from Mérida, and 1.5 hours from Tulum. The central location makes it an ideal base for exploring the entire Yucatán Peninsula."
     },
     {
       "question": "How many days should I spend in Valladolid?",
-      "answer": "2-3 days is ideal: one day exploring the town and Cenote Zací, one day at Chichén Itzá, and one day for cenote hopping (Suytun, Oxman, Ik Kil). If continuing to other destinations, even an overnight stay is worthwhile."
+      "answer": "2-3 days is ideal: one day exploring the town and Cenote Zací, one day at Chichén Itzá, and one day for cenote hopping (Suytun, Oxman) or Ek Balam. If you're an archaeology enthusiast or cenote lover, 4 days allows for Cobá and Río Lagartos. Even an overnight stay is worthwhile if you're passing through."
     },
     {
       "question": "Is Valladolid cheaper than the beach destinations?",
-      "answer": "Yes. Hotels, restaurants, and activities in Valladolid cost significantly less than Tulum, Playa del Carmen, or Cancún. A nice boutique hotel room runs $60-150/night, excellent meals $5-15. It's one of Yucatán's best-value destinations."
+      "answer": "Yes, significantly. Hotels, restaurants, and activities in Valladolid cost 30-50% less than Tulum, Playa del Carmen, or Cancún. A nice boutique hotel room runs $60-150/night, excellent meals $5-15, and cenote admission $3-15 USD. It's one of Yucatán's best-value destinations."
     },
     {
       "question": "Which cenotes near Valladolid should I visit?",
-      "answer": "Cenote Zací is in town—don't miss it. For day trips: Suytun is Instagram-famous but crowded, Oxman has a rope swing and hacienda setting, X'keken (Dzitnup) has dramatic stalactites, and Ik Kil near Chichén Itzá is beautiful but touristy. Visit early morning to avoid crowds."
+      "answer": "Cenote Zací is in town—don't miss it. For day trips: Suytun has the famous light beam and platform (photogenic but crowded), Oxman has a rope swing and hacienda setting, X'canché near Ek Balam is beautiful and less touristy, and Ik Kil near Chichén Itzá is dramatic but very crowded. Visit early morning for fewer people."
     },
     {
       "question": "Is Valladolid safe?",
-      "answer": "Valladolid is very safe. The small colonial city has a peaceful atmosphere and strong community. Normal precautions apply, but violent crime against tourists is essentially unheard of. It's one of the safest destinations in the Yucatán."
+      "answer": "Valladolid is very safe for tourists. The small colonial city has a peaceful atmosphere and strong community. Violent crime against tourists is essentially unheard of. Normal precautions apply: watch valuables in crowded areas. The town is well-lit and feels safe walking at night."
+    },
+    {
+      "question": "Should I stay in Valladolid or the beach?",
+      "answer": "Both have merits. Valladolid offers authenticity, lower prices, cenotes, ruins, and culture without beach-resort atmosphere. If beaches are essential, stay on the coast. Many travelers split time between both—Valladolid makes an excellent 2-3 night interior stop between Cancún and Mérida."
+    },
+    {
+      "question": "What is the best way to visit Chichén Itzá from Valladolid?",
+      "answer": "Drive or taxi (40 minutes) and arrive at 8am when it opens to beat cruise ship crowds. Alternatively, stay for the evening light and sound show. Colectivos run from the bus station ($2 USD). Tours are available but less flexible. Visit early, return for lunch in Valladolid."
     }
   ],
-  "related_destinations": ["chichen-itza", "merida", "tulum", "cancun", "ek-balam"],
-  "tags": ["colonial", "pueblo-magico", "cenotes", "mayan", "culture", "budget", "authentic", "yucatan"],
+  "related_destinations": ["chichen-itza", "merida", "tulum", "cancun", "ek-balam", "coba", "izamal"],
+  "tags": ["colonial", "pueblo-magico", "cenotes", "mayan", "culture", "budget", "authentic", "yucatan", "archaeological"],
   "schema_type": "TouristDestination"
 }
