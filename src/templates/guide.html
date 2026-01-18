@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="{{lang}}" dir="ltr">
+<head>
+{{> head}}
+
+<!-- Article Schema -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "{{title}}",
+  "description": "{{meta_description}}",
+  "dateModified": "{{last_updated}}",
+  "author": {
+    "@type": "Organization",
+    "name": "Top Mexico Travel"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Top Mexico Travel",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://topmexicotravel.com/assets/logo.png"
+    }
+  }
+}
+</script>
+</head>
+<body>
+<a href="#main-content" class="skip-link">Skip to main content</a>
+
+{{> header}}
+
+<main id="main-content" role="main">
+  <!-- Hero Section -->
+  <header class="hero" style="min-height: 50vh;">
+    <img
+      src="{{hero_image}}"
+      alt="{{hero_alt}}"
+      width="1920"
+      height="1080"
+      fetchpriority="high"
+      decoding="async"
+      class="hero-image">
+    <div class="hero-overlay"></div>
+    <div class="hero-content" style="max-width: 800px;">
+      <h1 class="hero-title">{{title}}</h1>
+      <p class="hero-tagline">{{subtitle}}</p>
+      {{#if last_updated}}
+      <div style="margin-top: var(--spacing-md); font-size: 0.875rem; opacity: 0.8;">Last updated: {{last_updated}}</div>
+      {{/if}}
+    </div>
+  </header>
+
+  <!-- Introduction -->
+  <section class="section" style="padding-top: var(--spacing-xl);">
+    <div class="section-container" style="max-width: 800px;">
+      <p style="font-size: 1.25rem; line-height: 1.8; color: var(--color-text-light);">{{introduction}}</p>
+    </div>
+  </section>
+
+  <!-- Table of Contents -->
+  <section class="section" style="padding-top: 0;">
+    <div class="section-container" style="max-width: 800px;">
+      <nav style="background: var(--color-bg-alt); padding: var(--spacing-lg); border-radius: var(--radius-md);">
+        <h2 style="font-size: 1.125rem; margin-bottom: var(--spacing-md);">In This Guide</h2>
+        <ul style="list-style: none; display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: var(--spacing-sm);">
+          {{#each sections}}
+          <li><a href="#section-{{@index}}" style="color: var(--color-primary);">{{this.title}}</a></li>
+          {{/each}}
+        </ul>
+      </nav>
+    </div>
+  </section>
+
+  <!-- Guide Sections -->
+  <article class="section">
+    <div class="section-container" style="max-width: 800px;">
+      {{#each sections}}
+      <section id="section-{{@index}}" style="margin-bottom: var(--spacing-xxl);">
+        <h2 style="font-size: 1.5rem; color: var(--color-primary); border-bottom: 2px solid var(--color-primary); padding-bottom: var(--spacing-sm); margin-bottom: var(--spacing-lg);">{{this.title}}</h2>
+        <div style="line-height: 1.8;">{{{this.content}}}</div>
+      </section>
+      {{/each}}
+    </div>
+  </article>
+
+  <!-- FAQs -->
+  {{#if faqs}}
+  <section class="section" aria-labelledby="faq-heading" style="background: var(--color-bg-alt);">
+    <div class="section-container" style="max-width: 800px;">
+      <h2 id="faq-heading" class="section-title">Frequently Asked Questions</h2>
+      <div itemscope itemtype="https://schema.org/FAQPage">
+        {{#each faqs}}
+        <details style="margin-bottom: var(--spacing-md); background: white; border: 1px solid var(--color-border); border-radius: var(--radius-sm);" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+          <summary style="padding: var(--spacing-md); cursor: pointer; font-weight: 600;" itemprop="name">{{this.question}}</summary>
+          <div style="padding: 0 var(--spacing-md) var(--spacing-md);" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+            <p itemprop="text">{{this.answer}}</p>
+          </div>
+        </details>
+        {{/each}}
+      </div>
+    </div>
+  </section>
+  {{/if}}
+
+  <!-- Related Guides -->
+  <section class="section">
+    <div class="section-container">
+      <h2 class="section-title">More Travel Guides</h2>
+      <div style="text-align: center;">
+        <a href="/{{lang}}/guides/" class="cta-link">View All Guides →</a>
+      </div>
+    </div>
+  </section>
+</main>
+
+{{> footer}}
+
+<script defer>
+document.addEventListener('DOMContentLoaded', function() {
+  const menuToggle = document.querySelector('.menu-toggle');
+  const mobileNav = document.querySelector('.mobile-nav');
+
+  if (menuToggle && mobileNav) {
+    menuToggle.addEventListener('click', function() {
+      const isOpen = mobileNav.classList.toggle('is-open');
+      this.setAttribute('aria-expanded', isOpen);
+    });
+  }
+});
+</script>
+</body>
+</html>

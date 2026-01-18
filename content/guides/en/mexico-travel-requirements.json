@@ -1,0 +1,75 @@
+{
+  "id": "mexico-travel-requirements",
+  "slug": "mexico-travel-requirements",
+  "title": "Mexico Visa & Entry Requirements 2025",
+  "subtitle": "Everything You Need to Know Before You Go",
+  "meta_title": "Mexico Visa Requirements 2025 - Entry, Passport & Travel Documents",
+  "meta_description": "Complete guide to Mexico entry requirements: visa policies by nationality, FMM tourist card, passport rules, COVID policies, and customs regulations. Updated for 2025.",
+  "hero_image": "https://images.unsplash.com/photo-1518105779142-d975f22f1b0a?w=1920&h=1080&fit=crop&q=80",
+  "hero_alt": "Mexico travel and passport requirements",
+  "og_image": "https://images.unsplash.com/photo-1518105779142-d975f22f1b0a?w=1200&h=630&fit=crop&q=80",
+  "introduction": "Planning a trip to Mexico? Good news: Mexico has one of the most welcoming entry policies in the world. Most visitors can enter visa-free for tourism, though you'll need a few key documents. This guide covers everything from passport requirements to the FMM tourist permit.",
+  "last_updated": "January 2025",
+  "sections": [
+    {
+      "title": "Passport Requirements",
+      "content": "Your passport must be valid for the duration of your stay in Mexico. While Mexico doesn't require six months validity like some countries, airlines may have their own policies. We recommend at least 3 months validity beyond your planned departure date.\n\nYou'll need at least one blank page for entry stamps. Children must have their own passports—they can no longer be included on parents' passports for international travel."
+    },
+    {
+      "title": "Visa-Free Countries",
+      "content": "Citizens of the following countries can visit Mexico without a visa for up to 180 days: United States, Canada, United Kingdom, all European Union countries, Australia, New Zealand, Japan, South Korea, Argentina, Brazil, Chile, and most other developed nations.\n\nCheck with the Mexican consulate in your country if you're unsure about your visa status."
+    },
+    {
+      "title": "The FMM Tourist Permit",
+      "content": "All tourists entering Mexico receive an FMM (Forma Migratoria Múltiple), a free tourist permit allowing stays up to 180 days. Immigration officers may grant less time based on your stated travel plans—if you need the full 180 days, politely request it.\n\n**Important:** Keep your FMM safe! You must return the bottom portion when leaving Mexico. Lost FMMs require a visit to immigration and a fine of approximately $30-50 USD.\n\nThe FMM is now often processed electronically when flying into major airports, but you may still receive a paper form at land borders or smaller airports."
+    },
+    {
+      "title": "What Immigration May Ask",
+      "content": "Immigration officers may ask about:\n\n- **Return ticket**: Proof of onward travel (return flight or ticket to another country)\n- **Accommodation**: Hotel reservation for at least your first few nights\n- **Financial means**: Credit cards or proof you can support yourself (rarely checked but technically required)\n- **Purpose of visit**: Tourism is assumed for most visitors\n\nBe polite and straightforward. Millions of tourists enter Mexico daily without issues."
+    },
+    {
+      "title": "Arrival by Air",
+      "content": "When flying to Mexico, you'll complete customs and immigration at your first point of entry. Major international airports (Cancún, Mexico City, Guadalajara, Los Cabos) have efficient immigration processing.\n\nExpect to:\n1. Complete immigration (passport control and FMM)\n2. Collect checked luggage\n3. Pass through customs (random selection for bag inspection)\n4. Exit to ground transportation\n\nTotal time varies from 20 minutes to over an hour depending on arrival time and airport crowds."
+    },
+    {
+      "title": "Arrival by Land",
+      "content": "Crossing the US-Mexico border by land requires stopping at immigration to get your FMM stamped. This is often overlooked by day-trippers but essential for longer stays.\n\n**Driving your car:** You'll need a Temporary Import Permit (TIP) if traveling beyond the border zone (roughly 20km into Mexico). This requires a deposit (typically $200-400 on credit card) returned when you exit with the vehicle."
+    },
+    {
+      "title": "Customs Regulations",
+      "content": "You may bring into Mexico duty-free:\n\n- Personal clothing and items\n- Camera equipment and laptops\n- Up to 3 liters of alcohol and 200 cigarettes (adults)\n- Gifts valued up to $500 USD (by air) or $300 USD (by land)\n- Up to $10,000 USD cash (declare amounts over this)\n\n**Prohibited items:** Fresh fruits, vegetables, plants, meats, firearms (extremely strict), and certain medications without prescription."
+    },
+    {
+      "title": "COVID-19 Requirements (2025)",
+      "content": "As of 2025, Mexico has no COVID-19 entry requirements. No vaccination proof, negative tests, or health declarations are required.\n\nHowever, policies can change. Check the official Mexican government website or your airline before travel for the most current requirements."
+    },
+    {
+      "title": "Extending Your Stay",
+      "content": "If you want to stay longer than your FMM allows (up to 180 days maximum), you have two options:\n\n1. **Visit INM (Immigration)**: Apply for an extension at the Instituto Nacional de Migración. This costs approximately $30-50 USD and requires paperwork.\n\n2. **Border run**: Exit Mexico (to Guatemala, Belize, or the US) and re-enter for a new FMM. This is common but not guaranteed—immigration may grant fewer days on subsequent entries."
+    },
+    {
+      "title": "Working in Mexico",
+      "content": "Tourist permits (FMM) do not allow you to work in Mexico. Working illegally can result in deportation and future entry bans.\n\nFor remote workers: Mexico's interpretation is evolving. Technically, earning money from non-Mexican sources while visiting is a gray area. Long-term remote workers should consider a Temporary Resident visa."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Do US citizens need a visa for Mexico?",
+      "answer": "No. US citizens can visit Mexico visa-free for up to 180 days for tourism. You only need a valid passport and will receive an FMM tourist permit on arrival."
+    },
+    {
+      "question": "How long can I stay in Mexico as a tourist?",
+      "answer": "Up to 180 days on a single FMM tourist permit. The immigration officer decides how many days to grant—if you need the full 180 days, politely request it and have supporting documentation (hotel bookings, return flight)."
+    },
+    {
+      "question": "Do I need travel insurance for Mexico?",
+      "answer": "Travel insurance is not required for entry but highly recommended. Mexico has excellent private healthcare, but costs can be significant without insurance. Many travel credit cards include basic coverage."
+    },
+    {
+      "question": "Can I drive my car into Mexico?",
+      "answer": "Yes, but you'll need a Temporary Import Permit (TIP) if traveling beyond the border zone. This requires proof of ownership, a valid driver's license, and a refundable deposit on a credit card."
+    }
+  ],
+  "related_guides": ["mexico-safety", "best-time-to-visit", "mexico-budget"],
+  "tags": ["visa", "entry", "passport", "travel-documents", "customs", "immigration"]
+}

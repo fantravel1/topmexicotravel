@@ -1,0 +1,188 @@
+{
+  "id": "yucatan-7-days",
+  "slug": "yucatan-7-days",
+  "title": "7 Days in the Yucatán Peninsula",
+  "subtitle": "From Caribbean Beaches to Ancient Pyramids",
+  "duration": "7 Days",
+  "meta_title": "Yucatán Peninsula 7-Day Itinerary - Complete Travel Guide 2025",
+  "meta_description": "The perfect week in Mexico's Yucatán: Caribbean beaches in Cancún and Tulum, Mayan ruins at Chichén Itzá, cenotes, and colonial Valladolid. Day-by-day guide with hotels and tips.",
+  "hero_image": "https://images.unsplash.com/photo-1518105779142-d975f22f1b0a?w=1920&h=1080&fit=crop&q=80",
+  "hero_alt": "Tulum ruins overlooking the turquoise Caribbean Sea",
+  "og_image": "https://images.unsplash.com/photo-1518105779142-d975f22f1b0a?w=1200&h=630&fit=crop&q=80",
+  "introduction": "The Yucatán Peninsula offers Mexico's most iconic combination: pristine Caribbean beaches, ancient Mayan pyramids, mysterious cenotes, and colorful colonial towns. This 7-day itinerary takes you from the resort beaches of Cancún through bohemian Tulum, historic Valladolid, and the wonder of Chichén Itzá—hitting every highlight while maintaining a relaxed pace.",
+  "best_for": ["First-time Mexico visitors", "Beach lovers", "History buffs", "Couples", "Families"],
+  "estimated_budget": {
+    "budget": "$800-1,200 USD per person",
+    "mid_range": "$1,500-2,500 USD per person",
+    "luxury": "$3,500+ USD per person"
+  },
+  "best_time": "November to April for best weather; avoid Spring Break (March) for fewer crowds",
+  "destinations": ["Cancún", "Tulum", "Valladolid", "Chichén Itzá"],
+  "highlights": [
+    "Snorkel in crystal-clear Caribbean waters",
+    "Explore the cliff-top ruins of Tulum",
+    "Swim in ancient cenotes",
+    "Witness Chichén Itzá at sunrise",
+    "Wander colonial Valladolid streets",
+    "Taste authentic Yucatecan cuisine"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Arrive in Cancún",
+      "location": "Cancún Hotel Zone",
+      "description": "Arrive at Cancún International Airport (CUN) and transfer to your hotel in the Hotel Zone. Spend the afternoon recovering from travel on Playa Delfines, one of Cancún's most beautiful public beaches with the iconic Cancún sign. Watch the sunset over the lagoon from your hotel.",
+      "image": "https://images.unsplash.com/photo-1510097467424-192d713fd8b2?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Airport transfer and hotel check-in",
+        "Relax at Playa Delfines",
+        "Sunset dinner at Puerto Madero or Lorenzillo's"
+      ],
+      "accommodation": {
+        "budget": "Selina Cancun Lagoon ($50-80)",
+        "mid_range": "Hyatt Zilara Cancún ($250-400)",
+        "luxury": "Le Blanc Spa Resort ($600+)"
+      },
+      "tips": ["Book airport transfer in advance or use ADO bus ($12 USD)", "Hotel Zone beaches are all public—bring your own towel", "Avoid timeshare sellers at the airport"]
+    },
+    {
+      "day": 2,
+      "title": "Cancún Beaches & Isla Mujeres",
+      "location": "Cancún / Isla Mujeres",
+      "description": "Take the morning ferry to Isla Mujeres (30 minutes from Puerto Juárez). Rent a golf cart to explore this charming island, swim at Playa Norte (consistently rated Mexico's best beach), snorkel at the underwater sculpture museum MUSA, and enjoy fresh ceviche with ocean views.",
+      "image": "https://images.unsplash.com/photo-1552074284-5e88ef1aef18?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Ferry to Isla Mujeres (8am recommended)",
+        "Golf cart island tour",
+        "Playa Norte beach time",
+        "MUSA snorkeling or glass-bottom boat",
+        "Lunch at Playa Lancheros"
+      ],
+      "accommodation": {
+        "budget": "Stay in Cancún",
+        "mid_range": "Ixchel Beach Hotel ($150-250)",
+        "luxury": "Zoëtry Villa Rolandi ($400+)"
+      },
+      "tips": ["First ferry at 5:30am catches sunrise", "Golf carts rent for $45-60/day", "Last ferry back is around 11:30pm"]
+    },
+    {
+      "day": 3,
+      "title": "Transfer to Tulum via Cenotes",
+      "location": "Tulum",
+      "description": "Drive south to Tulum (2 hours), stopping at the Ruta de los Cenotes near Puerto Morelos. Swim in magical underground cenotes like Cenote Azul or Kin Ha. Arrive in Tulum mid-afternoon and explore the beach zone with its famous bohemian beach clubs and jungle boutique hotels.",
+      "image": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Check out of Cancún hotel",
+        "Drive Ruta de los Cenotes (2-3 cenotes)",
+        "Lunch in Puerto Morelos",
+        "Arrive Tulum, settle in",
+        "Sunset at a beach club"
+      ],
+      "accommodation": {
+        "budget": "Mayan Monkey Tulum ($40-70)",
+        "mid_range": "Casa Malca ($300-500)",
+        "luxury": "Be Tulum ($700+)"
+      },
+      "tips": ["Rent a car for flexibility (essential for cenotes)", "Bring biodegradable sunscreen only—required for cenotes", "Tulum beach hotels have no AC—embrace the jungle vibe"]
+    },
+    {
+      "day": 4,
+      "title": "Tulum Ruins & Beach Day",
+      "location": "Tulum",
+      "description": "Start early at the Tulum Archaeological Site before crowds arrive (opens 8am). The cliff-top ruins with Caribbean views are Mexico's most photographed. Descend to the beach below for a swim, then spend the afternoon at a beach club like Ahau or Papaya Playa. Evening is for the famous Tulum dining scene.",
+      "image": "https://images.unsplash.com/photo-1518105779142-d975f22f1b0a?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Tulum ruins at 8am opening",
+        "Beach below the ruins",
+        "Lunch at Hartwood (reservations essential)",
+        "Beach club afternoon",
+        "Dinner at Arca or Gitano"
+      ],
+      "accommodation": {
+        "budget": "Mayan Monkey Tulum ($40-70)",
+        "mid_range": "Casa Malca ($300-500)",
+        "luxury": "Be Tulum ($700+)"
+      },
+      "tips": ["Arrive at ruins by 7:45am to be first in line", "Bring water and hat—site is hot with little shade", "Book top restaurants weeks in advance"]
+    },
+    {
+      "day": 5,
+      "title": "Gran Cenote & Transfer to Valladolid",
+      "location": "Valladolid",
+      "description": "Visit Gran Cenote early morning when light beams stream through the cave ceiling (best 9-10am). After swimming with turtles, drive to the Pueblo Mágico of Valladolid (1.5 hours). Explore the colorful colonial centro, swim at Cenote Zací in the middle of town, and dine on Yucatecan specialties.",
+      "image": "https://images.unsplash.com/photo-1570737209810-87a8e7245f88?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Gran Cenote sunrise visit",
+        "Drive to Valladolid",
+        "Lunch at Yerbabuena del Sisal",
+        "Cenote Zací swimming",
+        "Colonial centro walking tour",
+        "Dinner at El Mesón del Marqués"
+      ],
+      "accommodation": {
+        "budget": "Hostel La Candelaria ($25-40)",
+        "mid_range": "Casa Tía Micha ($80-150)",
+        "luxury": "Casa Marlene ($200-350)"
+      },
+      "tips": ["Gran Cenote opens at 8am—arrive 7:45", "Valladolid is much cheaper than coastal towns", "Try local papadzules and panuchos"]
+    },
+    {
+      "day": 6,
+      "title": "Chichén Itzá & Return to Cancún",
+      "location": "Cancún",
+      "description": "Depart at 6am for Chichén Itzá (45 minutes) to arrive at 8am opening before tour buses. Spend 2-3 hours exploring the pyramid of Kukulcán, the Ball Court, and the Temple of Warriors. Return toward Cancún, stopping at Cenote Ik Kil for a swim. Final evening in Cancún for shopping or nightlife.",
+      "image": "https://images.unsplash.com/photo-1518638150340-f706e86654de?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Early departure for Chichén Itzá",
+        "Explore the archaeological site (2-3 hours)",
+        "Swim at Cenote Ik Kil",
+        "Return drive to Cancún",
+        "Final dinner and nightlife"
+      ],
+      "accommodation": {
+        "budget": "Selina Cancun Lagoon ($50-80)",
+        "mid_range": "Nizuc Resort & Spa ($350-500)",
+        "luxury": "ETEREO, Auberge Resort ($800+)"
+      },
+      "tips": ["8am arrival is essential—by 11am it's packed with tour buses", "Hire a guide at the entrance ($50) for deep history", "Cenote Ik Kil is touristy but spectacular"]
+    },
+    {
+      "day": 7,
+      "title": "Departure Day",
+      "location": "Cancún",
+      "description": "Depending on your flight time, enjoy a final morning at the beach, last-minute shopping at La Isla Shopping Village, or brunch at one of Cancún's excellent restaurants. Transfer to Cancún International Airport for your departure.",
+      "image": "https://images.unsplash.com/photo-1510097467424-192d713fd8b2?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Final beach time or shopping",
+        "Airport transfer",
+        "Departure"
+      ],
+      "tips": ["Allow 2-3 hours before international flights", "Hotel Zone to airport is 25-40 minutes depending on traffic", "Buy vanilla and chocolate at the airport duty-free"]
+    }
+  ],
+  "practical_info": {
+    "getting_there": "Fly into Cancún International Airport (CUN), Mexico's busiest. Direct flights from most major US and Canadian cities, plus European connections. Airport is 20 minutes from Hotel Zone.",
+    "getting_around": "Rent a car for maximum flexibility ($30-50/day). ADO buses connect major towns cheaply but slowly. Taxis and private transfers are available but expensive. Colectivos (shared vans) are cheap for coastal routes.",
+    "what_to_pack": ["Reef-safe sunscreen (required for cenotes)", "Water shoes for rocky cenotes", "Light layers for AC and temples", "Rain jacket (rainy season May-October)", "Mosquito repellent for jungle areas"]
+  },
+  "faqs": [
+    {
+      "question": "Is 7 days enough for the Yucatán?",
+      "answer": "Yes, 7 days is perfect for the main highlights: beaches, Tulum, a colonial town, and Chichén Itzá. For deeper exploration including Mérida, Uxmal, or Holbox, consider 10-14 days."
+    },
+    {
+      "question": "Should I rent a car?",
+      "answer": "Highly recommended. A rental car ($30-50/day) gives you freedom to visit cenotes, leave early for ruins, and explore at your pace. Without a car, you'll rely on expensive tours or slow public buses."
+    },
+    {
+      "question": "Is the Yucatán safe?",
+      "answer": "The Yucatán Peninsula is one of Mexico's safest regions. Tourism is the main industry, and the area is well-policed. Use normal precautions (secure valuables, avoid isolated areas at night)."
+    },
+    {
+      "question": "What's the best time to visit?",
+      "answer": "November to April is dry season with warm weather and low humidity. Avoid Spring Break (March) for fewer crowds. Summer is hot and humid with afternoon rain but fewer tourists and lower prices."
+    }
+  ],
+  "related_itineraries": ["mexico-city-5-days", "pacific-coast-10-days"],
+  "tags": ["beach", "ruins", "cenotes", "culture", "history", "yucatan", "caribbean"]
+}

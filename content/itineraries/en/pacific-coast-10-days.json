@@ -1,0 +1,250 @@
+{
+  "id": "pacific-coast-10-days",
+  "slug": "pacific-coast-10-days",
+  "title": "10 Days: Pacific Coast Road Trip",
+  "subtitle": "Sun, Surf, and Seafood from Puerto Vallarta to Oaxaca",
+  "duration": "10 Days",
+  "meta_title": "Pacific Coast Mexico 10-Day Itinerary - Complete Road Trip Guide 2025",
+  "meta_description": "The ultimate Pacific Mexico road trip: Puerto Vallarta, Sayulita, Oaxaca, Puerto Escondido. 10 days of beaches, surf towns, mezcal, and incredible cuisine. Complete day-by-day guide.",
+  "hero_image": "https://images.unsplash.com/photo-1502680390469-be75c86b636f?w=1920&h=1080&fit=crop&q=80",
+  "hero_alt": "Surfer riding a wave on Mexico's Pacific Coast at sunset",
+  "og_image": "https://images.unsplash.com/photo-1502680390469-be75c86b636f?w=1200&h=630&fit=crop&q=80",
+  "introduction": "Mexico's Pacific Coast offers a dramatically different experience from the Caribbean: crashing surf, golden sunsets, bohemian beach towns, and some of the country's best cuisine in Oaxaca. This 10-day itinerary combines the resort energy of Puerto Vallarta with the surf culture of Sayulita and the cultural depth of Oaxaca, finishing at the legendary beaches of Puerto Escondido.",
+  "best_for": ["Surfers", "Foodies", "Bohemian travelers", "Culture seekers", "Beach lovers"],
+  "estimated_budget": {
+    "budget": "$1,000-1,500 USD per person",
+    "mid_range": "$2,000-3,500 USD per person",
+    "luxury": "$5,000+ USD per person"
+  },
+  "best_time": "November to April for dry season; July-September for bigger surf",
+  "destinations": ["Puerto Vallarta", "Sayulita", "Oaxaca City", "Puerto Escondido"],
+  "highlights": [
+    "Learn to surf in Sayulita",
+    "Taste mezcal at Oaxacan distilleries",
+    "Watch sunset from Puerto Vallarta's Malecón",
+    "Explore Oaxaca's incredible food scene",
+    "See giant waves at Zicatela Beach",
+    "Discover hidden Pacific beaches"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Arrive in Puerto Vallarta",
+      "location": "Puerto Vallarta",
+      "description": "Arrive at Puerto Vallarta International Airport (PVR) and transfer to your hotel in the Zona Romántica. Spend the afternoon walking the famous Malecón boardwalk with its sculptures and ocean views. Watch the sunset over Banderas Bay—one of Mexico's most spectacular.",
+      "image": "https://images.unsplash.com/photo-1512813195386-6cf811ad3542?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Airport transfer and hotel check-in",
+        "Walk the Malecón at sunset",
+        "Dinner in Zona Romántica",
+        "Evening drinks at beach bar"
+      ],
+      "accommodation": {
+        "budget": "Oasis Hostel ($30-50)",
+        "mid_range": "Hotel Posada de Roger ($100-180)",
+        "luxury": "Casa Kimberly ($350+)"
+      },
+      "tips": ["Zona Romántica is the best area for walkability and restaurants", "Los Muertos Beach is the main beach—grab a chair at a beach club", "Friday evenings have art walks in galleries"]
+    },
+    {
+      "day": 2,
+      "title": "Puerto Vallarta Exploration",
+      "location": "Puerto Vallarta",
+      "description": "Morning at Los Muertos Beach, then explore the historic Centro with its iconic church and cobblestone streets. Take a boat trip to the hidden beaches of Las Caletas or Yelapa, accessible only by water. Return for dinner at one of Vallarta's excellent restaurants.",
+      "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Morning at Los Muertos Beach",
+        "Boat trip to Yelapa or Las Caletas",
+        "Snorkeling and beach time",
+        "Sunset dinner on the Malecón",
+        "Optional: nightlife in Zona Romántica"
+      ],
+      "accommodation": {
+        "budget": "Oasis Hostel ($30-50)",
+        "mid_range": "Hotel Posada de Roger ($100-180)",
+        "luxury": "Casa Kimberly ($350+)"
+      },
+      "tips": ["Yelapa is more rustic, Las Caletas more resort-like", "Try a michelada (beer with lime and chili) on the beach", "The pier area has fresh seafood at local prices"]
+    },
+    {
+      "day": 3,
+      "title": "Sayulita - Surf Town",
+      "location": "Sayulita",
+      "description": "Drive to Sayulita (1 hour north), a colorful Pueblo Mágico and surf town. Check into your beachfront hotel, rent a surfboard, and hit the beginner-friendly waves. The town is walkable and vibrant with surf shops, boutiques, and excellent restaurants. Evening is for mezcal and live music.",
+      "image": "https://images.unsplash.com/photo-1502680390469-be75c86b636f?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Drive to Sayulita",
+        "Check in and surf lesson",
+        "Beach time",
+        "Explore colorful town center",
+        "Dinner and mezcal"
+      ],
+      "accommodation": {
+        "budget": "Amazing Sayulita Hostel ($25-45)",
+        "mid_range": "Siete Lunas ($150-250)",
+        "luxury": "Playa Escondida ($400+)"
+      },
+      "tips": ["Surf lessons run about $50-70 for 2 hours with board", "Main beach gets crowded—walk to Playa de los Muertos for quiet", "Don Pedro's is the classic sunset spot"]
+    },
+    {
+      "day": 4,
+      "title": "Sayulita & Hidden Beaches",
+      "location": "Sayulita / San Pancho",
+      "description": "Morning surf session, then rent a golf cart to explore nearby beaches. Visit San Pancho (San Francisco), a quieter alternative with excellent restaurants. Hike to secluded Playa del Amor or take a boat to the Marietas Islands to see the famous Hidden Beach (advance booking required).",
+      "image": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Morning surf session",
+        "Golf cart beach exploration",
+        "San Pancho lunch and beach",
+        "Marietas Islands tour (optional)",
+        "Sunset in Sayulita"
+      ],
+      "accommodation": {
+        "budget": "Amazing Sayulita Hostel ($25-45)",
+        "mid_range": "Siete Lunas ($150-250)",
+        "luxury": "Playa Escondida ($400+)"
+      },
+      "tips": ["Marietas Islands tours must be booked in advance—limited daily visitors", "Golf carts rent for about $50-70/day", "San Pancho has better food, Sayulita better nightlife"]
+    },
+    {
+      "day": 5,
+      "title": "Fly to Oaxaca City",
+      "location": "Oaxaca City",
+      "description": "Fly from Puerto Vallarta to Oaxaca City (with connection in Mexico City or Guadalajara, or direct on some airlines). Arrive in this UNESCO World Heritage city and check into your hotel in the historic center. Evening walk to the Zócalo for dinner and people-watching.",
+      "image": "https://images.unsplash.com/photo-1570737209810-87a8e7245f88?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Morning in Sayulita, drive to PVR airport",
+        "Flight to Oaxaca",
+        "Hotel check-in, Centro Histórico",
+        "Walk to Zócalo and Santo Domingo church",
+        "Dinner at Casa Oaxaca or Los Danzantes"
+      ],
+      "accommodation": {
+        "budget": "Casa Angel Youth Hostel ($20-35)",
+        "mid_range": "Casa Oaxaca ($200-350)",
+        "luxury": "Quinta Real Oaxaca ($400+)"
+      },
+      "tips": ["Book flights early—Oaxaca is popular", "Centro Histórico is walkable—stay there", "Oaxaca is at 5,000 feet elevation—you may notice the altitude"]
+    },
+    {
+      "day": 6,
+      "title": "Oaxaca City Immersion",
+      "location": "Oaxaca City",
+      "description": "Full day in Oaxaca exploring the cultural riches. Start at the incredible Santo Domingo church and adjacent Cultural Center. Visit artisan markets at Mercado Benito Juárez and Mercado 20 de Noviembre (the famous street food market). Take a cooking class to learn Oaxacan mole.",
+      "image": "https://images.unsplash.com/photo-1585468274952-66591eb14165?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Santo Domingo church and Cultural Center",
+        "Mercado 20 de Noviembre for tlayudas",
+        "Walking the pedestrian streets",
+        "Afternoon cooking class",
+        "Mezcal bar evening"
+      ],
+      "accommodation": {
+        "budget": "Casa Angel Youth Hostel ($20-35)",
+        "mid_range": "Casa Oaxaca ($200-350)",
+        "luxury": "Quinta Real Oaxaca ($400+)"
+      },
+      "tips": ["Cooking classes should be booked in advance", "Try the chocolate at Mayordomo", "In Situ is the best mezcal bar in Mexico"]
+    },
+    {
+      "day": 7,
+      "title": "Hierve el Agua & Mezcal",
+      "location": "Oaxaca / Mitla",
+      "description": "Day trip to the Oaxaca Valley. Visit Monte Albán archaeological site if you didn't yesterday, then continue to Mitla's unique geometric stonework. Stop at mezcal distilleries in Matatlán (world capital of mezcal) and finish at Hierve el Agua—petrified waterfalls with infinity pool views over the valley.",
+      "image": "https://images.unsplash.com/photo-1564534131867-5c0dc5f1de6b?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Monte Albán ruins (sunrise for fewest crowds)",
+        "Drive through the valley",
+        "Mitla archaeological site",
+        "Mezcal tasting at multiple palenques",
+        "Hierve el Agua swimming and sunset",
+        "Return to Oaxaca City"
+      ],
+      "accommodation": {
+        "budget": "Casa Angel Youth Hostel ($20-35)",
+        "mid_range": "Casa Oaxaca ($200-350)",
+        "luxury": "Quinta Real Oaxaca ($400+)"
+      },
+      "tips": ["Rent a car or hire a driver for flexibility ($60-80 for the day)", "Don't buy mezcal at the first stop—compare at several", "Hierve el Agua is best at sunset but remote roads—leave time"]
+    },
+    {
+      "day": 8,
+      "title": "Travel to Puerto Escondido",
+      "location": "Puerto Escondido",
+      "description": "Drive or fly to Puerto Escondido on Oaxaca's coast. The mountain drive (6 hours) is stunning but winding; flights (40 minutes) are affordable. Arrive at this legendary surf town and settle into La Punta, the bohemian southern end with yoga, healthy food, and beach bars.",
+      "image": "https://images.unsplash.com/photo-1505459668311-8dfac7952bf0?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Morning in Oaxaca or early departure",
+        "Scenic drive or short flight",
+        "Arrive Puerto Escondido",
+        "Beach time at La Punta",
+        "Sunset dinner on the sand"
+      ],
+      "accommodation": {
+        "budget": "Casa Losodeli ($30-50)",
+        "mid_range": "Hotel Santa Fe ($150-250)",
+        "luxury": "Casa Wabi Foundation ($400+)"
+      },
+      "tips": ["Flying is much easier than driving—road is curves the whole way", "La Punta has the vibe; Zicatela has the big waves; Centro has the town", "Carrizalillo is the calmest swimming beach"]
+    },
+    {
+      "day": 9,
+      "title": "Puerto Escondido Beach Life",
+      "location": "Puerto Escondido",
+      "description": "Full day experiencing Puerto Escondido's beaches. Watch the massive Zicatela waves (surfing for experts only), swim at protected Playa Carrizalillo, take a surf lesson at La Punta, or try a SUP tour through the mangroves. Evening is for the famous bioluminescence boat tour.",
+      "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Morning surf lesson or yoga",
+        "Watch big wave surfers at Zicatela",
+        "Beach hopping: Carrizalillo, Manzanillo, Bacocho",
+        "Fresh ceviche lunch",
+        "Bioluminescence tour at night"
+      ],
+      "accommodation": {
+        "budget": "Casa Losodeli ($30-50)",
+        "mid_range": "Hotel Santa Fe ($150-250)",
+        "luxury": "Casa Wabi Foundation ($400+)"
+      },
+      "tips": ["Don't swim at Zicatela—the waves and currents are deadly for non-experts", "Bioluminescence tours run around $30—book at Laguna de Manialtepec", "Sea turtle releases happen some evenings July-December"]
+    },
+    {
+      "day": 10,
+      "title": "Departure",
+      "location": "Puerto Escondido",
+      "description": "Final morning in Puerto Escondido. Enjoy one last sunrise on the beach, a yoga class, or fresh fruit at the mercado. Fly out of Puerto Escondido's small airport, connecting through Mexico City or Oaxaca to your international flight.",
+      "image": "https://images.unsplash.com/photo-1502680390469-be75c86b636f?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Sunrise beach walk or yoga",
+        "Final breakfast",
+        "Airport transfer",
+        "Departure"
+      ],
+      "tips": ["Puerto Escondido airport is tiny but has connections to CDMX and Oaxaca", "Allow buffer for flight connections—delays are common", "Some travelers add Huatulco for 1-2 more beach days"]
+    }
+  ],
+  "practical_info": {
+    "getting_there": "Start in Puerto Vallarta (PVR) with many US/Canada direct flights. End in Puerto Escondido (PXM) with connections via Mexico City or Oaxaca. Internal flights are affordable on Viva Aerobus or Volaris.",
+    "getting_around": "Rent a car in Puerto Vallarta for the Sayulita area. In Oaxaca, hire drivers for day trips or rent a car for flexibility. Puerto Escondido is walkable/taxi. Internal flights are recommended over long drives.",
+    "what_to_pack": ["Surfing gear (or rent locally)", "Light layers for Oaxaca evenings", "Sun protection for beach days", "Camera for landscapes and food"]
+  },
+  "faqs": [
+    {
+      "question": "Can beginners surf on this trip?",
+      "answer": "Yes! Sayulita and La Punta (Puerto Escondido) have beginner-friendly waves with surf schools. Zicatela's giant waves are for experts only—but amazing to watch."
+    },
+    {
+      "question": "How do I get from the Pacific coast to Oaxaca?",
+      "answer": "Fly. The mountain drive from Puerto Vallarta or Puerto Escondido to Oaxaca is 6-8 hours of winding roads. Short, affordable flights save time and hassle."
+    },
+    {
+      "question": "Is 10 days enough for this itinerary?",
+      "answer": "10 days is comfortable but moves quickly. If you want more relaxation, skip one destination or add 2-3 days. Many travelers wish they had more time in Oaxaca especially."
+    },
+    {
+      "question": "What's the best time for Pacific coast surf?",
+      "answer": "November to April has cleaner waves and offshore winds. July-September brings bigger south swells for advanced surfers. December-February is peak season with highest prices."
+    }
+  ],
+  "related_itineraries": ["yucatan-7-days", "mexico-city-5-days"],
+  "tags": ["beach", "surf", "food", "culture", "mezcal", "pacific", "oaxaca"]
+}

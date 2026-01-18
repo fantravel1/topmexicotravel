@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="{{lang}}" dir="ltr">
+<head>
+{{> head}}
+</head>
+<body>
+<a href="#main-content" class="skip-link">Skip to main content</a>
+
+{{> header}}
+
+<main id="main-content" role="main">
+  <!-- Hero Section -->
+  <header class="hero" style="min-height: 50vh;">
+    <img
+      src="{{hero_image}}"
+      alt="Mexico travel itineraries"
+      width="1920"
+      height="1080"
+      fetchpriority="high"
+      decoding="async"
+      class="hero-image">
+    <div class="hero-overlay"></div>
+    <div class="hero-content" style="max-width: 800px;">
+      <h1 class="hero-title">Mexico Travel Itineraries</h1>
+      <p class="hero-tagline">Expertly crafted day-by-day travel plans for your perfect Mexico adventure</p>
+    </div>
+  </header>
+
+  <!-- Itineraries Grid -->
+  <section class="section" aria-labelledby="itineraries-heading">
+    <div class="section-container">
+      <div class="section-header">
+        <h2 id="itineraries-heading" class="section-title">Choose Your Adventure</h2>
+        <p class="section-intro">From Caribbean beaches to ancient ruins, Pacific surf to cultural capitals—find the perfect itinerary for your Mexico trip.</p>
+      </div>
+
+      <ul class="cards-grid" style="grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));">
+        {{#each itineraries}}
+        <li class="card">
+          <a href="{{this.url}}" style="text-decoration: none;">
+            <img
+              src="{{this.image}}"
+              alt="{{this.title}}"
+              width="400"
+              height="300"
+              loading="lazy"
+              decoding="async"
+              class="card-image">
+          </a>
+          <div class="card-content">
+            <div class="card-meta" style="margin-bottom: var(--spacing-sm);">
+              <span class="badge badge-primary">{{this.duration}}</span>
+            </div>
+            <h3 class="card-title"><a href="{{this.url}}">{{this.title}}</a></h3>
+            <p class="card-description">{{this.description}}</p>
+            <div class="tags" style="margin-top: var(--spacing-sm);">
+              {{#each this.destinations}}
+              <span class="tag">{{this}}</span>
+              {{/each}}
+            </div>
+          </div>
+        </li>
+        {{/each}}
+      </ul>
+    </div>
+  </section>
+
+  <!-- Trip Planning Tips -->
+  <section class="section" style="background: var(--color-bg-alt);">
+    <div class="section-container" style="max-width: 800px;">
+      <h2 class="section-title">Trip Planning Tips</h2>
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: var(--spacing-lg);">
+        <div>
+          <h3 style="font-size: 1.125rem; margin-bottom: var(--spacing-sm);">Best Time to Visit</h3>
+          <p style="color: var(--color-text-light);">November to April offers the best weather across most of Mexico. Avoid major holiday weeks for lower prices.</p>
+        </div>
+        <div>
+          <h3 style="font-size: 1.125rem; margin-bottom: var(--spacing-sm);">Booking in Advance</h3>
+          <p style="color: var(--color-text-light);">Book popular restaurants and experiences 2-4 weeks ahead. Flights and hotels are cheapest 6-8 weeks out.</p>
+        </div>
+        <div>
+          <h3 style="font-size: 1.125rem; margin-bottom: var(--spacing-sm);">Getting Around</h3>
+          <p style="color: var(--color-text-light);">Internal flights save time; ADO buses are comfortable and affordable; car rentals offer flexibility for beaches and ruins.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+</main>
+
+{{> footer}}
+
+<script defer>
+document.addEventListener('DOMContentLoaded', function() {
+  const menuToggle = document.querySelector('.menu-toggle');
+  const mobileNav = document.querySelector('.mobile-nav');
+
+  if (menuToggle && mobileNav) {
+    menuToggle.addEventListener('click', function() {
+      const isOpen = mobileNav.classList.toggle('is-open');
+      this.setAttribute('aria-expanded', isOpen);
+    });
+  }
+});
+</script>
+</body>
+</html>
