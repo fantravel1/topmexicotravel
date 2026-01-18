@@ -1,0 +1,533 @@
+{
+  "id": "beach-hopping-12-days",
+  "slug": "beach-hopping-12-days",
+  "title": "Mexico Beach Hopping: 12 Days",
+  "subtitle": "Caribbean, Pacific & Sea of Cortez",
+  "meta_title": "Mexico Beach Itinerary 12 Days - Best Beaches Caribbean to Pacific 2025",
+  "meta_description": "12-day Mexico beach hopping itinerary: Tulum's Caribbean turquoise, Puerto Escondido's surf, Sayulita's charm, and Los Cabos luxury. Ultimate beach lover's guide.",
+  "duration": "12 days",
+  "destinations": ["Tulum", "Puerto Escondido", "Sayulita", "Los Cabos"],
+  "hero_image": "https://images.unsplash.com/photo-1510097467424-192d713fd8b2?w=1920&h=1080&fit=crop&q=80",
+  "hero_alt": "Turquoise Caribbean waters on Mexican beach",
+  "og_image": "https://images.unsplash.com/photo-1510097467424-192d713fd8b2?w=1200&h=630&fit=crop&q=80",
+  "introduction": "Mexico's coastlines offer incredible diversity—from the turquoise Caribbean and its cenotes to the powerful Pacific surf breaks and the dramatic Sea of Cortez. This 12-day itinerary takes you to four distinct beach destinations, each with its own personality, from bohemian backpacker to luxury resort.",
+  "best_time": "November-April (dry season, best weather coast to coast)",
+  "budget": "$2,000-4,000 per person (varies greatly by accommodation choices)",
+  "highlights": [
+    "Swim in Caribbean turquoise waters and cenotes near Tulum",
+    "Catch world-class waves at Puerto Escondido's Zicatela",
+    "Experience laid-back surf culture in Sayulita",
+    "Spot whales and swim with sea lions in Los Cabos",
+    "Four distinct beach vibes: bohemian, surf, village, luxury",
+    "Mix of adventure, relaxation, and nightlife"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Arrive Tulum - Caribbean Coast",
+      "description": "Begin on the Caribbean with Tulum's famous turquoise waters and jungle backdrop.",
+      "activities": [
+        {
+          "time": "Afternoon",
+          "title": "Arrive Cancún & Transfer",
+          "description": "Fly into Cancún International Airport (CUN). Transfer to Tulum (2 hours) by private shuttle, ADO bus, or rental car.",
+          "duration": "3 hours",
+          "tips": "Pre-book transfer for easiest arrival. ADO bus is comfortable and cheap ($15-20 USD). Tulum Pueblo is cheaper than the beach hotel zone."
+        },
+        {
+          "time": "5:00 PM",
+          "title": "Beach Sunset",
+          "description": "Head to the beach to catch your first Caribbean sunset. The beach clubs along Tulum's strip welcome day visitors (with minimum spend).",
+          "duration": "2 hours",
+          "tips": "Papaya Playa Project, Coco Tulum, or Ahau have great sunset vibes. Beach zone is pricey—budget accordingly."
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Dinner in Tulum Pueblo",
+          "description": "Eat in town for better value. Tulum Pueblo has excellent restaurants at half the beach zone prices.",
+          "duration": "2 hours",
+          "tips": "Taquería Honorio for tacos, Hartwood (reservations needed), or Posada Margherita for Italian. The pueblo has its own charm."
+        }
+      ],
+      "meals": {
+        "dinner": "Tulum Pueblo"
+      },
+      "accommodation": "Hotel in Tulum"
+    },
+    {
+      "day": 2,
+      "title": "Tulum Ruins & Cenotes",
+      "description": "Explore clifftop Mayan ruins and swim in crystal-clear cenotes.",
+      "activities": [
+        {
+          "time": "8:00 AM",
+          "title": "Tulum Ruins at Opening",
+          "description": "Arrive when the archaeological site opens to beat crowds and heat. These are the only major Mayan ruins overlooking the Caribbean—the views are stunning.",
+          "duration": "2 hours",
+          "tips": "Bring swimsuit—there's a beach below the ruins. Hire a guide for context or explore independently. $85 MXN entry."
+        },
+        {
+          "time": "11:00 AM",
+          "title": "Cenote Gran Cenote",
+          "description": "Cool off at Gran Cenote, one of the most beautiful and accessible cenotes. Snorkel through caverns with stalactites and spot turtles.",
+          "duration": "2 hours",
+          "tips": "Rent snorkel gear there. Reef-safe sunscreen only (or none—the water is cool). Go early or late to avoid peak crowds."
+        },
+        {
+          "time": "2:00 PM",
+          "title": "Lunch & Beach Time",
+          "description": "Lunch in town, then spend the afternoon on Tulum's beaches. The southern beaches near the Sian Ka'an biosphere are less crowded.",
+          "duration": "4 hours",
+          "tips": "Las Palmas beach is public access. Bring your own drinks and snacks to avoid beach club minimums."
+        },
+        {
+          "time": "7:00 PM",
+          "title": "Dinner & Nightlife",
+          "description": "Tulum has a vibrant evening scene. Start with dinner, then check out beach club events or cenote parties.",
+          "duration": "Evening",
+          "tips": "Check event listings—Papaya Playa, Rosa Negra, and others host DJs and events. Full moon parties are popular."
+        }
+      ],
+      "meals": {
+        "breakfast": "Hotel/café",
+        "lunch": "Tulum Pueblo",
+        "dinner": "Beach zone or Pueblo"
+      },
+      "accommodation": "Hotel in Tulum"
+    },
+    {
+      "day": 3,
+      "title": "Tulum - Lagoon & Free Day",
+      "description": "Explore the seven-colored lagoon of Bacalar or enjoy a free beach day.",
+      "activities": [
+        {
+          "time": "Option A: Day Trip to Bacalar",
+          "title": "Laguna Bacalar",
+          "description": "Drive 2 hours south to the stunning 'Lagoon of Seven Colors.' Swim, kayak, or paddleboard in crystal-clear fresh water with varying shades of blue.",
+          "duration": "Full day",
+          "tips": "Rent a car or join a tour. Cenote Azul is a great stop en route. The lagoon is peaceful compared to Tulum."
+        },
+        {
+          "time": "Option B: Free Beach Day",
+          "title": "Beach & Cenote Exploration",
+          "description": "Sleep in, yoga on the beach, visit more cenotes (Cenote Dos Ojos is incredible for snorkeling), or just relax.",
+          "duration": "Full day",
+          "tips": "Tulum has endless cenotes to explore. Dos Ojos and Casa Cenote are favorites. Book a diving excursion if certified."
+        },
+        {
+          "time": "Evening",
+          "title": "Last Tulum Night",
+          "description": "Final dinner and evening in Tulum before moving to the Pacific tomorrow.",
+          "duration": "Evening",
+          "tips": "Try somewhere new or revisit a favorite. Pack for an early flight."
+        }
+      ],
+      "meals": {
+        "breakfast": "Hotel",
+        "lunch": "Bacalar or Tulum",
+        "dinner": "Tulum"
+      },
+      "accommodation": "Hotel in Tulum"
+    },
+    {
+      "day": 4,
+      "title": "Fly to Puerto Escondido - Pacific Surf",
+      "description": "Cross Mexico to the powerful Pacific waves of Oaxaca's coast.",
+      "activities": [
+        {
+          "time": "7:00 AM",
+          "title": "Transfer & Fly to Puerto Escondido",
+          "description": "Early transfer to Cancún airport. Fly to Puerto Escondido (PXM) via Mexico City connection. Total travel time approximately 6-7 hours.",
+          "duration": "7 hours",
+          "tips": "Book flights well ahead. Volaris and Viva fly this route. The travel day is worth it for the beach diversity."
+        },
+        {
+          "time": "3:00 PM",
+          "title": "Arrive & Settle In",
+          "description": "Check into your hotel in La Punta or Zicatela. These two beach areas have very different vibes—La Punta is mellow and beginner-friendly, Zicatela is intense surf territory.",
+          "duration": "1 hour",
+          "tips": "La Punta for relaxed surf vibe and swimmable beach. Zicatela for serious surfers and spectating massive waves."
+        },
+        {
+          "time": "5:00 PM",
+          "title": "Sunset at Punta Zicatela",
+          "description": "Walk to the point where surfers catch the last waves of the day. Watch the sun sink into the Pacific with a cold beer.",
+          "duration": "2 hours",
+          "tips": "This is the daily ritual. The rocks at the point are perfect for sunset watching."
+        },
+        {
+          "time": "7:30 PM",
+          "title": "Fresh Seafood Dinner",
+          "description": "Puerto Escondido has incredible seafood straight from local fishermen. Try ceviche, tuna tostadas, or whole grilled fish.",
+          "duration": "2 hours",
+          "tips": "Espadin, El Cafecito, or simple beach palapas all serve excellent seafood at reasonable prices."
+        }
+      ],
+      "meals": {
+        "breakfast": "Airport/light",
+        "lunch": "In transit",
+        "dinner": "Puerto Escondido"
+      },
+      "accommodation": "Hotel in Puerto Escondido (La Punta or Zicatela)"
+    },
+    {
+      "day": 5,
+      "title": "Puerto Escondido - Surf & Sun",
+      "description": "Learn to surf, watch the pros, and soak up Oaxacan beach culture.",
+      "activities": [
+        {
+          "time": "7:00 AM",
+          "title": "Sunrise Surf Lesson",
+          "description": "Take a beginner surf lesson at La Punta where waves are gentler. Early morning has the best conditions and fewer crowds.",
+          "duration": "2 hours",
+          "tips": "Oasis Surf and Central Surf are reputable schools. Even one lesson will get you standing on a board."
+        },
+        {
+          "time": "10:00 AM",
+          "title": "Breakfast & Beach",
+          "description": "Post-surf breakfast at a beach café. Spend the morning swimming at Playa Carrizalillo—a sheltered cove perfect for swimming.",
+          "duration": "3 hours",
+          "tips": "Carrizalillo has stairs down (170+ steps) but it's worth it. Calm, beautiful, and great snorkeling."
+        },
+        {
+          "time": "2:00 PM",
+          "title": "Watch Zicatela",
+          "description": "Head to Zicatela beach to watch expert surfers tackle the 'Mexican Pipeline.' These are serious, powerful waves—incredible to witness.",
+          "duration": "2 hours",
+          "tips": "Don't swim at Zicatela unless you're an expert—the current is deadly. Watching from the beach is the way to experience it."
+        },
+        {
+          "time": "5:00 PM",
+          "title": "Mezcal & Sunset",
+          "description": "Oaxacan coast means excellent mezcal. Find a beach bar with sunset views for smoky cocktails.",
+          "duration": "2 hours",
+          "tips": "Mezcal is the local drink. Try it straight or in a cocktail. The sunset over the Pacific never gets old."
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Dinner & Nightlife",
+          "description": "Puerto has a lively nightlife scene, especially on weekends. Dinner followed by beach bars and dancing.",
+          "duration": "Evening",
+          "tips": "La Punta has mellow beach bars. Zicatela has more party energy. Things get going late."
+        }
+      ],
+      "meals": {
+        "breakfast": "Beach café",
+        "lunch": "Carrizalillo beach",
+        "dinner": "Puerto Escondido"
+      },
+      "accommodation": "Hotel in Puerto Escondido"
+    },
+    {
+      "day": 6,
+      "title": "Puerto Escondido - Bioluminescence",
+      "description": "Daytime adventure and magical nighttime bioluminescent kayaking.",
+      "activities": [
+        {
+          "time": "9:00 AM",
+          "title": "Morning Yoga or Surf",
+          "description": "Start with beach yoga or another surf session. The surf culture here means plenty of wellness options.",
+          "duration": "2 hours",
+          "tips": "Many hotels and beach spots offer morning yoga. Or rent a board and practice what you learned."
+        },
+        {
+          "time": "12:00 PM",
+          "title": "Beach Day & Lunch",
+          "description": "Relax on the beach, read, swim, nap. Puerto rewards those who slow down. Long beachside lunch with ceviche and cold drinks.",
+          "duration": "4 hours",
+          "tips": "This is the rhythm of beach life here. Don't rush—you're on Mexican time."
+        },
+        {
+          "time": "6:00 PM",
+          "title": "Early Dinner",
+          "description": "Eat early before tonight's adventure. Something light that won't weigh you down for kayaking.",
+          "duration": "1.5 hours",
+          "tips": "Stay close to your hotel—you'll be picked up for the lagoon tour."
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Laguna de Manialtepec",
+          "description": "Drive to the mangrove lagoon for bioluminescent kayaking. As darkness falls, the water glows blue-green with every paddle stroke and swimming motion.",
+          "duration": "3.5 hours",
+          "tips": "Best on dark nights (new moon). July-January has strongest bioluminescence. Swimming in glowing water is unforgettable."
+        }
+      ],
+      "meals": {
+        "breakfast": "Hotel/café",
+        "lunch": "Beach palapa",
+        "dinner": "Pre-kayaking"
+      },
+      "accommodation": "Hotel in Puerto Escondido"
+    },
+    {
+      "day": 7,
+      "title": "Fly to Puerto Vallarta - Sayulita",
+      "description": "Travel to the charming surf village of Sayulita on the Riviera Nayarit.",
+      "activities": [
+        {
+          "time": "8:00 AM",
+          "title": "Fly to Puerto Vallarta",
+          "description": "Morning flight from Puerto Escondido to Puerto Vallarta (PVR). Usually requires connection through CDMX or Guadalajara.",
+          "duration": "5-6 hours",
+          "tips": "Volaris often has cheaper fares. PVR is a large airport with good connections."
+        },
+        {
+          "time": "3:00 PM",
+          "title": "Transfer to Sayulita",
+          "description": "Drive 45 minutes north to Sayulita, a colorful surf village that's grown into a popular destination while retaining its charm.",
+          "duration": "1 hour",
+          "tips": "Uber works from PVR airport. Or arrange a private transfer. The drive along the coast is scenic."
+        },
+        {
+          "time": "5:00 PM",
+          "title": "Explore Sayulita Village",
+          "description": "Walk the cobblestone streets lined with boutiques, restaurants, and surf shops. The main beach is right in town—swim, watch surfers, or rent a board.",
+          "duration": "2 hours",
+          "tips": "Sayulita is compact and walkable. The cemetery overlook has great sunset views."
+        },
+        {
+          "time": "7:30 PM",
+          "title": "Dinner on the Plaza",
+          "description": "Dine at one of the restaurants surrounding the main plaza. The village atmosphere is festive and welcoming.",
+          "duration": "2 hours",
+          "tips": "Don Pedro's is a Sayulita institution. Mary's for breakfast/brunch. Countless taquerias for cheap eats."
+        }
+      ],
+      "meals": {
+        "breakfast": "Puerto Escondido/airport",
+        "lunch": "In transit",
+        "dinner": "Sayulita plaza"
+      },
+      "accommodation": "Hotel in Sayulita"
+    },
+    {
+      "day": 8,
+      "title": "Sayulita - Surf & Village Life",
+      "description": "Experience the laid-back surf culture and explore nearby beaches.",
+      "activities": [
+        {
+          "time": "8:00 AM",
+          "title": "Surf Lesson or Morning Session",
+          "description": "Sayulita's waves are perfect for beginners and intermediates. Gentle, consistent, and right in front of town.",
+          "duration": "2 hours",
+          "tips": "Lunazul Surf School and Wildmex are reputable. The main beach can get crowded—arrive early."
+        },
+        {
+          "time": "11:00 AM",
+          "title": "Brunch & Shopping",
+          "description": "Browse Sayulita's excellent boutiques selling Huichol art, textiles, surf gear, and jewelry. Brunch at a beachfront café.",
+          "duration": "2 hours",
+          "tips": "The Huichol (Wixárika) beadwork art is stunning and authentic. Prices are fair for the craftsmanship."
+        },
+        {
+          "time": "2:00 PM",
+          "title": "Playa de los Muertos",
+          "description": "Walk or boat to this nearby hidden beach accessible over the hill or by water taxi. Calmer, less crowded, great snorkeling.",
+          "duration": "3 hours",
+          "tips": "The hike over takes 10 minutes. Water taxis run from the main beach. Bring snorkel gear."
+        },
+        {
+          "time": "6:00 PM",
+          "title": "Sunset Rooftop Drinks",
+          "description": "Sayulita has several rooftop bars perfect for sunset. The views over the bay are spectacular.",
+          "duration": "2 hours",
+          "tips": "Si Señor and Tierra Viva have rooftop seating. Arrive early for best spots."
+        },
+        {
+          "time": "8:30 PM",
+          "title": "Dinner & Live Music",
+          "description": "Many restaurants feature live music. The village has a vibrant, family-friendly evening scene.",
+          "duration": "2 hours",
+          "tips": "Check what's playing at Don Pedro's or Bar Sayulita. The vibe is casual and fun."
+        }
+      ],
+      "meals": {
+        "breakfast": "Post-surf",
+        "lunch": "Beach café",
+        "dinner": "Village restaurant"
+      },
+      "accommodation": "Hotel in Sayulita"
+    },
+    {
+      "day": 9,
+      "title": "Sayulita - San Pancho & Punta Mita",
+      "description": "Explore the quieter neighboring beach towns.",
+      "activities": [
+        {
+          "time": "9:00 AM",
+          "title": "San Pancho (San Francisco)",
+          "description": "Drive or taxi 10 minutes to San Pancho, Sayulita's mellower neighbor. This artistic town has a long beach, excellent restaurants, and a quieter vibe.",
+          "duration": "3 hours",
+          "tips": "Walk the main street for boutiques and cafés. The beach is less crowded and great for swimming. La Ola Rica has great coffee."
+        },
+        {
+          "time": "1:00 PM",
+          "title": "Lunch in San Pancho",
+          "description": "San Pancho punches above its weight for food. Several excellent restaurants serve creative cuisine.",
+          "duration": "1.5 hours",
+          "tips": "María's for Mexican, Café del Mar for seafood views. The town supports local and sustainable businesses."
+        },
+        {
+          "time": "3:00 PM",
+          "title": "Punta Mita Peninsula",
+          "description": "Continue to Punta Mita, the exclusive peninsula with luxury resorts, excellent beaches, and the famous Marietas Islands offshore.",
+          "duration": "3 hours",
+          "tips": "The public beaches (Playa Anclote) are accessible and beautiful. Boat tours to Marietas Islands depart from here."
+        },
+        {
+          "time": "7:00 PM",
+          "title": "Return to Sayulita",
+          "description": "Head back for a final evening in Sayulita. Dinner and drinks in this charming village.",
+          "duration": "Evening",
+          "tips": "Tomorrow you head to Los Cabos—enjoy Sayulita's village atmosphere one more night."
+        }
+      ],
+      "meals": {
+        "breakfast": "Sayulita",
+        "lunch": "San Pancho",
+        "dinner": "Sayulita"
+      },
+      "accommodation": "Hotel in Sayulita"
+    },
+    {
+      "day": 10,
+      "title": "Fly to Los Cabos - Sea of Cortez",
+      "description": "Travel to the dramatic desert-meets-ocean landscape of Baja California Sur.",
+      "activities": [
+        {
+          "time": "9:00 AM",
+          "title": "Fly to Los Cabos",
+          "description": "Transfer to Puerto Vallarta airport and fly to Los Cabos (SJD). Short 2-hour flight across the Sea of Cortez.",
+          "duration": "4 hours total",
+          "tips": "Window seat for dramatic views of Baja's desert landscapes and coastline."
+        },
+        {
+          "time": "2:00 PM",
+          "title": "Arrive & Check In",
+          "description": "Arrive in San José del Cabo or Cabo San Lucas (different vibes—San José is artistic and quiet, Cabo is party and resorts). Check into your hotel.",
+          "duration": "1.5 hours",
+          "tips": "The Corridor between the two towns has major resorts. San José for culture, Cabo for nightlife."
+        },
+        {
+          "time": "4:00 PM",
+          "title": "El Arco Boat Tour",
+          "description": "Take a water taxi or glass-bottom boat to El Arco, the iconic rock arch where the Pacific meets the Sea of Cortez. Sea lions lounge on the rocks.",
+          "duration": "1.5 hours",
+          "tips": "Tours leave from Cabo San Lucas marina. Late afternoon light is beautiful. You'll see Lover's Beach and Divorce Beach."
+        },
+        {
+          "time": "6:30 PM",
+          "title": "Marina Dinner",
+          "description": "Dine at the Cabo San Lucas marina with views of yachts and the harbor. The marina area has dozens of restaurants.",
+          "duration": "2 hours",
+          "tips": "Lorenzillo's for lobster, Edith's for romantic atmosphere. Marina is touristy but fun for first night."
+        }
+      ],
+      "meals": {
+        "breakfast": "Sayulita",
+        "lunch": "Airport/light",
+        "dinner": "Cabo San Lucas marina"
+      },
+      "accommodation": "Hotel in Los Cabos"
+    },
+    {
+      "day": 11,
+      "title": "Los Cabos - Sea Adventures",
+      "description": "Experience world-class marine life in the Sea of Cortez.",
+      "activities": [
+        {
+          "time": "7:00 AM",
+          "title": "Whale Watching (Seasonal)",
+          "description": "December-April, humpback and gray whales migrate through. Take a morning whale watching tour—the sightings are spectacular.",
+          "duration": "3 hours",
+          "tips": "Book with a responsible operator. Morning tours have calmer seas. Bring binoculars and camera."
+        },
+        {
+          "time": "7:00 AM",
+          "title": "Alternative: Snorkel at Cabo Pulmo",
+          "description": "If not whale season, drive 2 hours to Cabo Pulmo, a protected marine park with the only coral reef in the Sea of Cortez. Incredible snorkeling.",
+          "duration": "Full day",
+          "tips": "Rent a car or join a tour. The reef has recovered dramatically since fishing was banned—shark sightings common."
+        },
+        {
+          "time": "12:00 PM",
+          "title": "Beach Club Lunch",
+          "description": "Enjoy lunch at a beach club along the Corridor. Many resorts allow day passes with food/drink minimum.",
+          "duration": "3 hours",
+          "tips": "Chileno Beach and Santa Maria Beach are public with good swimming. Some Corridor beaches have strong currents."
+        },
+        {
+          "time": "4:00 PM",
+          "title": "San José del Cabo Art Walk (Thursday)",
+          "description": "If it's Thursday, don't miss the Art Walk. Galleries open late, wine flows, live music fills the streets.",
+          "duration": "3 hours",
+          "tips": "Thursday 5-9pm November-June. The historic center transforms into a party. Plan your trip to include a Thursday if possible."
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Fine Dining",
+          "description": "Los Cabos has excellent upscale restaurants. Treat yourself to a memorable dinner.",
+          "duration": "2.5 hours",
+          "tips": "Flora Farms (farm-to-table), Nick-San (sushi), Don Sanchez (Mexican). Reservations essential."
+        }
+      ],
+      "meals": {
+        "breakfast": "Hotel/early",
+        "lunch": "Beach club",
+        "dinner": "Fine dining"
+      },
+      "accommodation": "Hotel in Los Cabos"
+    },
+    {
+      "day": 12,
+      "title": "Los Cabos - Departure",
+      "description": "Final beach morning and departure.",
+      "activities": [
+        {
+          "time": "8:00 AM",
+          "title": "Sunrise Beach Walk",
+          "description": "Take a final walk on the beach. The Sea of Cortez light in the morning is golden and peaceful.",
+          "duration": "1 hour",
+          "tips": "Medano Beach in Cabo San Lucas or the beaches near your hotel. Reflect on 12 incredible beach days."
+        },
+        {
+          "time": "10:00 AM",
+          "title": "Brunch",
+          "description": "Leisurely brunch before heading to the airport.",
+          "duration": "1.5 hours",
+          "tips": "The Office on the Beach is a Cabo institution—literally on the sand."
+        },
+        {
+          "time": "12:00 PM",
+          "title": "Transfer to Airport",
+          "description": "Head to Los Cabos International Airport (SJD) for your departure flight.",
+          "duration": "30-45 minutes",
+          "tips": "SJD is an efficient airport. Allow standard international time (2-3 hours before)."
+        }
+      ],
+      "meals": {
+        "breakfast": "Hotel",
+        "brunch": "Cabo San Lucas"
+      },
+      "accommodation": "Departure"
+    }
+  ],
+  "practical_info": {
+    "getting_there": "Fly into Cancún (CUN), internal flights to Puerto Escondido (PXM), Puerto Vallarta (PVR), Los Cabos (SJD). Domestic flights on Volaris, Viva, Aeromexico.",
+    "getting_around": "Uber in tourist areas. Taxis where Uber isn't available. Rental cars optional but helpful in Puerto Escondido and Los Cabos.",
+    "where_to_stay": "Ranges from hostels ($15-30) to luxury resorts ($500+). Each destination has options across all budgets.",
+    "money": "Budget varies wildly by accommodation. $100-200/day comfortable mid-range. Los Cabos is most expensive, Puerto Escondido cheapest.",
+    "best_beaches_summary": "Tulum: Caribbean turquoise, cenotes. Puerto Escondido: Powerful surf, raw beauty. Sayulita: Surf village charm. Los Cabos: Dramatic desert-ocean, marine life."
+  },
+  "packing_tips": [
+    "Multiple swimsuits (constant wetness)",
+    "Reef-safe sunscreen",
+    "Light cover-ups for beach-to-restaurant",
+    "Snorkel gear (or rent)",
+    "Waterproof phone case",
+    "Sun hat and quality sunglasses",
+    "Light layers for evening (Sayulita can be cool)",
+    "Sandals and one nice outfit for dinners"
+  ],
+  "tags": ["beaches", "surf", "caribbean", "pacific", "luxury", "adventure", "12-days"]
+}

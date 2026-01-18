@@ -1,0 +1,875 @@
+{
+  "id": "backpacker-mexico-3-weeks",
+  "slug": "backpacker-mexico-3-weeks",
+  "title": "Budget Backpacker Mexico: 3 Weeks",
+  "subtitle": "The Classic Route on $40/Day",
+  "meta_title": "Mexico Backpacker Itinerary 3 Weeks - Budget Travel Route 2025",
+  "meta_description": "3-week Mexico backpacker itinerary on $40/day: Mexico City, Oaxaca, San Cristóbal, Palenque, and Caribbean beaches. Hostels, street food, buses, and adventure.",
+  "duration": "21 days",
+  "destinations": ["Mexico City", "Oaxaca", "San Cristóbal de las Casas", "Palenque", "Tulum", "Isla Holbox"],
+  "hero_image": "https://images.unsplash.com/photo-1523906834658-6e24ef2386f9?w=1920&h=1080&fit=crop&q=80",
+  "hero_alt": "Backpacker exploring colorful Mexican street",
+  "og_image": "https://images.unsplash.com/photo-1523906834658-6e24ef2386f9?w=1200&h=630&fit=crop&q=80",
+  "introduction": "This is the classic Mexico backpacker route—from the vibrant streets of Mexico City through indigenous highlands to Caribbean beaches. It's doable on $40-50/day if you're smart about it, staying in hostels, eating street food, and taking overnight buses. Three weeks lets you experience Mexico's incredible diversity without rushing.",
+  "best_time": "November-April (dry season), shoulder months May and October for fewer crowds",
+  "budget": "$800-1,200 for 3 weeks ($40-60/day)",
+  "highlights": [
+    "World-class museums and street food in Mexico City",
+    "Oaxacan cuisine, mezcal, and indigenous culture",
+    "Highland indigenous villages around San Cristóbal",
+    "Jungle-wrapped Mayan ruins at Palenque",
+    "Caribbean beaches and cenotes",
+    "Meet travelers from around the world"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Arrive Mexico City",
+      "description": "Land in the world's largest Spanish-speaking city and get oriented.",
+      "activities": [
+        {
+          "time": "Afternoon",
+          "title": "Airport to Centro/Roma",
+          "description": "Take the Metrobus from airport to city center (Line 4, $30 MXN / ~$1.75). Much cheaper than taxi. Head to your hostel in Centro Histórico or Roma.",
+          "duration": "1.5 hours",
+          "tips": "Buy rechargeable metro card at airport station. Works on metro and metrobus. Centro hostels are cheapest, Roma/Condesa more social."
+        },
+        {
+          "time": "5:00 PM",
+          "title": "Walk the Zócalo",
+          "description": "Get your bearings at the massive main square—one of the world's largest. See the cathedral and National Palace (murals are free).",
+          "duration": "1.5 hours",
+          "tips": "The Zócalo is the heart of Mexico. Free Diego Rivera murals inside National Palace (bring ID, expect line)."
+        },
+        {
+          "time": "7:00 PM",
+          "title": "Street Tacos for Dinner",
+          "description": "Find a busy taco stand (crowds = freshness). Al pastor, suadero, or campechano. $10-15 pesos per taco.",
+          "duration": "1 hour",
+          "tips": "El Huequito near Zócalo is famous for al pastor. Or follow the smoke and lines anywhere."
+        }
+      ],
+      "meals": {
+        "dinner": "Street tacos ($3-5)"
+      },
+      "accommodation": "Hostel in Centro or Roma (~$12-18/night dorm)"
+    },
+    {
+      "day": 2,
+      "title": "Mexico City - Museums & Markets",
+      "description": "Hit the free/cheap highlights of the world's museum capital.",
+      "activities": [
+        {
+          "time": "9:00 AM",
+          "title": "Museo Nacional de Antropología",
+          "description": "One of the world's best museums. Aztec, Maya, and pre-Hispanic civilizations. Sundays are free for everyone.",
+          "duration": "3-4 hours",
+          "tips": "Go on Sunday (free) but expect crowds. Otherwise $85 MXN (~$5). Could easily spend all day. The Aztec calendar stone is iconic."
+        },
+        {
+          "time": "2:00 PM",
+          "title": "Chapultepec Park & Castle",
+          "description": "Walk through the massive park. The castle on the hill has panoramic views and history (former emperor's residence). Sunday free.",
+          "duration": "2 hours",
+          "tips": "Castle is $85 MXN (free Sunday). Views over the city are worth the climb. Park is great for people-watching."
+        },
+        {
+          "time": "5:00 PM",
+          "title": "Mercado San Juan",
+          "description": "Famous foodie market. Browse exotic meats, cheeses, fresh produce. Grab a cheap meal from the food stalls.",
+          "duration": "1.5 hours",
+          "tips": "Expensive to buy, cheap to browse. Food stalls on the edges are affordable. Great for photos."
+        },
+        {
+          "time": "7:00 PM",
+          "title": "Roma Norte Evening",
+          "description": "Walk the tree-lined streets of Roma. People-watch, window shop, find a casual dinner spot.",
+          "duration": "Evening",
+          "tips": "Roma is hip and walkable. Good cheap eats along Álvaro Obregón. Cervecería de Barrio for cheap beer and tacos."
+        }
+      ],
+      "meals": {
+        "breakfast": "Hostel or market ($2-4)",
+        "lunch": "Museum café or mercado ($4-6)",
+        "dinner": "Roma casual ($5-8)"
+      },
+      "accommodation": "Hostel in Centro or Roma"
+    },
+    {
+      "day": 3,
+      "title": "Mexico City - Coyoacán & Xochimilco",
+      "description": "Explore bohemian neighborhoods and float on ancient canals.",
+      "activities": [
+        {
+          "time": "10:00 AM",
+          "title": "Coyoacán",
+          "description": "Take the metro to this charming colonial neighborhood. Wander the plazas, markets, and colorful streets where Frida Kahlo lived.",
+          "duration": "2 hours",
+          "tips": "Casa Azul (Frida's house) is popular but expensive ($250 MXN) and often sold out. The neighborhood itself is free to enjoy."
+        },
+        {
+          "time": "1:00 PM",
+          "title": "Lunch at Mercado Coyoacán",
+          "description": "Eat at the market—tostadas, quesadillas, fresh juices. Cheap, delicious, authentic.",
+          "duration": "1 hour",
+          "tips": "Tostadas de tinga or cochinita pibil. Fresh agua de jamaica or horchata. Budget $3-5."
+        },
+        {
+          "time": "3:00 PM",
+          "title": "Xochimilco Trajineras",
+          "description": "Take metro/light rail to Xochimilco. Float on colorful boats (trajineras) through ancient Aztec canals. Hire a boat with others to split costs.",
+          "duration": "3 hours",
+          "tips": "Official price ~$500 MXN/hour per boat. Find others at the dock to share (hostels often organize groups). Weekends are festive with mariachi boats. Bring your own beers."
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Hostel Night",
+          "description": "Return to your hostel. Many organize pub crawls, rooftop hangs, or walking tours. Great for meeting travelers.",
+          "duration": "Evening",
+          "tips": "CDMX hostels are social. Join activities to meet your future travel buddies."
+        }
+      ],
+      "meals": {
+        "breakfast": "Hostel ($2)",
+        "lunch": "Mercado Coyoacán ($3-5)",
+        "dinner": "Grab food on canals or hostel area ($5)"
+      },
+      "accommodation": "Hostel in CDMX"
+    },
+    {
+      "day": 4,
+      "title": "Mexico City - Teotihuacán Day Trip",
+      "description": "Visit the massive pyramids just outside the city.",
+      "activities": [
+        {
+          "time": "7:00 AM",
+          "title": "Bus to Teotihuacán",
+          "description": "Take metro to Autobuses del Norte station. Buses leave constantly for Teotihuacán ($50 MXN each way). 1-hour ride.",
+          "duration": "1 hour",
+          "tips": "Leave early to beat heat and crowds. Look for \"Los Piramides\" buses. Return buses run until evening."
+        },
+        {
+          "time": "9:00 AM",
+          "title": "Explore Teotihuacán",
+          "description": "Climb the Pyramid of the Sun (third largest pyramid in the world) and Pyramid of the Moon. Walk the Avenue of the Dead. Mind-blowing ancient city.",
+          "duration": "4-5 hours",
+          "tips": "Entry $85 MXN. Bring water, sunscreen, hat. It's huge and hot. Climbing is optional but worth it for views."
+        },
+        {
+          "time": "2:00 PM",
+          "title": "Return to CDMX",
+          "description": "Bus back to the city. Rest up—overnight bus to Oaxaca tonight.",
+          "duration": "1 hour",
+          "tips": "Nap at hostel. Pack your bag. Shower before the bus."
+        },
+        {
+          "time": "11:00 PM",
+          "title": "Overnight Bus to Oaxaca",
+          "description": "ADO first-class bus from TAPO station. 6-7 hour journey, arriving early morning. Sleep on the bus = save a night's accommodation.",
+          "duration": "Overnight",
+          "tips": "Book ADO bus online ($500-700 MXN). First class is worth it—reclining seats, AC, movies. Bring sweater (AC is cold), neck pillow."
+        }
+      ],
+      "meals": {
+        "breakfast": "Early/light ($2)",
+        "lunch": "Near pyramids ($5-7)",
+        "dinner": "Before bus ($5)"
+      },
+      "accommodation": "Overnight bus (saves $15-20)"
+    },
+    {
+      "day": 5,
+      "title": "Arrive Oaxaca",
+      "description": "Wake up in Mexico's culinary and cultural capital.",
+      "activities": [
+        {
+          "time": "6:00 AM",
+          "title": "Arrive Oaxaca",
+          "description": "Bus arrives early morning. Walk or cheap taxi to your hostel. Drop bags, freshen up.",
+          "duration": "1 hour",
+          "tips": "Most hostels allow early check-in for overnight bus arrivals. If not, they'll store your bag."
+        },
+        {
+          "time": "8:00 AM",
+          "title": "Breakfast at Mercado 20 de Noviembre",
+          "description": "The famous food market. Get tlayudas (Oaxacan pizza), chocolate caliente, or tasajo (dried beef).",
+          "duration": "1.5 hours",
+          "tips": "The pasillo de humo (smoke alley) grills meats to order. Cheap, delicious, authentic. $3-5 for big breakfast."
+        },
+        {
+          "time": "10:00 AM",
+          "title": "Walk the Centro",
+          "description": "Explore the Zócalo, Santo Domingo church (stunning gold interior, free), and the surrounding streets full of galleries and shops.",
+          "duration": "2 hours",
+          "tips": "Oaxaca centro is compact and walkable. Just wander—you'll find things. Santo Domingo is a must-see."
+        },
+        {
+          "time": "1:00 PM",
+          "title": "Rest & Siesta",
+          "description": "You took an overnight bus. Rest at your hostel during the hot afternoon.",
+          "duration": "3 hours",
+          "tips": "Oaxacan pace is slow. Embrace the siesta culture."
+        },
+        {
+          "time": "5:00 PM",
+          "title": "Mezcal Tasting",
+          "description": "Oaxaca is mezcal's home. Visit a mezcalería for tasting. In Situ, Mezcaloteca, or countless small bars.",
+          "duration": "2 hours",
+          "tips": "Tastings are cheap ($50-100 MXN for flight). Learn the difference between espadín, tobalá, etc. Sip slowly with orange and sal de gusano."
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Dinner at Tlayudas Stand",
+          "description": "Street tlayudas are massive, cheap, and delicious. Find a stand near the Zócalo.",
+          "duration": "1 hour",
+          "tips": "$50-80 MXN for a huge tlayuda. Ask for tasajo, cecina, or chorizo. It's Oaxaca's street food staple."
+        }
+      ],
+      "meals": {
+        "breakfast": "Mercado ($3-5)",
+        "lunch": "Light snack ($2)",
+        "dinner": "Tlayuda ($4-5)"
+      },
+      "accommodation": "Hostel in Oaxaca (~$10-15/night)"
+    },
+    {
+      "day": 6,
+      "title": "Oaxaca - Monte Albán & Artisan Villages",
+      "description": "Ancient ruins in the morning, artisan villages in the afternoon.",
+      "activities": [
+        {
+          "time": "8:00 AM",
+          "title": "Monte Albán",
+          "description": "Take a colectivo or tour to this mountaintop Zapotec capital. Incredible views, ancient tombs, massive plaza.",
+          "duration": "3 hours",
+          "tips": "Colectivos from Hotel Rivera del Ángel ($50 MXN round trip, wait for return). Entry $85 MXN. Bring water and sun protection."
+        },
+        {
+          "time": "12:00 PM",
+          "title": "Return & Lunch",
+          "description": "Back to Oaxaca for lunch. More market food or a sit-down meal.",
+          "duration": "1.5 hours",
+          "tips": "Try mole negro—Oaxaca's signature. It's complex, chocolatey, and unlike anything else."
+        },
+        {
+          "time": "2:00 PM",
+          "title": "Artisan Village: Teotitlán del Valle",
+          "description": "Colectivo to this weaving village famous for Zapotec rugs. Watch artisans work, learn about natural dyes.",
+          "duration": "3 hours",
+          "tips": "Colectivos from Abastos market ($20 MXN). Rugs are pricey but incredible quality. Even small pieces make great souvenirs. Watch demonstrations."
+        },
+        {
+          "time": "6:00 PM",
+          "title": "Evening in Oaxaca",
+          "description": "Return to city. Wander the Zócalo as it comes alive. Street food, live music, people-watching.",
+          "duration": "Evening",
+          "tips": "The Zócalo has free entertainment most nights. Grab a bench, get street food, enjoy."
+        }
+      ],
+      "meals": {
+        "breakfast": "Market/hostel ($2-4)",
+        "lunch": "Oaxaca centro ($5-8)",
+        "dinner": "Street food ($4-6)"
+      },
+      "accommodation": "Hostel in Oaxaca"
+    },
+    {
+      "day": 7,
+      "title": "Oaxaca - Free Day & Cooking Class",
+      "description": "Relax, explore, or take an optional cooking class.",
+      "activities": [
+        {
+          "time": "Option A: Cooking Class",
+          "title": "Learn Oaxacan Cuisine",
+          "description": "Several schools offer morning classes. Make mole, tlayudas, salsas. Market visit included.",
+          "duration": "4-5 hours",
+          "tips": "La Cocina Oaxaqueña, Casa de los Sabores offer affordable options ($40-60 USD). Worth splurging for food lovers."
+        },
+        {
+          "time": "Option B: Free Day",
+          "title": "Explore at Your Pace",
+          "description": "Sleep in, wander markets, visit more artisan villages (San Bartolo Coyotepec for black pottery, San Martín Tilcajete for alebrijes).",
+          "duration": "Full day",
+          "tips": "Colectivos go to all villages. Self-guided is cheapest. Alebrijes (carved wooden creatures) make amazing souvenirs."
+        },
+        {
+          "time": "6:00 PM",
+          "title": "Hierve el Agua Option",
+          "description": "If ambitious, afternoon trip to petrified waterfalls (2 hours each way). Stunning but time-consuming.",
+          "duration": "5-6 hours round trip",
+          "tips": "Colectivos or tours available. Natural infinity pools over the valley. Amazing photos."
+        },
+        {
+          "time": "10:00 PM",
+          "title": "Overnight Bus to San Cristóbal",
+          "description": "ADO or OCC bus to San Cristóbal de las Casas. 10-12 hours through mountains. Another overnight = another saved hotel night.",
+          "duration": "Overnight",
+          "tips": "Book first class ($600-800 MXN). The road is windy—take motion sickness meds if needed. Bring warm clothes for highland arrival."
+        }
+      ],
+      "meals": {
+        "breakfast": "Hostel/market ($3-5)",
+        "lunch": "Cooking class or market ($5-8)",
+        "dinner": "Before bus ($5)"
+      },
+      "accommodation": "Overnight bus"
+    },
+    {
+      "day": 8,
+      "title": "Arrive San Cristóbal de las Casas",
+      "description": "Welcome to the Chiapas highlands—indigenous culture, cool weather, bohemian vibes.",
+      "activities": [
+        {
+          "time": "8:00 AM",
+          "title": "Arrive San Cristóbal",
+          "description": "Bus arrives to chilly morning (altitude 7,000 ft). Walk to hostel in centro. Coffee and breakfast.",
+          "duration": "1 hour",
+          "tips": "San Cristóbal is cold! You'll want layers, especially mornings and evenings. Hostels are cheap here."
+        },
+        {
+          "time": "10:00 AM",
+          "title": "Walk the Centro",
+          "description": "Wander cobblestone streets. Yellow cathedral, Real de Guadalupe pedestrian street, indigenous markets, cafés everywhere.",
+          "duration": "2 hours",
+          "tips": "This town is made for wandering. Amber jewelry and textiles are local specialties. Lots of hippie/backpacker vibes."
+        },
+        {
+          "time": "1:00 PM",
+          "title": "Lunch & Rest",
+          "description": "Long bus night calls for a slow day. Rest at hostel, wander nearby.",
+          "duration": "3 hours",
+          "tips": "San Cris has excellent cheap vegetarian food due to traveler scene. TierrAdentro is a backpacker institution."
+        },
+        {
+          "time": "5:00 PM",
+          "title": "Cerro de Guadalupe Sunset",
+          "description": "Climb the hill to the church for sunset views over the valley and surrounding mountains.",
+          "duration": "1.5 hours",
+          "tips": "Short but steep climb. Watch your belongings. The views are worth it."
+        },
+        {
+          "time": "7:00 PM",
+          "title": "Dinner & Nightlife",
+          "description": "San Cris has a lively backpacker scene. Cheap eats, dive bars, live music.",
+          "duration": "Evening",
+          "tips": "Cocoliche for live music, La Viña de Bacco for cheap wine. The town is very social."
+        }
+      ],
+      "meals": {
+        "breakfast": "Café in centro ($3-5)",
+        "lunch": "Backpacker spot ($4-6)",
+        "dinner": "Centro restaurants ($5-8)"
+      },
+      "accommodation": "Hostel in San Cristóbal (~$8-12/night)"
+    },
+    {
+      "day": 9,
+      "title": "San Cristóbal - Indigenous Villages",
+      "description": "Visit Tzotzil Maya communities with unique traditions.",
+      "activities": [
+        {
+          "time": "9:00 AM",
+          "title": "Colectivo to San Juan Chamula",
+          "description": "Take colectivo (20 min, $20 MXN) to this autonomous Tzotzil village. The church here practices a unique blend of Maya and Catholic traditions.",
+          "duration": "2.5 hours",
+          "tips": "No photos inside church (they'll confiscate your camera). The rituals involve candles, Coca-Cola (as sacred offering), and posh (cane liquor). Respectful observation only. Entry fee ~$25 MXN."
+        },
+        {
+          "time": "12:00 PM",
+          "title": "Walk to Zinacantán",
+          "description": "Walk 1 hour (or colectivo) to neighboring village known for flower growing and textiles.",
+          "duration": "2 hours",
+          "tips": "Women here wear traditional embroidered clothing. You can visit workshops and buy directly from weavers."
+        },
+        {
+          "time": "3:00 PM",
+          "title": "Return to San Cristóbal",
+          "description": "Colectivo back to town. Rest and explore more.",
+          "duration": "1 hour",
+          "tips": "The villages are culturally sensitive—dress modestly, ask before photographing people, be respectful."
+        },
+        {
+          "time": "6:00 PM",
+          "title": "Language Exchange or Hostel Hang",
+          "description": "Many travelers study Spanish here. Join a language exchange meetup or socialize at your hostel.",
+          "duration": "Evening",
+          "tips": "San Cris is popular for Spanish schools. Even short stays can include cheap lessons."
+        }
+      ],
+      "meals": {
+        "breakfast": "Hostel/café ($3-4)",
+        "lunch": "Village or San Cris ($4-6)",
+        "dinner": "Centro ($5-7)"
+      },
+      "accommodation": "Hostel in San Cristóbal"
+    },
+    {
+      "day": 10,
+      "title": "San Cristóbal - Canyons & Free Day",
+      "description": "Optional adventure or free day to relax.",
+      "activities": [
+        {
+          "time": "Option A: Sumidero Canyon",
+          "title": "Cañón del Sumidero",
+          "description": "Book a tour to this dramatic canyon with 1000m walls. Boat ride through the canyon spotting crocodiles and monkeys.",
+          "duration": "Full day (6-7 hours)",
+          "tips": "Tours ~$300-400 MXN including transport and boat. Amazing scenery. Bring sun protection."
+        },
+        {
+          "time": "Option B: Chill Day",
+          "title": "San Cristóbal at Leisure",
+          "description": "This town rewards slow exploration. Café hop, browse markets, visit museums, get a massage.",
+          "duration": "Full day",
+          "tips": "Na Bolom museum (Lacandon Maya history), textile museums, countless cafés. San Cris is great for doing nothing."
+        },
+        {
+          "time": "5:00 PM",
+          "title": "Evening Plans",
+          "description": "Join hostel activities, find live music, or early night before tomorrow's early bus.",
+          "duration": "Evening",
+          "tips": "Buy bus ticket to Palenque for tomorrow (book at ADO or hostel)."
+        }
+      ],
+      "meals": {
+        "breakfast": "Café ($3-5)",
+        "lunch": "Tour included or centro ($5-8)",
+        "dinner": "Centro ($5-8)"
+      },
+      "accommodation": "Hostel in San Cristóbal"
+    },
+    {
+      "day": 11,
+      "title": "San Cristóbal to Palenque",
+      "description": "Descend from highlands to jungle for spectacular Maya ruins.",
+      "activities": [
+        {
+          "time": "6:00 AM",
+          "title": "Bus to Palenque",
+          "description": "ADO or AEXA bus through winding mountain roads, descending into hot Chiapas jungle. About 5-6 hours.",
+          "duration": "6 hours",
+          "tips": "Take motion sickness meds if needed. The scenery is beautiful. Bring snacks and water."
+        },
+        {
+          "time": "12:00 PM",
+          "title": "Arrive & Settle In",
+          "description": "Check into hostel in Palenque town or (better) El Panchan—a jungle settlement near the ruins popular with backpackers.",
+          "duration": "1 hour",
+          "tips": "El Panchan has cheap cabañas in the jungle. Howler monkeys wake you up. Much cooler experience than town."
+        },
+        {
+          "time": "2:00 PM",
+          "title": "Rest & Prepare",
+          "description": "It's HOT here. Rest during peak heat. Prepare for tomorrow's early ruins visit.",
+          "duration": "3 hours",
+          "tips": "Humidity is intense. Drink lots of water. You'll want a fan or AC for sleeping."
+        },
+        {
+          "time": "6:00 PM",
+          "title": "Dinner at El Panchan",
+          "description": "Several restaurants in the jungle clearing. Live music some nights, bonfire vibes, international backpacker crowd.",
+          "duration": "Evening",
+          "tips": "Don Mucho's has good food and atmosphere. Listen for howler monkeys at dusk—they're loud!"
+        }
+      ],
+      "meals": {
+        "breakfast": "San Cristóbal early ($3)",
+        "lunch": "On bus or arrival ($4-6)",
+        "dinner": "El Panchan ($5-8)"
+      },
+      "accommodation": "El Panchan jungle cabañas (~$10-20/night)"
+    },
+    {
+      "day": 12,
+      "title": "Palenque Ruins",
+      "description": "Explore one of Maya civilization's most impressive cities.",
+      "activities": [
+        {
+          "time": "6:30 AM",
+          "title": "Early Entry to Ruins",
+          "description": "Walk from El Panchan (20 min) or take colectivo to ruins entrance. Arrive at opening (8 AM) to beat heat and crowds.",
+          "duration": "4 hours",
+          "tips": "Entry $85 MXN. No re-entry. Bring water, snacks, bug spray. The jungle setting is magical in morning mist."
+        },
+        {
+          "time": "7:00 AM",
+          "title": "Temple of Inscriptions & Palace",
+          "description": "See the famous tomb of Pakal (can't enter but visible), climb the palace tower, explore the jungle-wrapped temples.",
+          "duration": "Included above",
+          "tips": "Palenque feels like Indiana Jones. Howler monkeys in trees, temples emerging from jungle. The carvings are incredible."
+        },
+        {
+          "time": "11:00 AM",
+          "title": "Jungle Waterfalls Exit",
+          "description": "Exit through the back (selva route) passing small waterfalls and pools. You can swim! Colectivo from exit back to town.",
+          "duration": "1 hour",
+          "tips": "The waterfalls are refreshing after humid ruins exploring. Bring swimsuit or dry quickly. This exit is the way to go."
+        },
+        {
+          "time": "1:00 PM",
+          "title": "Lunch & Rest",
+          "description": "Return to El Panchan. Lunch, hammock nap, escape the midday heat.",
+          "duration": "4 hours",
+          "tips": "Hammocks are everywhere. This is jungle siesta time. Hydrate constantly."
+        },
+        {
+          "time": "6:00 PM",
+          "title": "Evening at El Panchan",
+          "description": "Another jungle evening. Some nights have live music, fire performances, drum circles.",
+          "duration": "Evening",
+          "tips": "The vibe here is special. You're in the jungle with travelers from everywhere."
+        }
+      ],
+      "meals": {
+        "breakfast": "Early, light ($2-3)",
+        "lunch": "El Panchan ($5-7)",
+        "dinner": "El Panchan ($5-8)"
+      },
+      "accommodation": "El Panchan"
+    },
+    {
+      "day": 13,
+      "title": "Palenque to Tulum",
+      "description": "Long travel day to the Caribbean coast.",
+      "activities": [
+        {
+          "time": "8:00 AM",
+          "title": "Bus to Tulum or Playa",
+          "description": "ADO bus to Tulum (12 hours) or Playa del Carmen. It's long but direct, crossing through Campeche and Yucatán.",
+          "duration": "12 hours",
+          "tips": "Book first class ($800-1,000 MXN). The route goes through Campeche and past Mérida. Bring entertainment."
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Arrive Tulum",
+          "description": "You made it to the Caribbean! Find your hostel in Tulum Pueblo (town, not beach zone—much cheaper).",
+          "duration": "1 hour",
+          "tips": "Tulum beach zone is expensive. Pueblo has cheap hostels, bike rentals, and good tacos. 5-10 min bike to beach."
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Quick Dinner & Crash",
+          "description": "Find tacos near your hostel. Early night after long bus day.",
+          "duration": "1 hour",
+          "tips": "Long day. Rest up for beaches and cenotes tomorrow."
+        }
+      ],
+      "meals": {
+        "breakfast": "El Panchan ($3-5)",
+        "lunch": "Bus station/snacks ($5)",
+        "dinner": "Tulum Pueblo tacos ($4-5)"
+      },
+      "accommodation": "Hostel in Tulum Pueblo (~$12-18/night)"
+    },
+    {
+      "day": 14,
+      "title": "Tulum - Beach & Ruins",
+      "description": "Caribbean turquoise, clifftop ruins, and cenotes.",
+      "activities": [
+        {
+          "time": "8:00 AM",
+          "title": "Tulum Ruins",
+          "description": "Bike or colectivo to the ruins. Arrive early before crowds. These clifftop ruins overlooking Caribbean are unique.",
+          "duration": "2 hours",
+          "tips": "Entry $85 MXN. Small site but incredible setting. Bring swimsuit—beach below the ruins is swimmable."
+        },
+        {
+          "time": "11:00 AM",
+          "title": "Beach Time",
+          "description": "Spend the day at the beach below the ruins or cycle to beaches south. The water is insanely turquoise.",
+          "duration": "4 hours",
+          "tips": "Las Palmas is the public beach access. Beach clubs have minimums. Bring food/water if budget-tight."
+        },
+        {
+          "time": "4:00 PM",
+          "title": "Cenote Swim",
+          "description": "Bike to Gran Cenote or Cenote Cristal. Swim in crystal-clear freshwater caves. Surreal experience.",
+          "duration": "2 hours",
+          "tips": "Gran Cenote $180 MXN, Cristal $150 MXN. Rental bike ~$100 MXN/day. Late afternoon is less crowded."
+        },
+        {
+          "time": "7:00 PM",
+          "title": "Dinner in Pueblo",
+          "description": "Tulum Pueblo has great, affordable eats. Skip the overpriced beach zone restaurants.",
+          "duration": "2 hours",
+          "tips": "Taqueria Honorio is legendary. Burrito Amor for bigger appetites. Way cheaper than beach zone."
+        }
+      ],
+      "meals": {
+        "breakfast": "Hostel/café ($3-5)",
+        "lunch": "Beach snacks/packed ($3-5)",
+        "dinner": "Pueblo tacos ($5-8)"
+      },
+      "accommodation": "Hostel in Tulum Pueblo"
+    },
+    {
+      "day": 15,
+      "title": "Tulum - Cenotes Deep Dive",
+      "description": "Spend the day exploring the cenote systems.",
+      "activities": [
+        {
+          "time": "9:00 AM",
+          "title": "Cenote Dos Ojos",
+          "description": "One of the most famous cenotes. Two connected sinkholes with incredible underwater visibility. Snorkeling or diving.",
+          "duration": "2-3 hours",
+          "tips": "Entry ~$350 MXN. Rent snorkel gear there. If you dive, book a cenote dive—life-changing experience."
+        },
+        {
+          "time": "1:00 PM",
+          "title": "Cenote Hopping",
+          "description": "Several cenotes are near each other. Cenote Sac Actun, Casa Cenote (open air, mangroves), Cenote Calavera.",
+          "duration": "4 hours",
+          "tips": "Casa Cenote has manatee sightings possible! Bring cash for entry fees. Reef-safe sunscreen only."
+        },
+        {
+          "time": "6:00 PM",
+          "title": "Return to Pueblo",
+          "description": "Back to town for dinner and relaxation.",
+          "duration": "Evening",
+          "tips": "Tomorrow you head north. Enjoy your last Tulum night."
+        }
+      ],
+      "meals": {
+        "breakfast": "Hostel ($3-4)",
+        "lunch": "Packed or roadside ($4-6)",
+        "dinner": "Pueblo ($5-8)"
+      },
+      "accommodation": "Hostel in Tulum Pueblo"
+    },
+    {
+      "day": 16,
+      "title": "Tulum to Isla Holbox",
+      "description": "Head to a car-free island paradise for your final beach days.",
+      "activities": [
+        {
+          "time": "8:00 AM",
+          "title": "Colectivo to Chiquilá",
+          "description": "Take colectivo from Tulum to Playa, then ADO or colectivo to Chiquilá (ferry port for Holbox). About 3-4 hours total.",
+          "duration": "4 hours",
+          "tips": "Alternative: Direct shuttle services exist (pricier but convenient). Or bus to Cancún, then to Chiquilá."
+        },
+        {
+          "time": "12:00 PM",
+          "title": "Ferry to Holbox",
+          "description": "Ferries run frequently ($180 MXN, 25 min). Arrive on this flat, sandy, car-free island.",
+          "duration": "30 minutes",
+          "tips": "Only golf carts and bikes on the island. No cars. The pace immediately slows down."
+        },
+        {
+          "time": "1:00 PM",
+          "title": "Find Accommodation & Lunch",
+          "description": "Walk the sandy streets to find your hostel. Holbox has fewer budget options but they exist. Grab fresh seafood lunch.",
+          "duration": "2 hours",
+          "tips": "Tribu Hostel is popular with backpackers. Or cheap posadas (guesthouses). Book ahead in high season."
+        },
+        {
+          "time": "4:00 PM",
+          "title": "Beach Sunset",
+          "description": "Holbox has calm, shallow water—you can walk way out. Watch the sunset over the calm bay.",
+          "duration": "2 hours",
+          "tips": "Holbox is known for bioluminescence, whale sharks (June-Sept), and massive flocks of flamingos. Check what's in season."
+        },
+        {
+          "time": "7:00 PM",
+          "title": "Dinner on the Plaza",
+          "description": "The main square has restaurants and street food. Seafood tacos, ceviche, and lobster pizza (local specialty).",
+          "duration": "2 hours",
+          "tips": "Holbox is pricier than mainland. Budget slightly higher here. The lobster pizza is surprisingly good."
+        }
+      ],
+      "meals": {
+        "breakfast": "Tulum ($3-5)",
+        "lunch": "Holbox seafood ($8-12)",
+        "dinner": "Plaza ($8-12)"
+      },
+      "accommodation": "Hostel in Holbox (~$15-25/night)"
+    },
+    {
+      "day": 17,
+      "title": "Isla Holbox - Island Life",
+      "description": "Relax into island pace—beaches, wildlife, and slow living.",
+      "activities": [
+        {
+          "time": "9:00 AM",
+          "title": "Rent a Bike",
+          "description": "Explore the island by bike. Ride to Punta Cocos on the west end—excellent for birdwatching and hammocks.",
+          "duration": "2 hours",
+          "tips": "Bikes ~$100-150 MXN/day. The island is flat and sandy. Some streets are very sandy—walk if needed."
+        },
+        {
+          "time": "12:00 PM",
+          "title": "Isla Pájaros & Three Islands Tour",
+          "description": "Optional: Book a boat tour to see flamingos at Isla Pájaros, swim at Isla Pasión, and see Yalahau cenote.",
+          "duration": "4 hours",
+          "tips": "Tours ~$500-700 MXN. Worth it for wildlife and remote beaches. Ask around for best prices."
+        },
+        {
+          "time": "5:00 PM",
+          "title": "Beach & Hammock",
+          "description": "The beach hammocks over the water are Holbox's signature. Find one, sway, watch sunset.",
+          "duration": "2 hours",
+          "tips": "Some beach bars have free hammocks with drink purchase. Or just find a quiet spot on the beach."
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Bioluminescence (Seasonal)",
+          "description": "If conditions are right (summer months, no moon), the water glows blue. Swim or kayak at night.",
+          "duration": "2 hours",
+          "tips": "Best May-October, darkest nights. Some hostels organize night swims. Magical when it happens."
+        }
+      ],
+      "meals": {
+        "breakfast": "Hostel/café ($4-6)",
+        "lunch": "Beach or tour ($6-10)",
+        "dinner": "Plaza or hostel ($8-12)"
+      },
+      "accommodation": "Hostel in Holbox"
+    },
+    {
+      "day": 18,
+      "title": "Holbox - Free Day",
+      "description": "Another day in paradise. Whale sharks if in season.",
+      "activities": [
+        {
+          "time": "If June-September: Whale Shark Tour",
+          "title": "Swim with Whale Sharks",
+          "description": "Holbox is famous for whale shark encounters. Tours take you to swim with the world's largest fish.",
+          "duration": "6 hours",
+          "tips": "Tours $150-180 USD. Once-in-lifetime experience. They're gentle giants. Book ahead in peak season."
+        },
+        {
+          "time": "Otherwise: Beach Day",
+          "title": "Ultimate Relaxation",
+          "description": "Beach, hammock, reading, swimming. The Holbox way.",
+          "duration": "Full day",
+          "tips": "You've been traveling hard. This is your recovery day. Do nothing productively."
+        },
+        {
+          "time": "6:00 PM",
+          "title": "Sunset Drinks",
+          "description": "Find a beach bar for sunset. The west side of the island faces the sunset.",
+          "duration": "2 hours",
+          "tips": "Prices are tourist-level but the setting is priceless. One splurge drink is worth it."
+        }
+      ],
+      "meals": {
+        "breakfast": "Café ($4-6)",
+        "lunch": "Beach/tour ($6-10)",
+        "dinner": "Seafood restaurant ($10-15)"
+      },
+      "accommodation": "Hostel in Holbox"
+    },
+    {
+      "day": 19,
+      "title": "Holbox to Cancún",
+      "description": "Return to the mainland for your last nights.",
+      "activities": [
+        {
+          "time": "10:00 AM",
+          "title": "Ferry & Bus to Cancún",
+          "description": "Morning ferry to Chiquilá, then bus or shared van to Cancún. 3-4 hours total.",
+          "duration": "4 hours",
+          "tips": "If you want to visit Chichén Itzá, you could stop in Valladolid instead and see ruins the next day."
+        },
+        {
+          "time": "2:00 PM",
+          "title": "Cancún Centro",
+          "description": "Stay in downtown Cancún, NOT the Hotel Zone (which is expensive and generic). Centro is the real Mexico.",
+          "duration": "Afternoon",
+          "tips": "Parque de las Palapas area has cheap hostels, excellent street food, and local vibes. Way more interesting than Hotel Zone."
+        },
+        {
+          "time": "6:00 PM",
+          "title": "Explore Downtown",
+          "description": "Walk the markets, find street tacos, see how locals live beyond the resort bubble.",
+          "duration": "Evening",
+          "tips": "Mercado 28 for souvenirs and food. Parque de las Palapas has evening entertainment."
+        }
+      ],
+      "meals": {
+        "breakfast": "Holbox ($4-6)",
+        "lunch": "Transit ($5)",
+        "dinner": "Cancún Centro ($5-8)"
+      },
+      "accommodation": "Hostel in Cancún Centro (~$12-18/night)"
+    },
+    {
+      "day": 20,
+      "title": "Cancún - Optional Day Trips",
+      "description": "Last full day. Day trip or relax before departure.",
+      "activities": [
+        {
+          "time": "Option A: Chichén Itzá",
+          "title": "Visit the Wonder of the World",
+          "description": "ADO bus to Chichén Itzá (3 hours each way). See the iconic pyramid. Very touristy but impressive.",
+          "duration": "Full day",
+          "tips": "Leave early (6am bus). Entry $571 MXN. Crowded but worth seeing once. Return buses until evening."
+        },
+        {
+          "time": "Option B: Isla Mujeres",
+          "title": "Easy Beach Day Trip",
+          "description": "Ferry from Puerto Juárez (15 min, $160 MXN round trip). Rent a golf cart, circle the small island, swim at Playa Norte.",
+          "duration": "Full day",
+          "tips": "Playa Norte consistently rated Mexico's best beach. Much chiller than Cancún. Great snorkeling at MUSA underwater museum."
+        },
+        {
+          "time": "Option C: Beach & Rest",
+          "title": "Cancún Beaches",
+          "description": "The Hotel Zone beaches are public. Take bus R-1 or R-2 from centro to access free public beach areas.",
+          "duration": "Flexible",
+          "tips": "Playa Delfines is a beautiful public beach with no resort hassle. Free, great for final beach time."
+        },
+        {
+          "time": "Evening",
+          "title": "Last Night Celebration",
+          "description": "Reflect on three weeks of incredible travel. Toast to Mexico.",
+          "duration": "Evening",
+          "tips": "You did it! Three weeks, hundreds of dollars saved, memories forever."
+        }
+      ],
+      "meals": {
+        "breakfast": "Hostel ($3-5)",
+        "lunch": "Day trip or centro ($6-10)",
+        "dinner": "Special last night ($10-15)"
+      },
+      "accommodation": "Hostel in Cancún"
+    },
+    {
+      "day": 21,
+      "title": "Departure",
+      "description": "Fly home from Cancún International Airport.",
+      "activities": [
+        {
+          "time": "Morning",
+          "title": "Transfer to Airport",
+          "description": "ADO bus from centro to airport ($88 MXN) or Uber/taxi. Allow plenty of time for international flight.",
+          "duration": "1 hour",
+          "tips": "Cancún airport is efficient. 2.5-3 hours before international flight is safe."
+        }
+      ],
+      "meals": {
+        "breakfast": "Hostel/light ($3-5)"
+      },
+      "accommodation": "Flight home"
+    }
+  ],
+  "practical_info": {
+    "getting_there": "Fly into Mexico City (MEX), fly out of Cancún (CUN). Open-jaw flights are often similar price to round-trip.",
+    "getting_around": "ADO first-class buses for long hauls, colectivos for short trips, occasional short flights if budget allows.",
+    "where_to_stay": "Hostels throughout ($8-20/night dorms). El Panchan (Palenque) is special. Holbox slightly pricier.",
+    "money": "Budget $40-60/day. Overnight buses save hotel costs. Street food saves huge on meals. Entry fees are biggest splurges.",
+    "booking": "ADO.com.mx for buses (book ahead for popular routes), Hostelworld for hostels, walk-ins work in low season."
+  },
+  "packing_tips": [
+    "40-50L backpack (not bigger)",
+    "Quick-dry clothes (you'll sweat)",
+    "Warm layer for highlands and AC buses",
+    "Swimsuit (you'll use it constantly)",
+    "Reef-safe sunscreen",
+    "Bug spray for jungle",
+    "Padlock for hostel lockers",
+    "Neck pillow for buses",
+    "Reusable water bottle",
+    "Basic first aid (Pepto, ibuprofen)"
+  ],
+  "tags": ["backpacker", "budget", "3-weeks", "hostels", "classic-route", "adventure"]
+}
