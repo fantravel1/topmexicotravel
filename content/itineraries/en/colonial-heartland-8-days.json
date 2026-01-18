@@ -1,0 +1,219 @@
+{
+  "id": "colonial-heartland-8-days",
+  "slug": "colonial-heartland-8-days",
+  "title": "8 Days in Mexico's Colonial Heartland",
+  "subtitle": "San Miguel de Allende, Guanajuato & Guadalajara",
+  "duration": "8 Days",
+  "meta_title": "Colonial Mexico 8-Day Itinerary - San Miguel, Guanajuato & Guadalajara",
+  "meta_description": "Explore Mexico's colonial treasures: San Miguel de Allende's art scene, Guanajuato's colorful alleys, Tequila town, and Guadalajara's mariachi culture. Complete 8-day guide.",
+  "hero_image": "https://images.unsplash.com/photo-1518659526054-e8b8b4a8e1b6?w=1920&h=1080&fit=crop&q=80",
+  "hero_alt": "Colorful colonial buildings in Guanajuato with iconic Basilica",
+  "og_image": "https://images.unsplash.com/photo-1518659526054-e8b8b4a8e1b6?w=1200&h=630&fit=crop&q=80",
+  "introduction": "Mexico's colonial heartland is where the country's soul lives—ornate churches, cobblestone streets, vibrant markets, and a cultural heritage stretching back centuries. This 8-day journey takes you through three of Mexico's most beautiful colonial cities, with mariachi music, tequila tastings, incredible cuisine, and some of the best-preserved Spanish colonial architecture in the Americas.",
+  "best_for": ["Culture lovers", "History buffs", "Photographers", "Foodies", "Art enthusiasts"],
+  "estimated_budget": {
+    "budget": "$700-1,000 USD per person",
+    "mid_range": "$1,400-2,200 USD per person",
+    "luxury": "$3,500+ USD per person"
+  },
+  "best_time": "October to April for mild weather; avoid Holy Week crowds unless you want to experience the festivities",
+  "destinations": ["San Miguel de Allende", "Guanajuato", "Guadalajara", "Tequila"],
+  "highlights": [
+    "Walk the colorful streets of San Miguel de Allende",
+    "Explore Guanajuato's underground streets and alleys",
+    "Take the Tequila train from Guadalajara",
+    "Experience mariachi music in Tlaquepaque",
+    "Visit ancient pyramids at Teotihuacán (optional extension)",
+    "Taste Mexico's finest cuisine and spirits"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Arrive in San Miguel de Allende",
+      "location": "San Miguel de Allende",
+      "description": "Fly into León/Guanajuato airport (BJX) or Querétaro (QRO) and transfer to San Miguel de Allende (1-1.5 hours). Check into your hotel in the historic center and take an orientation walk through the cobblestone streets to the iconic pink Parroquia de San Miguel Arcángel. Watch sunset from a rooftop bar overlooking the church spires.",
+      "image": "https://images.unsplash.com/photo-1570737209810-87a8e7245f88?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Airport arrival and transfer to San Miguel",
+        "Check in to historic center hotel",
+        "Orientation walk to the Jardín",
+        "Visit Parroquia de San Miguel Arcángel",
+        "Rooftop sunset drinks",
+        "Dinner at a courtyard restaurant"
+      ],
+      "accommodation": {
+        "budget": "Hostal Alcatraz ($30-50)",
+        "mid_range": "Casa Schuck ($150-250)",
+        "luxury": "Rosewood San Miguel ($600+)"
+      },
+      "tips": ["San Miguel is at 6,200 feet—take it easy the first day", "The Jardín (main plaza) is the heart of town—orient yourself here", "Book dinner reservations for popular spots like Moxi or The Restaurant"]
+    },
+    {
+      "day": 2,
+      "title": "San Miguel Art & Culture",
+      "location": "San Miguel de Allende",
+      "description": "Full day exploring San Miguel's artistic soul. Morning visit to the market for breakfast, then explore galleries and artisan workshops in the Fábrica La Aurora arts complex. Afternoon walking tour of churches, historic homes, and hidden courtyards. Evening cooking class or tasting menu at one of the acclaimed restaurants.",
+      "image": "https://images.unsplash.com/photo-1560179707-f14e90ef3623?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Breakfast at Mercado de Artesanías",
+        "Fábrica La Aurora gallery complex",
+        "Walking tour of historic center",
+        "Visit Casa del Mayorazgo de la Canal",
+        "Afternoon mezcal tasting",
+        "Cooking class or fine dining"
+      ],
+      "accommodation": {
+        "budget": "Hostal Alcatraz ($30-50)",
+        "mid_range": "Casa Schuck ($150-250)",
+        "luxury": "Rosewood San Miguel ($600+)"
+      },
+      "tips": ["Fábrica La Aurora is a converted textile factory with 40+ galleries—allow 2-3 hours", "Book a private walking tour for context on the architecture", "Tuesday is the biggest market day"]
+    },
+    {
+      "day": 3,
+      "title": "Hot Springs & Sanctuary",
+      "location": "San Miguel de Allende",
+      "description": "Day trip to the natural hot springs at La Gruta or Escondido Place—thermal pools carved into hillsides with stunning views. In the afternoon, visit the Sanctuary of Atotonilco, a UNESCO World Heritage site with incredible murals that took 30 years to paint. Return for a final sunset and dinner in San Miguel.",
+      "image": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Morning at thermal hot springs",
+        "Relaxation and spa treatments",
+        "Lunch at hot springs or nearby",
+        "Sanctuary of Atotonilco visit",
+        "Return to San Miguel",
+        "Farewell dinner"
+      ],
+      "accommodation": {
+        "budget": "Hostal Alcatraz ($30-50)",
+        "mid_range": "Casa Schuck ($150-250)",
+        "luxury": "Rosewood San Miguel ($600+)"
+      },
+      "tips": ["La Gruta has a cave pool; Escondido is more upscale", "The Sanctuary murals are called 'the Sistine Chapel of Mexico'", "Combine with a winery visit—the Guanajuato wine region is nearby"]
+    },
+    {
+      "day": 4,
+      "title": "Guanajuato City",
+      "location": "Guanajuato",
+      "description": "Drive to Guanajuato (1.5 hours), one of Mexico's most photogenic cities. The city is built in a ravine with houses climbing the hillsides in every color imaginable. Explore the underground streets (former riverbeds), the ornate Teatro Juárez, and the Diego Rivera museum. Take the funicular to El Pípila monument for panoramic views.",
+      "image": "https://images.unsplash.com/photo-1518659526054-e8b8b4a8e1b6?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Drive to Guanajuato",
+        "Check in and orientation walk",
+        "Explore underground streets",
+        "Teatro Juárez and Jardín de la Unión",
+        "Diego Rivera birthplace museum",
+        "Funicular to El Pípila for sunset",
+        "Dinner in the Jardín"
+      ],
+      "accommodation": {
+        "budget": "La Casa del Tío ($40-70)",
+        "mid_range": "Villa María Cristina ($120-200)",
+        "luxury": "Quinta Las Acacias ($250+)"
+      },
+      "tips": ["Guanajuato is even hillier than San Miguel—wear comfortable shoes", "The callejoneadas (student minstrel tours) happen nightly—join one!", "Park at the edges—driving in the center is nearly impossible"]
+    },
+    {
+      "day": 5,
+      "title": "Guanajuato Immersion",
+      "location": "Guanajuato",
+      "description": "Full day in Guanajuato. Morning at the Alhóndiga de Granaditas museum (site of famous independence battle), then explore the colorful neighborhoods on foot. Visit the famous Museo de las Momias (Mummy Museum) if you dare, or skip it for the quieter ex-hacienda of San Gabriel de Barrera. Evening callejoneada with the estudiantina musicians.",
+      "image": "https://images.unsplash.com/photo-1560179707-f14e90ef3623?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Alhóndiga de Granaditas museum",
+        "Wander colorful neighborhoods",
+        "Museo de las Momias (optional)",
+        "Ex-Hacienda San Gabriel de Barrera",
+        "Sunset from Panorámica viewpoint",
+        "Evening callejoneada"
+      ],
+      "accommodation": {
+        "budget": "La Casa del Tío ($40-70)",
+        "mid_range": "Villa María Cristina ($120-200)",
+        "luxury": "Quinta Las Acacias ($250+)"
+      },
+      "tips": ["The Mummy Museum is interesting but can be macabre—not for everyone", "The callejoneada includes wine and singing through the alleys", "University of Guanajuato's main building is worth seeing"]
+    },
+    {
+      "day": 6,
+      "title": "Travel to Guadalajara",
+      "location": "Guadalajara",
+      "description": "Drive or take a bus to Guadalajara (3-4 hours), Mexico's second-largest city and the birthplace of mariachi music and tequila. Check into the Centro Histórico or Chapultepec neighborhood. Explore the impressive cathedral and Government Palace (with Orozco murals), then experience the evening ambiance at Plaza de los Mariachis.",
+      "image": "https://images.unsplash.com/photo-1569529465841-dfecdab7503b?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Drive/bus to Guadalajara",
+        "Check in and settle",
+        "Cathedral and Government Palace",
+        "Orozco murals at Hospicio Cabañas",
+        "Dinner in Centro",
+        "Plaza de los Mariachis"
+      ],
+      "accommodation": {
+        "budget": "Hostal de María ($35-60)",
+        "mid_range": "Hotel Demetria ($150-250)",
+        "luxury": "Hotel Habita GDL ($300+)"
+      },
+      "tips": ["Chapultepec/Americana is the trendy neighborhood with best restaurants", "The Orozco murals are among Mexico's most important art", "Mariachis perform for tips—expect to pay if you want a song"]
+    },
+    {
+      "day": 7,
+      "title": "Tequila Day Trip",
+      "location": "Tequila / Tlaquepaque",
+      "description": "The highlight of Guadalajara: a day trip to Tequila, the only place in the world where real tequila is made. Take the Jose Cuervo Express train (includes entertainment, breakfast, and tastings) or drive through the blue agave fields. Tour distilleries, taste tequilas, and learn the production process. Return via Tlaquepaque, the artisan village famous for pottery and mariachi.",
+      "image": "https://images.unsplash.com/photo-1569529465841-dfecdab7503b?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Tequila Express train OR drive to Tequila",
+        "Blue agave field tours",
+        "Distillery visits and tastings",
+        "Traditional Mexican lunch",
+        "Tlaquepaque artisan shopping",
+        "Mariachi dinner in Tlaquepaque"
+      ],
+      "accommodation": {
+        "budget": "Hostal de María ($35-60)",
+        "mid_range": "Hotel Demetria ($150-250)",
+        "luxury": "Hotel Habita GDL ($300+)"
+      },
+      "tips": ["Jose Cuervo Express runs weekends only—book in advance", "Smaller distilleries like Fortaleza offer better tours than giant brands", "Tlaquepaque's El Parián has mariachi performances all day"]
+    },
+    {
+      "day": 8,
+      "title": "Guadalajara & Departure",
+      "location": "Guadalajara",
+      "description": "Final morning exploring Guadalajara. Visit the Mercado Libertad (San Juan de Dios), the largest indoor market in Latin America—a sensory overload of food, crafts, and local life. Browse, snack on birria tacos, and pick up last souvenirs. Transfer to Guadalajara airport (GDL) for departure.",
+      "image": "https://images.unsplash.com/photo-1574492332536-89cba3e43a41?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Mercado Libertad exploration",
+        "Birria tacos for breakfast",
+        "Last-minute shopping",
+        "Transfer to GDL airport",
+        "Departure"
+      ],
+      "tips": ["Mercado Libertad has three floors—don't miss the upper craft levels", "Birria is Guadalajara's signature dish—don't leave without trying it", "GDL airport is modern and easy to navigate"]
+    }
+  ],
+  "practical_info": {
+    "getting_there": "Fly into León/Guanajuato (BJX) or Querétaro (QRO) for San Miguel. Fly out of Guadalajara (GDL). All three airports have good connections. Alternatively, fly into/out of Mexico City and add travel time.",
+    "getting_around": "Rent a car for flexibility between cities, or use first-class ETN/Primera Plus buses (comfortable, safe, air-conditioned). Within cities, walk or use Uber. Taxis are also readily available.",
+    "what_to_pack": ["Comfortable walking shoes for cobblestones", "Layers for cool evenings (altitude)", "Sun hat and sunscreen", "Camera for colorful streets"]
+  },
+  "faqs": [
+    {
+      "question": "Why start in San Miguel instead of Mexico City?",
+      "answer": "San Miguel is the natural starting point for the colonial heartland and avoids Mexico City's size and complexity. If you want to include CDMX, add 2-3 days at the beginning. From there, it's a 4-hour drive or bus to San Miguel."
+    },
+    {
+      "question": "Is this trip suitable for older travelers?",
+      "answer": "Yes, with caveats. The colonial cities are hilly with uneven cobblestones. Altitude (6,000+ feet) can affect those with health issues. But the pace is relaxed, there's excellent food and lodging, and many activities involve sitting and observing."
+    },
+    {
+      "question": "Should I book the Tequila Express in advance?",
+      "answer": "Absolutely. It only runs weekends and sells out, especially in high season. Book directly through Jose Cuervo's website at least 2 weeks ahead. If you miss it, driving to Tequila independently is still wonderful."
+    },
+    {
+      "question": "What's the best way to extend this trip?",
+      "answer": "Add 2-3 days in Mexico City at the beginning (fly into MEX, bus to San Miguel). Or add Morelia (2-3 days) between Guanajuato and Guadalajara—another gorgeous colonial city with fewer tourists. Pátzcuaro and its island are nearby."
+    }
+  ],
+  "related_itineraries": ["mexico-city-5-days", "pacific-coast-10-days"],
+  "tags": ["colonial", "culture", "history", "tequila", "art", "architecture", "mariachi", "food"]
+}
