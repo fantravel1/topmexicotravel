@@ -1,0 +1,465 @@
+{
+  "id": "adventure-mexico-10-days",
+  "slug": "adventure-mexico-10-days",
+  "title": "Adventure Mexico: 10 Days",
+  "subtitle": "Cenotes, Canyons, Volcanoes & Wild Coastlines",
+  "meta_title": "Mexico Adventure Itinerary 10 Days - Hiking, Diving, Cenotes 2025",
+  "meta_description": "10-day Mexico adventure itinerary: dive cenotes, hike volcanoes, kayak bioluminescent bays, explore canyons, and surf Pacific waves. Complete outdoor guide.",
+  "duration": "10 days",
+  "destinations": ["Mexico City", "Nevado de Toluca", "Oaxaca", "Puerto Escondido", "Tulum", "Cozumel"],
+  "hero_image": "https://images.unsplash.com/photo-1682687220742-aba13b6e50ba?w=1920&h=1080&fit=crop&q=80",
+  "hero_alt": "Snorkeling in a crystal clear Mexican cenote",
+  "og_image": "https://images.unsplash.com/photo-1682687220742-aba13b6e50ba?w=1200&h=630&fit=crop&q=80",
+  "introduction": "Mexico is an adventure playground with incredible geographic diversity. This 10-day itinerary takes you from volcanic peaks above the clouds to underwater cave systems, from Pacific surf breaks to bioluminescent lagoons. Pack your hiking boots, swimsuit, and sense of adventure.",
+  "best_time": "November-April (dry season), avoid hurricane season Aug-Oct for coasts",
+  "budget": "$1,500-2,500 per person",
+  "highlights": [
+    "Hike inside a dormant volcano crater at Nevado de Toluca",
+    "Dive or snorkel cenotes (underwater caves) near Tulum",
+    "Surf world-class breaks at Puerto Escondido",
+    "Kayak a bioluminescent lagoon at night",
+    "Explore the world's second-largest reef at Cozumel",
+    "Descend into underground rivers",
+    "Witness sea turtle nesting (seasonal)"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Arrive Mexico City",
+      "description": "Arrive and acclimate to altitude in one of the world's great cities.",
+      "activities": [
+        {
+          "time": "Afternoon",
+          "title": "Arrive & Settle In",
+          "description": "Fly into Mexico City International Airport (MEX). Transfer to Roma or Condesa neighborhoods. These vibrant areas are walkable and full of life.",
+          "duration": "2 hours",
+          "tips": "CDMX is at 7,350 feet—take it easy on day one. Stay hydrated and skip the altitude-amplifying cocktails tonight."
+        },
+        {
+          "time": "4:00 PM",
+          "title": "Walk Chapultepec Park",
+          "description": "Stretch your legs in one of the Western Hemisphere's largest urban parks. Walk the paths, visit the castle, or rent a paddleboat on the lake.",
+          "duration": "2 hours",
+          "tips": "The castle has incredible views over the city. Sunday is popular with local families."
+        },
+        {
+          "time": "7:00 PM",
+          "title": "Dinner in Roma Norte",
+          "description": "Enjoy dinner at a casual Roma restaurant. Try Máximo Bistrot or Contramar (seafood). Keep it light—big adventure starts tomorrow.",
+          "duration": "2 hours",
+          "tips": "Roma Norte is packed with excellent restaurants. Walk the tree-lined streets after dinner."
+        }
+      ],
+      "meals": {
+        "dinner": "Roma Norte restaurant"
+      },
+      "accommodation": "Hotel in Roma or Condesa, Mexico City"
+    },
+    {
+      "day": 2,
+      "title": "Nevado de Toluca Volcano Hike",
+      "description": "Hike into the crater of a dormant volcano with stunning alpine lakes.",
+      "activities": [
+        {
+          "time": "5:30 AM",
+          "title": "Early Departure",
+          "description": "Leave CDMX early for the 2-hour drive to Nevado de Toluca. You'll want to be hiking before crowds and afternoon clouds arrive.",
+          "duration": "2 hours drive",
+          "tips": "Hire a driver or join a tour—the final road is rough. Bring warm layers; it's COLD at altitude."
+        },
+        {
+          "time": "8:00 AM",
+          "title": "Crater Rim Hike",
+          "description": "Hike from the parking area (14,100 ft) down into the volcanic crater containing two alpine lakes—the Sun and Moon lakes. Circumnavigate the crater rim for incredible views.",
+          "duration": "4-5 hours",
+          "tips": "This is high altitude! Go slow, stay hydrated. The crater rim hike is moderate difficulty but the altitude makes it challenging."
+        },
+        {
+          "time": "1:00 PM",
+          "title": "Lunch in Metepec",
+          "description": "Descend and stop in the colorful artisan town of Metepec for a late lunch. Famous for its árbol de la vida (tree of life) pottery.",
+          "duration": "1.5 hours",
+          "tips": "Try local cuisine at a family restaurant. The town's pottery tradition dates back centuries."
+        },
+        {
+          "time": "4:00 PM",
+          "title": "Return to Mexico City",
+          "description": "Drive back to the city. Relax, stretch, and prepare for tomorrow's early flight.",
+          "duration": "2 hours",
+          "tips": "Consider a massage—your legs will thank you."
+        }
+      ],
+      "meals": {
+        "breakfast": "Early/light",
+        "lunch": "Metepec"
+      },
+      "accommodation": "Hotel in Mexico City"
+    },
+    {
+      "day": 3,
+      "title": "Fly to Oaxaca Coast",
+      "description": "Travel to Puerto Escondido on Oaxaca's Pacific coast for surf and beach adventures.",
+      "activities": [
+        {
+          "time": "7:00 AM",
+          "title": "Fly to Puerto Escondido",
+          "description": "Catch an early flight from CDMX to Puerto Escondido (PXM). The 1.5-hour flight beats a 10-hour drive through mountains.",
+          "duration": "1.5 hours",
+          "tips": "Volaris and Viva fly this route. Book ahead in high season. Window seat on the left for coastal views."
+        },
+        {
+          "time": "10:00 AM",
+          "title": "Settle In & Beach Time",
+          "description": "Check into your hotel in Zicatela or La Punta. Hit the beach for swimming and relaxation. Zicatela's waves are powerful—swim at La Punta or Carrizalillo if you're not an expert.",
+          "duration": "3 hours",
+          "tips": "Zicatela is known as the 'Mexican Pipeline'—watch the surfers but don't swim unless you're experienced."
+        },
+        {
+          "time": "3:00 PM",
+          "title": "Surf Lesson or Paddleboard",
+          "description": "Take a beginner surf lesson at La Punta where waves are gentler. Or rent a stand-up paddleboard for calmer water exploring.",
+          "duration": "2 hours",
+          "tips": "Central Surf and Oasis Surf School offer good beginner lessons. Even if you've never surfed, you can learn here."
+        },
+        {
+          "time": "6:00 PM",
+          "title": "Sunset at Punta Zicatela",
+          "description": "Watch the sunset from the rocky point where surfers catch the last waves of the day. Spectacular views of the coastline.",
+          "duration": "1 hour",
+          "tips": "Bring a cold beer from a nearby tienda. This is the local sunset ritual."
+        },
+        {
+          "time": "7:30 PM",
+          "title": "Seafood Dinner",
+          "description": "Fresh catch of the day at a beachside restaurant. Try the tuna tostadas, ceviche, or whole grilled fish.",
+          "duration": "2 hours",
+          "tips": "El Cafecito and Espadin are excellent. The marlin empanadas are a local specialty."
+        }
+      ],
+      "meals": {
+        "breakfast": "Airport",
+        "lunch": "Beach casual",
+        "dinner": "Seafood restaurant"
+      },
+      "accommodation": "Hotel in Puerto Escondido (Zicatela or La Punta)"
+    },
+    {
+      "day": 4,
+      "title": "Bioluminescence & Sea Turtles",
+      "description": "Experience magical bioluminescent lagoons and witness sea turtle conservation.",
+      "activities": [
+        {
+          "time": "8:00 AM",
+          "title": "Morning Surf or Yoga",
+          "description": "Start with an early surf session (waves are best in morning) or join a beach yoga class at La Punta.",
+          "duration": "2 hours",
+          "tips": "Many hotels and beach clubs offer morning yoga. It's a great way to start the day."
+        },
+        {
+          "time": "11:00 AM",
+          "title": "Relax & Explore",
+          "description": "Explore the Adoquin (pedestrian street), browse surf shops, or relax by the pool. Save energy for tonight's adventure.",
+          "duration": "4 hours",
+          "tips": "The heat is intense midday—siesta culture exists for a reason."
+        },
+        {
+          "time": "5:00 PM",
+          "title": "Drive to Laguna de Manialtepec",
+          "description": "Drive 30 minutes to this mangrove-lined lagoon known for incredible bioluminescence. Arrive before sunset for the full experience.",
+          "duration": "30 minutes",
+          "tips": "Book with an eco-conscious tour operator. The lagoon is sensitive to overtourism."
+        },
+        {
+          "time": "6:00 PM",
+          "title": "Bioluminescent Kayaking",
+          "description": "As darkness falls, paddle into the lagoon. The water sparkles with blue-green light from billions of dinoflagellates. Swim and watch your body glow in the water.",
+          "duration": "3 hours",
+          "tips": "Best on moonless nights (check moon calendar). Bring waterproof camera if possible. July-January has strongest bioluminescence."
+        },
+        {
+          "time": "10:00 PM",
+          "title": "Sea Turtle Release (Seasonal)",
+          "description": "During nesting season (June-December), join a turtle camp to release baby turtles into the ocean. Various beaches participate.",
+          "duration": "1.5 hours",
+          "tips": "Check with your hotel or local organizations. Donations support conservation efforts."
+        }
+      ],
+      "meals": {
+        "breakfast": "Hotel",
+        "lunch": "La Punta",
+        "dinner": "Before kayaking"
+      },
+      "accommodation": "Hotel in Puerto Escondido"
+    },
+    {
+      "day": 5,
+      "title": "Waterfalls & Hidden Beaches",
+      "description": "Discover secret beaches and jungle waterfalls near Puerto Escondido.",
+      "activities": [
+        {
+          "time": "8:00 AM",
+          "title": "Drive to Cascadas Llano Grande",
+          "description": "Head into the Sierra Madre foothills to visit these stunning waterfalls. The road is rough but the reward is swimming in jungle pools.",
+          "duration": "4 hours (round trip + swimming)",
+          "tips": "Bring water, snacks, and swimming gear. A high-clearance vehicle helps. Some tours combine this with other stops."
+        },
+        {
+          "time": "1:00 PM",
+          "title": "Playa Mazunte & San Agustinillo",
+          "description": "Continue along the coast to these bohemian beach towns. Swim in the calm bay at San Agustinillo, one of Oaxaca's most beautiful beaches.",
+          "duration": "3 hours",
+          "tips": "San Agustinillo has calm swimming. Mazunte has the Centro Mexicano de la Tortuga (turtle conservation center)."
+        },
+        {
+          "time": "5:00 PM",
+          "title": "Punta Cometa Sunset Hike",
+          "description": "Hike to Punta Cometa, the southernmost point of the Oaxacan coast. Watch the sunset from cliffs where humpback whales pass during migration season.",
+          "duration": "1.5 hours",
+          "tips": "15-minute hike from Mazunte. Bring flashlight for return in dark. Dec-March is whale watching season."
+        },
+        {
+          "time": "7:30 PM",
+          "title": "Dinner in Mazunte",
+          "description": "Enjoy fresh seafood and vegetarian options in this eco-conscious town.",
+          "duration": "1.5 hours",
+          "tips": "Stelina and El Costeñito are excellent. Mazunte has a great hippie-traveler vibe."
+        }
+      ],
+      "meals": {
+        "breakfast": "Hotel",
+        "lunch": "Packed/roadside",
+        "dinner": "Mazunte"
+      },
+      "accommodation": "Hotel in Puerto Escondido"
+    },
+    {
+      "day": 6,
+      "title": "Fly to Tulum & Cenote Exploration",
+      "description": "Travel to the Yucatán Peninsula to explore the famous cenote systems.",
+      "activities": [
+        {
+          "time": "8:00 AM",
+          "title": "Fly to Cancún",
+          "description": "Morning flight from Puerto Escondido to Cancún (may connect through CDMX). Transfer to Tulum (2 hours) or stay near cenotes.",
+          "duration": "5-6 hours total",
+          "tips": "Consider staying in Valladolid for cenote access, or Tulum for beach + cenotes combo."
+        },
+        {
+          "time": "3:00 PM",
+          "title": "Cenote Ik Kil",
+          "description": "Start with this iconic cenote near Chichén Itzá. Vines hang down to the water, sunlight streams through—it's magical despite the crowds.",
+          "duration": "1.5 hours",
+          "tips": "Arrive late afternoon when tour groups leave. The jump from the platform is exhilarating."
+        },
+        {
+          "time": "5:30 PM",
+          "title": "Check In & Relax",
+          "description": "Settle into your accommodation. If in Tulum, catch sunset at the beach. If in Valladolid, walk the colonial center.",
+          "duration": "2 hours",
+          "tips": "Tulum town is cheaper and more local than the hotel zone. Valladolid is a charming base for cenote exploration."
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Dinner",
+          "description": "In Tulum, try Hartwood (farm-to-table, no reservations) or Gitano (jungle setting). In Valladolid, eat at the central plaza.",
+          "duration": "2 hours",
+          "tips": "Hartwood has lines—arrive early or late. The Yucatecan food here is different from the rest of Mexico."
+        }
+      ],
+      "meals": {
+        "breakfast": "Hotel",
+        "lunch": "Travel/airport",
+        "dinner": "Tulum or Valladolid"
+      },
+      "accommodation": "Hotel in Tulum or Valladolid"
+    },
+    {
+      "day": 7,
+      "title": "Cenote Diving & Underground Rivers",
+      "description": "Experience the otherworldly beauty of the Yucatán's underground cave systems.",
+      "activities": [
+        {
+          "time": "8:00 AM",
+          "title": "Cenote Snorkel or Dive",
+          "description": "Join a guided cenote experience. Non-divers can snorkel in crystal-clear water with visibility of 100+ feet. Certified divers can explore underwater caverns with haloclines and light beams.",
+          "duration": "4 hours",
+          "tips": "Cenote Dos Ojos and Gran Cenote are excellent for snorkeling. Divers should book cavern dives with certified guides—this is not for beginners."
+        },
+        {
+          "time": "1:00 PM",
+          "title": "Lunch in Tulum Pueblo",
+          "description": "Eat with locals in Tulum town rather than the pricey beach zone. Try cochinita pibil, panuchos, and papadzules.",
+          "duration": "1.5 hours",
+          "tips": "Taquería Honorio has been featured by every food writer visiting Tulum. Simple, delicious, cheap."
+        },
+        {
+          "time": "3:00 PM",
+          "title": "Cenote Hopping",
+          "description": "Visit smaller, less-crowded cenotes. Try Casa Cenote (open air, mangroves, manatees possible), Cenote Calavera (skull cenote), or Cenote Cristal.",
+          "duration": "3 hours",
+          "tips": "Bring cash for entrance fees ($100-200 pesos each). Reef-safe sunscreen required—chemicals damage the ecosystem."
+        },
+        {
+          "time": "7:00 PM",
+          "title": "Tulum Ruins at Sunset",
+          "description": "The ruins stay open until 5pm, but the view from the cliff over the Caribbean is best in golden hour. Walk the beach below afterward.",
+          "duration": "2 hours",
+          "tips": "Enter at 4pm for smallest crowds. Bring flashlight if walking beach at dusk."
+        }
+      ],
+      "meals": {
+        "breakfast": "Hotel",
+        "lunch": "Tulum Pueblo",
+        "dinner": "Tulum beach zone"
+      },
+      "accommodation": "Hotel in Tulum"
+    },
+    {
+      "day": 8,
+      "title": "Sian Ka'an Biosphere Reserve",
+      "description": "Explore the UNESCO-protected reserve of jungles, lagoons, and pristine beaches.",
+      "activities": [
+        {
+          "time": "7:00 AM",
+          "title": "Sian Ka'an Tour",
+          "description": "Join a guided tour into this 1.3-million-acre biosphere reserve. Spot crocodiles, dolphins, manatees, and hundreds of bird species in pristine wilderness.",
+          "duration": "8 hours",
+          "tips": "Book with Community Tours Sian Ka'an—they're local and sustainable. Bring binoculars, sunscreen, and bug spray."
+        },
+        {
+          "time": "10:00 AM",
+          "title": "Muyil Ruins & Canal Float",
+          "description": "Visit the small but atmospheric Muyil ruins, then float down ancient Mayan canals through the lagoon. The current carries you through mangroves.",
+          "duration": "3 hours",
+          "tips": "Wear water shoes and quick-dry clothes. Life jackets provided. Incredibly peaceful experience."
+        },
+        {
+          "time": "2:00 PM",
+          "title": "Lunch at Lagoon",
+          "description": "Enjoy fresh ceviche and beer at a simple palapa restaurant in the reserve.",
+          "duration": "1 hour",
+          "tips": "Keep expectations simple—this is remote. The setting makes up for any culinary limitations."
+        },
+        {
+          "time": "4:00 PM",
+          "title": "Beach Walk & Wildlife",
+          "description": "Walk pristine beaches where sea turtles nest. Guides will share knowledge about the ecosystem and conservation efforts.",
+          "duration": "2 hours",
+          "tips": "No swimming at some beaches due to currents. This is one of the least-visited corners of the Riviera Maya."
+        },
+        {
+          "time": "7:00 PM",
+          "title": "Evening Free",
+          "description": "Return to Tulum for dinner and rest. You've earned it!",
+          "duration": "Evening",
+          "tips": "Casual dinner in town is perfect. Save energy for tomorrow's diving."
+        }
+      ],
+      "meals": {
+        "breakfast": "Early/light",
+        "lunch": "Sian Ka'an",
+        "dinner": "Tulum"
+      },
+      "accommodation": "Hotel in Tulum"
+    },
+    {
+      "day": 9,
+      "title": "Cozumel Reef Diving",
+      "description": "Explore the world's second-largest barrier reef system off Cozumel island.",
+      "activities": [
+        {
+          "time": "6:00 AM",
+          "title": "Ferry to Cozumel",
+          "description": "Drive to Playa del Carmen (45 min) and catch the ferry to Cozumel (45 min). The island is world-famous for drift diving.",
+          "duration": "2 hours total",
+          "tips": "Ferries run frequently from 6am. Book your diving in advance—good operators fill up."
+        },
+        {
+          "time": "9:00 AM",
+          "title": "Two-Tank Dive",
+          "description": "Dive the Cozumel reefs—Palancar, Santa Rosa Wall, or Columbia are spectacular. Crystal visibility, colorful corals, sea turtles, eagle rays, and nurse sharks.",
+          "duration": "4 hours",
+          "tips": "Non-divers can do discover scuba or snorkel trips. Dive Insurance recommended. The drift diving here is effortless and incredible."
+        },
+        {
+          "time": "2:00 PM",
+          "title": "Lunch in San Miguel",
+          "description": "Enjoy lunch in Cozumel's main town. Try seafood at La Candela or tacos at El Pique.",
+          "duration": "1.5 hours",
+          "tips": "Stay away from the cruise ship areas for better food and prices."
+        },
+        {
+          "time": "4:00 PM",
+          "title": "Explore or Snorkel",
+          "description": "Rent a scooter to explore the windward side of the island, or do an afternoon snorkel at Chankanaab or Paradise Beach.",
+          "duration": "3 hours",
+          "tips": "The east side of the island is wild and beautiful. Stop at coconut stands and small beach bars."
+        },
+        {
+          "time": "7:30 PM",
+          "title": "Dinner & Ferry Back",
+          "description": "Dinner in Cozumel before catching late ferry back to Playa del Carmen. Drive to Tulum or stay in Playa.",
+          "duration": "3 hours",
+          "tips": "Last ferry is usually 10pm. Check schedule in advance."
+        }
+      ],
+      "meals": {
+        "breakfast": "Early/ferry",
+        "lunch": "San Miguel, Cozumel",
+        "dinner": "Cozumel"
+      },
+      "accommodation": "Hotel in Tulum or Playa del Carmen"
+    },
+    {
+      "day": 10,
+      "title": "Final Morning & Departure",
+      "description": "Last swim, breakfast, and departure.",
+      "activities": [
+        {
+          "time": "7:00 AM",
+          "title": "Sunrise Beach Walk",
+          "description": "Watch the sunrise over the Caribbean from Tulum beach. Take a final swim in the turquoise waters.",
+          "duration": "1 hour",
+          "tips": "Caribbean sunrise is special. Bring your camera."
+        },
+        {
+          "time": "8:30 AM",
+          "title": "Breakfast",
+          "description": "Enjoy a leisurely breakfast at your hotel or a favorite cafe.",
+          "duration": "1 hour",
+          "tips": "Matcha Mama and Raw Love are good healthy options. Or do one more round of tacos."
+        },
+        {
+          "time": "10:00 AM",
+          "title": "Transfer to Cancún Airport",
+          "description": "Drive 2 hours to Cancún International Airport for your departure flight.",
+          "duration": "2 hours",
+          "tips": "Book transfer in advance. ADO bus is a budget option. Leave buffer time for traffic."
+        }
+      ],
+      "meals": {
+        "breakfast": "Tulum"
+      },
+      "accommodation": "Departure"
+    }
+  ],
+  "practical_info": {
+    "getting_there": "Fly into Mexico City (MEX) for the volcano. Internal flights to Puerto Escondido (PXM) and Cancún (CUN). Ends with departure from Cancún.",
+    "getting_around": "Mix of flights, rental cars, and transfers. Diving/cenote tours include transport. Ferry to Cozumel is frequent and easy.",
+    "where_to_stay": "CDMX: Roma/Condesa. Puerto Escondido: Zicatela or La Punta. Tulum: Town (budget) or beach zone (luxury).",
+    "money": "Budget $150-250/day including activities. Diving, tours, and flights add up. Book in advance for better rates.",
+    "fitness_level": "Moderate fitness required. Volcano hike is strenuous at altitude. Diving requires certification for caverns. Surfing has options for all levels."
+  },
+  "packing_tips": [
+    "Dive certification card (if certified)",
+    "Reef-safe sunscreen",
+    "Multiple swimsuits (humidity = slow drying)",
+    "Water shoes for cenotes and rocky beaches",
+    "Hiking boots for volcano",
+    "Warm layers for high altitude",
+    "Waterproof camera or GoPro",
+    "Dry bag for boat trips",
+    "Seasickness medication if needed"
+  ],
+  "tags": ["adventure", "diving", "cenotes", "surfing", "hiking", "nature", "active", "10-days"]
+}

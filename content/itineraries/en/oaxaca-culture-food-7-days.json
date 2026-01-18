@@ -1,0 +1,341 @@
+{
+  "id": "oaxaca-culture-food-7-days",
+  "slug": "oaxaca-culture-food-7-days",
+  "title": "Oaxaca Culture & Food: 7 Days",
+  "subtitle": "Explore Mexico's Culinary Capital and Indigenous Heritage",
+  "meta_title": "Oaxaca 7-Day Itinerary - Food, Culture & Mezcal Guide 2025",
+  "meta_description": "Discover Oaxaca in 7 days: cooking classes, mezcal distilleries, Zapotec ruins, artisan villages, markets, and the best mole in Mexico. Complete day-by-day guide.",
+  "duration": "7 days",
+  "destinations": ["Oaxaca City", "Monte Albán", "Hierve el Agua", "Mitla"],
+  "hero_image": "https://images.unsplash.com/photo-1518105779142-d975f22f1b0a?w=1920&h=1080&fit=crop&q=80",
+  "hero_alt": "Colorful streets of Oaxaca City with traditional architecture",
+  "og_image": "https://images.unsplash.com/photo-1518105779142-d975f22f1b0a?w=1200&h=630&fit=crop&q=80",
+  "introduction": "Oaxaca is the cultural and culinary heart of Mexico. This 7-day itinerary immerses you in UNESCO-recognized cuisine, ancient Zapotec ruins, world-class mezcal, vibrant indigenous markets, and artisan villages where centuries-old traditions thrive. Come hungry—you'll leave transformed.",
+  "best_time": "October-April (dry season), late October for Day of the Dead",
+  "budget": "$800-1,500 per person",
+  "highlights": [
+    "Cook traditional mole with a local chef",
+    "Explore Monte Albán's ancient Zapotec pyramids",
+    "Taste mezcal at family distilleries",
+    "Shop the famous Benito Juárez market",
+    "Swim in the petrified waterfalls of Hierve el Agua",
+    "Meet master artisans in Teotitlán del Valle",
+    "Experience Oaxacan chocolate-making"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Arrive in Oaxaca City",
+      "description": "Settle into the UNESCO World Heritage city center and begin exploring the vibrant streets.",
+      "activities": [
+        {
+          "time": "Afternoon",
+          "title": "Arrive & Check In",
+          "description": "Fly into Oaxaca International Airport (OAX) and transfer to your hotel in the historic center. Choose accommodations near the Zócalo for easy walking access to everything.",
+          "duration": "2 hours",
+          "tips": "Direct flights from Mexico City take 1 hour. Alternatively, it's a scenic 6-hour drive through mountains."
+        },
+        {
+          "time": "4:00 PM",
+          "title": "Walk the Historic Center",
+          "description": "Stroll the colorful streets around the Zócalo (main square). Admire the Santo Domingo church, browse galleries on Macedonio Alcalá pedestrian street, and soak in the atmosphere.",
+          "duration": "2 hours",
+          "tips": "The green stone buildings are made from local cantera stone. Look for street vendors selling chapulines (grasshoppers)!"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "Dinner at a Traditional Restaurant",
+          "description": "Start your culinary journey at Casa Oaxaca or Los Danzantes. Try tlayudas (Oaxacan pizza), mezcal cocktails, and your first taste of mole negro.",
+          "duration": "2 hours",
+          "tips": "Make reservations in advance. Ask for a table on the terrace if available."
+        }
+      ],
+      "meals": {
+        "dinner": "Casa Oaxaca or Los Danzantes"
+      },
+      "accommodation": "Hotel in Oaxaca City Centro (Casa de Sierra Azul, Hotel Parador de Alcalá, or Quinta Real)"
+    },
+    {
+      "day": 2,
+      "title": "Markets & Cooking Class",
+      "description": "Dive into Oaxacan cuisine with a market tour and hands-on cooking class.",
+      "activities": [
+        {
+          "time": "8:00 AM",
+          "title": "Benito Juárez Market Tour",
+          "description": "Explore Oaxaca's main market with a local guide. Discover chiles, chocolate, cheese (quesillo), chapulines, tlayuda ingredients, and countless regional products. Taste as you go!",
+          "duration": "2 hours",
+          "tips": "Bring cash for purchases. The chocolate aisle is incredible—try comparing different producers."
+        },
+        {
+          "time": "10:30 AM",
+          "title": "Oaxacan Cooking Class",
+          "description": "Learn to make traditional dishes like mole, tlayudas, and memelas at a cooking school. You'll shop at the market for ingredients, then cook and feast on your creations.",
+          "duration": "5 hours",
+          "tips": "Book with Casa de los Sabores, Alma de mi Tierra, or Seasons of My Heart. Classes fill up—reserve ahead."
+        },
+        {
+          "time": "4:00 PM",
+          "title": "20 de Noviembre Market",
+          "description": "Visit this adjacent market famous for its smoke-filled pasillos de humo (smoke alleys) where tasajo (dried beef), chorizo, and cecina are grilled to order.",
+          "duration": "1.5 hours",
+          "tips": "Point to the meat you want, and they'll grill it fresh. Order with tlayudas and salsa."
+        },
+        {
+          "time": "7:00 PM",
+          "title": "Mezcal Tasting",
+          "description": "Visit a mezcalería like In Situ or Mezcaloteca for a guided tasting. Learn about agave varieties, traditional production, and the difference between mezcal and tequila.",
+          "duration": "2 hours",
+          "tips": "Sip slowly—mezcal is meant to be savored. Try espadín, tobalá, and cuishe varieties."
+        }
+      ],
+      "meals": {
+        "breakfast": "Market snacks",
+        "lunch": "Cooking class feast",
+        "dinner": "20 de Noviembre market"
+      },
+      "accommodation": "Hotel in Oaxaca City Centro"
+    },
+    {
+      "day": 3,
+      "title": "Monte Albán & Artisan Villages",
+      "description": "Explore the ancient Zapotec capital and meet master weavers in Teotitlán del Valle.",
+      "activities": [
+        {
+          "time": "8:00 AM",
+          "title": "Monte Albán Archaeological Site",
+          "description": "Visit the spectacular ancient Zapotec capital perched on a mountain ridge. Explore pyramids, the ball court, observatory, and carved danzantes stones dating to 500 BC.",
+          "duration": "3 hours",
+          "tips": "Arrive early to beat heat and crowds. Bring water, sunscreen, and a hat. Hire a guide at the entrance for deeper understanding."
+        },
+        {
+          "time": "12:00 PM",
+          "title": "Lunch in San Agustín Etla",
+          "description": "Stop in this quiet village for lunch at a local comedor. Try mole amarillo or coloradito with handmade tortillas.",
+          "duration": "1.5 hours",
+          "tips": "This village is also home to CASA, a contemporary art center in a former textile factory."
+        },
+        {
+          "time": "2:30 PM",
+          "title": "Teotitlán del Valle Weavers",
+          "description": "Visit this famous weaving village where Zapotec families create stunning rugs using pre-Hispanic techniques. Watch demonstrations of natural dyeing with cochineal, indigo, and moss.",
+          "duration": "3 hours",
+          "tips": "Prices are fair and support families directly. Rugs range from $50 to $500+ depending on size and complexity."
+        },
+        {
+          "time": "7:00 PM",
+          "title": "Dinner in Oaxaca",
+          "description": "Return to the city for dinner at Origen, one of Mexico's best restaurants featuring hyper-local Oaxacan ingredients.",
+          "duration": "2.5 hours",
+          "tips": "Chef Rodolfo Castellanos creates tasting menus that showcase Oaxacan terroir. Reserve well ahead."
+        }
+      ],
+      "meals": {
+        "breakfast": "Hotel",
+        "lunch": "San Agustín Etla",
+        "dinner": "Origen"
+      },
+      "accommodation": "Hotel in Oaxaca City Centro"
+    },
+    {
+      "day": 4,
+      "title": "Mezcal Route & Mitla",
+      "description": "Visit mezcal distilleries and the intricate mosaics of Mitla.",
+      "activities": [
+        {
+          "time": "9:00 AM",
+          "title": "Mezcal Palenque Visits",
+          "description": "Drive the mezcal route to visit family-run palenques (distilleries). Watch the traditional process: roasting agave in earthen pits, crushing with a horse-drawn tahona, fermenting in wooden vats, and distilling in clay pots.",
+          "duration": "3 hours",
+          "tips": "Visit Real Minero in Santa Catarina Minas or Gracias a Dios in San Luis del Río. These are artisanal producers, not factories."
+        },
+        {
+          "time": "12:30 PM",
+          "title": "Lunch in Tlacolula",
+          "description": "If visiting on Sunday, experience the massive Tlacolula market—one of the oldest in Mesoamerica. Otherwise, enjoy lunch at a local restaurant.",
+          "duration": "1.5 hours",
+          "tips": "Sunday market has been running for over 1,000 years. Try barbacoa de chivo (pit-roasted goat)."
+        },
+        {
+          "time": "2:30 PM",
+          "title": "Mitla Archaeological Site",
+          "description": "Explore Mitla, the Zapotec 'Place of the Dead.' Marvel at the intricate geometric stone mosaics—made without mortar—that cover the palace walls. Nothing like it exists elsewhere in Mesoamerica.",
+          "duration": "2 hours",
+          "tips": "The church built atop the ruins shows the Spanish conquest visually. The surrounding market has excellent textiles."
+        },
+        {
+          "time": "5:00 PM",
+          "title": "El Tule - World's Widest Tree",
+          "description": "Stop at Santa María del Tule to see the famous 2,000-year-old Montezuma cypress with the world's stoutest trunk (46 feet diameter).",
+          "duration": "30 minutes",
+          "tips": "Look for shapes in the trunk—locals will point out jaguars, elephants, and other figures."
+        },
+        {
+          "time": "7:30 PM",
+          "title": "Evening Free",
+          "description": "Return to Oaxaca for a relaxed evening. Grab street food, gelato from Chagüita, or drinks at a rooftop bar.",
+          "duration": "Evening",
+          "tips": "The Zócalo is lively at night with music and people-watching."
+        }
+      ],
+      "meals": {
+        "breakfast": "Hotel",
+        "lunch": "Tlacolula",
+        "dinner": "Street food in Oaxaca"
+      },
+      "accommodation": "Hotel in Oaxaca City Centro"
+    },
+    {
+      "day": 5,
+      "title": "Hierve el Agua & Pottery Villages",
+      "description": "Visit petrified waterfalls and black pottery artisans.",
+      "activities": [
+        {
+          "time": "8:00 AM",
+          "title": "Drive to Hierve el Agua",
+          "description": "Journey to these stunning petrified waterfalls—mineral formations that look like frozen cascades. Swim in the natural infinity pools overlooking the valley.",
+          "duration": "4 hours (including drive)",
+          "tips": "Bring swimsuit and water shoes. The road is winding but paved. Go early to avoid crowds."
+        },
+        {
+          "time": "1:00 PM",
+          "title": "Lunch in San Lorenzo Albarradas",
+          "description": "Stop at a community restaurant near Hierve el Agua for simple but delicious local food.",
+          "duration": "1 hour",
+          "tips": "Try the local specialties and handmade tortillas."
+        },
+        {
+          "time": "3:00 PM",
+          "title": "San Bartolo Coyotepec Black Pottery",
+          "description": "Visit the village famous for barro negro (black pottery). Watch artisans shape and polish the clay by hand without a wheel, achieving the distinctive black metallic shine.",
+          "duration": "2 hours",
+          "tips": "Visit Doña Rosa's workshop—she invented the technique. Pieces are fragile; shop owners can pack them for travel."
+        },
+        {
+          "time": "5:30 PM",
+          "title": "Santo Tomás Jalieza Belt Weavers",
+          "description": "Stop in this village known for backstrap loom weaving, particularly colorful belts and bags.",
+          "duration": "1 hour",
+          "tips": "Watch women weave intricate patterns on traditional looms. Small purchases support family incomes."
+        },
+        {
+          "time": "7:30 PM",
+          "title": "Dinner at Pitiona",
+          "description": "Enjoy contemporary Oaxacan cuisine at Pitiona, where traditional ingredients get creative treatment in a beautiful colonial setting.",
+          "duration": "2 hours",
+          "tips": "Try the tasting menu for the full experience. Great cocktails too."
+        }
+      ],
+      "meals": {
+        "breakfast": "Hotel",
+        "lunch": "San Lorenzo Albarradas",
+        "dinner": "Pitiona"
+      },
+      "accommodation": "Hotel in Oaxaca City Centro"
+    },
+    {
+      "day": 6,
+      "title": "Chocolate, Art & Oaxacan Life",
+      "description": "Learn chocolate-making, explore museums, and experience local culture.",
+      "activities": [
+        {
+          "time": "9:00 AM",
+          "title": "Chocolate Workshop",
+          "description": "Take a chocolate-making class at Mayordomo or a local workshop. Learn the history of cacao in Mesoamerica and grind your own chocolate on a metate.",
+          "duration": "2.5 hours",
+          "tips": "Oaxacan chocolate is grainier and less sweet than European styles. You'll drink it more than eat it."
+        },
+        {
+          "time": "12:00 PM",
+          "title": "Museo de las Culturas de Oaxaca",
+          "description": "Explore this excellent museum inside the Santo Domingo church complex. See Zapotec and Mixtec artifacts including the famous Monte Albán jade and gold treasures.",
+          "duration": "2 hours",
+          "tips": "Don't miss the botanical garden behind the church (tours only, check schedule)."
+        },
+        {
+          "time": "2:30 PM",
+          "title": "Lunch at Tierra del Sol",
+          "description": "Enjoy creative Oaxacan cuisine in a gorgeous courtyard setting. Great for moles and regional specialties.",
+          "duration": "1.5 hours",
+          "tips": "The seven moles sampler lets you taste the rainbow of Oaxacan moles."
+        },
+        {
+          "time": "4:30 PM",
+          "title": "IAGO & Contemporary Art",
+          "description": "Visit the Instituto de Artes Gráficas de Oaxaca, founded by artist Francisco Toledo. Browse prints, photographs, and contemporary works in a beautiful colonial building.",
+          "duration": "1.5 hours",
+          "tips": "Free admission. The library and rotating exhibitions are excellent."
+        },
+        {
+          "time": "7:00 PM",
+          "title": "Calenda Parade (if occurring)",
+          "description": "If your visit coincides with a local fiesta, watch a calenda—a parade with giant puppet figures (monos), brass bands, and dancing. They happen frequently in Oaxaca.",
+          "duration": "1 hour",
+          "tips": "Calendas often start from churches and wind through streets. Join in the dancing!"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Farewell Dinner",
+          "description": "Celebrate your last night at Criollo, a casual fine-dining spot known for creative Mexican food and natural wines.",
+          "duration": "2.5 hours",
+          "tips": "Small menu changes regularly based on what's fresh. Save room for dessert."
+        }
+      ],
+      "meals": {
+        "breakfast": "Hotel",
+        "lunch": "Tierra del Sol",
+        "dinner": "Criollo"
+      },
+      "accommodation": "Hotel in Oaxaca City Centro"
+    },
+    {
+      "day": 7,
+      "title": "Morning at Leisure & Departure",
+      "description": "Final shopping, breakfast, and departure.",
+      "activities": [
+        {
+          "time": "8:00 AM",
+          "title": "Breakfast at Café Brújula",
+          "description": "Enjoy excellent coffee and breakfast at one of Oaxaca's best cafés. They roast their own beans and serve great pastries.",
+          "duration": "1 hour",
+          "tips": "Multiple locations in the centro. Great for people-watching."
+        },
+        {
+          "time": "9:30 AM",
+          "title": "Final Shopping",
+          "description": "Pick up last-minute souvenirs: mezcal, chocolate, alebrijes (painted wooden creatures), black pottery, textiles, or local coffee.",
+          "duration": "2 hours",
+          "tips": "FONART (government craft store) has quality items at fair prices. La Casa del Mezcal is good for bottles."
+        },
+        {
+          "time": "12:00 PM",
+          "title": "Transfer to Airport",
+          "description": "Head to Oaxaca International Airport for your departure flight. Carry mezcal in checked bags (wrap well!) and declare any food items.",
+          "duration": "30 minutes",
+          "tips": "Airport is small; 1.5 hours before domestic flights is sufficient."
+        }
+      ],
+      "meals": {
+        "breakfast": "Café Brújula"
+      },
+      "accommodation": "Departure"
+    }
+  ],
+  "practical_info": {
+    "getting_there": "Fly to Oaxaca International Airport (OAX) via Mexico City, Tijuana, or Houston. Volaris and Aeroméxico have frequent flights. Alternatively, drive from Mexico City (6 hours) or Puebla (4 hours) through stunning mountain scenery.",
+    "getting_around": "Most Oaxaca City attractions are walkable. For day trips, hire a driver, join tours, or rent a car. Colectivos (shared vans) are cheap but slow. Uber works in the city.",
+    "where_to_stay": "Stay in the Centro Histórico for easy walking access. Options range from budget hostels to luxury boutique hotels in colonial buildings. Book ahead during Day of the Dead, Guelaguetza (July), and Christmas/New Year.",
+    "money": "Oaxaca is affordable. Budget: $50-80/day. Mid-range: $100-150/day. Luxury: $250+/day. Cash is preferred at markets and small shops. ATMs are plentiful.",
+    "health": "Altitude is 5,000 feet—mild but noticeable. Tap water is not potable. Sun can be intense; bring sunscreen. Stomach issues are possible from rich food; pace yourself."
+  },
+  "packing_tips": [
+    "Comfortable walking shoes for cobblestones",
+    "Light layers—mornings and evenings are cool",
+    "Sun protection (hat, sunscreen, sunglasses)",
+    "Reusable shopping bag for market purchases",
+    "Spanish phrasebook or translation app",
+    "Cash in small denominations",
+    "Appetite for adventure"
+  ],
+  "tags": ["food", "culture", "oaxaca", "mezcal", "ruins", "markets", "artisans", "7-days"]
+}
