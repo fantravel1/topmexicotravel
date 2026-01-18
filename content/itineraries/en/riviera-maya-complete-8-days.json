@@ -1,0 +1,230 @@
+{
+  "id": "riviera-maya-complete-8-days",
+  "slug": "riviera-maya-complete-8-days",
+  "title": "Riviera Maya Complete - 8 Days",
+  "subtitle": "Beaches, Cenotes, Ruins & Everything the Mexican Caribbean Offers",
+  "duration": "8 Days",
+  "meta_title": "Riviera Maya 8-Day Itinerary - Complete Caribbean Guide 2025",
+  "meta_description": "The ultimate 8-day Riviera Maya itinerary: explore Playa del Carmen, Tulum, cenotes, Mayan ruins, island day trips, and hidden gems along Mexico's Caribbean coast.",
+  "hero_image": "https://images.unsplash.com/photo-1502781252888-9143ba7f074e?w=1920&h=1080&fit=crop&q=80",
+  "hero_alt": "Turquoise Caribbean waters and white sand beach in the Riviera Maya",
+  "og_image": "https://images.unsplash.com/photo-1502781252888-9143ba7f074e?w=1200&h=630&fit=crop&q=80",
+  "introduction": "The Riviera Maya packs an incredible diversity into 100 miles of Caribbean coastline. This 8-day itinerary takes you beyond the beach to explore ancient cenotes, Mayan ruins, charming towns, and island escapes—while still leaving time for beach relaxation and excellent food.",
+  "best_for": ["Beach lovers", "Adventure seekers", "History buffs", "Couples", "Families"],
+  "estimated_budget": {
+    "budget": "$800-1,200 USD per person",
+    "mid_range": "$1,500-2,500 USD per person",
+    "luxury": "$4,000+ USD per person"
+  },
+  "best_time": "December to April for best weather; avoid September-October (hurricane season)",
+  "destinations": ["Playa del Carmen", "Tulum", "Cozumel", "Valladolid"],
+  "highlights": [
+    "Swim in magical cenotes (underground sinkholes)",
+    "Explore Tulum ruins overlooking the Caribbean",
+    "Snorkel with sea turtles in Akumal",
+    "Dive or snorkel Cozumel's world-famous reefs",
+    "Day trip to Chichén Itzá, one of the New Seven Wonders",
+    "Experience Tulum's bohemian beach club scene",
+    "Discover the charming colonial town of Valladolid"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Arrival & Playa del Carmen",
+      "location": "Cancún Airport → Playa del Carmen",
+      "description": "Arrive at Cancún airport and transfer to Playa del Carmen, the Riviera Maya's main hub. Check in, get oriented, and explore the famous 5th Avenue before dinner on the beach.",
+      "image": "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Airport transfer to Playa del Carmen (45 min)",
+        "Check in to hotel and unwind",
+        "Sunset walk on 5th Avenue (Quinta Avenida)",
+        "Dinner at La Fisheria (seafood) or El Fogón (tacos)",
+        "Evening drinks at a beach bar"
+      ],
+      "accommodation": {
+        "budget": "Hostel 3B ($30-50)",
+        "mid_range": "The Fives or Thompson Playa ($200-350)",
+        "luxury": "Rosewood Mayakoba or Banyan Tree ($800+)"
+      },
+      "tips": ["Pre-arrange airport transfer for smooth arrival", "5th Avenue is pedestrian—wear comfortable shoes", "Make dinner reservations for popular restaurants"]
+    },
+    {
+      "day": 2,
+      "title": "Cenotes Day",
+      "location": "Cenote Route",
+      "description": "Dedicate today to exploring the Riviera Maya's magical cenotes—natural sinkholes with crystal-clear water connected by the world's largest underwater cave system. Visit 2-3 cenotes with different experiences.",
+      "image": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Early start: Rent a car or join a cenote tour",
+        "Morning: Gran Cenote (swim with turtles)",
+        "Mid-morning: Cenote Dos Ojos (cave snorkeling)",
+        "Lunch in Tulum town",
+        "Afternoon: Cenote Azul or Cenote Cristalino (open-air)",
+        "Return to Playa del Carmen",
+        "Dinner at Alux (restaurant inside a cave)"
+      ],
+      "accommodation": {
+        "budget": "Same as Day 1",
+        "mid_range": "Same as Day 1",
+        "luxury": "Same as Day 1"
+      },
+      "tips": ["Arrive early at cenotes to beat crowds", "Reef-safe sunscreen required (regular sunscreen banned)", "Bring cash for cenote entrance fees"]
+    },
+    {
+      "day": 3,
+      "title": "Cozumel Island Day Trip",
+      "location": "Cozumel Island",
+      "description": "Take the ferry to Mexico's largest Caribbean island, famous for world-class diving and snorkeling. Even non-divers can experience the incredible reefs on snorkel tours.",
+      "image": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Morning ferry to Cozumel from Playa del Carmen (45 min)",
+        "Rent a scooter or car to explore the island",
+        "Snorkel or dive the Palancar and Colombia reefs",
+        "Lunch at beachside restaurant (Money Bar or Coconuts)",
+        "Drive the coastal road for views and small beaches",
+        "Return ferry to Playa del Carmen",
+        "Sunset drinks and dinner in Playa"
+      ],
+      "accommodation": {
+        "budget": "Same as Day 1",
+        "mid_range": "Same as Day 1",
+        "luxury": "Same as Day 1"
+      },
+      "tips": ["Ferries run every hour; buy tickets at the dock", "Book dive/snorkel tours in advance for best boats", "The east coast is beautiful but too rough for swimming"]
+    },
+    {
+      "day": 4,
+      "title": "Move to Tulum & Beach Clubs",
+      "location": "Playa del Carmen → Tulum",
+      "description": "Check out and drive south to Tulum, the Riviera Maya's bohemian hotspot. Settle in, then spend the afternoon at Tulum's famous beach clubs with their jungle-meets-beach vibes.",
+      "image": "https://images.unsplash.com/photo-1518105779142-d975f22f1b0a?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Check out and drive to Tulum (45 min)",
+        "Check in to Tulum beach zone or town hotel",
+        "Late lunch at Hartwood (reservations essential) or Posada Margherita",
+        "Afternoon: Beach club time (Papaya Playa, Be Tulum, or Casa Malca)",
+        "Watch sunset from the beach",
+        "Dinner at Arca or Kitchen Table"
+      ],
+      "accommodation": {
+        "budget": "Hostel Che Tulum ($35-60)",
+        "mid_range": "Be Tulum or Nomade ($300-500)",
+        "luxury": "Casa Malca or Azulik ($600+)"
+      },
+      "tips": ["Tulum beach zone has no ATMs—bring cash", "Bike rental is the best way to get around the beach strip", "Reservations are essential for popular restaurants"]
+    },
+    {
+      "day": 5,
+      "title": "Tulum Ruins & Sian Ka'an",
+      "location": "Tulum Ruins / Sian Ka'an Biosphere",
+      "description": "Visit the iconic Tulum ruins at sunrise before the crowds, then venture into the Sian Ka'an Biosphere Reserve for pristine beaches, ancient Mayan canals, and incredible wildlife.",
+      "image": "https://images.unsplash.com/photo-1518105779142-d975f22f1b0a?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Sunrise: Tulum Archaeological Zone (opens 8am)",
+        "Explore the clifftop ruins overlooking the Caribbean",
+        "Quick swim at the beach below the ruins",
+        "Mid-morning: Join Sian Ka'an Biosphere tour",
+        "Float the ancient Mayan canals",
+        "Spot wildlife (dolphins, manatees, birds)",
+        "Return to Tulum for evening",
+        "Dinner at Rosa Negra or Gitano"
+      ],
+      "accommodation": {
+        "budget": "Same as Day 4",
+        "mid_range": "Same as Day 4",
+        "luxury": "Same as Day 4"
+      },
+      "tips": ["Arrive at Tulum ruins at opening to beat crowds and heat", "Sian Ka'an tours take half a day—book ahead", "Bring binoculars for bird watching"]
+    },
+    {
+      "day": 6,
+      "title": "Chichén Itzá & Valladolid",
+      "location": "Chichén Itzá / Valladolid",
+      "description": "Early departure for Chichén Itzá, one of the New Seven Wonders of the World. After exploring the ruins, stop in the charming colonial town of Valladolid for lunch and cenote swimming.",
+      "image": "https://images.unsplash.com/photo-1518105779142-d975f22f1b0a?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Very early departure from Tulum (5am ideal)",
+        "Arrive Chichén Itzá at opening (8am) before tour buses",
+        "Explore the pyramid, ball court, and temples (3 hours)",
+        "Drive to Valladolid (45 min)",
+        "Lunch in the colonial plaza",
+        "Afternoon: Cenote Suytun or Cenote Zací",
+        "Explore colorful Valladolid streets",
+        "Return to Tulum for final evening"
+      ],
+      "accommodation": {
+        "budget": "Same as Day 4",
+        "mid_range": "Same as Day 4",
+        "luxury": "Same as Day 4"
+      },
+      "tips": ["Leave by 5am to arrive at Chichén opening", "The pyramid can't be climbed, but it's still awe-inspiring", "Valladolid is charming—don't rush through"]
+    },
+    {
+      "day": 7,
+      "title": "Akumal Turtles & Relaxation",
+      "location": "Akumal / Tulum Beach",
+      "description": "A gentler day focused on wildlife and relaxation. Morning snorkel with wild sea turtles in Akumal Bay, then return to Tulum for final beach time, spa treatment, or shopping.",
+      "image": "https://images.unsplash.com/photo-1559827291-72ee739d0d9a?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Morning: Drive to Akumal (30 min north)",
+        "Snorkel with sea turtles in Akumal Bay",
+        "Brunch at Akumal beachfront restaurant",
+        "Return to Tulum",
+        "Afternoon: Beach time, spa treatment, or shopping",
+        "Final sunset at favorite beach club",
+        "Farewell dinner: Chef's table at Arca or return favorite"
+      ],
+      "accommodation": {
+        "budget": "Same as Day 4",
+        "mid_range": "Same as Day 4",
+        "luxury": "Same as Day 4"
+      },
+      "tips": ["Book a guided Akumal snorkel tour for best turtle spots", "Don't touch or chase the turtles", "Treat yourself to a cenote or jungle spa treatment"]
+    },
+    {
+      "day": 8,
+      "title": "Departure Day",
+      "location": "Tulum → Cancún Airport",
+      "description": "Final morning in paradise before heading to the airport. Depending on flight time, squeeze in last activities or simply enjoy a leisurely breakfast.",
+      "image": "https://images.unsplash.com/photo-1502781252888-9143ba7f074e?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Leisurely breakfast at hotel or café",
+        "Optional: Final cenote swim or beach time",
+        "Pack and check out",
+        "Drive to Cancún airport (1.5-2 hours)",
+        "Return rental car or catch transfer"
+      ],
+      "accommodation": {
+        "budget": "N/A (departure day)",
+        "mid_range": "N/A (departure day)",
+        "luxury": "N/A (departure day)"
+      },
+      "tips": ["Build in 2+ hours for airport drive (traffic varies)", "Return rental car with full tank to avoid charges", "The drive has good views—leave time to enjoy"]
+    }
+  ],
+  "practical_info": {
+    "getting_there": "Fly into Cancún International Airport (CUN). Rent a car for flexibility or use ADO buses/shuttles between towns.",
+    "getting_around": "Rental car recommended for cenotes and flexibility. Colectivos (shared vans) connect towns cheaply. Uber works in Cancún and Playa. Bikes are best in Tulum.",
+    "what_to_pack": ["Multiple swimsuits (humidity means slow drying)", "Reef-safe sunscreen (required)", "Water shoes for rocky cenotes", "Light coverups for restaurants", "Cash for cenotes and small vendors"]
+  },
+  "faqs": [
+    {
+      "question": "Do I need a rental car?",
+      "answer": "Highly recommended. While you can use colectivos and buses, a car gives freedom to explore cenotes, arrive early at ruins, and access Sian Ka'an. Book in advance for best rates. Roads are good and driving is easy."
+    },
+    {
+      "question": "Playa del Carmen or Tulum as a base?",
+      "answer": "We recommend splitting time: Playa is more convenient, with better restaurants and nightlife. Tulum is more bohemian and beautiful but spread out and pricier. This itinerary gives you both."
+    },
+    {
+      "question": "What about all-inclusive resorts?",
+      "answer": "This itinerary is designed for independent travelers. All-inclusives work great for relaxation but limit exploration. Consider doing 4 nights at a resort, then 4 nights independent—best of both worlds."
+    },
+    {
+      "question": "Is it safe to drive?",
+      "answer": "Yes. Roads are good, well-signed, and safe. Don't drive at night in remote areas. Watch for speed bumps (topes) in towns. Toll roads are worth the cost for faster, safer travel."
+    }
+  ],
+  "related_itineraries": ["yucatan-7-days", "family-riviera-maya-7-days", "mayan-ruins-10-days"],
+  "tags": ["beach", "cenotes", "ruins", "caribbean", "adventure", "relaxation", "snorkeling"]
+}

@@ -1,0 +1,325 @@
+{
+  "id": "monterrey",
+  "name": "Monterrey",
+  "slug": "monterrey",
+  "state": "Nuevo León",
+  "country": "Mexico",
+  "type": "city",
+  "lang": "en",
+  "coordinates": {
+    "latitude": 25.6866,
+    "longitude": -100.3161
+  },
+  "meta_title": "Monterrey Travel Guide 2025 - Mexico's Mountain Metropolis | Top Mexico Travel",
+  "meta_description": "Discover Monterrey, Mexico's industrial powerhouse: dramatic mountain scenery, adventure sports, world-class cuisine, and modern urban culture in northern Mexico.",
+  "og_image": "https://images.unsplash.com/photo-1585464231875-d9ef1f5ad396?w=1200&h=630&fit=crop&q=80",
+  "og_image_alt": "Monterrey skyline with Cerro de la Silla mountain backdrop",
+  "canonical_url": "https://topmexicotravel.com/en/monterrey/",
+  "hero_image": "https://images.unsplash.com/photo-1585464231875-d9ef1f5ad396?w=1920&h=1080&fit=crop&q=80",
+  "hero_image_alt": "Monterrey cityscape with dramatic mountain scenery",
+  "tagline": "Mexico's powerhouse city where dramatic mountains meet modern ambition and the best carne asada you'll ever taste",
+  "featured_snippet_intro": "Monterrey is Mexico's third-largest city and industrial capital, set dramatically against the Sierra Madre mountains. Known for world-class carne asada, adventure sports in nearby canyons, a thriving arts scene, and a work-hard-play-hard culture that feels distinctly different from the rest of Mexico.",
+  "introduction": "<p>Monterrey is unlike anywhere else in Mexico. This prosperous industrial metropolis—home to major corporations, top universities, and Mexico's wealthiest citizens—sits dramatically at the foot of the Sierra Madre Oriental, with the iconic Cerro de la Silla (Saddle Mountain) dominating the skyline. It's a city of contrasts: glass skyscrapers next to colonial plazas, world-class restaurants serving the country's best beef, and wilderness adventure minutes from downtown.</p><p>Regios (as Monterrey residents are called) have a reputation for being hardworking, entrepreneurial, and fiercely proud of their northern heritage. The cuisine reflects this identity—cabrito (roasted kid goat) and carne asada are practically sacred. The beer culture is legendary (this is where Bohemia, Carta Blanca, and Tecate were born), and the nightlife rivals Mexico City.</p><p>For travelers, Monterrey offers surprising diversity: rappel down waterfalls at Cola de Caballo, hike in Chipinque Ecological Park, explore the stunning MARCO museum, or simply enjoy some of the best food in Mexico. It's a destination for those wanting to see Mexico's modern, ambitious side—and taste what may be the world's greatest grilled meat.</p>",
+  "best_time_to_visit": "October - April",
+  "average_temperature": "26°C / 79°F",
+  "known_for": "Carne Asada, Mountains & Industry",
+  "airport_code": "MTY",
+  "rating": "4.5",
+  "review_count": "2150",
+  "tourist_types_json": "[\"Business Traveler\", \"Foodie\", \"Adventure Seeker\", \"Urban Explorer\", \"Culture Enthusiast\"]",
+
+  "attractions": [
+    {
+      "name": "Macroplaza",
+      "type": "Urban Park/Plaza",
+      "description": "One of the world's largest city plazas, stretching nearly a kilometer with gardens, fountains, the iconic Faro del Comercio laser beacon, and major cultural institutions.",
+      "image": "https://images.unsplash.com/photo-1574493264149-87880133a2ba?w=800&h=600&fit=crop&q=80",
+      "duration": "2-3 hours",
+      "price": "Free",
+      "tip": "Visit at night when the Faro del Comercio shoots its green laser across the city. Sunday is family day.",
+      "coordinates": {"lat": 25.6690, "lng": -100.3100}
+    },
+    {
+      "name": "Museo de Arte Contemporáneo (MARCO)",
+      "type": "Art Museum",
+      "description": "Latin America's premier contemporary art museum housed in a striking modernist building. World-class rotating exhibitions and permanent collection.",
+      "image": "https://images.unsplash.com/photo-1594608661623-aa0bd3a69d98?w=800&h=600&fit=crop&q=80",
+      "duration": "2-3 hours",
+      "price": "$5 USD",
+      "tip": "The giant bronze dove by Juan Soriano at the entrance is a must-photo. Free on Wednesdays.",
+      "coordinates": {"lat": 25.6683, "lng": -100.3089}
+    },
+    {
+      "name": "Parque Fundidora",
+      "type": "Urban Park",
+      "description": "Massive urban park on the site of an old steel foundry with industrial ruins, museums, lakes, skating rink, and cultural venues. Monterrey's Central Park.",
+      "image": "https://images.unsplash.com/photo-1567622661983-57a88fbc03e5?w=800&h=600&fit=crop&q=80",
+      "duration": "3-4 hours",
+      "price": "Free (activities extra)",
+      "tip": "Rent bikes to explore the vast park. The preserved blast furnaces are surreal. Great for families.",
+      "coordinates": {"lat": 25.6781, "lng": -100.2844}
+    },
+    {
+      "name": "Chipinque Ecological Park",
+      "type": "Natural Area",
+      "description": "Protected forest park in the Sierra Madre with hiking and biking trails, stunning views of the city, and cool pine-oak forest just minutes from downtown.",
+      "image": "https://images.unsplash.com/photo-1506953823976-52e1fdc0149a?w=800&h=600&fit=crop&q=80",
+      "duration": "Half day",
+      "price": "$5 USD entry",
+      "tip": "Go early for wildlife and clearer views. The viewpoint trail offers spectacular city panoramas.",
+      "coordinates": {"lat": 25.6167, "lng": -100.3667}
+    },
+    {
+      "name": "Cerro de la Silla Viewpoint",
+      "type": "Natural Landmark",
+      "description": "The iconic saddle-shaped mountain that defines Monterrey's skyline. Multiple viewpoints around the city; the most ambitious can attempt the summit hike.",
+      "image": "https://images.unsplash.com/photo-1518105779142-d975f22f1b0a?w=800&h=600&fit=crop&q=80",
+      "duration": "Varies",
+      "price": "Free",
+      "tip": "Best views at sunset from Paseo Santa Lucía or Parque Fundidora. Summit hike is challenging (8 hours round trip).",
+      "coordinates": {"lat": 25.6333, "lng": -100.2333}
+    },
+    {
+      "name": "Barrio Antiguo",
+      "type": "Historic District",
+      "description": "Monterrey's bohemian quarter with colonial buildings, art galleries, trendy restaurants, bars, and the city's best nightlife. Comes alive on weekends.",
+      "image": "https://images.unsplash.com/photo-1585468274952-66591eb14165?w=800&h=600&fit=crop&q=80",
+      "duration": "Evening",
+      "price": "Free",
+      "tip": "Come Thursday-Saturday for nightlife. Café Iguana is legendary for live rock music.",
+      "coordinates": {"lat": 25.6672, "lng": -100.3039}
+    },
+    {
+      "name": "Grutas de García",
+      "type": "Natural Wonder",
+      "description": "Spectacular cavern system in the mountains west of Monterrey, reached by cable car. Formed 50-60 million years ago with impressive stalactites and stalagmites.",
+      "image": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&h=600&fit=crop&q=80",
+      "duration": "Half day",
+      "price": "$15 USD (includes cable car)",
+      "tip": "Cable car ride has great views. Inside the caves is cool—bring a light jacket. 45 minutes from downtown.",
+      "coordinates": {"lat": 25.7833, "lng": -100.5500}
+    },
+    {
+      "name": "Cola de Caballo Waterfall",
+      "type": "Natural Wonder",
+      "description": "40-meter 'Horsetail' waterfall in a scenic canyon south of Monterrey. Horseback riding, rappelling, and hiking available in the surrounding area.",
+      "image": "https://images.unsplash.com/photo-1590073242678-70ee3fc28e8e?w=800&h=600&fit=crop&q=80",
+      "duration": "Half day",
+      "price": "$5 USD entry",
+      "tip": "Best water flow is July-October after rains. Combine with Villa de Santiago town for lunch. 45 minutes from downtown.",
+      "coordinates": {"lat": 25.3667, "lng": -100.1833}
+    },
+    {
+      "name": "Paseo Santa Lucía",
+      "type": "Urban Attraction",
+      "description": "Scenic canal walk connecting Macroplaza to Fundidora Park. Boat rides through tunnels, fountains, and public art. Beautiful at night.",
+      "image": "https://images.unsplash.com/photo-1567622661983-57a88fbc03e5?w=800&h=600&fit=crop&q=80",
+      "duration": "1-2 hours",
+      "price": "Free walk / $5 boat ride",
+      "tip": "Take the boat ride for a unique perspective. The fountains and lighting at night are magical.",
+      "coordinates": {"lat": 25.6700, "lng": -100.3000}
+    },
+    {
+      "name": "Huasteca Canyon",
+      "type": "Natural Area",
+      "description": "Dramatic canyon with 300-meter walls just 20 minutes from downtown. Rock climbing, hiking, and mountain biking in a stunning geological formation.",
+      "image": "https://images.unsplash.com/photo-1518105779142-d975f22f1b0a?w=800&h=600&fit=crop&q=80",
+      "duration": "Half-full day",
+      "price": "Free",
+      "tip": "Sunrise and sunset light up the canyon walls dramatically. Excellent for rock climbing with guides available.",
+      "coordinates": {"lat": 25.6500, "lng": -100.4500}
+    }
+  ],
+
+  "neighborhoods": [
+    {
+      "name": "Centro/Macroplaza",
+      "slug": "centro",
+      "description": "The historic heart with the enormous Macroplaza, cathedral, government palace, and major museums. Business district by day, quiet by night.",
+      "image": "https://images.unsplash.com/photo-1574493264149-87880133a2ba?w=800&h=600&fit=crop&q=80",
+      "vibe": "Historic, business, cultural",
+      "best_for": "Sightseeing, museums, architecture",
+      "highlights": ["Macroplaza", "MARCO", "Cathedral", "Faro del Comercio"]
+    },
+    {
+      "name": "Barrio Antiguo",
+      "slug": "barrio-antiguo",
+      "description": "The old quarter transformed into Monterrey's hippest neighborhood. Galleries, restaurants, bars, and weekend nightlife in colonial buildings.",
+      "image": "https://images.unsplash.com/photo-1585468274952-66591eb14165?w=800&h=600&fit=crop&q=80",
+      "vibe": "Bohemian, nightlife, artsy",
+      "best_for": "Nightlife, dining, galleries, weekend fun",
+      "highlights": ["Nightclubs", "Restaurants", "Art galleries", "Weekend scene"]
+    },
+    {
+      "name": "San Pedro Garza García",
+      "slug": "san-pedro",
+      "description": "Affluent suburb with Mexico's highest per-capita income. Upscale malls, fine dining, and gateway to Chipinque park.",
+      "image": "https://images.unsplash.com/photo-1567622661983-57a88fbc03e5?w=800&h=600&fit=crop&q=80",
+      "vibe": "Upscale, modern, residential",
+      "best_for": "Fine dining, shopping, Chipinque access",
+      "highlights": ["Fine dining", "Luxury shopping", "Chipinque park", "Mountain views"]
+    },
+    {
+      "name": "Valle Oriente",
+      "slug": "valle-oriente",
+      "description": "Modern business and shopping district with high-rise hotels, convention center, and upscale amenities. Convenient for business travelers.",
+      "image": "https://images.unsplash.com/photo-1567627097931-5d9aabe8d1ee?w=800&h=600&fit=crop&q=80",
+      "vibe": "Business, modern, convenient",
+      "best_for": "Business travelers, conventions, modern hotels",
+      "highlights": ["Hotels", "Convention center", "Shopping", "Corporate offices"]
+    }
+  ],
+
+  "featured_hotels": [
+    {
+      "name": "Habita MTY",
+      "category": "Design Hotel",
+      "stars": 5,
+      "price_range": "$200",
+      "description": "Ultra-modern design hotel in San Pedro with rooftop pool, trendy restaurant, and minimalist aesthetic. Monterrey's coolest stay.",
+      "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?w=800&h=600&fit=crop&q=80",
+      "features": ["Rooftop pool", "Design aesthetic", "Restaurant", "San Pedro location"]
+    },
+    {
+      "name": "Grand Fiesta Americana",
+      "category": "Business Luxury",
+      "stars": 5,
+      "price_range": "$180",
+      "description": "Elegant business hotel in Valle Oriente with excellent service, multiple restaurants, and convenient corporate location.",
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800&h=600&fit=crop&q=80",
+      "features": ["Business facilities", "Multiple restaurants", "Pool", "Convention access"]
+    },
+    {
+      "name": "NH Collection San Pedro",
+      "category": "Modern Business",
+      "stars": 4,
+      "price_range": "$120",
+      "description": "Contemporary hotel in affluent San Pedro with excellent restaurant and easy access to dining and shopping.",
+      "image": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=800&h=600&fit=crop&q=80",
+      "features": ["Modern rooms", "Restaurant", "Gym", "San Pedro location"]
+    },
+    {
+      "name": "Holiday Inn Express Centro",
+      "category": "Mid-Range",
+      "stars": 3,
+      "price_range": "$80",
+      "description": "Reliable option near Macroplaza with comfortable rooms, breakfast included, and walkable access to attractions.",
+      "image": "https://images.unsplash.com/photo-1564501049412-61c2a3083791?w=800&h=600&fit=crop&q=80",
+      "features": ["Breakfast included", "Central location", "Reliable", "Good value"]
+    }
+  ],
+
+  "featured_restaurants": [
+    {
+      "name": "El Gran Pastor",
+      "cuisine": "Northern Mexican/Cabrito",
+      "price_range": "$$",
+      "description": "The legendary spot for cabrito (roasted kid goat), Monterrey's signature dish. Locals and visitors alike pilgrimage here for the perfectly roasted meat.",
+      "image": "https://images.unsplash.com/photo-1544025162-d76694265947?w=800&h=600&fit=crop&q=80",
+      "must_try": ["Cabrito al pastor", "Machaca con huevo", "Frijoles charros"]
+    },
+    {
+      "name": "Pangea",
+      "cuisine": "Contemporary Mexican",
+      "price_range": "$$$$",
+      "description": "Chef Guillermo González Beristáin's acclaimed restaurant pushing Mexican cuisine forward. Tasting menus showcase the best of Nuevo León.",
+      "image": "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=800&h=600&fit=crop&q=80",
+      "must_try": ["Tasting menu", "Local ingredients", "Wine pairing"]
+    },
+    {
+      "name": "La Catarina",
+      "cuisine": "Carne Asada",
+      "price_range": "$$",
+      "description": "Local institution for the city's famous grilled beef. Thick cuts of arrachera and ribeye cooked over mesquite. Don't skip the roasted cheese.",
+      "image": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?w=800&h=600&fit=crop&q=80",
+      "must_try": ["Arrachera", "Queso asado", "Frijoles charros"]
+    },
+    {
+      "name": "Café Iguana",
+      "cuisine": "Bar/Live Music",
+      "price_range": "$$",
+      "description": "Legendary Barrio Antiguo bar that launched Mexico's rock en español movement. Live music, cold beer, and authentic regio nightlife.",
+      "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?w=800&h=600&fit=crop&q=80",
+      "must_try": ["Local craft beer", "Live music nights", "Late night tacos"]
+    },
+    {
+      "name": "El Rey del Cabrito",
+      "cuisine": "Traditional Northern",
+      "price_range": "$$",
+      "description": "Another cabrito institution with a family-friendly atmosphere. Reliable, traditional, and beloved by locals for generations.",
+      "image": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?w=800&h=600&fit=crop&q=80",
+      "must_try": ["Cabrito", "Carne asada tampiqueña", "Machaca"]
+    }
+  ],
+
+  "day_trips": [
+    {
+      "name": "Grutas de García & Villa de Santiago",
+      "distance": "45km",
+      "description": "Morning at the spectacular caves (cable car included), followed by lunch in the charming mountain town of Villa de Santiago.",
+      "image": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&h=600&fit=crop&q=80",
+      "tips": "Go early to beat crowds. The cable car has great views. Villa de Santiago has excellent restaurants."
+    },
+    {
+      "name": "Cola de Caballo & Santiago",
+      "distance": "40km",
+      "description": "Visit the scenic horsetail waterfall and explore the surrounding canyon area. Horseback riding and hiking available.",
+      "image": "https://images.unsplash.com/photo-1590073242678-70ee3fc28e8e?w=800&h=600&fit=crop&q=80",
+      "tips": "Best water flow after rainy season. Combine with Villa de Santiago for a full day."
+    },
+    {
+      "name": "Real de Catorce",
+      "distance": "350km",
+      "description": "Full-day or overnight trip to the magical ghost mining town in the high desert. Incredible atmosphere, peyote country, and stunning landscapes.",
+      "image": "https://images.unsplash.com/photo-1580152969655-00a7c66e25b6?w=800&h=600&fit=crop&q=80",
+      "tips": "Consider overnight stay. The tunnel entrance is dramatic. Popular with spiritual seekers."
+    }
+  ],
+
+  "faqs": [
+    {
+      "question": "Is Monterrey safe for tourists?",
+      "answer": "Monterrey has improved significantly and tourist areas (San Pedro, Centro, Barrio Antiguo) are safe. Use Uber instead of street taxis at night. Avoid flashy displays of wealth. The business-oriented culture means less street crime than some Mexican cities. Exercise normal urban precautions."
+    },
+    {
+      "question": "What food must I try?",
+      "answer": "Cabrito al pastor (roasted young goat) is the signature dish—don't leave without trying it. Carne asada here is considered Mexico's best, especially arrachera. Other must-tries: machaca (dried beef), frijoles charros (cowboy beans), and local craft beers from the birthplace of Mexican brewing."
+    },
+    {
+      "question": "When is the best time to visit?",
+      "answer": "October to April offers pleasant weather (summers are extremely hot, often exceeding 40°C/104°F). March-April and October-November are ideal with comfortable temperatures. Winter can be chilly at night. Avoid summer unless you love intense heat."
+    },
+    {
+      "question": "How do I get around?",
+      "answer": "Uber is the best option—affordable and widely available. The metro covers central areas but isn't extensive. Driving is manageable but traffic is heavy. For day trips (caves, waterfalls), rent a car or book tours. The city is spread out, so plan accordingly."
+    },
+    {
+      "question": "Is Monterrey just for business travelers?",
+      "answer": "No! While it's Mexico's business capital, Monterrey offers excellent museums (MARCO is world-class), incredible food, adventure sports minutes from downtown, and a thriving cultural scene. It's a great destination for foodies, adventure travelers, and those wanting to see modern Mexico."
+    },
+    {
+      "question": "How is Monterrey different from other Mexican cities?",
+      "answer": "Monterrey feels distinctly 'northern'—more influenced by the US, more business-oriented, and with its own proud regional identity. Regios consider themselves hardworking and entrepreneurial. The food is meat-focused (best beef in Mexico), the beer culture is strong, and the city feels prosperous and modern."
+    }
+  ],
+
+  "getting_there": "Monterrey International Airport (MTY) has direct flights from major US cities (Houston, Dallas, Chicago, LA) and all Mexican hubs. The airport is 30 minutes from downtown. ADO buses connect to Mexico City (10 hours) and other cities. By car, it's 3 hours from the Texas border at Laredo.",
+  "getting_around": "Uber is the best option—reliable and affordable. The metro system covers central areas but isn't comprehensive. Driving is manageable with moderate traffic (compared to Mexico City). For attractions like Chipinque, Huasteca, or waterfalls, rent a car or book tours.",
+  "safety_info": "Monterrey has improved significantly and tourist areas are safe. Stick to San Pedro, Centro, Barrio Antiguo, and major attractions. Use Uber instead of street taxis at night. Avoid displaying expensive jewelry or electronics. The business-oriented culture means less petty crime than tourist-dependent cities.",
+
+  "related_destinations": [
+    {
+      "name": "Mexico City",
+      "url": "/en/mexico-city/",
+      "image": "https://images.unsplash.com/photo-1518659526054-e8b8b4a8e1b6?w=400&h=300&fit=crop&q=80"
+    },
+    {
+      "name": "Guadalajara",
+      "url": "/en/guadalajara/",
+      "image": "https://images.unsplash.com/photo-1606402179428-a57976d71fa4?w=400&h=300&fit=crop&q=80"
+    }
+  ],
+
+  "tags": ["city", "business", "food", "mountains", "modern", "adventure", "urban", "culture"],
+  "schema_type": "TouristDestination"
+}

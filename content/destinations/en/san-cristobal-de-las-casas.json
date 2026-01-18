@@ -1,0 +1,337 @@
+{
+  "id": "san-cristobal-de-las-casas",
+  "name": "San Cristóbal de las Casas",
+  "slug": "san-cristobal-de-las-casas",
+  "state": "Chiapas",
+  "country": "Mexico",
+  "type": "colonial",
+  "lang": "en",
+  "coordinates": {
+    "latitude": 16.7370,
+    "longitude": -92.6376
+  },
+  "meta_title": "San Cristóbal de las Casas Guide 2025 - Chiapas, Mexico | Top Mexico Travel",
+  "meta_description": "Explore San Cristóbal de las Casas in Chiapas: indigenous Maya culture, colonial architecture, amber markets, and gateway to Palenque ruins and jungle waterfalls.",
+  "og_image": "https://images.unsplash.com/photo-1605214332753-e91c7f3aff77?w=1200&h=630&fit=crop&q=80",
+  "og_image_alt": "Colorful colonial streets of San Cristóbal de las Casas, Chiapas",
+  "canonical_url": "https://topmexicotravel.com/en/san-cristobal-de-las-casas/",
+  "hero_image": "https://images.unsplash.com/photo-1605214332753-e91c7f3aff77?w=1920&h=1080&fit=crop&q=80",
+  "hero_image_alt": "Colonial buildings and church in San Cristóbal de las Casas highlands",
+  "tagline": "Where ancient Maya traditions meet Spanish colonial charm in the misty Chiapas highlands",
+  "featured_snippet_intro": "San Cristóbal de las Casas is a magical colonial city in the Chiapas highlands where living Maya cultures, cobblestone streets, indigenous markets, and cloud forests create one of Mexico's most atmospheric destinations. It's the gateway to Palenque, Sumidero Canyon, and stunning jungle waterfalls.",
+  "introduction": "<p>Nestled at 7,000 feet in the misty highlands of Chiapas, San Cristóbal de las Casas feels like stepping into another era. This colonial city, founded by the Spanish in 1528, remains deeply connected to the indigenous Tzotzil and Tzeltal Maya peoples whose villages dot the surrounding mountains. Here, women in traditional embroidered huipiles sell handicrafts in markets, shamanic ceremonies blend Catholic and pre-Hispanic traditions, and the aroma of locally grown coffee fills cobblestone streets.</p><p>San Cristóbal serves as the cultural heart of Chiapas and the perfect base for exploring this remote, biodiverse state. Day trips reveal ancient Mayan ruins at Palenque rising from the jungle, the dramatic Sumidero Canyon with its 1,000-meter walls, turquoise waterfalls at Agua Azul, and traditional villages where outsiders are genuinely welcomed into ancient customs.</p><p>The city itself is a treasure: baroque churches, colorful markets overflowing with amber jewelry and textiles, excellent restaurants serving Chiapan cuisine, and a bohemian traveler scene that has called this place home for decades. Cool mountain weather, warm indigenous culture, and adventure around every corner make San Cristóbal one of Mexico's most rewarding destinations.</p>",
+  "best_time_to_visit": "November - April",
+  "average_temperature": "16°C / 61°F",
+  "known_for": "Indigenous Culture & Jungle Ruins",
+  "airport_code": "SZT/TGZ",
+  "rating": "4.8",
+  "review_count": "2890",
+  "tourist_types_json": "[\"Culture Seeker\", \"Adventure Traveler\", \"Photographer\", \"Anthropology Enthusiast\", \"Eco-Tourist\"]",
+
+  "attractions": [
+    {
+      "name": "Indigenous Villages: San Juan Chamula",
+      "type": "Cultural Experience",
+      "description": "Extraordinary Tzotzil Maya village with a syncretic church where shamanic rituals blend with Catholicism. No photos inside the church—this is living spirituality, not a museum.",
+      "image": "https://images.unsplash.com/photo-1605214332753-e91c7f3aff77?w=800&h=600&fit=crop&q=80",
+      "duration": "Half day",
+      "price": "$3 USD entry",
+      "tip": "Hire a local guide to understand the traditions. Sunday market is most vibrant. Photography of people requires permission.",
+      "coordinates": {"lat": 16.7897, "lng": -92.6875}
+    },
+    {
+      "name": "Palenque Archaeological Zone",
+      "type": "UNESCO World Heritage Site",
+      "description": "Stunning Maya city rising from the jungle with the famous Temple of Inscriptions (Lord Pakal's tomb), Palace complex, and temples with original stucco art.",
+      "image": "https://images.unsplash.com/photo-1568402102990-bc541580b59f?w=800&h=600&fit=crop&q=80",
+      "duration": "Full day trip",
+      "price": "$10 USD entry",
+      "tip": "2.5-hour drive from San Cristóbal. Stay overnight in Palenque town to visit at opening. Combine with Agua Azul waterfalls.",
+      "coordinates": {"lat": 17.4838, "lng": -92.0461}
+    },
+    {
+      "name": "Sumidero Canyon",
+      "type": "Natural Wonder",
+      "description": "Massive canyon with walls up to 1,000 meters carved by the Grijalva River. Boat tours pass crocodiles, monkeys, and a stunning natural Christmas tree of moss and vines.",
+      "image": "https://images.unsplash.com/photo-1518105779142-d975f22f1b0a?w=800&h=600&fit=crop&q=80",
+      "duration": "Half day",
+      "price": "$15-25 USD tour",
+      "tip": "Book tour from San Cristóbal. Boats leave from Chiapa de Corzo. Morning departures have calmer water.",
+      "coordinates": {"lat": 16.8500, "lng": -93.0833}
+    },
+    {
+      "name": "Agua Azul Waterfalls",
+      "type": "Natural Wonder",
+      "description": "Series of stunning turquoise waterfalls and cascading pools in the Chiapas jungle. Swimming possible in dry season when water is bluest.",
+      "image": "https://images.unsplash.com/photo-1590073242678-70ee3fc28e8e?w=800&h=600&fit=crop&q=80",
+      "duration": "Half day",
+      "price": "$5 USD entry",
+      "tip": "Best visited en route to Palenque. Water is blue in dry season (Nov-May), brown in rainy season. Bring swimwear.",
+      "coordinates": {"lat": 17.2572, "lng": -92.1147}
+    },
+    {
+      "name": "Andador Guadalupano & Centro",
+      "type": "Cultural Walk",
+      "description": "Pedestrian street connecting the main square to Guadalupe Church, lined with restaurants, cafes, and shops. The heart of San Cristóbal's colonial charm.",
+      "image": "https://images.unsplash.com/photo-1585468274952-66591eb14165?w=800&h=600&fit=crop&q=80",
+      "duration": "2-3 hours",
+      "price": "Free",
+      "tip": "Walk from Santo Domingo church through Real de Guadalupe for the full experience. Best in late afternoon.",
+      "coordinates": {"lat": 16.7370, "lng": -92.6376}
+    },
+    {
+      "name": "Santo Domingo Church & Amber Museum",
+      "type": "Historic Site/Museum",
+      "description": "Magnificent 16th-century baroque church with incredibly ornate facade. Adjacent amber museum displays Chiapas' famous fossilized resin with prehistoric inclusions.",
+      "image": "https://images.unsplash.com/photo-1518638150340-f706e86654de?w=800&h=600&fit=crop&q=80",
+      "duration": "1-2 hours",
+      "price": "Free church / $3 museum",
+      "tip": "The artisan market outside Santo Domingo is one of Mexico's best for textiles and crafts.",
+      "coordinates": {"lat": 16.7400, "lng": -92.6378}
+    },
+    {
+      "name": "Na Bolom Museum",
+      "type": "Museum/Cultural Center",
+      "description": "Former home of archaeologist Frans Blom and photographer Trudy Blom, dedicated to protecting Lacandón Maya culture. Beautiful gardens and excellent library.",
+      "image": "https://images.unsplash.com/photo-1594608661623-aa0bd3a69d98?w=800&h=600&fit=crop&q=80",
+      "duration": "1-2 hours",
+      "price": "$6 USD",
+      "tip": "Take a guided tour to understand the Bloms' legacy. The research library is world-class for Maya studies.",
+      "coordinates": {"lat": 16.7394, "lng": -92.6311}
+    },
+    {
+      "name": "Zinacantán Village",
+      "type": "Cultural Experience",
+      "description": "Tzotzil village famous for flower cultivation and stunning woven textiles. More open to photography than Chamula, with weaving demonstrations in family homes.",
+      "image": "https://images.unsplash.com/photo-1596436889106-be35e843f974?w=800&h=600&fit=crop&q=80",
+      "duration": "Half day",
+      "price": "$2 USD entry",
+      "tip": "Visit a weaving cooperative to see back-strap loom demonstrations. Buy directly from weavers for best prices.",
+      "coordinates": {"lat": 16.7597, "lng": -92.7239}
+    },
+    {
+      "name": "Lagos de Montebello",
+      "type": "National Park",
+      "description": "Series of 59 multicolored lakes on the Guatemala border, each with different mineral content creating blues, greens, and turquoises.",
+      "image": "https://images.unsplash.com/photo-1506953823976-52e1fdc0149a?w=800&h=600&fit=crop&q=80",
+      "duration": "Full day",
+      "price": "$5 USD",
+      "tip": "2-hour drive from San Cristóbal. Combine with Chinkultic ruins for a full day. Raft across lakes for unique perspective.",
+      "coordinates": {"lat": 16.1000, "lng": -91.7333}
+    },
+    {
+      "name": "Coffee Fincas",
+      "type": "Agricultural Tourism",
+      "description": "Chiapas produces some of Mexico's best coffee. Tour highland fincas (farms) to see organic cultivation, processing, and taste exceptional single-origin beans.",
+      "image": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=800&h=600&fit=crop&q=80",
+      "duration": "Half day",
+      "price": "$20-40 USD tour",
+      "tip": "Book a tour to working fincas outside San Cristóbal. Learn about fair trade and indigenous coffee cooperatives.",
+      "coordinates": {"lat": 16.7300, "lng": -92.6500}
+    }
+  ],
+
+  "neighborhoods": [
+    {
+      "name": "Centro Histórico",
+      "slug": "centro-historico",
+      "description": "The colonial heart of San Cristóbal with main plaza, Santo Domingo church, cathedral, and pedestrian streets lined with cafes and shops.",
+      "image": "https://images.unsplash.com/photo-1605214332753-e91c7f3aff77?w=800&h=600&fit=crop&q=80",
+      "vibe": "Colonial, bustling, touristic",
+      "best_for": "First-time visitors, walkers, cafe lovers",
+      "highlights": ["Santo Domingo", "Main plaza", "Andador Guadalupano", "Amber shops"]
+    },
+    {
+      "name": "Real de Guadalupe",
+      "slug": "real-de-guadalupe",
+      "description": "Lively pedestrian street connecting centro to Guadalupe Church, packed with international restaurants, bars, hostels, and the backpacker scene.",
+      "image": "https://images.unsplash.com/photo-1585468274952-66591eb14165?w=800&h=600&fit=crop&q=80",
+      "vibe": "Bohemian, international, lively",
+      "best_for": "Budget travelers, nightlife, international food",
+      "highlights": ["Restaurants", "Bars", "Hostels", "Guadalupe Church views"]
+    },
+    {
+      "name": "Barrio de Mexicanos",
+      "slug": "mexicanos",
+      "description": "Traditional neighborhood north of centro with local markets, indigenous residents, and authentic community life away from tourist streets.",
+      "image": "https://images.unsplash.com/photo-1570737209810-87a8e7245f88?w=800&h=600&fit=crop&q=80",
+      "vibe": "Local, authentic, traditional",
+      "best_for": "Authentic experiences, local markets, photography",
+      "highlights": ["Local markets", "Neighborhood churches", "Traditional life"]
+    },
+    {
+      "name": "El Cerrillo",
+      "slug": "el-cerrillo",
+      "description": "Hillside neighborhood with San Cristóbal Church offering panoramic views. Quieter than centro with charming uphill walks through colonial streets.",
+      "image": "https://images.unsplash.com/photo-1580152969655-00a7c66e25b6?w=800&h=600&fit=crop&q=80",
+      "vibe": "Quiet, scenic, residential",
+      "best_for": "Photography, views, peaceful walks",
+      "highlights": ["Viewpoints", "Quiet streets", "Sunset views"]
+    }
+  ],
+
+  "featured_hotels": [
+    {
+      "name": "Casa Na Bolom",
+      "category": "Historic Boutique",
+      "stars": 4,
+      "price_range": "$150",
+      "description": "Stay in the historic home of archaeologist Frans Blom. Museum, gardens, library, and cultural programs included. A unique experience.",
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800&h=600&fit=crop&q=80",
+      "features": ["Historic property", "Museum access", "Gardens", "Cultural programs"]
+    },
+    {
+      "name": "Hotel Bo",
+      "category": "Design Boutique",
+      "stars": 5,
+      "price_range": "$180",
+      "description": "Stylish contemporary hotel with rooftop terrace, excellent restaurant, and modern design respecting colonial context.",
+      "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?w=800&h=600&fit=crop&q=80",
+      "features": ["Rooftop terrace", "Restaurant", "Modern design", "Central location"]
+    },
+    {
+      "name": "Sombra del Agua Hotel",
+      "category": "Colonial Boutique",
+      "stars": 4,
+      "price_range": "$120",
+      "description": "Beautiful colonial property with courtyard, fountain, and traditional Chiapan atmosphere. Walking distance to everything.",
+      "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=800&h=600&fit=crop&q=80",
+      "features": ["Colonial courtyard", "Fountain", "Central location", "Traditional style"]
+    },
+    {
+      "name": "Puerta Vieja Hostel",
+      "category": "Budget",
+      "stars": 3,
+      "price_range": "$20",
+      "description": "Excellent hostel with private rooms, dormitories, and social atmosphere. Great common areas and rooftop.",
+      "image": "https://images.unsplash.com/photo-1555854877-bab0e564b8d5?w=800&h=600&fit=crop&q=80",
+      "features": ["Rooftop", "Social atmosphere", "Kitchen", "Tours"]
+    }
+  ],
+
+  "featured_restaurants": [
+    {
+      "name": "Tierra y Cielo",
+      "cuisine": "Contemporary Chiapan",
+      "price_range": "$$$",
+      "description": "Michelin-recommended restaurant showcasing modern Chiapan cuisine. Beautiful colonial setting with innovative takes on traditional ingredients.",
+      "image": "https://images.unsplash.com/photo-1544025162-d76694265947?w=800&h=600&fit=crop&q=80",
+      "must_try": ["Tasting menu", "Local ingredients", "Chiapan wines"]
+    },
+    {
+      "name": "Troje",
+      "cuisine": "Traditional Chiapan",
+      "price_range": "$$",
+      "description": "Authentic regional cuisine including cochito horneado, tamales, and moles. Beautiful colonial house with garden seating.",
+      "image": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?w=800&h=600&fit=crop&q=80",
+      "must_try": ["Cochito horneado", "Chipilín tamales", "Pozol"]
+    },
+    {
+      "name": "La Viña de Bacco",
+      "cuisine": "Wine Bar/Tapas",
+      "price_range": "$$",
+      "description": "Excellent wine selection with tapas in a cozy atmosphere. Perfect for evening drinks and appetizers.",
+      "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800&h=600&fit=crop&q=80",
+      "must_try": ["Wine flights", "Cheese selection", "Spanish tapas"]
+    },
+    {
+      "name": "Cocoliche",
+      "cuisine": "Organic Vegetarian",
+      "price_range": "$$",
+      "description": "Popular vegetarian restaurant with garden courtyard, organic ingredients, and creative dishes. Good coffee and breakfast.",
+      "image": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=800&h=600&fit=crop&q=80",
+      "must_try": ["Organic breakfasts", "Vegetable dishes", "Local coffee"]
+    },
+    {
+      "name": "Carajillo Café",
+      "cuisine": "Coffee/Breakfast",
+      "price_range": "$",
+      "description": "Excellent Chiapan coffee roasted in-house. Local pastries, simple breakfasts, and the city's best espresso.",
+      "image": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=800&h=600&fit=crop&q=80",
+      "must_try": ["Chiapan coffee", "Carajillo", "Pan dulce"]
+    }
+  ],
+
+  "day_trips": [
+    {
+      "name": "Palenque & Agua Azul",
+      "distance": "215km",
+      "description": "Full-day excursion to the magnificent jungle ruins of Palenque, stopping at Agua Azul waterfalls. One of Mexico's most spectacular day trips.",
+      "image": "https://images.unsplash.com/photo-1568402102990-bc541580b59f?w=800&h=600&fit=crop&q=80",
+      "tips": "Very long day (14+ hours). Consider staying overnight in Palenque. Leave before dawn for earliest possible arrival."
+    },
+    {
+      "name": "Chamula & Zinacantán Villages",
+      "distance": "10-15km",
+      "description": "Visit two indigenous Tzotzil villages: Chamula for its extraordinary syncretic church and Zinacantán for weaving traditions. Half-day possible.",
+      "image": "https://images.unsplash.com/photo-1605214332753-e91c7f3aff77?w=800&h=600&fit=crop&q=80",
+      "tips": "Hire a guide to understand traditions. Sunday is market day in Chamula. No photos inside the church."
+    },
+    {
+      "name": "Sumidero Canyon",
+      "distance": "60km",
+      "description": "Dramatic canyon boat tour with 1,000-meter walls, crocodiles, and wildlife. Stop in charming Chiapa de Corzo town.",
+      "image": "https://images.unsplash.com/photo-1518105779142-d975f22f1b0a?w=800&h=600&fit=crop&q=80",
+      "tips": "Morning tours have calmer water. Combine with Chiapa de Corzo for lunch. Book tour from San Cristóbal."
+    },
+    {
+      "name": "Lagos de Montebello",
+      "distance": "160km",
+      "description": "Multicolored lakes on the Guatemala border. Combine with Chinkultic Maya ruins for a full archaeological and natural experience.",
+      "image": "https://images.unsplash.com/photo-1506953823976-52e1fdc0149a?w=800&h=600&fit=crop&q=80",
+      "tips": "Full-day trip. Raft across lakes for unique experience. Bring layers—highland weather changes quickly."
+    }
+  ],
+
+  "faqs": [
+    {
+      "question": "Is San Cristóbal safe for travelers?",
+      "answer": "San Cristóbal is one of Mexico's safest tourist destinations. The colonial center is very walkable day and night. Surrounding villages welcome respectful tourists. Exercise normal caution, don't display expensive items, and you'll have no problems. The bigger concern is altitude adjustment (7,000 feet) for the first day or two."
+    },
+    {
+      "question": "What's the weather like?",
+      "answer": "Due to altitude (7,000 feet), San Cristóbal has spring-like weather year-round. Days are mild (65-75°F) but mornings and evenings are cold (40-50°F). Bring layers, a warm jacket, and rain gear (especially May-October). It's much cooler than coastal Mexico—pack accordingly."
+    },
+    {
+      "question": "How do I get to San Cristóbal?",
+      "answer": "Fly to Tuxtla Gutiérrez (TGZ, 1 hour drive) or smaller San Cristóbal airport (SZT) with connections through Mexico City. ADO buses from Oaxaca (10 hours), Mexico City (12 hours), and Palenque (5 hours) are comfortable. From Cancún/Riviera Maya, fly via Mexico City."
+    },
+    {
+      "question": "How much time should I spend?",
+      "answer": "Minimum 3-4 days: one day for the city, one for Chamula/Zinacantán villages, and one for a major day trip (Sumidero or start of Palenque trip). A week allows Palenque with overnight, Lagos de Montebello, and relaxed exploration. Two weeks lets you fully explore Chiapas."
+    },
+    {
+      "question": "Can I visit indigenous villages respectfully?",
+      "answer": "Yes, but respect is essential. Never photograph people without permission (and expect to pay a small tip). No photography inside Chamula church. Dress modestly. Hire local guides who understand protocols. These are living communities, not tourist attractions—approach with humility."
+    },
+    {
+      "question": "What should I buy in San Cristóbal?",
+      "answer": "Chiapan amber (buy from reputable shops to avoid fakes), textiles and huipiles from indigenous weavers, locally roasted coffee, handmade ceramics, and posh (traditional wool garments). The market around Santo Domingo is excellent for crafts. Buy directly from artisans when possible."
+    }
+  ],
+
+  "getting_there": "Fly to Tuxtla Gutiérrez Airport (TGZ) with connections from Mexico City (1.5 hours). Airport is 1 hour from San Cristóbal; shuttles run regularly. Alternatively, ADO buses connect to Oaxaca (10 hours), Mexico City (12-14 hours), and Palenque (5 hours). From Cancún area, fly via Mexico City.",
+  "getting_around": "The colonial center is entirely walkable. Colectivo vans to nearby villages (Chamula, Zinacantán) leave from the market area for $1-2. For day trips (Palenque, Sumidero, Lagos), book tours or hire private transport. No Uber; use radio taxis for trips around town.",
+  "safety_info": "San Cristóbal is very safe for tourists. The historic center is well-patrolled and busy until late. Exercise normal precautions: don't display expensive items, use hotel safes, avoid isolated areas at night. Political protests occasionally occur but are typically peaceful. Altitude (7,000 feet) may affect some visitors—take it easy on arrival.",
+
+  "related_destinations": [
+    {
+      "name": "Oaxaca",
+      "url": "/en/oaxaca/",
+      "image": "https://images.unsplash.com/photo-1578632292335-df3abbb0d586?w=400&h=300&fit=crop&q=80"
+    },
+    {
+      "name": "Mexico City",
+      "url": "/en/mexico-city/",
+      "image": "https://images.unsplash.com/photo-1518659526054-e8b8b4a8e1b6?w=400&h=300&fit=crop&q=80"
+    },
+    {
+      "name": "Mérida",
+      "url": "/en/merida/",
+      "image": "https://images.unsplash.com/photo-1589519160732-57fc498494f8?w=400&h=300&fit=crop&q=80"
+    }
+  ],
+
+  "tags": ["colonial", "indigenous", "cultural", "highlands", "archaeological", "adventure", "coffee", "artisan"],
+  "schema_type": "TouristDestination"
+}
