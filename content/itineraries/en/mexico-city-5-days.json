@@ -1,0 +1,162 @@
+{
+  "id": "mexico-city-5-days",
+  "slug": "mexico-city-5-days",
+  "title": "5 Days in Mexico City",
+  "subtitle": "Culture, Cuisine, and History in the World's Greatest Megacity",
+  "duration": "5 Days",
+  "meta_title": "Mexico City 5-Day Itinerary - Complete Travel Guide 2025",
+  "meta_description": "The ultimate 5-day Mexico City guide: historic centro, world-class museums, bohemian neighborhoods, incredible food, and day trips to Teotihuacán. Day-by-day with restaurants and hotels.",
+  "hero_image": "https://images.unsplash.com/photo-1518659526054-e8b8b4a8e1b6?w=1920&h=1080&fit=crop&q=80",
+  "hero_alt": "Palacio de Bellas Artes in Mexico City with stunning Art Nouveau architecture",
+  "og_image": "https://images.unsplash.com/photo-1518659526054-e8b8b4a8e1b6?w=1200&h=630&fit=crop&q=80",
+  "introduction": "Mexico City is one of the world's great cultural capitals—a sprawling megacity where ancient Aztec foundations meet colonial palaces, world-class museums rival Paris and New York, and the food scene has earned global recognition. This 5-day itinerary covers the essential neighborhoods, must-see sights, and culinary experiences that make CDMX unforgettable.",
+  "best_for": ["Culture seekers", "Foodies", "History lovers", "Art enthusiasts", "Urban explorers"],
+  "estimated_budget": {
+    "budget": "$500-800 USD per person",
+    "mid_range": "$1,000-1,800 USD per person",
+    "luxury": "$2,500+ USD per person"
+  },
+  "best_time": "October to May for dry season; September for Independence Day celebrations",
+  "destinations": ["Mexico City"],
+  "highlights": [
+    "Climb the Pyramids at Teotihuacán",
+    "See Diego Rivera murals at the National Palace",
+    "Explore Frida Kahlo's Casa Azul",
+    "Taste street tacos and fine dining",
+    "Wander bohemian Roma and Condesa",
+    "Experience the massive Zócalo"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Historic Centro & The Zócalo",
+      "location": "Centro Histórico",
+      "description": "Start at the massive Zócalo, one of the world's largest public squares, built over the Aztec capital Tenochtitlan. Tour the Metropolitan Cathedral and climb the bell towers for city views. Visit the National Palace for Diego Rivera's epic murals depicting Mexican history. Walk to the Templo Mayor ruins, the excavated heart of the Aztec empire.",
+      "image": "https://images.unsplash.com/photo-1574493264149-87880133a2ba?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Zócalo and Metropolitan Cathedral (climb towers)",
+        "National Palace with Diego Rivera murals",
+        "Templo Mayor archaeological site and museum",
+        "Lunch at El Cardenal (traditional Mexican)",
+        "Walk to Palacio de Bellas Artes",
+        "Evening at Plaza Garibaldi for mariachi"
+      ],
+      "accommodation": {
+        "budget": "Hostel Mundo Joven Catedral ($25-40)",
+        "mid_range": "Downtown Mexico ($180-280)",
+        "luxury": "Gran Hotel Ciudad de México ($350+)"
+      },
+      "tips": ["National Palace is free but arrive early", "Templo Mayor closes Monday", "Plaza Garibaldi is safe with tourists but watch valuables"]
+    },
+    {
+      "day": 2,
+      "title": "Museums & Chapultepec",
+      "location": "Chapultepec / Polanco",
+      "description": "Spend the morning at the National Museum of Anthropology, one of the world's great museums with the famous Aztec Sun Stone. After lunch in Polanco, walk through Chapultepec Park and climb to Chapultepec Castle for panoramic city views and beautiful gardens. Evening in trendy Polanco for world-class dining.",
+      "image": "https://images.unsplash.com/photo-1599063570110-a9ae6c5d47e4?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "National Museum of Anthropology (3-4 hours minimum)",
+        "Lunch in Polanco (Pujol, Quintonil, or casual tacos)",
+        "Walk through Chapultepec Forest",
+        "Chapultepec Castle and views",
+        "Dinner in Polanco (Contramar, Eno)"
+      ],
+      "accommodation": {
+        "budget": "Stay in Roma/Condesa",
+        "mid_range": "Las Alcobas ($300-450)",
+        "luxury": "St. Regis Mexico City ($500+)"
+      },
+      "tips": ["Book Pujol months in advance", "Anthropology museum is closed Monday", "Chapultepec is huge—focus on Chapultepec I section"]
+    },
+    {
+      "day": 3,
+      "title": "Roma & Condesa Neighborhoods",
+      "location": "Roma Norte / La Condesa",
+      "description": "Explore Mexico City's hippest neighborhoods: tree-lined streets, Art Deco architecture, trendy cafes, and excellent restaurants. Walk from Parque México through Condesa to Roma Norte, stopping at boutiques, galleries, and coffee shops. This is the heart of CDMX's creative class and food scene.",
+      "image": "https://images.unsplash.com/photo-1585464231875-d9ef1f5ad396?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Coffee at Panadería Rosetta or Café Villarias",
+        "Walk through Parque México",
+        "Explore Condesa boutiques and galleries",
+        "Lunch at Rosetta (reservations)",
+        "Roma Norte architecture and street art",
+        "Mercado Roma for gourmet food hall experience",
+        "Mezcal tasting at Licorería Limantour"
+      ],
+      "accommodation": {
+        "budget": "Hostel Home ($30-50)",
+        "mid_range": "Condesa DF ($200-350)",
+        "luxury": "Casa Goliana ($400+)"
+      },
+      "tips": ["Best neighborhood for walking—wear comfortable shoes", "Many restaurants close between lunch and dinner (4-7pm)", "Roma and Condesa nightlife is Thursday-Saturday"]
+    },
+    {
+      "day": 4,
+      "title": "Teotihuacán Day Trip",
+      "location": "Teotihuacán / Centro",
+      "description": "Early morning departure for Teotihuacán (1 hour), arriving before the crowds and midday heat. Climb both the Pyramid of the Sun and the Pyramid of the Moon along the Avenue of the Dead. This UNESCO World Heritage Site predates the Aztecs by centuries. Return to the city for evening in the historic center.",
+      "image": "https://images.unsplash.com/photo-1518638150340-f706e86654de?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Early departure (7am recommended)",
+        "Pyramid of the Sun (climb to the top)",
+        "Avenue of the Dead exploration",
+        "Pyramid of the Moon",
+        "Late lunch at La Gruta (cave restaurant)",
+        "Return to CDMX",
+        "Evening in Centro or Roma"
+      ],
+      "accommodation": {
+        "budget": "Same as previous nights",
+        "mid_range": "Same as previous nights",
+        "luxury": "Same as previous nights"
+      },
+      "tips": ["Arrive at 9am opening to beat tour buses", "Bring water, sunscreen, hat—site is exposed and hot", "Taxi/Uber from CDMX costs ~$40-50; bus from Terminal Norte is cheaper"]
+    },
+    {
+      "day": 5,
+      "title": "Coyoacán & Frida Kahlo",
+      "location": "Coyoacán",
+      "description": "Explore the bohemian neighborhood of Coyoacán, Frida Kahlo's birthplace. Tour Casa Azul (Frida Kahlo Museum), her blue house filled with artwork and personal belongings. Wander the colonial streets to the plaza, visit the Trotsky Museum, and enjoy street food in the vibrant markets.",
+      "image": "https://images.unsplash.com/photo-1570737209810-87a8e7245f88?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Casa Azul / Frida Kahlo Museum (book tickets online!)",
+        "Walk colonial Coyoacán streets",
+        "Mercado de Coyoacán for food",
+        "Trotsky Museum (if time permits)",
+        "Coffee at Café Avellaneda",
+        "Final evening in your favorite neighborhood"
+      ],
+      "accommodation": {
+        "budget": "Same as previous nights",
+        "mid_range": "Same as previous nights",
+        "luxury": "Same as previous nights"
+      },
+      "tips": ["Book Casa Azul tickets weeks in advance—sells out daily", "Coyoacán is far—take Uber or Metro to Coyoacán station", "The churros near the plaza are legendary"]
+    }
+  ],
+  "practical_info": {
+    "getting_there": "Fly into Mexico City International Airport (MEX). Uber or taxi to Centro/Roma is 30-60 minutes depending on traffic. Metro is cheap but difficult with luggage.",
+    "getting_around": "Use Uber (safe, cheap, convenient), Metro (very cheap, crowded at rush hour), or walk. Traffic is terrible—avoid cars during rush hour (7-10am, 5-9pm). Many neighborhoods are best explored on foot.",
+    "what_to_pack": ["Layers (CDMX is high altitude, cool mornings/evenings)", "Comfortable walking shoes", "Light rain jacket (afternoon showers May-October)", "Smart casual for fine dining"]
+  },
+  "faqs": [
+    {
+      "question": "Is Mexico City safe for tourists?",
+      "answer": "Tourist neighborhoods (Roma, Condesa, Polanco, Centro Histórico, Coyoacán) are generally safe during the day and evening. Use Uber instead of street taxis. Avoid displaying expensive jewelry. Basic urban awareness applies—it's no more dangerous than any major world city."
+    },
+    {
+      "question": "How many days do you need in Mexico City?",
+      "answer": "5 days covers the essentials comfortably. You could easily spend 7-10 days exploring more museums, day trips (Puebla, Taxco), and neighborhoods without running out of things to do."
+    },
+    {
+      "question": "Is Mexico City expensive?",
+      "answer": "Mexico City offers incredible value. Street tacos are $1-2, fine dining is a fraction of US prices, and boutique hotels cost less than mid-range US chains. You can eat very well on $30-50/day."
+    },
+    {
+      "question": "What about altitude sickness?",
+      "answer": "Mexico City sits at 7,350 feet (2,240m). Most visitors experience no issues, but you may feel tired or short of breath the first day. Take it easy, stay hydrated, limit alcohol initially."
+    }
+  ],
+  "related_itineraries": ["yucatan-7-days", "pacific-coast-10-days"],
+  "tags": ["city", "culture", "food", "history", "art", "museums", "architecture"]
+}

@@ -11,12 +11,23 @@
   },
   "meta_title": "Holbox Travel Guide 2025 - Car-Free Island Paradise in Mexico",
   "meta_description": "Discover Holbox, Mexico's car-free island paradise. Experience pristine beaches, bioluminescence, whale shark swimming, colorful streets, and authentic barefoot luxury in this unspoiled Caribbean hideaway.",
-  "hero_image": "/assets/images/destinations/holbox-hero.jpg",
+  "og_image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&h=630&fit=crop&q=80",
+  "canonical_url": "https://topmexicotravel.com/en/destinations/holbox",
+  "hero_image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1920&h=1080&fit=crop&q=80",
   "hero_alt": "Sandy streets and colorful buildings of Holbox island with golf cart",
+  "tagline": "Where Sandy Streets Lead to Caribbean Magic",
+  "featured_snippet_intro": "Holbox is a car-free island paradise where sandy streets replace pavement, golf carts outnumber cars, and nature takes center stage—from whale sharks and flamingos to Mexico's brightest bioluminescence.",
   "introduction": {
     "snippet": "Holbox (pronounced hol-BOSH) is a car-free island paradise where sandy streets replace pavement, golf carts outnumber cars, and nature takes center stage. This bohemian Caribbean hideaway offers pristine beaches, legendary bioluminescent waters, whale shark encounters, and an authentically laid-back atmosphere that's increasingly rare in Mexico.",
     "full": "Floating in the shallow waters where the Gulf of Mexico meets the Caribbean Sea, Holbox island has long been a secret shared among backpackers and nature lovers. Part of the Yum Balam Biosphere Reserve, the island hosts flamingos, pelicans, and (from May to September) hundreds of whale sharks that gather in the nutrient-rich waters nearby.\n\nHolbox's unpaved streets, colorful murals, and hammock-strung beach bars create an aesthetic that's equal parts rustic and Instagrammable. There are no chains, no all-inclusives, and no mega-developments—just locally-owned hotels, restaurants, and a community committed to preserving the island's character. The bioluminescence in the lagoon (best June-October) is among the brightest in Mexico, creating magical night swims. While Holbox is no longer a hidden secret, it remains a place where the barefoot vibe is genuine, the water is impossibly shallow and warm, and the pace forces you to slow down. Bring cash, leave your schedule, and surrender to island time."
   },
+  "best_time_to_visit": "December-April offers dry weather. May-September is whale shark season. June-October features the best bioluminescence. August-October has hurricane risk. Each season offers unique experiences.",
+  "average_temperature": "27°C (81°F) year-round",
+  "known_for": "Car-free streets, whale sharks, bioluminescence, flamingos, colorful murals, barefoot luxury, pristine beaches",
+  "airport_code": "CUN (Cancún) + ferry",
+  "rating": 4.8,
+  "review_count": 9870,
+  "tourist_types_json": "[\"Nature lovers\", \"Digital nomads\", \"Photographers\", \"Eco-tourists\", \"Couples\", \"Beach seekers\"]",
   "quick_facts": {
     "best_time": "December to April",
     "avg_temp": "27°C (81°F)",
@@ -38,112 +49,297 @@
     {
       "name": "Whale Shark Tours",
       "type": "Wildlife Experience",
-      "description": "Swim with the world's largest fish in ethical encounters. Holbox is one of the best spots globally. Season: May-September, peak June-August.",
-      "duration": "Half day",
+      "description": "Swim with the world's largest fish in ethical, regulated encounters. Holbox is one of the world's premier whale shark destinations, with hundreds gathering to feed in the plankton-rich waters nearby. Tours include snorkeling equipment, guide, and typically a reef stop.",
+      "image": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&h=600&fit=crop&q=80",
+      "duration": "Half day (4-6 hours)",
       "price": "$100-150 USD",
+      "tip": "Season runs May-September, peak June-August. Tours depart very early (6-7am) as boats travel to where sharks congregate. Strict rules: 2 swimmers per guide, no touching. Bring motion sickness medication. Book ahead in peak season.",
       "coordinates": {"lat": 21.6500, "lng": -87.2500}
     },
     {
       "name": "Bioluminescence Tour",
       "type": "Nature Experience",
-      "description": "Night kayak or boat tour to swim in waters glowing with bioluminescent plankton. Best June-October, on moonless nights.",
+      "description": "Kayak or boat into the lagoon at night to swim in waters glowing with bioluminescent plankton. Every movement creates trails of blue-green light—one of nature's most magical phenomena. Best on moonless nights June-October.",
+      "image": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=800&h=600&fit=crop&q=80",
       "duration": "2-3 hours",
       "price": "$40-60 USD",
+      "tip": "Book on a new moon or cloudy night for maximum effect. The brighter the moon, the less visible the bioluminescence. Peak season is June-October. Tours depart after dark. Bring a change of clothes—you'll get wet.",
       "coordinates": {"lat": 21.4900, "lng": -87.4200}
     },
     {
       "name": "Punta Mosquito",
       "type": "Beach/Wildlife",
-      "description": "Remote sandbar at the island's east end where flamingos gather. Reach by bike, golf cart, or long beach walk.",
+      "description": "A remote sandbar at the island's eastern end where flamingos gather in the shallow lagoon. The walk or bike ride there is beautiful, passing through quiet areas of the island. The flamingos are best viewed at low tide.",
+      "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&h=600&fit=crop&q=80",
       "duration": "Half day",
       "price": "Free",
+      "tip": "Check tide times and visit at low tide when flamingos wade closest to shore. The walk is 45 minutes from town; rent a bike or golf cart. Bring water, sun protection, and binoculars. Don't approach the birds.",
       "coordinates": {"lat": 21.5417, "lng": -87.3117}
     },
     {
       "name": "Punta Cocos",
       "type": "Beach/Sunset",
-      "description": "Western point famous for spectacular sunsets, beach bars, hammocks over the water, and shallow wading.",
+      "description": "The western point of the island famous for spectacular sunsets, hammocks over the water, and shallow wading. Beach bars here serve cocktails as the sky turns orange and pink. The quintessential Holbox sunset experience.",
+      "image": "https://images.unsplash.com/photo-1519046904884-53103b34b206?w=800&h=600&fit=crop&q=80",
       "duration": "2-3 hours",
-      "price": "Free",
+      "price": "Free (drinks extra)",
+      "tip": "Arrive an hour before sunset to claim a hammock. The shallow water extends far out—wade with a drink. Some bars require minimum consumption for hammock use. This is the social sunset spot; downtown beach is quieter.",
       "coordinates": {"lat": 21.5189, "lng": -87.4222}
     },
     {
       "name": "Street Art & Town Square",
       "type": "Town Center",
-      "description": "Colorful murals, the central park, and sandy pedestrian streets full of restaurants, bars, and boutiques.",
+      "description": "Holbox's downtown is an Instagram dream—colorful murals on every corner, sandy streets, quirky shops, and the central park with its painted benches. The street art changes regularly, with local and visiting artists contributing.",
+      "image": "https://images.unsplash.com/photo-1518105779142-d975f22f1b0a?w=800&h=600&fit=crop&q=80",
       "duration": "1-2 hours",
       "price": "Free",
+      "tip": "Walk the streets in late afternoon when light is best for photography. The central park has free WiFi. Evening brings more activity to downtown. Look for the famous 'Holbox' letter sculpture for photos.",
       "coordinates": {"lat": 21.5228, "lng": -87.3792}
     },
     {
       "name": "Yum Balam Nature Reserve",
       "type": "Nature Reserve",
-      "description": "Protected biosphere encompassing Holbox with mangroves, lagoons, and diverse bird life. Tour by boat.",
+      "description": "The protected biosphere surrounding Holbox, home to mangroves, lagoons, crocodiles, and over 150 bird species. Boat tours navigate through mangrove channels with opportunities to spot wildlife including birds, dolphins, and sea turtles.",
+      "image": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&h=600&fit=crop&q=80",
       "duration": "3-4 hours",
       "price": "$50-80 USD tour",
+      "tip": "Combine with Isla Pájaros (Bird Island) where thousands of frigatebirds and cormorants nest. Morning tours see more active wildlife. Bring binoculars and camera with zoom. The reserve is why Holbox remains relatively pristine.",
       "coordinates": {"lat": 21.4833, "lng": -87.4667}
+    },
+    {
+      "name": "Main Beach",
+      "type": "Beach",
+      "description": "Holbox's main beach stretches along the north coast with shallow, warm water and soft sand. The beach is relatively undeveloped compared to mainland destinations, with beach bars and palapas scattered along the shore.",
+      "image": "https://images.unsplash.com/photo-1590523741831-ab7e8b8f9c7f?w=800&h=600&fit=crop&q=80",
+      "duration": "Half-full day",
+      "price": "Free",
+      "tip": "The beach near downtown can have seaweed (sargassum) issues seasonally—check current conditions. Walking east or west often finds cleaner stretches. The shallow water is perfect for kids. Sunrise from the beach is magical.",
+      "coordinates": {"lat": 21.5250, "lng": -87.3800}
+    },
+    {
+      "name": "Isla de la Pasión",
+      "type": "Beach/Day Trip",
+      "description": "A private island beach experience with pristine sand, clear water, and full beach club service. Boats ferry visitors to this postcard-perfect spot for swimming, kayaking, and relaxation away from the main island.",
+      "image": "https://images.unsplash.com/photo-1519046904884-53103b34b206?w=800&h=600&fit=crop&q=80",
+      "duration": "Half-full day",
+      "price": "$50-100 USD",
+      "tip": "Book through your hotel or downtown operators. All-inclusive packages with food and drinks offer best value. The island is less visited midweek. Snorkeling equipment usually included.",
+      "coordinates": {"lat": 21.5100, "lng": -87.3500}
+    },
+    {
+      "name": "Kayaking & Paddleboarding",
+      "type": "Water Activity",
+      "description": "The calm, shallow waters around Holbox are perfect for kayaking and stand-up paddleboarding. Rentals are available on the main beach, or join guided tours through mangroves to spot wildlife.",
+      "image": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&h=600&fit=crop&q=80",
+      "duration": "1-3 hours",
+      "price": "$15-25 USD/hour",
+      "tip": "Early morning offers glassy conditions and wildlife sighting opportunities. Paddle toward Punta Mosquito for flamingo viewing. Some hotels offer free kayaks for guests. Wear reef-safe sunscreen.",
+      "coordinates": {"lat": 21.5219, "lng": -87.3797}
+    },
+    {
+      "name": "Fishing Tours",
+      "type": "Activity",
+      "description": "Holbox has excellent fishing with opportunities for tarpon, permit, snook, and bonefish in the surrounding flats and lagoons. Both fly fishing and conventional gear trips are available with experienced local guides.",
+      "image": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&h=600&fit=crop&q=80",
+      "duration": "Half-full day",
+      "price": "$200-400 USD",
+      "tip": "Fly fishing for tarpon and permit is the specialty—bring your own gear if you have it. Catch-and-release is encouraged. Book with local operators rather than resort packages. Best fishing is March-August.",
+      "coordinates": {"lat": 21.5000, "lng": -87.4000}
     }
   ],
-  "hotels": [
+  "neighborhoods": [
+    {
+      "name": "Town Center",
+      "slug": "town-center",
+      "description": "The colorful heart of Holbox with street art murals, sandy streets, the central park, restaurants, bars, and shops. This is where the island's social life happens, with evening activity concentrated around the main plaza.",
+      "image": "https://images.unsplash.com/photo-1518105779142-d975f22f1b0a?w=800&h=600&fit=crop&q=80",
+      "vibe": "Colorful, artistic, social, bohemian",
+      "best_for": "First-time visitors, photographers, nightlife seekers, shoppers",
+      "highlights": ["Street art murals", "Central park", "Restaurants and bars", "Boutique shops", "Free WiFi"]
+    },
+    {
+      "name": "Beachfront",
+      "slug": "beachfront",
+      "description": "The strip of hotels and beach bars along the main beach, stretching from downtown to Punta Cocos. This is where you'll find beachfront accommodations, sunset bars, and the island's most picturesque hammocks.",
+      "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&h=600&fit=crop&q=80",
+      "vibe": "Beach paradise, relaxed, sunset-focused",
+      "best_for": "Beach lovers, couples, sunset enthusiasts, those seeking direct sand access",
+      "highlights": ["Beachfront hotels", "Sunset bars", "Hammocks over water", "Shallow swimming", "Beach clubs"]
+    },
+    {
+      "name": "Punta Cocos",
+      "slug": "punta-cocos",
+      "description": "The western tip of the island, famous for sunset viewing, hammock bars, and the shallowest water. More spread out and quieter than central beach, this is where the magic hour happens.",
+      "image": "https://images.unsplash.com/photo-1519046904884-53103b34b206?w=800&h=600&fit=crop&q=80",
+      "vibe": "Sunset paradise, romantic, laid-back",
+      "best_for": "Sunset worshippers, couples, photographers, hammock lovers",
+      "highlights": ["Best sunset views", "Hammock bars", "Shallow wading", "Romantic vibes", "Cocktails in the water"]
+    },
+    {
+      "name": "East Island",
+      "slug": "east-island",
+      "description": "The quieter eastern portion of the island toward Punta Mosquito, with fewer tourists, local homes, and the flamingo viewing areas. A bike or golf cart ride reveals a different side of Holbox.",
+      "image": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&h=600&fit=crop&q=80",
+      "vibe": "Natural, quiet, authentic, wildlife-focused",
+      "best_for": "Nature lovers, birdwatchers, those seeking solitude",
+      "highlights": ["Flamingo viewing", "Quiet beaches", "Local life", "Nature walks", "Punta Mosquito"]
+    }
+  ],
+  "featured_hotels": [
     {
       "name": "Casa Las Tortugas",
-      "category": "Boutique",
+      "category": "Boutique Luxury",
       "stars": 5,
       "price_range": "$$$$",
-      "description": "Beachfront luxury with beautiful rooms, pool, spa, and excellent restaurant",
-      "features": ["Beachfront", "Pool", "Spa", "Restaurant"]
+      "description": "Holbox's finest boutique hotel with beachfront location, beautiful rooms, excellent restaurant, spa, and the kind of barefoot luxury that defines the island. The pool and beach service are impeccable.",
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800&h=600&fit=crop&q=80",
+      "features": ["Beachfront", "Pool", "Spa", "Restaurant", "Barefoot luxury"]
     },
     {
       "name": "Hotel Villas Flamingos",
       "category": "Mid-Range",
       "stars": 4,
       "price_range": "$$$",
-      "description": "Colorful beachfront hotel with hammocks, cabañas, and great beach",
-      "features": ["Beachfront", "Hammocks", "Pool", "Restaurant"]
+      "description": "Colorful beachfront hotel with comfortable cabañas, hammocks, pool, and great beach location. The Caribbean colors and laid-back vibe capture Holbox's essence at a reasonable price.",
+      "image": "https://images.unsplash.com/photo-1582719508461-905c673771fd?w=800&h=600&fit=crop&q=80",
+      "features": ["Beachfront", "Hammocks", "Pool", "Restaurant", "Colorful design"]
+    },
+    {
+      "name": "Holbox Dream Hotel",
+      "category": "Mid-Range",
+      "stars": 4,
+      "price_range": "$$$",
+      "description": "Modern beachfront hotel with clean design, rooftop bar, and excellent beach service. The contemporary style contrasts nicely with Holbox's rustic vibe while maintaining island atmosphere.",
+      "image": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=800&h=600&fit=crop&q=80",
+      "features": ["Beachfront", "Rooftop bar", "Modern design", "Beach service", "Air conditioning"]
+    },
+    {
+      "name": "Hotel Casa Barbara",
+      "category": "Boutique",
+      "stars": 4,
+      "price_range": "$$$",
+      "description": "Charming boutique hotel with garden setting, pool, and artistic touches throughout. Located in town center with easy beach access. Excellent breakfast included.",
+      "image": "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?w=800&h=600&fit=crop&q=80",
+      "features": ["Pool", "Garden", "Breakfast included", "Central location", "Artistic design"]
     },
     {
       "name": "Tribu Hostel",
       "category": "Budget",
       "stars": 3,
       "price_range": "$$",
-      "description": "Stylish hostel with pool, bar, and both dorms and private rooms",
-      "features": ["Pool", "Bar", "Social", "Central"]
+      "description": "Stylish hostel with pool, bar, and both dorms and private rooms. Social atmosphere attracts young travelers and digital nomads. The common areas are great for meeting people.",
+      "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=800&h=600&fit=crop&q=80",
+      "features": ["Pool", "Bar", "Social atmosphere", "Mixed options", "Central location"]
     },
     {
       "name": "Ida y Vuelta Camping",
       "category": "Budget",
       "stars": 2,
       "price_range": "$",
-      "description": "Beachfront camping and glamping with cabins and tent sites",
-      "features": ["Beachfront", "Budget", "Camping", "Simple"]
+      "description": "Beachfront camping and glamping with tent sites, cabins, and direct beach access. The most budget-friendly way to wake up on Holbox's beach. Basic but magical.",
+      "image": "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?w=800&h=600&fit=crop&q=80",
+      "features": ["Beachfront", "Camping", "Glamping cabins", "Budget-friendly", "Simple living"]
     }
   ],
-  "restaurants": [
+  "featured_restaurants": [
     {
       "name": "Luuma",
       "cuisine": "Contemporary Mexican",
       "price_range": "$$$",
-      "description": "Upscale beachside dining with excellent seafood and romantic atmosphere"
+      "description": "Holbox's upscale dining option with beachfront tables, excellent seafood, and sophisticated Mexican cuisine. The sunset dinner experience with fresh catch of the day is special.",
+      "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800&h=600&fit=crop&q=80",
+      "must_try": ["Fresh catch", "Ceviche", "Lobster", "Mezcal cocktails"]
     },
     {
       "name": "Los Peleones",
-      "cuisine": "Seafood",
+      "cuisine": "Seafood/Pizza",
       "price_range": "$$",
-      "description": "Famous for lobster pizza and fresh seafood in casual beach setting"
+      "description": "Famous for lobster pizza and fresh seafood in casual beach setting. A Holbox institution that somehow makes pizza on an island work. The portions are generous.",
+      "image": "https://images.unsplash.com/photo-1579631542720-3a87824fff86?w=800&h=600&fit=crop&q=80",
+      "must_try": ["Lobster pizza", "Fish tacos", "Shrimp", "Cold beer"]
     },
     {
       "name": "Raices",
       "cuisine": "Mexican",
       "price_range": "$$",
-      "description": "Popular central spot with quality Mexican dishes and great cocktails"
+      "description": "Popular central restaurant with quality Mexican dishes, excellent cocktails, and evening atmosphere. The location on the main strip makes it a natural gathering spot.",
+      "image": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=800&h=600&fit=crop&q=80",
+      "must_try": ["Tacos", "Mezcal cocktails", "Guacamole", "Fresh juices"]
+    },
+    {
+      "name": "Barba Negra",
+      "cuisine": "Seafood",
+      "price_range": "$$",
+      "description": "Relaxed beachfront restaurant with hammocks and excellent ceviche. The laid-back vibe and quality seafood make it perfect for long, lazy lunches with your toes in the sand.",
+      "image": "https://images.unsplash.com/photo-1514933651103-005eec06c04b?w=800&h=600&fit=crop&q=80",
+      "must_try": ["Ceviche", "Grilled fish", "Coconut shrimp", "Beach hammocks"]
     },
     {
       "name": "Taco Queto",
       "cuisine": "Tacos",
       "price_range": "$",
-      "description": "Local favorite for excellent fish tacos and affordable eats"
+      "description": "Local favorite for excellent fish tacos at fair prices. No frills, just great tacos served on a colorful corner. Follow the locals here for affordable eats.",
+      "image": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?w=800&h=600&fit=crop&q=80",
+      "must_try": ["Fish tacos", "Shrimp tacos", "Fresh salsas", "Agua frescas"]
+    },
+    {
+      "name": "Le Jardin",
+      "cuisine": "French/International",
+      "price_range": "$$$",
+      "description": "Romantic garden restaurant with French-influenced cuisine, excellent wines, and intimate atmosphere. Perfect for special occasions or when you want something different from seafood.",
+      "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800&h=600&fit=crop&q=80",
+      "must_try": ["Duck", "French pastries", "Wine selection", "Garden ambiance"]
+    },
+    {
+      "name": "Pizzeria Edelyn",
+      "cuisine": "Pizza/Italian",
+      "price_range": "$$",
+      "description": "Beloved local pizzeria serving wood-fired pies that satisfy any carb craving. A welcome change when you've had enough seafood. The casual setting is family-friendly.",
+      "image": "https://images.unsplash.com/photo-1559329007-40df8a9345d8?w=800&h=600&fit=crop&q=80",
+      "must_try": ["Wood-fired pizza", "Pasta", "Garlic bread", "Italian wines"]
+    },
+    {
+      "name": "Alma de Holbox",
+      "cuisine": "Mexican/Breakfast",
+      "price_range": "$$",
+      "description": "Excellent breakfast and brunch spot with fresh juices, creative eggs, and strong coffee. The courtyard setting is pleasant for lazy morning starts.",
+      "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?w=800&h=600&fit=crop&q=80",
+      "must_try": ["Chilaquiles", "Fresh juices", "Huevos divorciados", "Specialty coffee"]
     }
   ],
+  "day_trips": [
+    {
+      "name": "Isla Pájaros (Bird Island)",
+      "distance": "30 minutes by boat",
+      "description": "A protected bird sanctuary where thousands of frigatebirds, cormorants, herons, and pelicans nest. Boats circle the island (landing not permitted) for close viewing of the massive nesting colonies.",
+      "image": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&h=600&fit=crop&q=80",
+      "tips": "Usually combined with mangrove tours. Bring binoculars and camera with zoom. Morning tours see more activity. Best during nesting season (April-August)."
+    },
+    {
+      "name": "Río Lagartos & Las Coloradas",
+      "distance": "2 hours by car (mainland)",
+      "description": "Visit the pink lakes of Las Coloradas (salt flats that turn magenta) and Río Lagartos biosphere reserve for flamingo viewing. Requires returning to the mainland—best as an overnight trip.",
+      "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&h=600&fit=crop&q=80",
+      "tips": "Long day if returning same night—consider overnight in Valladolid. The pink lakes are most vibrant midday. Flamingo tours from Río Lagartos offer close encounters."
+    },
+    {
+      "name": "Valladolid & Cenotes",
+      "distance": "Ferry + 1.5 hours",
+      "description": "Combine your departure from Holbox with a stop in the colonial city of Valladolid and swimming in nearby cenotes like Suytun or Zací. A perfect travel day activity.",
+      "image": "https://images.unsplash.com/photo-1552074284-5e88ef1aef18?w=800&h=600&fit=crop&q=80",
+      "tips": "Best done when leaving Holbox toward Cancún or Tulum. Cenote Suytun is most photogenic. Valladolid makes a nice lunch stop. Rent a car from Chiquilá for flexibility."
+    },
+    {
+      "name": "Chichén Itzá",
+      "distance": "Ferry + 2.5 hours",
+      "description": "Visit one of the New Seven Wonders of the World. A long day trip requiring early ferry departure. Better suited when transferring to/from Holbox rather than a round trip.",
+      "image": "https://images.unsplash.com/photo-1518638150340-f706e86654de?w=800&h=600&fit=crop&q=80",
+      "tips": "Take the first ferry (6am) and drive directly—arrive by opening time. Can be combined with cenote swim and Valladolid lunch. Very long day from Holbox—consider overnight."
+    }
+  ],
+  "getting_there": "Drive or take ADO bus to Chiquilá on the mainland (2.5 hours from Cancún, 2 hours from Playa del Carmen). From Chiquilá, ferries to Holbox run every 30 minutes, 6am-9pm (25 minutes, $10 USD). Park in Chiquilá ($5-7 USD/day). Alternative: small planes from Cancún/Playa del Carmen fly directly to Holbox airstrip.",
+  "getting_around": "Golf carts are the main transport—rent for about $60 USD/day. The island is small enough to walk everywhere (downtown is very walkable). Bikes are also available ($10-15/day). There are no regular cars on Holbox—this is part of the charm.",
+  "safety_info": "Holbox is very safe—small community, limited access, tourism-dependent economy. Normal precautions: don't leave valuables unattended, secure accommodations at night. The main dangers are golf cart accidents (drive carefully on sandy streets) and sun exposure. ATMs often run out of cash—bring plenty of pesos.",
   "faqs": [
     {
       "question": "How do I get to Holbox?",
@@ -155,19 +351,35 @@
     },
     {
       "question": "When is the best time to visit Holbox?",
-      "answer": "December-April has the best weather (dry, less humid). May-September is whale shark season—amazing but hotter and rainier. June-October is best for bioluminescence. August-October has hurricane risk. Book accommodation well ahead for whale shark season."
+      "answer": "December-April has the best weather (dry, less humid). May-September is whale shark season—amazing but hotter and rainier. June-October is best for bioluminescence. August-October has hurricane risk. Each season offers unique experiences."
     },
     {
       "question": "Is there WiFi and ATMs on Holbox?",
-      "answer": "WiFi is available at most hotels and restaurants but can be slow and unreliable. ATMs exist but frequently run out of cash and have high fees. Bring plenty of pesos in cash from the mainland. Some places accept cards but cash is preferred."
+      "answer": "WiFi is available at most hotels and restaurants but can be slow and unreliable. ATMs exist but frequently run out of cash and have high fees. Bring plenty of pesos in cash from the mainland. Some places accept cards but cash is strongly preferred."
     },
     {
       "question": "Is Holbox expensive?",
-      "answer": "Holbox has become more expensive due to popularity and logistics (everything comes by ferry). Budget travelers can find hostels and cheap eats, but expect higher prices than mainland Mexico. Mid-range and up accommodations can be pricey, especially in peak season."
+      "answer": "Holbox is more expensive than mainland Mexico due to its popularity and logistics (everything comes by ferry). Budget travelers can find hostels and cheap tacos, but expect higher prices overall. Mid-range and boutique hotels can be pricey, especially in peak season. It's worth the premium for the car-free paradise."
     },
     {
       "question": "Is Holbox safe?",
-      "answer": "Holbox is very safe. The small island community, limited access, and tourism-focused economy mean crime is rare. Normal precautions apply: secure valuables, don't wander alone late at night on remote beaches. The biggest 'danger' is probably golf cart accidents."
+      "answer": "Holbox is very safe. The small island community, limited access, and tourism-focused economy mean crime is extremely rare. Normal precautions apply: secure valuables, don't wander alone on remote beaches at night. The biggest 'dangers' are golf cart accidents and sunburn."
+    },
+    {
+      "question": "How many days should I spend on Holbox?",
+      "answer": "3-4 days is ideal to fully experience the island pace: beach days, whale shark or bioluminescence tour (seasonal), sunset at Punta Cocos, and exploring downtown. Minimum 2 nights to justify the travel time. Many visitors extend their stay once they arrive."
+    },
+    {
+      "question": "Is there seaweed (sargassum) on Holbox?",
+      "answer": "Holbox can experience sargassum seaweed, especially May-September. The impact varies—some weeks are clean, others have significant seaweed. Hotels clean their beach areas. Check recent photos on social media for current conditions. The north-facing beach is often cleaner than south-facing areas."
+    },
+    {
+      "question": "Can I do Holbox as a day trip from Cancún?",
+      "answer": "Technically possible but not recommended—you'd spend 5+ hours traveling for limited island time. Holbox deserves at least 2 nights to appreciate its magic. The journey is part of unplugging. Day-trippers miss sunset, bioluminescence, and the peaceful morning hours."
+    },
+    {
+      "question": "Is Holbox good for families with kids?",
+      "answer": "Yes! The calm, shallow beaches are perfect for children. No cars means safe streets. Kids love the golf carts, bioluminescence, and flamingos. The pace is relaxed. Be aware that accommodations and restaurants may be less child-focused than resort destinations."
     }
   ],
   "related_destinations": ["isla-mujeres", "cancun", "tulum", "playa-del-carmen", "valladolid"],

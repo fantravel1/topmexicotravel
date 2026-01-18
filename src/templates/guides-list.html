@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="{{lang}}" dir="ltr">
+<head>
+{{> head}}
+</head>
+<body>
+<a href="#main-content" class="skip-link">Skip to main content</a>
+
+{{> header}}
+
+<main id="main-content" role="main">
+  <!-- Hero Section -->
+  <header class="hero" style="min-height: 50vh;">
+    <img
+      src="{{hero_image}}"
+      alt="Mexico travel guides"
+      width="1920"
+      height="1080"
+      fetchpriority="high"
+      decoding="async"
+      class="hero-image">
+    <div class="hero-overlay"></div>
+    <div class="hero-content" style="max-width: 800px;">
+      <h1 class="hero-title">Mexico Travel Guides</h1>
+      <p class="hero-tagline">Everything you need to know for a safe, affordable, and unforgettable trip to Mexico</p>
+    </div>
+  </header>
+
+  <!-- Guides Grid -->
+  <section class="section" aria-labelledby="guides-heading">
+    <div class="section-container">
+      <div class="section-header">
+        <h2 id="guides-heading" class="section-title">Essential Information</h2>
+        <p class="section-intro">Practical guides covering visas, safety, weather, costs, and more—everything you need to plan your perfect Mexico adventure.</p>
+      </div>
+
+      <ul class="cards-grid" style="grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));">
+        {{#each guides}}
+        <li class="card">
+          <div class="card-content">
+            <h3 class="card-title"><a href="{{this.url}}">{{this.title}}</a></h3>
+            <p class="card-description">{{this.description}}</p>
+            {{#if this.last_updated}}
+            <div style="font-size: 0.875rem; color: var(--color-text-light); margin-top: var(--spacing-sm);">Updated: {{this.last_updated}}</div>
+            {{/if}}
+          </div>
+        </li>
+        {{/each}}
+      </ul>
+    </div>
+  </section>
+
+  <!-- Quick Tips -->
+  <section class="section" style="background: var(--color-bg-alt);">
+    <div class="section-container" style="max-width: 800px;">
+      <h2 class="section-title">Quick Tips for First-Time Visitors</h2>
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: var(--spacing-lg);">
+        <div>
+          <h3 style="font-size: 1.125rem; margin-bottom: var(--spacing-sm);">Entry Requirements</h3>
+          <p style="color: var(--color-text-light);">Most nationalities enter visa-free for up to 180 days. Bring your passport and keep your FMM tourist permit safe.</p>
+        </div>
+        <div>
+          <h3 style="font-size: 1.125rem; margin-bottom: var(--spacing-sm);">Money Matters</h3>
+          <p style="color: var(--color-text-light);">Mexico uses the Peso (MXN). Cards are widely accepted, but carry cash for markets and small businesses. Tip 15-20%.</p>
+        </div>
+        <div>
+          <h3 style="font-size: 1.125rem; margin-bottom: var(--spacing-sm);">Stay Safe</h3>
+          <p style="color: var(--color-text-light);">Tourist areas are very safe. Use Uber instead of street taxis, don't flash valuables, and trust your instincts.</p>
+        </div>
+        <div>
+          <h3 style="font-size: 1.125rem; margin-bottom: var(--spacing-sm);">Best Value</h3>
+          <p style="color: var(--color-text-light);">Eat where locals eat for amazing food at low prices. The midday "comida corrida" meal deal is unbeatable value.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+</main>
+
+{{> footer}}
+
+<script defer>
+document.addEventListener('DOMContentLoaded', function() {
+  const menuToggle = document.querySelector('.menu-toggle');
+  const mobileNav = document.querySelector('.mobile-nav');
+
+  if (menuToggle && mobileNav) {
+    menuToggle.addEventListener('click', function() {
+      const isOpen = mobileNav.classList.toggle('is-open');
+      this.setAttribute('aria-expanded', isOpen);
+    });
+  }
+});
+</script>
+</body>
+</html>

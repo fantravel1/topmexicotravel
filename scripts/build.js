@@ -331,7 +331,7 @@ function generateDestinationPage(lang, content, template, criticalCss) {
 }
 
 // Generate homepage
-function generateHomepage(lang, template, criticalCss, destinations) {
+function generateHomepage(lang, template, criticalCss, destinations, itineraries) {
   const t = translations[lang];
   const ogLocales = { en: 'en_US', es: 'es_MX', de: 'de_DE', fr: 'fr_FR', pt: 'pt_BR' };
 
@@ -347,32 +347,15 @@ function generateHomepage(lang, template, criticalCss, destinations) {
     };
   });
 
-  const featuredItineraries = [
-    {
-      title: '7 Days in the Yucatán Peninsula',
-      description: 'From Caribbean beaches to ancient pyramids, explore the best of the Yucatán.',
-      image: itineraryImages['yucatan-7-days']?.image || '/assets/images/itineraries/yucatan-7-days.svg',
-      url: `/${lang}/itineraries/yucatan-7-days/`,
-      duration: '7 Days',
-      destinations: ['Cancún', 'Tulum', 'Chichén Itzá']
-    },
-    {
-      title: '5 Days in Mexico City',
-      description: 'Culture, cuisine, and history in one of the world\'s greatest cities.',
-      image: itineraryImages['mexico-city-5-days']?.image || '/assets/images/itineraries/cdmx-5-days.svg',
-      url: `/${lang}/itineraries/mexico-city-5-days/`,
-      duration: '5 Days',
-      destinations: ['Mexico City']
-    },
-    {
-      title: '10 Days: Pacific Coast Road Trip',
-      description: 'Sun, surf, and seafood from Puerto Vallarta to Oaxaca.',
-      image: itineraryImages['pacific-coast-10-days']?.image || '/assets/images/itineraries/pacific-coast.svg',
-      url: `/${lang}/itineraries/pacific-coast-10-days/`,
-      duration: '10 Days',
-      destinations: ['Puerto Vallarta', 'Sayulita', 'Oaxaca']
-    }
-  ];
+  // Dynamic itineraries from content (passed as parameter)
+  const featuredItineraries = (itineraries || []).slice(0, 6).map(itin => ({
+    title: itin.title,
+    description: itin.introduction?.substring(0, 120) + '...' || `Explore ${itin.title}`,
+    image: itin.hero_image?.replace('w=1920&h=1080', 'w=800&h=600') || itineraryImages[itin.slug]?.image || '/assets/images/itineraries/default.svg',
+    url: `/${lang}/itineraries/${itin.slug}/`,
+    duration: itin.duration,
+    destinations: itin.destinations || []
+  }));
 
   const pageData = {
     lang,
@@ -452,6 +435,136 @@ function generateDestinationsListPage(lang, template, criticalCss, destinations)
   return compileTemplate(template, pageData);
 }
 
+// Generate itineraries list page
+function generateItinerariesListPage(lang, template, criticalCss, itineraries) {
+  const t = translations[lang];
+  const ogLocales = { en: 'en_US', es: 'es_MX', de: 'de_DE', fr: 'fr_FR', pt: 'pt_BR' };
+
+  const itineraryCards = itineraries.map(itin => ({
+    title: itin.title,
+    description: itin.introduction?.substring(0, 160) + '...' || `Explore ${itin.title}`,
+    image: itin.hero_image?.replace('w=1920&h=1080', 'w=800&h=600') || '/assets/images/itineraries/default.svg',
+    url: `/${lang}/itineraries/${itin.slug}/`,
+    duration: itin.duration,
+    destinations: itin.destinations || []
+  }));
+
+  const pageData = {
+    lang,
+    t,
+    slug: 'itineraries',
+    critical_css: criticalCss,
+    canonical_url: `${CONFIG.baseUrl}/${lang}/itineraries/`,
+    og_type: 'website',
+    og_locale: ogLocales[lang] || 'en_US',
+    og_image: homepageImages.hero,
+    og_image_alt: 'Mexico Travel Itineraries',
+    hero_image: homepageImages.hero,
+    hero_image_alt: 'Mexico Travel Itineraries',
+    meta_title: 'Mexico Travel Itineraries - Day-by-Day Trip Plans | Top Mexico Travel',
+    meta_description: 'Expertly crafted Mexico itineraries: 7 days in the Yucatán, 5 days in Mexico City, Pacific Coast road trips, and more. Complete day-by-day travel plans.',
+    itineraries: itineraryCards,
+    currentYear: new Date().getFullYear()
+  };
+
+  return compileTemplate(template, pageData);
+}
+
+// Generate individual itinerary page
+function generateItineraryPage(lang, itinerary, template, criticalCss) {
+  const t = translations[lang];
+  const ogLocales = { en: 'en_US', es: 'es_MX', de: 'de_DE', fr: 'fr_FR', pt: 'pt_BR' };
+
+  const pageData = {
+    ...itinerary,
+    lang,
+    t,
+    critical_css: criticalCss,
+    canonical_url: `${CONFIG.baseUrl}/${lang}/itineraries/${itinerary.slug}/`,
+    og_type: 'article',
+    og_locale: ogLocales[lang] || 'en_US',
+    og_image: itinerary.og_image || itinerary.hero_image,
+    og_image_alt: itinerary.hero_alt || itinerary.title,
+    meta_title: itinerary.meta_title || `${itinerary.title} | Top Mexico Travel`,
+    meta_description: itinerary.meta_description || itinerary.introduction?.substring(0, 160),
+    tourist_types_json: JSON.stringify(itinerary.best_for || ['Travelers']),
+    day_count: itinerary.days?.length || 0,
+    mid_range_budget: itinerary.estimated_budget?.mid_range || '$1,500-2,500 USD',
+    getting_there: itinerary.practical_info?.getting_there || '',
+    getting_around: itinerary.practical_info?.getting_around || '',
+    currentYear: new Date().getFullYear()
+  };
+
+  return compileTemplate(template, pageData);
+}
+
+// Generate guides list page
+function generateGuidesListPage(lang, template, criticalCss, guides) {
+  const t = translations[lang];
+  const ogLocales = { en: 'en_US', es: 'es_MX', de: 'de_DE', fr: 'fr_FR', pt: 'pt_BR' };
+
+  const guideCards = guides.map(guide => ({
+    title: guide.title,
+    description: guide.introduction?.substring(0, 160) + '...' || `Read ${guide.title}`,
+    url: `/${lang}/guides/${guide.slug}/`,
+    last_updated: guide.last_updated || ''
+  }));
+
+  const pageData = {
+    lang,
+    t,
+    slug: 'guides',
+    critical_css: criticalCss,
+    canonical_url: `${CONFIG.baseUrl}/${lang}/guides/`,
+    og_type: 'website',
+    og_locale: ogLocales[lang] || 'en_US',
+    og_image: homepageImages.hero,
+    og_image_alt: 'Mexico Travel Guides',
+    hero_image: homepageImages.hero,
+    hero_image_alt: 'Mexico Travel Guides',
+    meta_title: 'Mexico Travel Guides - Visa, Safety, Budget & More | Top Mexico Travel',
+    meta_description: 'Essential Mexico travel guides: visa requirements, safety tips, best time to visit, budget planning, and more. Everything you need for your trip.',
+    guides: guideCards,
+    currentYear: new Date().getFullYear()
+  };
+
+  return compileTemplate(template, pageData);
+}
+
+// Generate individual guide page
+function generateGuidePage(lang, guide, template, criticalCss) {
+  const t = translations[lang];
+  const ogLocales = { en: 'en_US', es: 'es_MX', de: 'de_DE', fr: 'fr_FR', pt: 'pt_BR' };
+
+  // Process sections to convert markdown-like content to HTML
+  const processedSections = (guide.sections || []).map(section => ({
+    ...section,
+    content: section.content
+      .replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>')
+      .replace(/\n\n/g, '</p><p>')
+      .replace(/\n- /g, '</p><ul><li>')
+      .replace(/\n(\d+)\. /g, '</p><ol><li>')
+  }));
+
+  const pageData = {
+    ...guide,
+    sections: processedSections,
+    lang,
+    t,
+    critical_css: criticalCss,
+    canonical_url: `${CONFIG.baseUrl}/${lang}/guides/${guide.slug}/`,
+    og_type: 'article',
+    og_locale: ogLocales[lang] || 'en_US',
+    og_image: guide.og_image || guide.hero_image,
+    og_image_alt: guide.hero_alt || guide.title,
+    meta_title: guide.meta_title || `${guide.title} | Top Mexico Travel`,
+    meta_description: guide.meta_description || guide.introduction?.substring(0, 160),
+    currentYear: new Date().getFullYear()
+  };
+
+  return compileTemplate(template, pageData);
+}
+
 // Main build function
 async function build() {
   console.log('🏗️  Building topmexicotravel.com...\n');
@@ -466,6 +579,18 @@ async function build() {
   const destinationTemplate = fs.readFileSync(path.join(CONFIG.templatesDir, 'destination.html'), 'utf-8');
   const homepageTemplate = fs.readFileSync(path.join(CONFIG.templatesDir, 'homepage.html'), 'utf-8');
   const destinationsListTemplate = fs.readFileSync(path.join(CONFIG.templatesDir, 'destinations-list.html'), 'utf-8');
+  const itineraryTemplate = fs.existsSync(path.join(CONFIG.templatesDir, 'itinerary.html'))
+    ? fs.readFileSync(path.join(CONFIG.templatesDir, 'itinerary.html'), 'utf-8')
+    : null;
+  const itinerariesListTemplate = fs.existsSync(path.join(CONFIG.templatesDir, 'itineraries-list.html'))
+    ? fs.readFileSync(path.join(CONFIG.templatesDir, 'itineraries-list.html'), 'utf-8')
+    : null;
+  const guideTemplate = fs.existsSync(path.join(CONFIG.templatesDir, 'guide.html'))
+    ? fs.readFileSync(path.join(CONFIG.templatesDir, 'guide.html'), 'utf-8')
+    : null;
+  const guidesListTemplate = fs.existsSync(path.join(CONFIG.templatesDir, 'guides-list.html'))
+    ? fs.readFileSync(path.join(CONFIG.templatesDir, 'guides-list.html'), 'utf-8')
+    : null;
 
   // Load critical CSS
   const criticalCss = getCriticalCss();
@@ -482,6 +607,30 @@ async function build() {
     });
   }
 
+  // Load itinerary content
+  const itinerariesPath = path.join(CONFIG.contentDir, 'itineraries/en');
+  let itineraries = [];
+
+  if (fs.existsSync(itinerariesPath)) {
+    const itinFiles = fs.readdirSync(itinerariesPath).filter(f => f.endsWith('.json'));
+    itineraries = itinFiles.map(f => {
+      const content = JSON.parse(fs.readFileSync(path.join(itinerariesPath, f), 'utf-8'));
+      return content;
+    });
+  }
+
+  // Load guide content
+  const guidesPath = path.join(CONFIG.contentDir, 'guides/en');
+  let guides = [];
+
+  if (fs.existsSync(guidesPath)) {
+    const guideFiles = fs.readdirSync(guidesPath).filter(f => f.endsWith('.json'));
+    guides = guideFiles.map(f => {
+      const content = JSON.parse(fs.readFileSync(path.join(guidesPath, f), 'utf-8'));
+      return content;
+    });
+  }
+
   // Generate pages for each language
   let pageCount = 0;
 
@@ -493,7 +642,7 @@ async function build() {
     fs.mkdirSync(langDir, { recursive: true });
 
     // Generate homepage
-    const homepageHtml = generateHomepage(lang, homepageTemplate, criticalCss, destinations);
+    const homepageHtml = generateHomepage(lang, homepageTemplate, criticalCss, destinations, itineraries);
     fs.writeFileSync(path.join(langDir, 'index.html'), homepageHtml);
     pageCount++;
 
@@ -520,6 +669,48 @@ async function build() {
         fs.mkdirSync(subDir, { recursive: true });
         // Placeholder for sub-page generation
         fs.writeFileSync(path.join(subDir, 'index.html'), `<!DOCTYPE html><html lang="${lang}"><head><meta charset="utf-8"><title>${destination.name} ${sub} | Top Mexico Travel</title><meta http-equiv="refresh" content="0; url=/${lang}/${destination.slug}/"></head><body></body></html>`);
+        pageCount++;
+      }
+    }
+
+    // Generate itinerary pages
+    if (itineraryTemplate && itinerariesListTemplate && itineraries.length > 0) {
+      const itinerariesDir = path.join(langDir, 'itineraries');
+      fs.mkdirSync(itinerariesDir, { recursive: true });
+
+      // Generate itineraries list page
+      const itinerariesListHtml = generateItinerariesListPage(lang, itinerariesListTemplate, criticalCss, itineraries);
+      fs.writeFileSync(path.join(itinerariesDir, 'index.html'), itinerariesListHtml);
+      pageCount++;
+
+      // Generate individual itinerary pages
+      for (const itinerary of itineraries) {
+        const itinDir = path.join(itinerariesDir, itinerary.slug);
+        fs.mkdirSync(itinDir, { recursive: true });
+
+        const html = generateItineraryPage(lang, itinerary, itineraryTemplate, criticalCss);
+        fs.writeFileSync(path.join(itinDir, 'index.html'), html);
+        pageCount++;
+      }
+    }
+
+    // Generate guide pages
+    if (guideTemplate && guidesListTemplate && guides.length > 0) {
+      const guidesDir = path.join(langDir, 'guides');
+      fs.mkdirSync(guidesDir, { recursive: true });
+
+      // Generate guides list page
+      const guidesListHtml = generateGuidesListPage(lang, guidesListTemplate, criticalCss, guides);
+      fs.writeFileSync(path.join(guidesDir, 'index.html'), guidesListHtml);
+      pageCount++;
+
+      // Generate individual guide pages
+      for (const guide of guides) {
+        const guideDir = path.join(guidesDir, guide.slug);
+        fs.mkdirSync(guideDir, { recursive: true });
+
+        const html = generateGuidePage(lang, guide, guideTemplate, criticalCss);
+        fs.writeFileSync(path.join(guideDir, 'index.html'), html);
         pageCount++;
       }
     }

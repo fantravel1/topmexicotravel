@@ -11,12 +11,23 @@
   },
   "meta_title": "Guadalajara Travel Guide 2025 - Tequila, Mariachi & Culture",
   "meta_description": "Discover Guadalajara, Mexico's cultural capital and birthplace of tequila and mariachi. Explore colonial architecture, world-class food, vibrant neighborhoods, and easy access to tequila country.",
-  "hero_image": "/assets/images/destinations/guadalajara-hero.jpg",
+  "og_image": "https://images.unsplash.com/photo-1585464231875-d9ef1f5ad396?w=1200&h=630&fit=crop&q=80",
+  "canonical_url": "https://topmexicotravel.com/en/destinations/guadalajara",
+  "hero_image": "https://images.unsplash.com/photo-1585464231875-d9ef1f5ad396?w=1920&h=1080&fit=crop&q=80",
   "hero_alt": "Guadalajara Cathedral and historic center with fountains at Plaza de la Liberación",
+  "tagline": "Where Tequila, Mariachi, and Mexican Soul Unite",
+  "featured_snippet_intro": "Guadalajara is Mexico's cultural capital—birthplace of mariachi music and tequila, home to stunning colonial architecture, and gateway to the magical agave fields of Jalisco.",
   "introduction": {
     "snippet": "Guadalajara is Mexico's second-largest city and its cultural heart—the birthplace of mariachi music, tequila, and the charro (Mexican cowboy). This dynamic metropolis offers stunning colonial architecture, innovative culinary scene, vibrant neighborhoods, and serves as the gateway to the magical agave fields of Tequila country.",
     "full": "Often overlooked by international tourists in favor of beach resorts, Guadalajara rewards visitors with a deeper dive into Mexican culture and contemporary urban life. The tapatíos (as locals are called) are known for their warmth and pride in their city's contributions to Mexican identity—from the haunting melodies of mariachi born in the plazas of Tlaquepaque to the blue agave fields that produce the world's tequila.\n\nThe historic center showcases colonial grandeur, from the twin-spired cathedral to the ornate Teatro Degollado and the Hospicio Cabañas with its famous Orozco murals. But Guadalajara is also thoroughly modern, with thriving neighborhoods like Chapultepec and Americana offering trendy restaurants, craft cocktail bars, and boutique shopping. The city's food scene has exploded in recent years, earning recognition as a gastronomic destination. And with the town of Tequila just an hour away—complete with the scenic Tequila Express train and José Cuervo express—no visit is complete without exploring where Mexico's national spirit is born."
   },
+  "best_time_to_visit": "October to May offers the best weather with mild temperatures and clear skies. September brings Independence Day celebrations and the Mariachi Festival. Rainy season (June-September) has afternoon showers.",
+  "average_temperature": "20°C (68°F) year-round",
+  "known_for": "Tequila, mariachi music, colonial architecture, contemporary food scene, Tlaquepaque crafts, cultural festivals",
+  "airport_code": "GDL",
+  "rating": 4.6,
+  "review_count": 12450,
+  "tourist_types_json": "[\"Culture seekers\", \"Foodies\", \"Art lovers\", \"Tequila enthusiasts\", \"History buffs\", \"Urban explorers\"]",
   "quick_facts": {
     "best_time": "October to May",
     "avg_temp": "20°C (68°F)",
@@ -38,157 +49,332 @@
     {
       "name": "Tequila Town Day Trip",
       "type": "Cultural Experience",
-      "description": "Visit the magical town where tequila is born. Tour distilleries, explore agave fields, and sample Mexico's national spirit.",
+      "description": "Visit the magical Pueblo Mágico where tequila is born. Tour legendary distilleries like José Cuervo (operating since 1758) and Herradura, wander through endless rows of blue agave, learn the production process from jimadores, and sample Mexico's national spirit at the source. The town itself features colorful streets, tequila museums, and excellent restaurants.",
+      "image": "https://images.unsplash.com/photo-1569529465841-dfecdab7503b?w=800&h=600&fit=crop&q=80",
       "duration": "Full day",
       "price": "$50-150 USD tour",
+      "tip": "Take the Jose Cuervo Express train on weekends for a scenic journey with unlimited tequila tasting—book weeks ahead. Alternatively, rent a car for flexibility and visit multiple distilleries. Don't miss the agave landscape, a UNESCO World Heritage Site.",
       "coordinates": {"lat": 20.8821, "lng": -103.8369}
     },
     {
       "name": "Hospicio Cabañas",
       "type": "Museum/UNESCO Site",
-      "description": "UNESCO World Heritage site housing stunning murals by José Clemente Orozco, including the famous 'Man of Fire.'",
+      "description": "A UNESCO World Heritage Site and one of the oldest and largest hospital complexes in the Americas, now a cultural center. The chapel features stunning murals by José Clemente Orozco, including the famous 'Man of Fire' on the dome ceiling—a masterpiece of Mexican muralism. The building's neoclassical architecture is impressive in itself.",
+      "image": "https://images.unsplash.com/photo-1518638150340-f706e86654de?w=800&h=600&fit=crop&q=80",
       "duration": "2-3 hours",
       "price": "$5 USD",
+      "tip": "Lie on the benches beneath the dome to fully appreciate the 'Man of Fire' mural—it's designed to be viewed from below. Visit Tuesday-Sunday; closed Mondays. Audio guides are available and worthwhile.",
       "coordinates": {"lat": 20.6783, "lng": -103.3386}
     },
     {
       "name": "Tlaquepaque",
       "type": "Artisan Village",
-      "description": "Charming neighborhood famous for traditional crafts, blown glass, pottery, mariachi, and pedestrian streets lined with galleries.",
-      "duration": "Half day",
-      "price": "Free",
+      "description": "This charming neighborhood, now absorbed into greater Guadalajara, is the birthplace of mariachi music and a center for traditional Mexican crafts. Pedestrian streets are lined with galleries selling blown glass, pottery, papier-mâché figures, and fine art. The central plaza El Parián features mariachi performances daily, especially evenings and weekends.",
+      "image": "https://images.unsplash.com/photo-1518105779142-d975f22f1b0a?w=800&h=600&fit=crop&q=80",
+      "duration": "Half-full day",
+      "price": "Free to explore",
+      "tip": "Visit El Parián in the evening when mariachi bands serenade diners. Weekends are lively but crowded; weekdays are calmer for shopping. Don't miss the blown glass workshops where you can watch artisans work.",
       "coordinates": {"lat": 20.6417, "lng": -103.3125}
     },
     {
       "name": "Historic Center",
       "type": "Historic District",
-      "description": "Colonial heart of the city including the Cathedral, Plaza de Armas, Government Palace, and Teatro Degollado.",
+      "description": "Guadalajara's colonial heart spans four interconnected plazas surrounding the iconic twin-spired cathedral. Key sites include the neoclassical Teatro Degollado (attend a performance if possible), the Government Palace with Orozco murals, the ornate Templo Expiatorio, and the bustling Mercado San Juan de Dios—Latin America's largest covered market.",
+      "image": "https://images.unsplash.com/photo-1585464231875-d9ef1f5ad396?w=800&h=600&fit=crop&q=80",
       "duration": "3-4 hours",
       "price": "Free (museums extra)",
+      "tip": "Start at the Cathedral and walk through all four plazas. Visit the Government Palace to see Orozco's murals for free. The Degollado theater offers tours during the day and excellent performances at night.",
       "coordinates": {"lat": 20.6772, "lng": -103.3472}
+    },
+    {
+      "name": "Teatro Degollado",
+      "type": "Performing Arts",
+      "description": "One of Mexico's most beautiful neoclassical theaters, built in 1866 and featuring a stunning interior with five balcony levels, a Gerardo Suárez mural on the ceiling depicting Dante's Divine Comedy, and excellent acoustics. Home to the Jalisco Philharmonic and Ballet Folklórico.",
+      "image": "https://images.unsplash.com/photo-1507676184212-d03ab07a01bf?w=800&h=600&fit=crop&q=80",
+      "duration": "1-2 hours",
+      "price": "Tours $3 USD; performances $15-50 USD",
+      "tip": "Catch the Ballet Folklórico de la Universidad de Guadalajara on Sunday mornings—a spectacular showcase of traditional Mexican dance at affordable prices. Book tickets in advance for evening performances.",
+      "coordinates": {"lat": 20.6758, "lng": -103.3461}
     },
     {
       "name": "Lake Chapala & Ajijic",
       "type": "Day Trip",
-      "description": "Mexico's largest lake, about 45 minutes south, with the charming expat-filled village of Ajijic on its shore.",
+      "description": "Mexico's largest natural lake, about 45 minutes south, with the charming expat-filled village of Ajijic on its shore. The lake is surrounded by mountains and features a pleasant malecón (waterfront promenade). Ajijic has excellent restaurants, art galleries, and a unique blend of Mexican and international culture.",
+      "image": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&h=600&fit=crop&q=80",
       "duration": "Half-full day",
       "price": "Transport only",
+      "tip": "Have lunch at one of Ajijic's lakefront restaurants. The area has the world's largest American/Canadian expat community, creating a unique cultural blend. Sunday is liveliest but also busiest.",
       "coordinates": {"lat": 20.2967, "lng": -103.2456}
+    },
+    {
+      "name": "Mercado San Juan de Dios",
+      "type": "Market",
+      "description": "Latin America's largest indoor market, sprawling across three floors with over 3,000 stalls selling everything from leather goods and electronics to traditional candies and witchcraft supplies. The food court upstairs offers excellent, cheap Jalisciense cuisine including birria, tortas ahogadas, and fresh juices.",
+      "image": "https://images.unsplash.com/photo-1534531173927-aeb928d54385?w=800&h=600&fit=crop&q=80",
+      "duration": "2-3 hours",
+      "price": "Free to enter",
+      "tip": "Bargain at the craft stalls but not at food stands. The upper food court has excellent birria—look for busy stalls. Watch for pickpockets in crowded areas. The leather goods section offers great deals.",
+      "coordinates": {"lat": 20.6756, "lng": -103.3358}
+    },
+    {
+      "name": "Chapultepec & Americana",
+      "type": "Neighborhood",
+      "description": "Guadalajara's trendiest neighborhoods, featuring tree-lined streets, Art Deco and mid-century architecture, excellent restaurants, craft cocktail bars, boutique shopping, and the famous Chapultepec pedestrian avenue (La Chapultepec) that comes alive on weekend nights.",
+      "image": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=800&h=600&fit=crop&q=80",
+      "duration": "Evening",
+      "price": "Free to explore",
+      "tip": "Walk La Chapultepec on weekend evenings when it becomes a pedestrian zone with street performers and open-air bars. The neighborhood has Guadalajara's best contemporary restaurants and cocktail scene.",
+      "coordinates": {"lat": 20.6700, "lng": -103.3650}
     },
     {
       "name": "Barranca de Huentitán",
       "type": "Natural Area",
-      "description": "Dramatic canyon on the city's edge with hiking trails and the Santiago River—Guadalajara's natural escape.",
+      "description": "A dramatic 600-meter-deep canyon on the city's northern edge where the Santiago River flows through. Hiking trails descend into the canyon, and the Barranca Zoo offers animal exhibits and canyon views. It's Guadalajara's escape into nature without leaving the city.",
+      "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&h=600&fit=crop&q=80",
       "duration": "2-4 hours",
-      "price": "Free",
+      "price": "Free (zoo separate)",
+      "tip": "The hike down is easy; the hike back up is strenuous—bring water. Early morning offers cooler temperatures and better wildlife sighting. The zoo is family-friendly and has great canyon views.",
       "coordinates": {"lat": 20.7200, "lng": -103.3300}
+    },
+    {
+      "name": "Rotonda de los Jaliscienses Ilustres",
+      "type": "Monument",
+      "description": "A circular neoclassical monument surrounded by 98 columns, honoring distinguished citizens of Jalisco. Located in a peaceful plaza next to the cathedral, it contains the remains of notable Jaliscans including artists, writers, and revolutionaries. A beautiful spot for a quiet moment.",
+      "image": "https://images.unsplash.com/photo-1518638150340-f706e86654de?w=800&h=600&fit=crop&q=80",
+      "duration": "30 min",
+      "price": "Free",
+      "tip": "Combine with a visit to the adjacent cathedral and Museo Regional de Guadalajara. The monument is most photogenic in early morning or late afternoon light.",
+      "coordinates": {"lat": 20.6786, "lng": -103.3481}
     }
   ],
   "neighborhoods": [
     {
       "name": "Chapultepec/Americana",
-      "description": "Trendy neighborhoods with excellent restaurants, bars, cafés, and tree-lined streets"
+      "slug": "chapultepec-americana",
+      "description": "Guadalajara's trendiest districts, featuring Art Deco architecture, tree-lined streets, the pedestrian avenue La Chapultepec, and the city's best dining and nightlife scene. This is where tapatíos come to eat, drink, and be seen.",
+      "image": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=800&h=600&fit=crop&q=80",
+      "vibe": "Trendy, cosmopolitan, walkable, nightlife",
+      "best_for": "Foodies, nightlife seekers, design lovers, boutique shoppers",
+      "highlights": ["La Chapultepec pedestrian avenue", "Craft cocktail bars", "Contemporary restaurants", "Boutique hotels", "Street art"]
     },
     {
       "name": "Centro Histórico",
-      "description": "Colonial heart with cathedrals, plazas, markets, and traditional cantinas"
+      "slug": "centro-historico",
+      "description": "The colonial heart of Guadalajara with four interconnected plazas, the iconic cathedral, Government Palace, Teatro Degollado, and the massive San Juan de Dios market. Traditional cantinas, historic buildings, and everyday Mexican urban life.",
+      "image": "https://images.unsplash.com/photo-1585464231875-d9ef1f5ad396?w=800&h=600&fit=crop&q=80",
+      "vibe": "Historic, bustling, traditional, authentic",
+      "best_for": "History buffs, architecture lovers, market explorers, budget travelers",
+      "highlights": ["Cathedral and four plazas", "Hospicio Cabañas", "Teatro Degollado", "Mercado San Juan de Dios", "Traditional cantinas"]
     },
     {
       "name": "Tlaquepaque",
-      "description": "Artisan village with craft shops, galleries, and mariachi performances"
+      "slug": "tlaquepaque",
+      "description": "The artisan heart of Jalisco, where mariachi music was born and traditional Mexican crafts thrive. Pedestrian streets lined with galleries, the musical plaza El Parián, and a village atmosphere that feels worlds away from the metropolis.",
+      "image": "https://images.unsplash.com/photo-1518105779142-d975f22f1b0a?w=800&h=600&fit=crop&q=80",
+      "vibe": "Artistic, traditional, colorful, musical",
+      "best_for": "Art collectors, craft shoppers, mariachi lovers, photographers",
+      "highlights": ["El Parián mariachi plaza", "Blown glass workshops", "Art galleries", "Pottery studios", "Pedestrian streets"]
     },
     {
       "name": "Zapopan",
-      "description": "Modern district with shopping, the Zapopan Basilica, and contemporary museums"
+      "slug": "zapopan",
+      "description": "Once a separate city, now Guadalajara's modern district featuring the Basilica of Our Lady of Zapopan, contemporary art museums, upscale shopping malls, and the new financial center. Mix of traditional religious significance and modern development.",
+      "image": "https://images.unsplash.com/photo-1507676184212-d03ab07a01bf?w=800&h=600&fit=crop&q=80",
+      "vibe": "Modern, religious, commercial, residential",
+      "best_for": "Shoppers, contemporary art lovers, religious pilgrims, business travelers",
+      "highlights": ["Basilica of Zapopan", "MAZ (contemporary art museum)", "Andares shopping", "Huichol art museum", "Modern architecture"]
     }
   ],
-  "hotels": [
+  "featured_hotels": [
     {
       "name": "Hotel Demetria",
       "category": "Boutique Luxury",
       "stars": 5,
       "price_range": "$$$$",
-      "description": "Stunning design hotel in a converted mansion with rooftop pool and excellent restaurant",
-      "features": ["Rooftop pool", "Design hotel", "Restaurant", "Chapultepec"]
+      "description": "Guadalajara's most stylish hotel, set in a converted mansion with stunning rooftop pool, excellent restaurant, and carefully curated design. Each room is unique with contemporary art and original architectural details.",
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800&h=600&fit=crop&q=80",
+      "features": ["Rooftop pool", "Design hotel", "Restaurant", "Chapultepec location", "Art collection"]
     },
     {
       "name": "Casa Fayette",
       "category": "Boutique",
       "stars": 5,
       "price_range": "$$$$",
-      "description": "Art-filled boutique hotel with acclaimed restaurant and bar in converted 1940s mansion",
-      "features": ["Art collection", "Restaurant", "Pool", "Americana"]
+      "description": "A converted 1940s mansion featuring art-filled spaces, acclaimed restaurant Lulú, an intimate pool, and impeccable service. The design blends mid-century modern with contemporary Mexican aesthetics.",
+      "image": "https://images.unsplash.com/photo-1582719508461-905c673771fd?w=800&h=600&fit=crop&q=80",
+      "features": ["Art collection", "Restaurant Lulú", "Pool", "Americana location", "Design boutique"]
+    },
+    {
+      "name": "Casa Pedro Loza",
+      "category": "Boutique",
+      "stars": 4,
+      "price_range": "$$$",
+      "description": "Historic mansion transformed into an elegant boutique hotel in the heart of Centro Histórico. Walking distance to major attractions with sophisticated rooms and excellent restaurant.",
+      "image": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=800&h=600&fit=crop&q=80",
+      "features": ["Historic building", "Central location", "Restaurant", "Rooftop terrace", "Colonial charm"]
     },
     {
       "name": "One Guadalajara Centro",
       "category": "Mid-Range",
       "stars": 4,
       "price_range": "$$",
-      "description": "Modern business hotel in excellent historic center location",
-      "features": ["Central location", "Restaurant", "Gym", "Good value"]
+      "description": "Modern business hotel in excellent historic center location near the cathedral. Clean, comfortable rooms with all amenities at reasonable prices. Great base for exploring.",
+      "image": "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?w=800&h=600&fit=crop&q=80",
+      "features": ["Central location", "Restaurant", "Gym", "Good value", "Business-friendly"]
+    },
+    {
+      "name": "Hotel Morales",
+      "category": "Historic",
+      "stars": 4,
+      "price_range": "$$",
+      "description": "Grand historic hotel dating to 1883, featuring period architecture, rooftop pool with cathedral views, and central location. Classic Guadalajara elegance at accessible prices.",
+      "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=800&h=600&fit=crop&q=80",
+      "features": ["Historic 1883", "Rooftop pool", "Cathedral views", "Central", "Classic elegance"]
     },
     {
       "name": "Hostel Hospedarte Chapultepec",
       "category": "Budget",
       "stars": 2,
       "price_range": "$",
-      "description": "Excellent hostel in trendy Chapultepec neighborhood with great common areas",
-      "features": ["Chapultepec location", "Kitchen", "Social", "Bar"]
+      "description": "Excellent hostel in trendy Chapultepec neighborhood with both dorms and private rooms, great common areas, bar, and kitchen. Walking distance to the best restaurants and nightlife.",
+      "image": "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?w=800&h=600&fit=crop&q=80",
+      "features": ["Chapultepec location", "Kitchen", "Social atmosphere", "Bar", "Budget-friendly"]
     }
   ],
-  "restaurants": [
+  "featured_restaurants": [
     {
       "name": "Hueso",
       "cuisine": "Contemporary Mexican",
       "price_range": "$$$$",
-      "description": "Striking all-white restaurant decorated with bones, serving innovative Mexican cuisine"
+      "description": "A striking all-white restaurant decorated with 10,000 bones, serving innovative Mexican cuisine from acclaimed chef Alfonso Cadena. The conceptual space is as memorable as the food—a truly unique dining experience.",
+      "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800&h=600&fit=crop&q=80",
+      "must_try": ["Bone marrow", "Octopus tostada", "Tasting menu", "Mezcal pairings"]
+    },
+    {
+      "name": "Alcalde",
+      "cuisine": "Contemporary Mexican",
+      "price_range": "$$$$",
+      "description": "One of Mexico's best restaurants, featuring seasonal menus showcasing Jalisco's ingredients with modern techniques. Chef Francisco Ruano creates sophisticated dishes rooted in local tradition.",
+      "image": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=800&h=600&fit=crop&q=80",
+      "must_try": ["Tasting menu", "Seasonal fish", "Heirloom vegetables", "Local wines"]
     },
     {
       "name": "La Tequila",
       "cuisine": "Traditional Mexican",
       "price_range": "$$$",
-      "description": "Extensive tequila selection with excellent traditional Jalisco cuisine"
+      "description": "Upscale celebration of Jalisco cuisine with over 500 tequilas to explore. Excellent traditional dishes including birria, carne en su jugo, and regional specialties in an elegant setting.",
+      "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800&h=600&fit=crop&q=80",
+      "must_try": ["Tequila flights", "Birria", "Carne en su jugo", "Mole"]
     },
     {
       "name": "Karne Garibaldi",
       "cuisine": "Mexican",
       "price_range": "$$",
-      "description": "Guinness World Record holder for fastest restaurant service—try the carne en su jugo"
+      "description": "Guinness World Record holder for fastest restaurant service—your carne en su jugo arrives in seconds. The signature dish is beef and bacon in a savory broth with beans, radish, and fresh tortillas.",
+      "image": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?w=800&h=600&fit=crop&q=80",
+      "must_try": ["Carne en su jugo", "Beans", "Fresh tortillas", "Grilled onions"]
+    },
+    {
+      "name": "Birrería Las 9 Esquinas",
+      "cuisine": "Birria",
+      "price_range": "$$",
+      "description": "Legendary spot for Guadalajara's signature dish: birria (slow-cooked spiced beef or goat). Operating since 1951 in the traditional Las 9 Esquinas neighborhood. Order the tacos dorados for extra-crispy goodness.",
+      "image": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?w=800&h=600&fit=crop&q=80",
+      "must_try": ["Birria de res", "Birria de chivo", "Tacos dorados", "Consomé"]
     },
     {
       "name": "Tortas Ahogadas El Güero",
       "cuisine": "Street Food",
       "price_range": "$",
-      "description": "Legendary spot for tortas ahogadas, Guadalajara's signature 'drowned' sandwich"
+      "description": "The quintessential spot for Guadalajara's signature street food: tortas ahogadas—crusty bread rolls stuffed with carnitas and 'drowned' in spicy tomato and chile de árbol sauce.",
+      "image": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?w=800&h=600&fit=crop&q=80",
+      "must_try": ["Torta ahogada", "Extra spicy version", "Fresh radish", "Lime"]
+    },
+    {
+      "name": "Café Madrid",
+      "cuisine": "Traditional Mexican",
+      "price_range": "$$",
+      "description": "Historic cantina dating to 1954, serving traditional Mexican food in a classic setting with ceiling fans, checkered floors, and old-school waiters. Popular with locals for breakfast and lunch.",
+      "image": "https://images.unsplash.com/photo-1514933651103-005eec06c04b?w=800&h=600&fit=crop&q=80",
+      "must_try": ["Chilaquiles", "Huevos rancheros", "Pozole", "Micheladas"]
+    },
+    {
+      "name": "La Gorda",
+      "cuisine": "Mexican/Cantina",
+      "price_range": "$$",
+      "description": "Hip cantina in Chapultepec serving creative Mexican food and excellent cocktails. The perfect spot for late-night dining with a lively atmosphere and DJ sets on weekends.",
+      "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?w=800&h=600&fit=crop&q=80",
+      "must_try": ["Tacos", "Mezcal cocktails", "Late-night snacks", "Guacamole"]
     }
   ],
+  "day_trips": [
+    {
+      "name": "Tequila & Agave Landscape",
+      "distance": "1 hour",
+      "description": "Visit the UNESCO World Heritage agave landscape and the town of Tequila. Tour distilleries like José Cuervo, Herradura, or smaller artisanal producers. Taste Mexico's national spirit at its source and explore the charming town square.",
+      "image": "https://images.unsplash.com/photo-1569529465841-dfecdab7503b?w=800&h=600&fit=crop&q=80",
+      "tips": "Book the Jose Cuervo Express train for a festive experience (weekends only, book ahead). Alternatively, drive or join a tour for more flexibility. Smaller distilleries offer more intimate experiences."
+    },
+    {
+      "name": "Lake Chapala & Ajijic",
+      "distance": "45 minutes",
+      "description": "Mexico's largest natural lake with the charming expat village of Ajijic on its shore. Walk the malecón, browse art galleries, enjoy lakeside dining, and experience this unique blend of Mexican and international culture.",
+      "image": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&h=600&fit=crop&q=80",
+      "tips": "Sunday brings the weekly tianguis (market) in Ajijic. The lake level varies seasonally—dry season may expose mudflats. Try birria at one of the lakeside restaurants."
+    },
+    {
+      "name": "Tapalpa Pueblo Mágico",
+      "distance": "2 hours",
+      "description": "A mountain Pueblo Mágico known for fresh air, pine forests, horseback riding, and dramatic rock formations called Las Piedrotas. The colonial town offers weekend retreat atmosphere and excellent regional cuisine.",
+      "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&h=600&fit=crop&q=80",
+      "tips": "Best as a weekend overnight trip to fully enjoy the mountain setting. The climate is much cooler—bring layers. Try the local rompope (eggnog-like drink) and requesón cheese."
+    },
+    {
+      "name": "Mazamitla",
+      "distance": "2 hours",
+      "description": "Another pine-forested Pueblo Mágico offering mountain cabins, local cheese, and colonial charm. Popular for romantic weekend escapes with cozy restaurants, fireplaces, and horse-drawn carriages.",
+      "image": "https://images.unsplash.com/photo-1518105779142-d975f22f1b0a?w=800&h=600&fit=crop&q=80",
+      "tips": "Book ahead on weekends and holidays as cabins fill up. The altitude makes nights chilly year-round. Try the local carnitas and fresh-baked bread."
+    }
+  ],
+  "getting_there": "Guadalajara International Airport (GDL) has direct flights from major US cities (LA, Dallas, Houston, Chicago, Phoenix) and throughout Mexico. The airport is 20 minutes from downtown. ADO and ETN buses connect to Mexico City (6 hours), Puerto Vallarta (4.5 hours), and other major cities.",
+  "getting_around": "Uber is the easiest way to navigate the sprawling metro area. The city has an efficient light rail (Tren Ligero) and bus system, though it can be confusing. Walking works well within neighborhoods (Centro, Chapultepec, Tlaquepaque) but not between them. Taxis are available but Uber is generally preferred.",
+  "safety_info": "Tourist areas like Centro Histórico, Chapultepec, Americana, and Tlaquepaque are generally safe. Use normal urban precautions: avoid flashy jewelry, use Uber at night, stay aware in crowded markets. The city is safer than its sometimes-undeserved reputation suggests, but certain outlying areas should be avoided.",
   "faqs": [
     {
       "question": "How do I visit Tequila from Guadalajara?",
-      "answer": "Options include: the Jose Cuervo Express train (weekend scenic journey with tastings), organized tours ($50-100 USD including distillery visits and lunch), rental car for flexibility (1 hour drive), or public bus from Central Camionera. Most visitors book a full-day tour."
+      "answer": "Options include: the Jose Cuervo Express train (weekend scenic journey with unlimited tequila—book ahead), organized tours ($50-100 USD including distillery visits and lunch), rental car for flexibility (1 hour drive), or public bus from Central Camionera. Most visitors book a full-day tour that includes multiple distilleries."
     },
     {
       "question": "Is Guadalajara safe for tourists?",
-      "answer": "Tourist areas like Centro Histórico, Chapultepec, Americana, and Tlaquepaque are generally safe. Use normal urban precautions, especially at night. Avoid isolated areas after dark and use Uber or registered taxis. The city is safer than its sometimes-undeserved reputation suggests."
+      "answer": "Tourist areas like Centro Histórico, Chapultepec, Americana, and Tlaquepaque are generally safe. Use normal urban precautions, especially at night. Use Uber rather than street taxis. Avoid isolated areas after dark. The city is safer for tourists than headlines suggest, though it's a major metropolis requiring standard big-city awareness."
     },
     {
       "question": "How many days do you need in Guadalajara?",
-      "answer": "Plan for 3-4 days: 1-2 days for the historic center and neighborhoods, 1 day for Tlaquepaque and/or a tequila tour, and optionally 1 day for Lake Chapala. Food and culture enthusiasts could easily spend a week exploring the region."
+      "answer": "Plan for 3-4 days: 1-2 days for the historic center and neighborhoods, 1 day for Tlaquepaque, and 1 day for a tequila tour. Food and culture enthusiasts could easily spend a week exploring the city and region, including day trips to Lake Chapala or mountain Pueblos Mágicos."
     },
     {
       "question": "What food is Guadalajara known for?",
-      "answer": "Must-try dishes include: tortas ahogadas (drowned sandwiches), birria (stewed meat), carne en su jugo (beef in its juices), tejuino (fermented corn drink), and of course tequila. The city has also developed a sophisticated contemporary food scene."
+      "answer": "Must-try dishes include: tortas ahogadas (drowned pork sandwiches), birria (slow-cooked spiced meat stew), carne en su jugo (beef in its juices with bacon and beans), tejuino (fermented corn drink), and of course tequila. The city has also developed a sophisticated contemporary food scene rivaling Mexico City."
     },
     {
       "question": "What is the best neighborhood to stay in Guadalajara?",
-      "answer": "Chapultepec and Americana are the best areas for visitors—walkable, trendy neighborhoods with excellent restaurants, bars, and shopping. Centro Histórico puts you in the colonial heart but is busier. Tlaquepaque is charming but quieter at night."
+      "answer": "Chapultepec and Americana are the best areas for visitors—walkable, trendy neighborhoods with excellent restaurants, bars, and boutique hotels. Centro Histórico puts you in the colonial heart but is busier and less polished. Tlaquepaque is charming but quieter at night with fewer accommodation options."
     },
     {
       "question": "When is the best time to visit Guadalajara?",
-      "answer": "October to May offers pleasant weather. The rainy season (June-September) brings afternoon showers. September features Independence Day and the famous Mariachi Festival. October brings the International Film Festival. Avoid Holy Week if you want to visit Tequila (very crowded)."
+      "answer": "October to May offers pleasant weather with mild temperatures and clear skies. The rainy season (June-September) brings afternoon showers but lower prices. September features Independence Day celebrations and the famous Mariachi Festival. The International Film Festival (FICG) is in March."
+    },
+    {
+      "question": "Is Guadalajara worth visiting?",
+      "answer": "Absolutely. Guadalajara offers deep cultural immersion that beach resorts can't match: the birthplace of tequila and mariachi, stunning colonial architecture, world-class museums, excellent food, and authentic Mexican urban life. It's ideal for travelers seeking culture over beaches."
+    },
+    {
+      "question": "How is Guadalajara different from Mexico City?",
+      "answer": "Guadalajara is smaller, less chaotic, and more traditionally 'Mexican'—it's the heartland that gave birth to mariachi and tequila. The food scene is excellent but more regional. The colonial architecture is better preserved. It lacks CDMX's museums and cultural breadth but offers a more manageable, distinctly Jalisco experience."
     }
   ],
-  "related_destinations": ["tequila", "san-miguel-de-allende", "guanajuato", "puerto-vallarta", "ajijic"],
+  "related_destinations": ["tequila", "san-miguel-de-allende", "guanajuato", "puerto-vallarta", "mexico-city"],
   "tags": ["city", "tequila", "mariachi", "culture", "food", "colonial", "art", "nightlife"],
   "schema_type": "TouristDestination"
 }

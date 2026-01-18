@@ -1,0 +1,192 @@
+{
+  "id": "baja-california-7-days",
+  "slug": "baja-california-7-days",
+  "title": "7 Days in Baja California Sur",
+  "subtitle": "Desert Landscapes, Whale Watching & Beach Paradise",
+  "duration": "7 Days",
+  "meta_title": "Baja California Sur 7-Day Itinerary - Los Cabos, La Paz & Todos Santos",
+  "meta_description": "Explore Baja California Sur in 7 days: Los Cabos beaches, Todos Santos art scene, La Paz whale sharks, and stunning desert-meets-ocean landscapes. Complete day-by-day guide.",
+  "hero_image": "https://images.unsplash.com/photo-1510414842594-a61c69b5ae57?w=1920&h=1080&fit=crop&q=80",
+  "hero_alt": "El Arco rock formation at Land's End in Cabo San Lucas",
+  "og_image": "https://images.unsplash.com/photo-1510414842594-a61c69b5ae57?w=1200&h=630&fit=crop&q=80",
+  "introduction": "Baja California Sur is Mexico's final frontier—a dramatic peninsula where the desert plunges into two seas, whales come to give birth, and artistic communities thrive in oasis towns. This 7-day itinerary combines the resort energy of Los Cabos with the bohemian soul of Todos Santos and the natural wonders of La Paz, creating the perfect Baja experience.",
+  "best_for": ["Couples", "Beach lovers", "Wildlife enthusiasts", "Art lovers", "Foodies"],
+  "estimated_budget": {
+    "budget": "$800-1,200 USD per person",
+    "mid_range": "$1,500-2,500 USD per person",
+    "luxury": "$4,000+ USD per person"
+  },
+  "best_time": "December to April for whale watching and perfect weather",
+  "destinations": ["Los Cabos", "Todos Santos", "La Paz"],
+  "highlights": [
+    "Watch whales at close range in Magdalena Bay",
+    "Swim with whale sharks in La Paz",
+    "Explore the Hotel California legend",
+    "Kayak with sea lions at Espíritu Santo",
+    "See El Arco at Land's End",
+    "Taste farm-to-table cuisine in Todos Santos"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Arrive in Los Cabos",
+      "location": "San José del Cabo",
+      "description": "Fly into Los Cabos International Airport (SJD) and transfer to San José del Cabo, the quieter, more charming of the two Cabos. Check into your hotel and explore the historic art district with its colonial church, galleries, and Thursday Art Walk (if timing allows). Dine at one of the excellent restaurants on the plaza.",
+      "image": "https://images.unsplash.com/photo-1510414842594-a61c69b5ae57?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Airport arrival and transfer",
+        "Check in to San José del Cabo hotel",
+        "Walk the historic Art District",
+        "Browse galleries and boutiques",
+        "Dinner at Flora Farms or Mi Casa"
+      ],
+      "accommodation": {
+        "budget": "El Delfin Blanco ($80-120)",
+        "mid_range": "Casa Natalia ($200-350)",
+        "luxury": "One&Only Palmilla ($800+)"
+      },
+      "tips": ["San José del Cabo has more character than Cabo San Lucas—stay here for a better experience", "Thursday Art Walk runs November-June from 5-9pm", "Rent a car if you want flexibility (recommended)"]
+    },
+    {
+      "day": 2,
+      "title": "Los Cabos Exploration",
+      "location": "Cabo San Lucas / San José del Cabo",
+      "description": "Morning boat trip to El Arco, the iconic rock formation at Land's End where the Pacific meets the Sea of Cortez. Visit Lover's Beach (bring snorkel gear), then head to Cabo San Lucas marina for lunch. Afternoon on the beach or snorkeling at Chileno Bay. Return to San José for sunset and dinner.",
+      "image": "https://images.unsplash.com/photo-1519046904884-53103b34b206?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Boat trip to El Arco (Land's End)",
+        "Swimming at Lover's Beach",
+        "Snorkeling at Chileno Bay",
+        "Cabo San Lucas marina lunch",
+        "Sunset drinks in San José"
+      ],
+      "accommodation": {
+        "budget": "El Delfin Blanco ($80-120)",
+        "mid_range": "Casa Natalia ($200-350)",
+        "luxury": "One&Only Palmilla ($800+)"
+      },
+      "tips": ["Glass-bottom boats or water taxis to El Arco cost $15-25 round trip", "Chileno Bay is the best snorkeling on the corridor—free access", "Don't miss the sunset from the rooftop at Casa Natalia"]
+    },
+    {
+      "day": 3,
+      "title": "Todos Santos Art Town",
+      "location": "Todos Santos",
+      "description": "Drive the scenic Highway 19 to Todos Santos (1 hour). This Pueblo Mágico is Baja's bohemian heart—galleries, organic farms, surf beaches, and the legendary Hotel California. Explore the art-filled streets, visit the famous hotel, and dine at one of the acclaimed farm-to-table restaurants.",
+      "image": "https://images.unsplash.com/photo-1512813195386-6cf811ad3542?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Scenic drive to Todos Santos",
+        "Explore galleries and boutiques",
+        "Visit Hotel California",
+        "Lunch at Hierbabuena or Jazamango",
+        "Beach time at Cerritos",
+        "Sunset drinks at Hotel San Cristóbal"
+      ],
+      "accommodation": {
+        "budget": "Hosteria del Convento ($60-100)",
+        "mid_range": "Hotel California ($200-300)",
+        "luxury": "Rancho Pescadero ($400+)"
+      },
+      "tips": ["Hotel California's courtyard bar is worth a visit regardless of the Eagles connection", "Cerritos Beach (15 min south) is excellent for beginner surfing", "Make dinner reservations—top restaurants book up"]
+    },
+    {
+      "day": 4,
+      "title": "Todos Santos & Farms",
+      "location": "Todos Santos",
+      "description": "Morning surf lesson at Cerritos Beach or yoga session. Visit one of the organic farms that supply the town's restaurants—Huerta Los Tamarindos offers tours and a farm restaurant. Afternoon gallery hopping or hiking in the Sierra de la Laguna foothills. Evening cooking class or special dinner.",
+      "image": "https://images.unsplash.com/photo-1500651230702-0e2d8a49d4e7?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Surf lesson or yoga",
+        "Organic farm tour",
+        "Farm-to-table lunch",
+        "Gallery exploration",
+        "Cooking class or special dinner"
+      ],
+      "accommodation": {
+        "budget": "Hosteria del Convento ($60-100)",
+        "mid_range": "Hotel California ($200-300)",
+        "luxury": "Rancho Pescadero ($400+)"
+      },
+      "tips": ["Book surf lessons through Mario's Surf School", "Farm tours should be arranged in advance", "Try to catch the Saturday morning farmers market"]
+    },
+    {
+      "day": 5,
+      "title": "Drive to La Paz",
+      "location": "La Paz",
+      "description": "Drive north to La Paz (1.5 hours), the state capital and a completely different vibe—authentic Mexican city life meets stunning bay. Walk the beautiful Malecón at sunset, browse the shops downtown, and enjoy fresh seafood at one of the waterfront restaurants.",
+      "image": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Scenic drive to La Paz",
+        "Check in and lunch downtown",
+        "Explore city center and shops",
+        "Walk the Malecón at sunset",
+        "Seafood dinner on the waterfront"
+      ],
+      "accommodation": {
+        "budget": "Pensión California ($50-80)",
+        "mid_range": "Hotel Catedral ($100-180)",
+        "luxury": "CostaBaja Resort ($250+)"
+      },
+      "tips": ["La Paz feels like 'real Mexico' compared to Los Cabos—embrace it", "The Malecón sunset is spectacular", "Book tomorrow's whale shark or sea lion tour tonight"]
+    },
+    {
+      "day": 6,
+      "title": "Marine Wildlife Adventure",
+      "location": "La Paz / Espíritu Santo",
+      "description": "This is the wildlife highlight of Baja. Choose between swimming with whale sharks (September-April) or kayaking with sea lions at Isla Espíritu Santo (year-round). Both are bucket-list experiences. The whale sharks are gentle giants; the sea lions are playful pups. Return exhausted and exhilarated.",
+      "image": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Whale shark snorkeling (seasonal) OR",
+        "Espíritu Santo kayaking with sea lions",
+        "Beach picnic on pristine island",
+        "Snorkeling in crystal waters",
+        "Recovery dinner in La Paz"
+      ],
+      "accommodation": {
+        "budget": "Pensión California ($50-80)",
+        "mid_range": "Hotel Catedral ($100-180)",
+        "luxury": "CostaBaja Resort ($250+)"
+      },
+      "tips": ["Whale shark tours run October-April (peak December-February)", "Sea lion tours are year-round and equally amazing", "Book through reputable operators like The Cortez Club or Fun Baja"]
+    },
+    {
+      "day": 7,
+      "title": "Balandra Beach & Departure",
+      "location": "La Paz / Los Cabos",
+      "description": "Visit Balandra Beach, consistently rated one of Mexico's most beautiful beaches—a protected bay with shallow turquoise water, white sand, and the famous mushroom rock. Spend the morning in paradise, then drive back to Los Cabos airport (2 hours) for your departure flight.",
+      "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Early morning at Balandra Beach",
+        "Swimming and photography",
+        "Brunch in La Paz",
+        "Drive to Los Cabos airport",
+        "Departure"
+      ],
+      "tips": ["Arrive at Balandra early (before 10am) for best parking and fewer crowds", "Bring snacks and water—no services at the beach", "Allow 2.5 hours for the drive to SJD airport with buffer"]
+    }
+  ],
+  "practical_info": {
+    "getting_there": "Fly into Los Cabos International Airport (SJD). Major airlines serve SJD from most US cities and many international destinations. La Paz has a small airport (LAP) with limited connections.",
+    "getting_around": "Rent a car—essential for this itinerary. Roads are excellent and scenic. The toll-free highway between Cabos and La Paz is safe and beautiful. Some tour operators provide transport from hotels.",
+    "what_to_pack": ["Reef-safe sunscreen", "Snorkel gear (or rent locally)", "Light layers for desert evenings", "Camera with underwater case"]
+  },
+  "faqs": [
+    {
+      "question": "When is whale watching season in Baja?",
+      "answer": "Gray whales visit Baja's Pacific lagoons (Magdalena Bay, San Ignacio) from December to April, with February being peak season. Whale sharks are in the Sea of Cortez near La Paz from October to April. Humpback whales pass through Los Cabos November to March."
+    },
+    {
+      "question": "Is it safe to swim with whale sharks?",
+      "answer": "Yes, absolutely. Whale sharks are gentle filter feeders—they eat plankton, not people. They can grow up to 40 feet but are completely docile. Reputable operators follow strict guidelines for safe, respectful encounters."
+    },
+    {
+      "question": "Can I do this trip without a car?",
+      "answer": "It's possible but limiting. You could base in Los Cabos and take day tours to Todos Santos and La Paz. However, a rental car gives you flexibility to explore at your own pace and stop at scenic viewpoints along the way."
+    },
+    {
+      "question": "Is Los Cabos expensive?",
+      "answer": "The Cabo corridor has resort pricing—expect to pay US-level prices at hotels and high-end restaurants. However, Todos Santos and La Paz are more affordable, and tacos are cheap everywhere. A mid-range trip is very doable."
+    }
+  ],
+  "related_itineraries": ["pacific-coast-10-days", "yucatan-7-days"],
+  "tags": ["beach", "wildlife", "desert", "art", "whale-watching", "baja", "couples", "nature"]
+}

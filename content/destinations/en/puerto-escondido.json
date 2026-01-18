@@ -11,12 +11,23 @@
   },
   "meta_title": "Puerto Escondido Travel Guide 2025 - Mexico's Best Surf & Beach Town",
   "meta_description": "Discover Puerto Escondido, Oaxaca's legendary surf town. Experience world-class waves at Zicatela, pristine beaches, bioluminescence, affordable prices, and authentic Pacific coast vibes.",
-  "hero_image": "/assets/images/destinations/puerto-escondido-hero.jpg",
+  "og_image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&h=630&fit=crop&q=80",
+  "canonical_url": "https://topmexicotravel.com/en/destinations/puerto-escondido",
+  "hero_image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1920&h=1080&fit=crop&q=80",
   "hero_alt": "Powerful waves at Zicatela beach Puerto Escondido with surfers",
+  "tagline": "Where World-Class Waves Meet Oaxacan Soul",
+  "featured_snippet_intro": "Puerto Escondido is Mexico's surf mecca—home to the legendary Zicatela pipeline, beaches for every skill level, bioluminescent lagoons, turtle releases, and authentic Oaxacan culture at budget-friendly prices.",
   "introduction": {
     "snippet": "Puerto Escondido is Mexico's surf mecca—a laid-back Pacific coast town where legendary Zicatela waves draw pros from around the world, while gentler bays welcome beginners and swimmers. With Oaxacan culture, affordable prices, bioluminescent lagoons, and an authentic beach-town atmosphere, Puerto is the antidote to the Riviera Maya crowds.",
     "full": "The name means 'Hidden Port,' and while Puerto Escondido is no longer a secret, it retains the relaxed, unpretentious vibe that first attracted surfers, backpackers, and bohemians decades ago. The town stretches along a series of bays, each with its own character: Zicatela's thundering barrels for expert surfers and spectators, Carrizalillo's sheltered cove for swimming, La Punta's mellow point break for learners, and Playa Principal's fishing boats and local life.\n\nAs part of Oaxaca state, Puerto Escondido offers incredible food at prices that feel like time travel—fresh seafood, tlayudas, mezcal, and Oaxacan chocolate abound. The nearby Manialtepec Lagoon produces some of Mexico's brightest bioluminescence, and turtle release programs let you witness baby sea turtles make their first journey to the ocean. While gentrification is creeping in, Puerto remains remarkably affordable and authentic, attracting digital nomads, yoga practitioners, and anyone seeking genuine Pacific coast Mexican beach life."
   },
+  "best_time_to_visit": "November to May offers dry weather and manageable waves. May-September brings big swells for expert surfers. Turtle releases July-January. Bioluminescence best July-December.",
+  "average_temperature": "28°C (82°F) year-round",
+  "known_for": "Zicatela surf break, multiple beach bays, bioluminescence, turtle releases, Oaxacan cuisine, budget-friendly prices, digital nomad scene",
+  "airport_code": "PXM",
+  "rating": 4.7,
+  "review_count": 11240,
+  "tourist_types_json": "[\"Surfers\", \"Digital nomads\", \"Budget travelers\", \"Yoga practitioners\", \"Nature lovers\", \"Foodies\"]",
   "quick_facts": {
     "best_time": "November to May",
     "avg_temp": "28°C (82°F)",
@@ -38,139 +49,332 @@
     {
       "name": "Zicatela Beach",
       "type": "Beach/Surfing",
-      "description": "One of the world's most powerful beach breaks with the famous 'Mexican Pipeline.' For expert surfers only, but spectacular to watch.",
+      "description": "One of the world's most powerful beach breaks, home to the famous 'Mexican Pipeline.' Massive barrels draw professional surfers from around the globe, especially during summer swells (May-September). For experts only in the water, but spectacular to watch for everyone. The beach itself is 3km of beautiful sand lined with restaurants and surf shops.",
+      "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&h=600&fit=crop&q=80",
       "duration": "Half-full day",
       "price": "Free",
+      "tip": "Never underestimate Zicatela's power—swimmers drown here annually. Enjoy from the beach and cafes. Peak surf season is May-September. The annual surf competitions (usually August) draw world-class talent.",
       "coordinates": {"lat": 15.8517, "lng": -97.0517}
     },
     {
       "name": "Carrizalillo Beach",
       "type": "Beach",
-      "description": "Beautiful sheltered cove reached by steps, perfect for swimming, snorkeling, and beginners learning to surf.",
+      "description": "A stunning sheltered cove reached by 167 steps down a cliff, offering calm turquoise water perfect for swimming, snorkeling, and beginner surfing. Palapas line the small beach with food and drink service. This is Puerto's most beautiful swimming beach.",
+      "image": "https://images.unsplash.com/photo-1519046904884-53103b34b506?w=800&h=600&fit=crop&q=80",
       "duration": "Half-full day",
       "price": "Free",
+      "tip": "Arrive before 10am to claim a good palapa. The steps back up are a workout in the heat—bring water. Snorkeling gear rentals available on the beach. Sunset is beautiful from the stairs above.",
       "coordinates": {"lat": 15.8658, "lng": -97.0783}
     },
     {
-      "name": "La Punta Beach",
-      "type": "Beach/Surfing",
-      "description": "Bohemian area with gentle point break ideal for beginner/intermediate surfers, yoga studios, and sunset drinks.",
+      "name": "La Punta",
+      "type": "Beach/Neighborhood",
+      "description": "The bohemian heart of Puerto Escondido with a gentle point break perfect for beginner and intermediate surfers. The rocky point creates consistent, forgiving waves. The surrounding neighborhood is full of yoga studios, vegetarian restaurants, and a conscious, health-focused community.",
+      "image": "https://images.unsplash.com/photo-1519046904884-53103b34b506?w=800&h=600&fit=crop&q=80",
       "duration": "Half-full day",
       "price": "Free",
+      "tip": "Take a surf lesson here if you're learning—the waves are much more forgiving than Zicatela. The sunset scene at the point is social and beautiful. Walk to Playa Coral or Bacocho for quieter stretches.",
       "coordinates": {"lat": 15.8467, "lng": -97.0583}
     },
     {
       "name": "Manialtepec Lagoon Bioluminescence",
       "type": "Nature Experience",
-      "description": "Night boat tour to swim in waters glowing with bioluminescent plankton. Best July-December on moonless nights.",
+      "description": "A freshwater lagoon 15km from town that produces some of Mexico's brightest bioluminescence. Night tours in small boats let you swim in glowing waters—every movement creates trails of blue-green light. One of nature's most magical experiences.",
+      "image": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=800&h=600&fit=crop&q=80",
       "duration": "3-4 hours",
       "price": "$30-50 USD",
+      "tip": "Best July-December on moonless nights. Book tours that depart after dark (8pm+). The brighter the moon, the dimmer the bioluminescence. Tours also include crocodile spotting—they're harmless when boating. Bring swimsuit and towel.",
       "coordinates": {"lat": 15.9333, "lng": -97.1500}
     },
     {
       "name": "Turtle Release",
       "type": "Wildlife Experience",
-      "description": "Release baby sea turtles into the ocean at various conservation programs, typically at sunset (season: July-January).",
+      "description": "Multiple conservation programs in Puerto Escondido hatch and release baby sea turtles. Watch tiny Olive Ridley or Green turtles make their first journey to the ocean at sunset—an emotional, unforgettable experience that supports vital conservation work.",
+      "image": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&h=600&fit=crop&q=80",
       "duration": "1-2 hours",
       "price": "$10-20 USD donation",
+      "tip": "Season is July-January, with peak releases September-November. Book through Vive Mar, Bacocho Turtle Release, or ask at your hotel. Releases are typically at sunset. No flash photography, no touching the turtles.",
       "coordinates": {"lat": 15.8517, "lng": -97.0517}
+    },
+    {
+      "name": "Playa Principal & Rinconada",
+      "type": "Beach/Local Life",
+      "description": "The original Puerto Escondido—a fishing beach where local boats launch and fresh catch comes in each morning. The adjacent Mercado Benito Juárez offers authentic Oaxacan food. Rinconada to the west has calm swimming and a more local, less touristy atmosphere.",
+      "image": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&h=600&fit=crop&q=80",
+      "duration": "2-4 hours",
+      "price": "Free",
+      "tip": "Visit the market for breakfast or cheap comida corrida. Morning is best for watching fishermen and their catch. The western end (Rinconada) has calmer water for swimming. This is the authentic Puerto experience.",
+      "coordinates": {"lat": 15.8617, "lng": -97.0700}
+    },
+    {
+      "name": "Surf Lessons",
+      "type": "Activity",
+      "description": "Puerto Escondido offers lessons for all levels. Beginners should head to La Punta, Carrizalillo, or Playa Principal for gentler waves. Intermediate surfers can progress at La Punta's point break. Many surf schools are accredited, with quality equipment and experienced instructors.",
+      "image": "https://images.unsplash.com/photo-1519046904884-53103b34b506?w=800&h=600&fit=crop&q=80",
+      "duration": "2-3 hours",
+      "price": "$40-70 USD",
+      "tip": "Book lessons at La Punta for beginners—never at Zicatela. Morning sessions offer lighter winds and smaller crowds. Ask about multi-day packages for better value. Private lessons progress faster than groups.",
+      "coordinates": {"lat": 15.8467, "lng": -97.0583}
     },
     {
       "name": "Mercado Benito Juárez",
       "type": "Market",
-      "description": "Local market in the town center for authentic Oaxacan food, fresh produce, and local life away from the beach.",
+      "description": "The local market in the town center where Puerto's residents shop. Fresh produce, seafood, Oaxacan chocolate, cheeses, mezcal, and incredibly cheap comida corrida (set lunch). The authentic Oaxacan food experience away from tourist beaches.",
+      "image": "https://images.unsplash.com/photo-1534531173927-aeb928d54385?w=800&h=600&fit=crop&q=80",
       "duration": "1-2 hours",
-      "price": "Free",
+      "price": "Free to explore",
+      "tip": "Best for breakfast or lunch—stalls close by afternoon. Point and order at the prepared food stands for incredible value. The chocolate and mezcal sections offer great gifts. Bring small bills.",
       "coordinates": {"lat": 15.8628, "lng": -97.0689}
+    },
+    {
+      "name": "Yoga & Wellness",
+      "type": "Activity",
+      "description": "Puerto Escondido has become a yoga and wellness hub, especially in La Punta. Drop-in classes, multi-day retreats, breathwork, sound healing, and holistic therapies are widely available. The combination of surf, yoga, and healthy food draws a wellness-focused crowd.",
+      "image": "https://images.unsplash.com/photo-1545205597-3d9d02c29597?w=800&h=600&fit=crop&q=80",
+      "duration": "1-2 hours",
+      "price": "$10-20 USD drop-in",
+      "tip": "Studios in La Punta include Casa Losodeli, Puerto Yoga, and others with daily schedules. Morning classes start early (7am) before the heat. Retreat packages offer accommodation, yoga, and surf. Check notice boards for workshops.",
+      "coordinates": {"lat": 15.8467, "lng": -97.0583}
+    },
+    {
+      "name": "Agua Blanca Waterfall",
+      "type": "Nature/Day Trip",
+      "description": "A beautiful waterfall about 1 hour from town in the Sierra Madre mountains. The cascade plunges into a natural swimming pool surrounded by jungle. A refreshing escape from the beach heat and glimpse of Oaxaca's interior landscapes.",
+      "image": "https://images.unsplash.com/photo-1433086966358-54859d0ed716?w=800&h=600&fit=crop&q=80",
+      "duration": "Half day",
+      "price": "$5 USD entrance",
+      "tip": "Rent a moto or hire a taxi. The road is scenic but winding. Rainy season (June-October) has better water flow. Bring swimsuit, water shoes, and picnic lunch. The small community charges a modest entrance fee.",
+      "coordinates": {"lat": 16.0000, "lng": -97.2000}
     }
   ],
-  "hotels": [
+  "neighborhoods": [
+    {
+      "name": "La Punta",
+      "slug": "la-punta",
+      "description": "The bohemian heart of Puerto with a mellow surf point, yoga studios, vegetarian restaurants, and conscious community vibes. This is where the wellness/surf crowd congregates. Great beginner waves and beautiful sunsets at the point.",
+      "image": "https://images.unsplash.com/photo-1519046904884-53103b34b506?w=800&h=600&fit=crop&q=80",
+      "vibe": "Bohemian, wellness-focused, surf, sunset social",
+      "best_for": "Beginner surfers, yoga practitioners, health-conscious travelers, digital nomads",
+      "highlights": ["Point break surfing", "Yoga studios", "Sunset scene", "Healthy restaurants", "Surf lessons"]
+    },
+    {
+      "name": "Zicatela",
+      "slug": "zicatela",
+      "description": "The legendary surf beach and main tourist strip with hotels, restaurants, bars, and surf shops lining the 3km beach. Expert surfers, surf spectators, and those wanting beach-party vibes stay here. The nightlife is livelier than La Punta.",
+      "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&h=600&fit=crop&q=80",
+      "vibe": "Surf culture, party, beachfront, energetic",
+      "best_for": "Surf enthusiasts, nightlife seekers, beach loungers, spectators",
+      "highlights": ["World-class waves", "Beach restaurants", "Surf shops", "Nightlife", "People watching"]
+    },
+    {
+      "name": "Rinconada",
+      "slug": "rinconada",
+      "description": "The local, less touristy neighborhood west of Playa Principal with calm swimming water, working fishing boats, and authentic Mexican atmosphere. Budget accommodations and local restaurants make this ideal for longer stays.",
+      "image": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&h=600&fit=crop&q=80",
+      "vibe": "Local, authentic, calm, budget-friendly",
+      "best_for": "Budget travelers, families, those seeking authenticity, longer stays",
+      "highlights": ["Calm swimming", "Local restaurants", "Fishing boats", "Budget hotels", "Mercado nearby"]
+    },
+    {
+      "name": "Carrizalillo/Bacocho",
+      "slug": "carrizalillo-bacocho",
+      "description": "The upscale end of town on the cliffs above Carrizalillo beach. Boutique hotels, upscale restaurants, and the beautiful cove beach below. More peaceful than Zicatela with a different clientele.",
+      "image": "https://images.unsplash.com/photo-1519046904884-53103b34b506?w=800&h=600&fit=crop&q=80",
+      "vibe": "Upscale, peaceful, scenic, swimming-focused",
+      "best_for": "Couples, families, swimmers, those seeking calm",
+      "highlights": ["Carrizalillo beach", "Boutique hotels", "Sunset views", "Upscale dining", "Swimming"]
+    }
+  ],
+  "featured_hotels": [
     {
       "name": "Hotel Escondido",
-      "category": "Boutique",
+      "category": "Design/Luxury",
       "stars": 5,
       "price_range": "$$$$",
-      "description": "Stunning design hotel by Grupo Habita on a secluded beach—Puerto's most luxurious option",
-      "features": ["Private beach", "Pool", "Design hotel", "Secluded"]
+      "description": "Stunning design hotel by Grupo Habita on a secluded beach between Carrizalillo and Bacocho. All white minimalist aesthetic, excellent restaurant, and world-class design. Puerto's most luxurious option for design lovers.",
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800&h=600&fit=crop&q=80",
+      "features": ["Private beach", "Design hotel", "Pool", "Restaurant", "Secluded location"]
     },
     {
       "name": "Hotel Santa Fe",
       "category": "Mid-Range",
       "stars": 4,
       "price_range": "$$$",
-      "description": "Classic Zicatela hotel with pool, great views, and excellent restaurant",
-      "features": ["Zicatela beach", "Pool", "Restaurant", "Surf views"]
+      "description": "Classic Zicatela hotel with the best position on the beach. Pool, great restaurant, and direct views of the famous wave. A Puerto institution since the 1980s with surf heritage throughout.",
+      "image": "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?w=800&h=600&fit=crop&q=80",
+      "features": ["Zicatela beachfront", "Pool", "Restaurant", "Surf views", "Classic Puerto"]
     },
     {
       "name": "Vivo Resorts",
       "category": "Condo Resort",
       "stars": 4,
       "price_range": "$$$",
-      "description": "Modern beachfront condos with kitchens, pools, and beach club",
-      "features": ["Beachfront", "Kitchen", "Pools", "Family-friendly"]
+      "description": "Modern beachfront condos with kitchens, pools, and beach club on a quieter stretch of sand. Popular with families and longer-stay visitors who want space and self-catering options.",
+      "image": "https://images.unsplash.com/photo-1582719508461-905c673771fd?w=800&h=600&fit=crop&q=80",
+      "features": ["Beachfront", "Kitchen", "Pools", "Family-friendly", "Beach club"]
     },
     {
       "name": "Casa Losodeli",
-      "category": "Budget",
-      "stars": 2,
-      "price_range": "$",
-      "description": "Popular hostel in La Punta with pool, hammocks, and great surf vibes",
-      "features": ["Pool", "La Punta", "Social", "Surf community"]
+      "category": "Hostel/Boutique",
+      "stars": 3,
+      "price_range": "$$",
+      "description": "Popular hostel-boutique hybrid in La Punta with pool, yoga deck, and great surf vibes. Both dorms and private rooms available. The social atmosphere and location make it perfect for young travelers.",
+      "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=800&h=600&fit=crop&q=80",
+      "features": ["Pool", "La Punta location", "Yoga", "Social atmosphere", "Surf community"]
+    },
+    {
+      "name": "Hotel Rockaway",
+      "category": "Budget-Friendly",
+      "stars": 3,
+      "price_range": "$$",
+      "description": "Clean, comfortable hotel on Zicatela with pool, rooftop bar, and great value. Walking distance to the beach and surf action. Popular with surfers and budget-conscious travelers.",
+      "image": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=800&h=600&fit=crop&q=80",
+      "features": ["Pool", "Rooftop bar", "Zicatela location", "Good value", "Surf-friendly"]
+    },
+    {
+      "name": "Selina Puerto Escondido",
+      "category": "Hostel/Hotel",
+      "stars": 3,
+      "price_range": "$$",
+      "description": "The trendy hostel-hotel chain with beachfront location, coworking space, and full programming of yoga, surf lessons, and social events. Mix of dorms and private rooms for all budgets.",
+      "image": "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?w=800&h=600&fit=crop&q=80",
+      "features": ["Beachfront", "Coworking", "Pool", "Social events", "Mixed rooms"]
     }
   ],
-  "restaurants": [
+  "featured_restaurants": [
     {
       "name": "Almoraduz",
       "cuisine": "Contemporary Oaxacan",
       "price_range": "$$$",
-      "description": "Upscale Oaxacan cuisine with mezcal pairings in elegant setting"
+      "description": "Puerto's finest restaurant serving upscale Oaxacan cuisine with mezcal pairings in an elegant jungle setting. Dishes highlight regional ingredients with modern technique. The mole and fresh seafood are exceptional.",
+      "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800&h=600&fit=crop&q=80",
+      "must_try": ["Mole negro", "Fresh catch", "Mezcal tasting", "Oaxacan chocolate dessert"]
     },
     {
       "name": "El Cafecito",
       "cuisine": "Café/Breakfast",
       "price_range": "$$",
-      "description": "Legendary breakfast spot on Zicatela serving great coffee and Mexican dishes"
+      "description": "Legendary breakfast spot on Zicatela serving great coffee and Mexican dishes with surf views. A Puerto institution for post-surf or post-party recovery. The chilaquiles are famous.",
+      "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?w=800&h=600&fit=crop&q=80",
+      "must_try": ["Chilaquiles", "Huevos divorciados", "Fresh juice", "Strong coffee"]
     },
     {
       "name": "Mangos",
       "cuisine": "Seafood",
       "price_range": "$$",
-      "description": "Fresh seafood on the beach—try the whole fried fish"
+      "description": "Fresh seafood on the beach with toes-in-sand dining. The whole fried fish (pescado frito) and ceviche are simple perfection. Casual, affordable, and exactly what beach dining should be.",
+      "image": "https://images.unsplash.com/photo-1579631542720-3a87824fff86?w=800&h=600&fit=crop&q=80",
+      "must_try": ["Pescado frito", "Ceviche", "Shrimp tacos", "Michelada"]
+    },
+    {
+      "name": "La Hosteria",
+      "cuisine": "Italian/International",
+      "price_range": "$$$",
+      "description": "Romantic garden restaurant serving excellent Italian food and wood-fired pizza. A welcome change from seafood with quality pasta, wine, and atmosphere. Popular for date nights.",
+      "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800&h=600&fit=crop&q=80",
+      "must_try": ["Wood-fired pizza", "Homemade pasta", "Italian wines", "Tiramisu"]
     },
     {
       "name": "Tacos Mary",
       "cuisine": "Tacos",
       "price_range": "$",
-      "description": "Local legend for cheap, delicious tacos—find the cart in the evening"
+      "description": "Local legend for cheap, delicious tacos from a cart in the evening. Find her near the town center—the queue is your guide. Simple perfection at local prices.",
+      "image": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?w=800&h=600&fit=crop&q=80",
+      "must_try": ["Tacos al pastor", "Carnitas", "Salsa variety", "Horchata"]
+    },
+    {
+      "name": "Espadin",
+      "cuisine": "Oaxacan/Mezcal Bar",
+      "price_range": "$$",
+      "description": "Mezcal-focused bar and restaurant in La Punta with excellent Oaxacan dishes and impressive mezcal selection. The perfect spot to explore Mexico's smoky spirit with knowledgeable bartenders.",
+      "image": "https://images.unsplash.com/photo-1514933651103-005eec06c04b?w=800&h=600&fit=crop&q=80",
+      "must_try": ["Mezcal flights", "Tlayudas", "Tasajo", "Oaxacan cheese"]
+    },
+    {
+      "name": "Raiz de Sol",
+      "cuisine": "Healthy/Vegetarian",
+      "price_range": "$$",
+      "description": "Health-focused restaurant in La Punta with excellent smoothie bowls, salads, and vegetarian options. Popular with the yoga and wellness crowd. Strong coffee and plant-based options.",
+      "image": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=800&h=600&fit=crop&q=80",
+      "must_try": ["Smoothie bowls", "Avocado toast", "Fresh juices", "Veggie tacos"]
+    },
+    {
+      "name": "Mercado Benito Juárez Food Stalls",
+      "cuisine": "Traditional Oaxacan",
+      "price_range": "$",
+      "description": "The market food court offers authentic comida corrida (set lunch) for under $5. Point at what looks good—moles, fresh tortillas, grilled meats, and local specialties at unbeatable prices.",
+      "image": "https://images.unsplash.com/photo-1534531173927-aeb928d54385?w=800&h=600&fit=crop&q=80",
+      "must_try": ["Comida corrida", "Mole", "Tlayudas", "Fresh tortillas"]
     }
   ],
+  "day_trips": [
+    {
+      "name": "Mazunte & Zipolite",
+      "distance": "1-1.5 hours",
+      "description": "Visit the nearby hippie beaches: Mazunte with its sea turtle museum and cosmetics cooperative, and Zipolite—Mexico's famous nude beach with bohemian atmosphere. Both have excellent restaurants and a different vibe from Puerto.",
+      "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&h=600&fit=crop&q=80",
+      "tips": "Rent a moto or collectivo for cheap transport. Mazunte's sunset cliff viewpoint is spectacular. Zipolite can be dangerous for swimming—strong currents. The turtle center in Mazunte is educational."
+    },
+    {
+      "name": "Chacahua Lagoons National Park",
+      "distance": "2 hours",
+      "description": "A remote national park with mangrove lagoons, excellent bioluminescence (better than Manialtepec), wildlife, and the Afro-Mexican community of Chacahua. Tours include boat rides through mangroves.",
+      "image": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&h=600&fit=crop&q=80",
+      "tips": "Book a tour or rent a car. The community is worth visiting for its unique culture. Overnight stays offer the best bioluminescence experience. Crocodile spotting is excellent."
+    },
+    {
+      "name": "San José del Pacífico",
+      "distance": "3 hours",
+      "description": "A mountain village in the clouds famous for its mushroom culture and incredible mountain scenery. The drive through the Sierra Madre is spectacular. Stop for the views, cool air, and different ecosystem.",
+      "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&h=600&fit=crop&q=80",
+      "tips": "The road is winding—not for motion-sick travelers. Bring warm clothes—it's much cooler. The village has a famous mushroom culture if that's your interest. Stunning sunrise/sunset views."
+    },
+    {
+      "name": "Huatulco",
+      "distance": "2 hours",
+      "description": "The developed resort area east of Puerto with calmer bays, excellent snorkeling, waterfalls, and upscale hotels. A good day trip for bay hopping, snorkeling, or experiencing the contrast with Puerto's raw vibe.",
+      "image": "https://images.unsplash.com/photo-1519046904884-53103b34b506?w=800&h=600&fit=crop&q=80",
+      "tips": "Rent a car for flexibility. Bay tours from Huatulco visit multiple pristine beaches. The snorkeling is better than Puerto. Consider overnight to experience the calmer atmosphere."
+    }
+  ],
+  "getting_there": "Puerto Escondido has a small airport (PXM) with flights from Mexico City and Oaxaca City. Alternatively, take a scenic (but winding, 6-hour) drive or bus from Oaxaca City through the mountains. Flying into Huatulco (1 hour south) or Oaxaca City and transferring is another option. ADO buses connect to major cities.",
+  "getting_around": "Taxis are available but unmetered—agree on price beforehand. Moto/scooter rentals ($15-25/day) are popular for getting around. Walking works within neighborhoods but not between them (Zicatela to La Punta is 20+ minutes). Collectivos (shared vans) run between areas cheaply.",
+  "safety_info": "Puerto Escondido is generally safe for tourists. The biggest danger is the ocean—Zicatela is one of the world's most powerful beach breaks and swimmers drown annually. Never underestimate the waves. Swim only at appropriate beaches (Carrizalillo, Rinconada). Petty theft can occur—watch belongings on the beach.",
   "faqs": [
     {
       "question": "Can beginners surf at Puerto Escondido?",
-      "answer": "Yes! While Zicatela is for experts only (genuinely dangerous), other beaches are perfect for beginners: La Punta has a mellow point break, Carrizalillo has small waves, and Playa Principal has gentle surf. Many surf schools operate from La Punta area."
+      "answer": "Yes! While Zicatela is for experts only (genuinely dangerous), other beaches are perfect for beginners: La Punta has a mellow point break, Carrizalillo has small waves, and Playa Principal has gentle surf. Many surf schools operate from La Punta area. Never attempt to surf at Zicatela without expert-level skills."
     },
     {
       "question": "How do I get to Puerto Escondido?",
-      "answer": "Puerto Escondido has a small airport (PXM) with flights from Mexico City and Oaxaca City. Alternatively, take a scenic (but winding) 6-hour drive or bus from Oaxaca City, or fly into Huatulco (1 hour south) or Oaxaca and transfer."
+      "answer": "Puerto Escondido has a small airport (PXM) with flights from Mexico City and Oaxaca City. Alternatively, take a scenic (but winding) 6-hour drive or bus from Oaxaca City, or fly into Huatulco (1 hour south) or Oaxaca and transfer. ADO buses run from major cities."
     },
     {
-      "question": "When is the best time for surfing in Puerto Escondido?",
-      "answer": "The biggest swells hit Zicatela May-September (summer), when competitions are held. Beginners and intermediate surfers find more manageable conditions November-April. The shoulder months offer good waves with less intense heat."
+      "question": "When is the best time to surf at Puerto Escondido?",
+      "answer": "Expert surfers seeking Zicatela's biggest swells come May-September. Beginners and intermediate surfers find more manageable conditions November-April at La Punta and other spots. Shoulder months offer good waves with less intense heat and smaller crowds."
     },
     {
       "question": "Is Puerto Escondido expensive?",
-      "answer": "Puerto Escondido is one of Mexico's best-value beach destinations. Budget travelers can live well on $30-50 USD/day. Mid-range is $50-100/day. Even upscale dining and boutique hotels cost less than comparable Riviera Maya options."
+      "answer": "Puerto Escondido is one of Mexico's best-value beach destinations. Budget travelers can live well on $30-50 USD/day with hostels, local food, and free beaches. Mid-range is $50-100/day. Even upscale dining and boutique hotels cost less than comparable Riviera Maya options."
     },
     {
       "question": "Which beach in Puerto Escondido should I stay near?",
-      "answer": "Zicatela: for surfers and nightlife. La Punta: bohemian, yoga, beginner surf. Carrizalillo: swimming, relaxation. Playa Principal/Rinconada: local life, budget options. Most visitors spend time at multiple beaches as they're all close."
+      "answer": "Zicatela: for surf culture and nightlife. La Punta: bohemian vibe, yoga, beginner surf. Carrizalillo/Bacocho: upscale, swimming, families. Rinconada: local life, budget options. Most visitors spend time at multiple beaches as they're all relatively close."
     },
     {
       "question": "Is Puerto Escondido safe?",
-      "answer": "Puerto Escondido is generally safe for tourists. Normal beach-town precautions apply: don't leave valuables unattended, avoid walking dark areas alone at night. The biggest dangers are rip currents and powerful waves at Zicatela—respect the ocean."
+      "answer": "Puerto Escondido is generally safe for tourists. The biggest dangers are ocean-related—Zicatela's waves claim lives annually. Swim only at safe beaches. Normal beach-town precautions apply: don't leave valuables unattended, avoid walking dark areas alone late at night."
+    },
+    {
+      "question": "How is the digital nomad scene in Puerto Escondido?",
+      "answer": "Puerto has a thriving digital nomad community, especially in La Punta. Coworking spaces include Selina and independent cafes with WiFi. Monthly rentals are affordable. The combination of surf, yoga, good food, and low costs attracts remote workers year-round."
+    },
+    {
+      "question": "When is turtle release season?",
+      "answer": "Sea turtle releases happen July through January, with peak activity September-November. Multiple organizations offer evening releases at sunset. Expect to pay a small donation ($10-20 USD) that supports conservation. Book through Vive Mar, Bacocho Turtle Release, or your hotel."
     }
   ],
-  "related_destinations": ["oaxaca", "huatulco", "mazunte", "zipolite", "mahahual"],
+  "related_destinations": ["oaxaca", "huatulco", "mazunte", "zipolite", "san-jose-del-pacifico"],
   "tags": ["beach", "surfing", "pacific", "budget", "bioluminescence", "turtles", "oaxaca", "digital-nomad"],
   "schema_type": "TouristDestination"
 }
