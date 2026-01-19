@@ -389,5 +389,22 @@
   ],
 
   "tags": ["beach", "cenotes", "ruins", "diving", "all-inclusive", "family", "honeymoon", "caribbean"],
+  "videos": [
+    {
+      "youtube_id": "Xa29AWacNYA",
+      "title": "Excellence Riviera Cancun Resort Tour",
+      "description": "Explore the adults-only Excellence Riviera Cancun with its pristine beach and luxury amenities."
+    },
+    {
+      "youtube_id": "A8JU3_cifJA",
+      "title": "Excellence Riviera Cancun Entertainment & Activities",
+      "description": "Discover the entertainment options and activities at Excellence Riviera Cancun resort."
+    },
+    {
+      "youtube_id": "8SibtyT4VzU",
+      "title": "Hotel Riu Caribe Riviera Maya",
+      "description": "Tour the beachfront Hotel Riu Caribe with its all-inclusive amenities in the Riviera Maya."
+    }
+  ],
   "schema_type": "TouristDestination"
 }
