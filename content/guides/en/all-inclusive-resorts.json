@@ -102,6 +102,32 @@
       "answer": "For Top Shelf and Elite, 4+ nights lets you experience the full dining rotation and amenities. For Celebrity/VIP, 3 nights minimum (these are experiences, not just accommodations). Bargain and Mainstream work fine for quick 3-night escapes."
     }
   ],
-  "related_guides": ["first-time-visitor", "cruise-ports-guide", "wedding-honeymoon-guide", "packing-list"],
+  "related_guides": [
+    "secrets-vs-excellence-comparison",
+    "adults-only-under-500",
+    "family-resorts-comparison",
+    "luxury-showdown-palmilla-vs-rosewood",
+    "best-value-all-inclusives",
+    "resort-one-and-only-palmilla",
+    "resort-rosewood-mayakoba",
+    "resort-chable-yucatan",
+    "resort-grand-velas-riviera-maya",
+    "resort-unico-riviera-maya",
+    "resort-excellence-playa-mujeres",
+    "resort-secrets-maroma",
+    "resort-zoetry-paraiso",
+    "resort-le-blanc-los-cabos",
+    "resort-dreams-riviera-cancun",
+    "resort-hyatt-ziva-cancun",
+    "resort-iberostar-paraiso-maya",
+    "resort-gr-solaris-cancun",
+    "resort-riu-cancun",
+    "resort-ocean-maya-royale",
+    "resort-grand-fiesta-americana-coral-beach",
+    "resort-royal-hideaway-playacar",
+    "resort-iberostar-quetzal",
+    "wedding-honeymoon-guide",
+    "first-time-visitor"
+  ],
   "tags": ["all-inclusive", "resorts", "hotels", "beach", "luxury", "family", "planning", "booking", "cancun", "riviera-maya", "los-cabos", "puerto-vallarta", "honeymoon", "budget-travel"]
 }
