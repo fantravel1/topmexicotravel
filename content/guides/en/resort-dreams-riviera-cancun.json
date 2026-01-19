@@ -70,6 +70,18 @@
       "answer": "Mixed recommendation. Kids often prefer the main pool (more children to play with), which reduces PC pool value. PC lounge is useful for snacks, and suite upgrades help with space. Calculate: $150/night × nights = PC cost. Worth it for longer stays with older kids."
     }
   ],
+  "videos": [
+    {
+      "youtube_id": "iVNRLX2NXos",
+      "title": "Dream Weddings at Dreams Riviera Cancún",
+      "description": "Discover why couples choose Dreams Riviera Cancún for their destination wedding."
+    },
+    {
+      "youtube_id": "FcfQm_aSIEA",
+      "title": "The Spa at Dreams Riviera Cancún",
+      "description": "Take a video tour of the luxurious Dreams Spa by Pevonia."
+    }
+  ],
   "related_guides": ["all-inclusive-resorts", "family-resorts-comparison", "best-value-all-inclusives", "resort-hyatt-ziva-cancun", "resort-iberostar-paraiso-maya", "riviera-maya"],
   "tags": ["all-inclusive", "family", "riviera-maya", "kids", "resort", "dreams", "beach"]
 }

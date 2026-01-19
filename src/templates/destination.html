@@ -408,6 +408,41 @@
     </section>
     {{/if}}
 
+    <!-- Videos Section -->
+    {{#if videos}}
+    <section class="section" aria-labelledby="videos-heading">
+      <div class="section-container">
+        <h2 id="videos-heading" class="section-title">{{name}} Travel Videos</h2>
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: var(--spacing-lg);">
+          {{#each videos}}
+          <div style="background: white; border-radius: var(--radius-md); overflow: hidden; box-shadow: var(--shadow-md);">
+            <a href="https://www.youtube.com/watch?v={{this.youtube_id}}" target="_blank" rel="noopener" style="display: block; position: relative;">
+              <img
+                src="https://img.youtube.com/vi/{{this.youtube_id}}/mqdefault.jpg"
+                alt="{{this.title}}"
+                width="320"
+                height="180"
+                loading="lazy"
+                style="width: 100%; height: auto; display: block;">
+              <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 68px; height: 48px; background: rgba(255,0,0,0.8); border-radius: 12px; display: flex; align-items: center; justify-content: center;">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="white"><path d="M8 5v14l11-7z"/></svg>
+              </div>
+            </a>
+            <div style="padding: var(--spacing-md);">
+              <h3 style="font-size: 1rem; margin-bottom: var(--spacing-xs);">
+                <a href="https://www.youtube.com/watch?v={{this.youtube_id}}" target="_blank" rel="noopener" style="color: var(--color-text); text-decoration: none;">{{this.title}}</a>
+              </h3>
+              {{#if this.description}}
+              <p style="font-size: 0.875rem; color: var(--color-text-light); margin: 0;">{{this.description}}</p>
+              {{/if}}
+            </div>
+          </div>
+          {{/each}}
+        </div>
+      </div>
+    </section>
+    {{/if}}
+
     <!-- Related Destinations -->
     {{#if related_destinations}}
     <section class="section" aria-labelledby="related-heading">
