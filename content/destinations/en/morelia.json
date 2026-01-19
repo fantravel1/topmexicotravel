@@ -1,0 +1,321 @@
+{
+  "id": "morelia",
+  "name": "Morelia",
+  "slug": "morelia",
+  "state": "Michoacán",
+  "country": "Mexico",
+  "type": "colonial",
+  "lang": "en",
+  "coordinates": {
+    "latitude": 19.7060,
+    "longitude": -101.1950
+  },
+  "meta_title": "Morelia Travel Guide 2025 - UNESCO Colonial City, Michoacán | Top Mexico Travel",
+  "meta_description": "Discover Morelia, Mexico's most beautiful colonial city: UNESCO World Heritage architecture, monarch butterflies, Day of the Dead traditions, and Michoacán's rich culture.",
+  "og_image": "https://images.unsplash.com/photo-1585468274952-66591eb14165?w=1200&h=630&fit=crop&q=80",
+  "og_image_alt": "Morelia Cathedral and colonial buildings in pink cantera stone",
+  "canonical_url": "https://topmexicotravel.com/en/morelia/",
+  "hero_image": "https://images.unsplash.com/photo-1585468274952-66591eb14165?w=1920&h=1080&fit=crop&q=80",
+  "hero_image_alt": "Beautiful pink stone architecture of Morelia's historic center",
+  "tagline": "Mexico's most elegant colonial city — pink stone palaces, monarch butterflies, and the soul of Michoacán",
+  "featured_snippet_intro": "Morelia is Mexico's best-preserved colonial city, a UNESCO World Heritage site where pink cantera stone buildings, baroque churches, and elegant plazas create an atmosphere of refined beauty. The capital of Michoacán state, it's the gateway to monarch butterfly sanctuaries and home to Mexico's most authentic Day of the Dead celebrations.",
+  "introduction": "<p>Morelia is often called Mexico's most beautiful colonial city, and one glance at the rose-pink cantera stone that gives its historic center an ethereal glow explains why. The entire centro histórico is a UNESCO World Heritage site, an extraordinarily well-preserved collection of baroque and neoclassical architecture that includes the magnificent twin-towered cathedral, elegant aqueduct, and countless palaces and plazas.</p><p>But Morelia is more than pretty buildings. As the capital of Michoacán, it's the cultural heart of one of Mexico's most traditional states. The surrounding region is famous for the monarch butterfly migration (November-March), authentic Day of the Dead celebrations in Pátzcuaro and the islands of Lake Pátzcuaro, distinctive Purépecha indigenous culture, and unique cuisine including carnitas and corundas.</p><p>The city itself offers excellent museums, a prestigious music conservatory, and a refined cultural scene. Tree-lined plazas invite lingering over coffee, the aqueduct frames romantic evening walks, and the cathedral's illumination at night is unforgettable. For travelers seeking colonial elegance combined with deep cultural experiences, Morelia is unmatched.</p>",
+  "best_time_to_visit": "October - March",
+  "average_temperature": "18°C / 64°F",
+  "known_for": "Colonial Architecture & Butterflies",
+  "airport_code": "MLM",
+  "rating": "4.8",
+  "review_count": "1890",
+  "tourist_types_json": "[\"Architecture Lover\", \"Culture Seeker\", \"Nature Enthusiast\", \"History Buff\", \"Photographer\"]",
+
+  "attractions": [
+    {
+      "name": "Morelia Cathedral",
+      "type": "Historic Site",
+      "description": "Mexico's finest baroque cathedral took over a century to complete (1660-1744). The pink cantera stone, twin 60-meter towers, and ornate interior make it an architectural masterpiece.",
+      "image": "https://images.unsplash.com/photo-1585468274952-66591eb14165?w=800&h=600&fit=crop&q=80",
+      "duration": "1-2 hours",
+      "price": "Free",
+      "tip": "Come at night when the cathedral is illuminated. The massive pipe organ is one of Mexico's finest.",
+      "coordinates": {"lat": 19.7028, "lng": -101.1947}
+    },
+    {
+      "name": "Monarch Butterfly Biosphere Reserve",
+      "type": "UNESCO Natural Site",
+      "description": "Each winter, hundreds of millions of monarch butterflies migrate to these forests. Walking among clouds of orange butterflies is one of nature's greatest spectacles.",
+      "image": "https://images.unsplash.com/photo-1506953823976-52e1fdc0149a?w=800&h=600&fit=crop&q=80",
+      "duration": "Full day",
+      "price": "$5 entry + guide",
+      "tip": "Visit mid-November to early March. El Rosario and Sierra Chincua are the best sanctuaries. Arrive late morning when butterflies are most active.",
+      "coordinates": {"lat": 19.5833, "lng": -100.2667}
+    },
+    {
+      "name": "Pátzcuaro & Janitzio Island",
+      "type": "Cultural Experience",
+      "description": "Charming colonial town and gateway to Lake Pátzcuaro's islands. Janitzio Island is the epicenter of Mexico's most authentic Day of the Dead celebrations.",
+      "image": "https://images.unsplash.com/photo-1570737209810-87a8e7245f88?w=800&h=600&fit=crop&q=80",
+      "duration": "Full day",
+      "price": "Boat $5 USD round trip",
+      "tip": "For Day of the Dead (Nov 1-2), book months ahead. Outside that period, it's a lovely day trip year-round.",
+      "coordinates": {"lat": 19.5167, "lng": -101.6083}
+    },
+    {
+      "name": "Aqueduct & Calzada Fray Antonio",
+      "type": "Historic Monument",
+      "description": "Morelia's iconic 18th-century aqueduct with 253 arches stretches 1.5 kilometers. The tree-lined promenade beneath is perfect for evening strolls.",
+      "image": "https://images.unsplash.com/photo-1585468274952-66591eb14165?w=800&h=600&fit=crop&q=80",
+      "duration": "1-2 hours",
+      "price": "Free",
+      "tip": "Walk the Calzada at sunset when the pink stone glows golden. The fountains and cafes make it romantic.",
+      "coordinates": {"lat": 19.6997, "lng": -101.1800}
+    },
+    {
+      "name": "Plaza de Armas & Historic Center",
+      "type": "Historic District",
+      "description": "The heart of Morelia's UNESCO zone with the main plaza, cathedral, state government palace, and elegant portales (arcaded walkways) lined with cafes.",
+      "image": "https://images.unsplash.com/photo-1574493264149-87880133a2ba?w=800&h=600&fit=crop&q=80",
+      "duration": "2-4 hours",
+      "price": "Free",
+      "tip": "Have coffee under the portales facing the plaza. The government palace has murals worth seeing.",
+      "coordinates": {"lat": 19.7028, "lng": -101.1947}
+    },
+    {
+      "name": "Santuario de Guadalupe",
+      "type": "Church",
+      "description": "Baroque church with an incredibly ornate interior featuring gold leaf, elaborate altarpieces, and colorful murals. One of Mexico's most beautiful church interiors.",
+      "image": "https://images.unsplash.com/photo-1518638150340-f706e86654de?w=800&h=600&fit=crop&q=80",
+      "duration": "45 minutes",
+      "price": "Free",
+      "tip": "The interior decoration is overwhelming—take time to absorb the details. Best in morning light.",
+      "coordinates": {"lat": 19.6950, "lng": -101.1850}
+    },
+    {
+      "name": "Museo del Estado",
+      "type": "Museum",
+      "description": "Excellent regional museum in an elegant colonial building covering Michoacán's history from pre-Hispanic times through independence, with emphasis on local cultures.",
+      "image": "https://images.unsplash.com/photo-1594608661623-aa0bd3a69d98?w=800&h=600&fit=crop&q=80",
+      "duration": "1-2 hours",
+      "price": "$3 USD",
+      "tip": "The building itself is worth visiting. Good context for understanding Michoacán before day trips.",
+      "coordinates": {"lat": 19.7033, "lng": -101.1939}
+    },
+    {
+      "name": "Mercado de Dulces y Artesanías",
+      "type": "Market",
+      "description": "Famous market specializing in Michoacán's traditional sweets (ates, morelianas, chongos zamoranos) and lacquerware crafts. A sugar-lover's paradise.",
+      "image": "https://images.unsplash.com/photo-1577003811926-53b288a6e5d0?w=800&h=600&fit=crop&q=80",
+      "duration": "1-2 hours",
+      "price": "Free",
+      "tip": "Try ate de membrillo (quince paste) and morelianas (fruit-filled wafers). Great for edible souvenirs.",
+      "coordinates": {"lat": 19.7044, "lng": -101.1950}
+    },
+    {
+      "name": "Santa Clara del Cobre",
+      "type": "Craft Village",
+      "description": "Copper-working village where artisans hammer out beautiful handmade copper pieces using pre-Hispanic techniques. UNESCO Intangible Cultural Heritage.",
+      "image": "https://images.unsplash.com/photo-1596436889106-be35e843f974?w=800&h=600&fit=crop&q=80",
+      "duration": "Half day",
+      "price": "Free",
+      "tip": "Watch artisans work in their talleres. Prices are best buying direct. 20 km from Pátzcuaro.",
+      "coordinates": {"lat": 19.4000, "lng": -101.6333}
+    },
+    {
+      "name": "Tzintzuntzan Archaeological Zone",
+      "type": "Archaeological Site",
+      "description": "Ancient capital of the Purépecha (Tarascan) empire with distinctive yácata (round) pyramids. The only pre-Hispanic civilization to resist Aztec conquest.",
+      "image": "https://images.unsplash.com/photo-1568402102990-bc541580b59f?w=800&h=600&fit=crop&q=80",
+      "duration": "2 hours",
+      "price": "$4 USD",
+      "tip": "Combine with Pátzcuaro visit. The olive trees were planted by Vasco de Quiroga in the 1500s.",
+      "coordinates": {"lat": 19.6272, "lng": -101.5814}
+    }
+  ],
+
+  "neighborhoods": [
+    {
+      "name": "Centro Histórico",
+      "slug": "centro-historico",
+      "description": "The UNESCO-protected colonial core with cathedral, plazas, museums, and pink stone architecture. Walkable, elegant, and the heart of Morelia.",
+      "image": "https://images.unsplash.com/photo-1585468274952-66591eb14165?w=800&h=600&fit=crop&q=80",
+      "vibe": "Colonial, elegant, cultural",
+      "best_for": "All visitors, architecture lovers, first-time explorers",
+      "highlights": ["Cathedral", "Plaza de Armas", "Portales", "Museums"]
+    },
+    {
+      "name": "Calzada Fray Antonio",
+      "slug": "calzada",
+      "description": "Tree-lined promenade beneath the aqueduct with fountains, cafes, and romantic evening atmosphere. Morelia's most scenic walk.",
+      "image": "https://images.unsplash.com/photo-1585468274952-66591eb14165?w=800&h=600&fit=crop&q=80",
+      "vibe": "Romantic, scenic, relaxed",
+      "best_for": "Couples, evening strolls, photography",
+      "highlights": ["Aqueduct", "Fountains", "Cafes", "Evening illumination"]
+    },
+    {
+      "name": "San Francisco",
+      "slug": "san-francisco",
+      "description": "Traditional neighborhood around the beautiful San Francisco church and former monastery. Good local restaurants and authentic atmosphere.",
+      "image": "https://images.unsplash.com/photo-1580152969655-00a7c66e25b6?w=800&h=600&fit=crop&q=80",
+      "vibe": "Traditional, local, authentic",
+      "best_for": "Local dining, authentic experience, arts",
+      "highlights": ["San Francisco church", "Casa de Artesanías", "Local restaurants"]
+    }
+  ],
+
+  "featured_hotels": [
+    {
+      "name": "Hotel de la Soledad",
+      "category": "Heritage Boutique",
+      "stars": 5,
+      "price_range": "$180",
+      "description": "Exquisite colonial mansion converted to boutique hotel, on the main plaza facing the cathedral. Antique furnishings and impeccable service.",
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800&h=600&fit=crop&q=80",
+      "features": ["Plaza location", "Cathedral views", "Historic building", "Fine dining"]
+    },
+    {
+      "name": "Cantera Diez Hotel Boutique",
+      "category": "Contemporary Boutique",
+      "stars": 4,
+      "price_range": "$150",
+      "description": "Stylish boutique hotel in restored colonial building with modern interiors, rooftop terrace, and excellent restaurant.",
+      "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?w=800&h=600&fit=crop&q=80",
+      "features": ["Rooftop terrace", "Modern design", "Restaurant", "Central location"]
+    },
+    {
+      "name": "Hotel Virrey de Mendoza",
+      "category": "Classic Colonial",
+      "stars": 4,
+      "price_range": "$120",
+      "description": "Historic hotel on the main plaza with traditional colonial ambiance, beautiful courtyard, and prime location.",
+      "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=800&h=600&fit=crop&q=80",
+      "features": ["Plaza location", "Colonial courtyard", "Restaurant", "Historic charm"]
+    },
+    {
+      "name": "Hotel Casino",
+      "category": "Mid-Range",
+      "stars": 3,
+      "price_range": "$70",
+      "description": "Well-located hotel near the cathedral with comfortable rooms, helpful staff, and excellent value.",
+      "image": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=800&h=600&fit=crop&q=80",
+      "features": ["Central location", "Good value", "Helpful staff", "Clean rooms"]
+    }
+  ],
+
+  "featured_restaurants": [
+    {
+      "name": "Lu Cocina Michoacana",
+      "cuisine": "Contemporary Michoacán",
+      "price_range": "$$$",
+      "description": "Modern interpretations of Michoacán cuisine using traditional ingredients and techniques. Beautiful colonial setting.",
+      "image": "https://images.unsplash.com/photo-1544025162-d76694265947?w=800&h=600&fit=crop&q=80",
+      "must_try": ["Corundas", "Carnitas preparation", "Local cheese dishes"]
+    },
+    {
+      "name": "Carnitas Los Pioneros",
+      "cuisine": "Traditional Michoacán",
+      "price_range": "$",
+      "description": "Local institution for Michoacán's famous carnitas (slow-cooked pork). Served with handmade tortillas and all the fixings.",
+      "image": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?w=800&h=600&fit=crop&q=80",
+      "must_try": ["Carnitas tacos", "Mixed plate", "Chicharrón"]
+    },
+    {
+      "name": "Fonda Las Mercedes",
+      "cuisine": "Traditional Mexican",
+      "price_range": "$$",
+      "description": "Atmospheric restaurant in colonial courtyard serving well-prepared regional classics. Excellent for leisurely lunch.",
+      "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800&h=600&fit=crop&q=80",
+      "must_try": ["Sopa tarasca", "Uchepos", "Mole"]
+    },
+    {
+      "name": "Hotel de la Soledad Restaurant",
+      "cuisine": "Fine Mexican",
+      "price_range": "$$$$",
+      "description": "Elegant dining room in historic hotel with refined Mexican cuisine and cathedral plaza views.",
+      "image": "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=800&h=600&fit=crop&q=80",
+      "must_try": ["Tasting menu", "Regional specialties", "Sunday brunch"]
+    },
+    {
+      "name": "Café del Conservatorio",
+      "cuisine": "Café/Light Fare",
+      "price_range": "$",
+      "description": "Charming café near the music conservatory with excellent coffee, pastries, and light meals.",
+      "image": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=800&h=600&fit=crop&q=80",
+      "must_try": ["Local coffee", "Moreliana pastries", "Churros"]
+    }
+  ],
+
+  "day_trips": [
+    {
+      "name": "Monarch Butterfly Sanctuaries",
+      "distance": "115km",
+      "description": "Visit El Rosario or Sierra Chincua sanctuary to witness millions of monarchs from mid-November to early March. One of nature's most spectacular phenomena.",
+      "image": "https://images.unsplash.com/photo-1506953823976-52e1fdc0149a?w=800&h=600&fit=crop&q=80",
+      "tips": "Go late morning when butterflies are active. Hire a guide at the entrance. Dress in layers—it's cold at altitude."
+    },
+    {
+      "name": "Pátzcuaro & Lake Islands",
+      "distance": "55km",
+      "description": "Explore the charming colonial town and take a boat to Janitzio Island. Ground zero for authentic Day of the Dead celebrations.",
+      "image": "https://images.unsplash.com/photo-1570737209810-87a8e7245f88?w=800&h=600&fit=crop&q=80",
+      "tips": "For Día de Muertos, book 6+ months ahead. Year-round, the town and islands are lovely. Friday market is excellent."
+    },
+    {
+      "name": "Santa Clara del Cobre & Tzintzuntzan",
+      "distance": "65km",
+      "description": "Visit the copper-working village and ancient Purépecha capital. Combine with Pátzcuaro for a full day of culture and crafts.",
+      "image": "https://images.unsplash.com/photo-1596436889106-be35e843f974?w=800&h=600&fit=crop&q=80",
+      "tips": "Watch artisans hammer copper. Buy directly from workshops. The ancient pyramids at Tzintzuntzan are unique in Mexico."
+    }
+  ],
+
+  "faqs": [
+    {
+      "question": "When is the best time to visit Morelia?",
+      "answer": "October through March offers the best weather and includes butterfly season (mid-Nov to early March) and Day of the Dead (Nov 1-2). Avoid summer rainy season (June-September) when afternoon showers are common. The spring dry season (March-May) is also pleasant."
+    },
+    {
+      "question": "How do I see the monarch butterflies?",
+      "answer": "The butterflies are present mid-November through early March, with February being peak. El Rosario is the most visited sanctuary; Sierra Chincua is less crowded. Drive or book a tour from Morelia (2 hours). Arrive by 11am when butterflies are most active. The hike to the colonies is at altitude—take it slow."
+    },
+    {
+      "question": "What about Day of the Dead?",
+      "answer": "Pátzcuaro and its islands host Mexico's most traditional celebrations (Oct 31-Nov 2). Families spend the night in cemeteries with offerings for deceased loved ones. Janitzio Island is the iconic image, but all cemetery visits are special. Book accommodation 6+ months in advance—it's extremely popular."
+    },
+    {
+      "question": "Is Morelia safe?",
+      "answer": "Morelia's historic center is safe and well-patrolled. It's a university city with a refined atmosphere. The surrounding Michoacán state has some security concerns in specific areas, but tourist routes (Pátzcuaro, butterfly sanctuaries) are safe. Use normal precautions and you'll have no issues."
+    },
+    {
+      "question": "How many days should I spend?",
+      "answer": "2-3 days covers the city and one major day trip (butterflies or Pátzcuaro). 4-5 days allows time for multiple day trips and leisurely exploration. During butterfly season or Day of the Dead, plan extra time for the marquee experiences."
+    },
+    {
+      "question": "What food should I try?",
+      "answer": "Carnitas (slow-cooked pork) are Michoacán's specialty—some of Mexico's best. Try corundas (triangular tamales), uchepos (sweet corn tamales), sopa tarasca (bean and tortilla soup), and enchiladas placeras. Don't miss the sweets at the Mercado de Dulces."
+    }
+  ],
+
+  "getting_there": "General Francisco Mujica Airport (MLM) has connections from Mexico City and major cities. The airport is 30 minutes from centro. First-class ETN buses from Mexico City take 4 hours. By car, it's 300 km west of Mexico City on good highways.",
+  "getting_around": "The historic center is compact and walkable. Taxis are inexpensive ($2-3 within centro). For day trips (butterflies, Pátzcuaro), rent a car or book tours. Uber operates in Morelia. Local buses serve outlying areas but aren't tourist-friendly.",
+  "safety_info": "Morelia's centro histórico is safe and civilized. It's a university city with significant tourism and a refined atmosphere. Tourist routes to Pátzcuaro and butterfly sanctuaries are safe. Use normal precautions, avoid flashy valuables, and you'll enjoy this elegant city without concerns.",
+
+  "related_destinations": [
+    {
+      "name": "Guanajuato",
+      "url": "/en/guanajuato/",
+      "image": "https://images.unsplash.com/photo-1585464231875-d9ef1f5ad396?w=400&h=300&fit=crop&q=80"
+    },
+    {
+      "name": "San Miguel de Allende",
+      "url": "/en/san-miguel-de-allende/",
+      "image": "https://images.unsplash.com/photo-1585468274952-66591eb14165?w=400&h=300&fit=crop&q=80"
+    },
+    {
+      "name": "Mexico City",
+      "url": "/en/mexico-city/",
+      "image": "https://images.unsplash.com/photo-1518659526054-e8b8b4a8e1b6?w=400&h=300&fit=crop&q=80"
+    }
+  ],
+
+  "tags": ["colonial", "unesco", "butterflies", "culture", "architecture", "traditional", "day-of-dead", "indigenous"],
+  "schema_type": "TouristDestination"
+}

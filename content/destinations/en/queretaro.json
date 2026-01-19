@@ -1,0 +1,321 @@
+{
+  "id": "queretaro",
+  "name": "Querétaro",
+  "slug": "queretaro",
+  "state": "Querétaro",
+  "country": "Mexico",
+  "type": "colonial",
+  "lang": "en",
+  "coordinates": {
+    "latitude": 20.5888,
+    "longitude": -100.3899
+  },
+  "meta_title": "Querétaro Travel Guide 2025 - UNESCO Colonial City, Wine Country | Top Mexico Travel",
+  "meta_description": "Explore Querétaro, Mexico's rising star: UNESCO colonial architecture, thriving wine country, excellent food scene, and gateway to magical mountain villages.",
+  "og_image": "https://images.unsplash.com/photo-1585468274952-66591eb14165?w=1200&h=630&fit=crop&q=80",
+  "og_image_alt": "Querétaro's iconic aqueduct and colonial architecture",
+  "canonical_url": "https://topmexicotravel.com/en/queretaro/",
+  "hero_image": "https://images.unsplash.com/photo-1585468274952-66591eb14165?w=1920&h=1080&fit=crop&q=80",
+  "hero_image_alt": "Historic center of Querétaro with aqueduct and colonial buildings",
+  "tagline": "Colonial elegance meets modern prosperity — where Mexican history was made and world-class wine now flows",
+  "featured_snippet_intro": "Querétaro is Mexico's fastest-growing success story: a UNESCO colonial city with excellent food, thriving wine country, and safe, livable atmosphere attracting expats and digital nomads. Just 2 hours from Mexico City, it combines historical significance (Mexican independence was planned here) with contemporary sophistication.",
+  "introduction": "<p>Querétaro is having a moment. This prosperous colonial city, long overshadowed by nearby San Miguel de Allende, has emerged as one of Mexico's most livable and lovable destinations. The historic center is a UNESCO World Heritage site filled with baroque churches, elegant plazas, and the iconic 18th-century aqueduct. But unlike museum-piece towns, Querétaro pulses with contemporary energy: excellent restaurants, craft breweries, thriving tech industry, and some of Mexico's best wine country just outside town.</p><p>History runs deep here. The conspiracy that sparked Mexican independence was hatched in Querétaro. Emperor Maximilian was executed here, ending French intervention. The Mexican Constitution was signed here in 1917. Today, that heritage mingles with entrepreneurial spirit—aerospace companies, software firms, and creative businesses have made Querétaro one of Mexico's economic engines.</p><p>For travelers, Querétaro offers colonial beauty without tourist crowds, excellent food scene at fair prices, safe walkable streets, and easy access to the magical Sierra Gorda and wine route. It's perfect as a base for exploring central Mexico or as a destination in its own right.</p>",
+  "best_time_to_visit": "March - May, October - November",
+  "average_temperature": "20°C / 68°F",
+  "known_for": "Colonial Heritage & Wine Country",
+  "airport_code": "QRO",
+  "rating": "4.7",
+  "review_count": "1650",
+  "tourist_types_json": "[\"Culture Seeker\", \"Foodie\", \"Wine Lover\", \"Digital Nomad\", \"History Buff\"]",
+
+  "attractions": [
+    {
+      "name": "Historic Center (Centro Histórico)",
+      "type": "UNESCO World Heritage Site",
+      "description": "Beautifully preserved colonial core with baroque churches, elegant plazas, and pedestrian streets. The Jardín Zenea and surrounding blocks are perfect for wandering.",
+      "image": "https://images.unsplash.com/photo-1585468274952-66591eb14165?w=800&h=600&fit=crop&q=80",
+      "duration": "3-4 hours",
+      "price": "Free",
+      "tip": "Start at Jardín Zenea, walk to Plaza de Armas, then explore the pedestrian streets. Evening light on the pink stone is magical.",
+      "coordinates": {"lat": 20.5888, "lng": -100.3899}
+    },
+    {
+      "name": "Los Arcos Aqueduct",
+      "type": "Historic Monument",
+      "description": "Querétaro's iconic 18th-century aqueduct with 74 arches stretching 1.3 kilometers. Best viewed illuminated at night from the mirador or walking beneath.",
+      "image": "https://images.unsplash.com/photo-1585468274952-66591eb14165?w=800&h=600&fit=crop&q=80",
+      "duration": "1 hour",
+      "price": "Free",
+      "tip": "The viewpoint at the end of Calle 5 de Mayo has the classic photo angle. Evening illumination is spectacular.",
+      "coordinates": {"lat": 20.5917, "lng": -100.3833}
+    },
+    {
+      "name": "Wine Route (Ruta del Queso y Vino)",
+      "type": "Wine Region",
+      "description": "Querétaro's emerging wine country with over 30 wineries producing excellent wines. Combine with artisanal cheese tasting for a perfect day trip.",
+      "image": "https://images.unsplash.com/photo-1506377247377-2a5b3b417ebb?w=800&h=600&fit=crop&q=80",
+      "duration": "Full day",
+      "price": "$20-50 tastings",
+      "tip": "Book a wine tour or designate a driver. Freixenet, Viñedos Azteca, and Puerta del Lobo are top picks. Best March-May and September-November.",
+      "coordinates": {"lat": 20.6833, "lng": -100.1833}
+    },
+    {
+      "name": "Templo de Santa Rosa de Viterbo",
+      "type": "Baroque Church",
+      "description": "Considered Mexico's finest example of baroque architecture with extraordinary flying buttresses, gilded altars, and an organ brought from Spain in 1759.",
+      "image": "https://images.unsplash.com/photo-1518638150340-f706e86654de?w=800&h=600&fit=crop&q=80",
+      "duration": "45 minutes",
+      "price": "Free",
+      "tip": "The flying buttresses are unique in Mexico. Interior is ornate—allow time to appreciate the details.",
+      "coordinates": {"lat": 20.5900, "lng": -100.3917}
+    },
+    {
+      "name": "Peña de Bernal",
+      "type": "Natural Wonder",
+      "description": "The world's third-largest monolith rises 350 meters above a charming pueblo mágico. Climb to the base or hike around for spectacular views.",
+      "image": "https://images.unsplash.com/photo-1518105779142-d975f22f1b0a?w=800&h=600&fit=crop&q=80",
+      "duration": "Half-full day",
+      "price": "Free",
+      "tip": "Combine with wine route. The spring equinox draws thousands for cosmic energy. The town has excellent gorditas.",
+      "coordinates": {"lat": 20.7500, "lng": -99.9333}
+    },
+    {
+      "name": "Regional Museum (Museo Regional)",
+      "type": "Museum",
+      "description": "Excellent museum in a former monastery covering Querétaro's pivotal role in Mexican history, from pre-Hispanic through independence and revolution.",
+      "image": "https://images.unsplash.com/photo-1594608661623-aa0bd3a69d98?w=800&h=600&fit=crop&q=80",
+      "duration": "1-2 hours",
+      "price": "$4 USD",
+      "tip": "The building itself is beautiful. Essential for understanding Querétaro's historical importance.",
+      "coordinates": {"lat": 20.5886, "lng": -100.3903}
+    },
+    {
+      "name": "Cerro de las Campanas",
+      "type": "Historic Site",
+      "description": "Hill where Emperor Maximilian was executed in 1867, ending French intervention in Mexico. A chapel and monument mark the spot with city views.",
+      "image": "https://images.unsplash.com/photo-1580152969655-00a7c66e25b6?w=800&h=600&fit=crop&q=80",
+      "duration": "1 hour",
+      "price": "Free",
+      "tip": "Dramatic Mexican history happened here. The view of the city and aqueduct is excellent.",
+      "coordinates": {"lat": 20.5922, "lng": -100.4122}
+    },
+    {
+      "name": "Sierra Gorda Biosphere Reserve",
+      "type": "UNESCO Natural Site",
+      "description": "Vast protected area with cloud forests, canyons, Franciscan missions, and incredible biodiversity. Full-day or multi-day adventure from Querétaro.",
+      "image": "https://images.unsplash.com/photo-1506953823976-52e1fdc0149a?w=800&h=600&fit=crop&q=80",
+      "duration": "Full day or overnight",
+      "price": "Tour $50-100",
+      "tip": "Visit the five Franciscan missions (UNESCO). Jalpan is the gateway town. Ecotourism opportunities abound.",
+      "coordinates": {"lat": 21.2000, "lng": -99.5000}
+    },
+    {
+      "name": "Tequisquiapan",
+      "type": "Pueblo Mágico",
+      "description": "Charming town famous for artisanal cheeses, wines, and craft markets. Popular weekend getaway with thermal spas and ballooning.",
+      "image": "https://images.unsplash.com/photo-1570737209810-87a8e7245f88?w=800&h=600&fit=crop&q=80",
+      "duration": "Half-full day",
+      "price": "Free",
+      "tip": "The cheese and wine festival in May-June is popular. Combine with wine route for a full day.",
+      "coordinates": {"lat": 20.5189, "lng": -99.8917}
+    },
+    {
+      "name": "Andador Libertad",
+      "type": "Pedestrian Zone",
+      "description": "Main pedestrian street connecting plazas with restaurants, bars, and shops. The heart of Querétaro's evening scene.",
+      "image": "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?w=800&h=600&fit=crop&q=80",
+      "duration": "2-3 hours",
+      "price": "Free",
+      "tip": "Best in evening when locals come out. Many restaurants have outdoor seating. Craft cocktail scene is excellent.",
+      "coordinates": {"lat": 20.5883, "lng": -100.3897}
+    }
+  ],
+
+  "neighborhoods": [
+    {
+      "name": "Centro Histórico",
+      "slug": "centro-historico",
+      "description": "The UNESCO-protected colonial heart with plazas, churches, restaurants, and pedestrian streets. Where you'll spend most of your time.",
+      "image": "https://images.unsplash.com/photo-1585468274952-66591eb14165?w=800&h=600&fit=crop&q=80",
+      "vibe": "Colonial, lively, walkable",
+      "best_for": "All visitors, dining, nightlife, culture",
+      "highlights": ["Jardín Zenea", "Andador Libertad", "Churches", "Restaurants"]
+    },
+    {
+      "name": "Barrio de San Francisquito",
+      "slug": "san-francisquito",
+      "description": "Trendy neighborhood adjacent to centro with art galleries, design shops, and hip cafes. Querétaro's creative quarter.",
+      "image": "https://images.unsplash.com/photo-1567622661983-57a88fbc03e5?w=800&h=600&fit=crop&q=80",
+      "vibe": "Creative, trendy, local",
+      "best_for": "Art lovers, café culture, local scene",
+      "highlights": ["Galleries", "Design shops", "Specialty coffee", "Local vibes"]
+    },
+    {
+      "name": "Juriquilla",
+      "slug": "juriquilla",
+      "description": "Upscale suburb with modern developments, restaurants, and access to wine country. Where many expats live.",
+      "image": "https://images.unsplash.com/photo-1567627097931-5d9aabe8d1ee?w=800&h=600&fit=crop&q=80",
+      "vibe": "Modern, upscale, residential",
+      "best_for": "Long-term visitors, wine route access, modern dining",
+      "highlights": ["Wine route access", "Modern restaurants", "Golf", "Expat community"]
+    }
+  ],
+
+  "featured_hotels": [
+    {
+      "name": "Hotel Mesón de Santa Rosa",
+      "category": "Heritage Boutique",
+      "stars": 5,
+      "price_range": "$200",
+      "description": "Stunning colonial mansion on the main plaza with rooftop pool, excellent restaurant, and impeccable service.",
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800&h=600&fit=crop&q=80",
+      "features": ["Plaza location", "Rooftop pool", "Fine dining", "Historic building"]
+    },
+    {
+      "name": "La Casa del Atrio",
+      "category": "Design Boutique",
+      "stars": 4,
+      "price_range": "$150",
+      "description": "Contemporary boutique hotel in a restored colonial building with rooftop terrace and excellent location.",
+      "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?w=800&h=600&fit=crop&q=80",
+      "features": ["Rooftop terrace", "Modern design", "Central location", "Bar"]
+    },
+    {
+      "name": "Hotel Mirabel",
+      "category": "Colonial Charm",
+      "stars": 4,
+      "price_range": "$100",
+      "description": "Well-located colonial hotel with traditional ambiance, courtyard, and walking distance to everything.",
+      "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=800&h=600&fit=crop&q=80",
+      "features": ["Colonial style", "Courtyard", "Central location", "Good value"]
+    },
+    {
+      "name": "Hotel Señorial",
+      "category": "Budget",
+      "stars": 3,
+      "price_range": "$50",
+      "description": "Clean, simple hotel right on the main plaza with excellent location and fair prices.",
+      "image": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=800&h=600&fit=crop&q=80",
+      "features": ["Plaza location", "Budget-friendly", "Clean", "Central"]
+    }
+  ],
+
+  "featured_restaurants": [
+    {
+      "name": "Tikua",
+      "cuisine": "Contemporary Mexican",
+      "price_range": "$$$$",
+      "description": "Querétaro's most acclaimed restaurant with innovative Mexican cuisine using local ingredients. Tasting menus and excellent wine pairings.",
+      "image": "https://images.unsplash.com/photo-1544025162-d76694265947?w=800&h=600&fit=crop&q=80",
+      "must_try": ["Tasting menu", "Local wines", "Seasonal dishes"]
+    },
+    {
+      "name": "1810 Cocina Regional",
+      "cuisine": "Traditional Mexican",
+      "price_range": "$$",
+      "description": "Excellent regional cuisine in a beautiful colonial setting. Well-prepared classics and good value.",
+      "image": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?w=800&h=600&fit=crop&q=80",
+      "must_try": ["Enchiladas queretanas", "Mole", "Regional specials"]
+    },
+    {
+      "name": "Bistronomía",
+      "cuisine": "Modern Mexican",
+      "price_range": "$$$",
+      "description": "Hip bistro with creative Mexican plates, craft cocktails, and excellent brunch. Part of Querétaro's food scene renaissance.",
+      "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800&h=600&fit=crop&q=80",
+      "must_try": ["Weekend brunch", "Creative tacos", "Craft cocktails"]
+    },
+    {
+      "name": "La Mariposa",
+      "cuisine": "Traditional Breakfast",
+      "price_range": "$",
+      "description": "Beloved local institution for traditional Mexican breakfasts since 1940. The enchiladas mariposa are legendary.",
+      "image": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=800&h=600&fit=crop&q=80",
+      "must_try": ["Enchiladas mariposa", "Chilaquiles", "Fresh juices"]
+    },
+    {
+      "name": "Cervecería Hércules",
+      "cuisine": "Craft Brewery/Gastropub",
+      "price_range": "$$",
+      "description": "Querétaro's best craft brewery with excellent beers and solid pub food. Lively atmosphere in historic building.",
+      "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?w=800&h=600&fit=crop&q=80",
+      "must_try": ["Beer flights", "Burgers", "Weekend sessions"]
+    }
+  ],
+
+  "day_trips": [
+    {
+      "name": "Wine Route & Cheese Tasting",
+      "distance": "30-50km",
+      "description": "Visit several wineries in the Querétaro wine region and sample artisanal cheeses. One of Mexico's emerging wine destinations.",
+      "image": "https://images.unsplash.com/photo-1506377247377-2a5b3b417ebb?w=800&h=600&fit=crop&q=80",
+      "tips": "Book a tour or designate a driver. Freixenet Mexico and Viñedos Azteca are highlights. Best spring and fall."
+    },
+    {
+      "name": "Peña de Bernal & Tequisquiapan",
+      "distance": "60km",
+      "description": "Visit the massive monolith, hike to its base, explore the charming town, then continue to Tequisquiapan for cheese and wine.",
+      "image": "https://images.unsplash.com/photo-1518105779142-d975f22f1b0a?w=800&h=600&fit=crop&q=80",
+      "tips": "Perfect full-day combo. Try gorditas in Bernal. Spring equinox is mobbed but atmospheric."
+    },
+    {
+      "name": "Sierra Gorda Missions",
+      "distance": "170km",
+      "description": "Visit UNESCO World Heritage Franciscan missions in the stunning Sierra Gorda. Jalpan and surrounding villages offer adventure and culture.",
+      "image": "https://images.unsplash.com/photo-1506953823976-52e1fdc0149a?w=800&h=600&fit=crop&q=80",
+      "tips": "Full-day or overnight trip. Five missions to visit. Sierra Gorda offers ecotourism opportunities."
+    }
+  ],
+
+  "faqs": [
+    {
+      "question": "Why is Querétaro becoming so popular?",
+      "answer": "Querétaro combines colonial beauty with modern livability. It's safe, prosperous, has excellent food and nightlife, and is only 2 hours from Mexico City. The cost of living is reasonable, weather is perfect, and the wine country is an easy day trip. It attracts expats, digital nomads, and travelers seeking authentic Mexico without tourist crowds."
+    },
+    {
+      "question": "How is Querétaro different from San Miguel de Allende?",
+      "answer": "San Miguel is more touristy and expat-focused with higher prices. Querétaro is a working city with its own economy beyond tourism, meaning more authentic daily life, better prices, and fewer crowds. San Miguel is prettier but more expensive; Querétaro is more practical but equally charming."
+    },
+    {
+      "question": "Is Querétaro safe?",
+      "answer": "Querétaro is one of Mexico's safest cities, consistently ranking high in quality-of-life surveys. The historic center is very safe day and night. It's a prosperous, business-oriented city with low crime rates. Normal urban precautions apply, but safety concerns shouldn't deter visitors."
+    },
+    {
+      "question": "What about the wine country?",
+      "answer": "Querétaro's wine region is Mexico's second-largest and produces excellent wines, especially sparkling. Over 30 wineries are within an hour of the city. Freixenet Mexico makes world-class sparkling wine. Most wineries offer tastings and tours. Combine with artisanal cheese for a perfect day."
+    },
+    {
+      "question": "How many days should I spend?",
+      "answer": "2-3 days covers the city and one day trip (wine route or Bernal). A week allows time to explore Sierra Gorda and fully enjoy the restaurant scene. Many travelers extend their stay after discovering how livable the city is."
+    },
+    {
+      "question": "How do I get there from Mexico City?",
+      "answer": "Direct buses run hourly from Mexico City's Terminal Norte (2-2.5 hours, ~$20). The Querétaro airport (QRO) has some direct flights but CDMX is often more convenient. Driving is easy on the modern toll highway (2 hours)."
+    }
+  ],
+
+  "getting_there": "Querétaro International Airport (QRO) has connections from major Mexican cities and some US destinations. First-class ETN and Primera Plus buses from Mexico City take 2.5 hours. By car, it's 2 hours from CDMX on Highway 57D.",
+  "getting_around": "The historic center is compact and walkable. Uber works throughout the city and is cheap. Taxis are also reliable. For wine country and day trips, rent a car or book tours. The bus station is 5 minutes from centro.",
+  "safety_info": "Querétaro is one of Mexico's safest cities. The historic center is well-policed and busy until late. It's a prosperous city with a strong economy beyond tourism, meaning low crime. Use normal precautions and enjoy the walkable, livable atmosphere.",
+
+  "related_destinations": [
+    {
+      "name": "San Miguel de Allende",
+      "url": "/en/san-miguel-de-allende/",
+      "image": "https://images.unsplash.com/photo-1585468274952-66591eb14165?w=400&h=300&fit=crop&q=80"
+    },
+    {
+      "name": "Guanajuato",
+      "url": "/en/guanajuato/",
+      "image": "https://images.unsplash.com/photo-1585464231875-d9ef1f5ad396?w=400&h=300&fit=crop&q=80"
+    },
+    {
+      "name": "Mexico City",
+      "url": "/en/mexico-city/",
+      "image": "https://images.unsplash.com/photo-1518659526054-e8b8b4a8e1b6?w=400&h=300&fit=crop&q=80"
+    }
+  ],
+
+  "tags": ["colonial", "unesco", "wine", "food", "digital-nomad", "expat", "safe", "culture"],
+  "schema_type": "TouristDestination"
+}

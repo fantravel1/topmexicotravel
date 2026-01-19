@@ -789,7 +789,7 @@ Allow: /
   fs.writeFileSync(path.join(CONFIG.distDir, 'robots.txt'), robotsTxt);
 
   // Generate sitemap
-  generateSitemap(destinations);
+  generateSitemap(destinations, itineraries, guides);
 
   // Copy CNAME if exists
   const cnameSrc = path.join(ROOT, 'CNAME');
@@ -822,7 +822,7 @@ function copyDir(src, dest) {
 }
 
 // Generate sitemaps
-function generateSitemap(destinations) {
+function generateSitemap(destinations, itineraries, guides) {
   const today = new Date().toISOString().split('T')[0];
 
   // Generate sitemap index
@@ -839,11 +839,31 @@ ${CONFIG.languages.map(lang => `  <sitemap>
   // Generate language-specific sitemaps
   for (const lang of CONFIG.languages) {
     const urls = [
+      // Homepage
       { loc: `${CONFIG.baseUrl}/${lang}/`, priority: '1.0', changefreq: 'weekly' },
+      // Destinations listing
+      { loc: `${CONFIG.baseUrl}/${lang}/destinations/`, priority: '0.9', changefreq: 'weekly' },
+      // Individual destinations
       ...destinations.map(d => ({
         loc: `${CONFIG.baseUrl}/${lang}/${d.slug}/`,
         priority: '0.8',
         changefreq: 'weekly'
+      })),
+      // Itineraries listing
+      { loc: `${CONFIG.baseUrl}/${lang}/itineraries/`, priority: '0.9', changefreq: 'weekly' },
+      // Individual itineraries
+      ...(itineraries || []).map(i => ({
+        loc: `${CONFIG.baseUrl}/${lang}/itineraries/${i.slug}/`,
+        priority: '0.7',
+        changefreq: 'monthly'
+      })),
+      // Guides listing
+      { loc: `${CONFIG.baseUrl}/${lang}/guides/`, priority: '0.9', changefreq: 'weekly' },
+      // Individual guides
+      ...(guides || []).map(g => ({
+        loc: `${CONFIG.baseUrl}/${lang}/guides/${g.slug}/`,
+        priority: '0.7',
+        changefreq: 'monthly'
       }))
     ];
 

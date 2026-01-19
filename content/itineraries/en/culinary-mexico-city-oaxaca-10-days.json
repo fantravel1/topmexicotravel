@@ -1,0 +1,271 @@
+{
+  "id": "culinary-mexico-city-oaxaca-10-days",
+  "slug": "culinary-mexico-city-oaxaca-10-days",
+  "title": "10-Day Mexico Culinary Journey",
+  "subtitle": "Mexico City & Oaxaca: Street Food, Fine Dining & Ancient Flavors",
+  "duration": "10 Days",
+  "meta_title": "Mexico Food Tour Itinerary 2025 - 10 Days of Culinary Adventure",
+  "meta_description": "The ultimate Mexico food itinerary: 10 days exploring Mexico City's markets and fine dining, Oaxacan moles and mezcal, cooking classes, and authentic regional cuisine.",
+  "hero_image": "https://images.unsplash.com/photo-1551504734-5ee1c4a1479b?w=1920&h=1080&fit=crop&q=80",
+  "hero_alt": "Colorful Mexican street food spread with tacos and salsas",
+  "og_image": "https://images.unsplash.com/photo-1551504734-5ee1c4a1479b?w=1200&h=630&fit=crop&q=80",
+  "introduction": "Mexican cuisine is UNESCO-recognized for good reason—it's one of the world's great culinary traditions, shaped by thousands of years of indigenous knowledge and global influences. This 10-day journey takes you deep into the food cultures of Mexico City and Oaxaca: from street tacos at dawn to tasting menus at world-ranked restaurants, from market foraging to cooking your own moles.",
+  "best_for": ["Food lovers", "Cooking enthusiasts", "Cultural travelers", "Instagram foodies"],
+  "estimated_budget": {
+    "budget": "$2,500-4,000 USD per person",
+    "mid_range": "$5,000-8,000 USD per person",
+    "luxury": "$12,000-18,000 USD per person"
+  },
+  "best_time": "Year-round; October-November for Day of Dead culinary traditions",
+  "destinations": ["Mexico City", "Oaxaca"],
+  "highlights": [
+    "Dawn street food tour in Mexico City",
+    "Dinner at Pujol or Quintonil",
+    "Oaxaca market foraging with chef",
+    "Seven moles tasting",
+    "Mezcal distillery and pairing",
+    "Hands-on cooking class",
+    "Taco crawl through colonias"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Arrive Mexico City",
+      "location": "Mexico City",
+      "description": "Arrive in Mexico City and settle into your hotel in Roma or Condesa—the neighborhoods with the best food scene. Your introduction: a street food walking tour through Roma. Begin with proper tacos al pastor from a trompo (vertical spit), blue corn quesadillas filled with squash blossoms, and fresh fruit with chili and lime. End at a rooftop mezcal bar watching the city glow.",
+      "image": "https://images.unsplash.com/photo-1518659526054-e5baae2caef4?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Arrive Mexico City",
+        "Check into Roma/Condesa hotel",
+        "Afternoon street food walking tour",
+        "Tacos al pastor introduction",
+        "Quesadilla sampling",
+        "Rooftop mezcal welcome"
+      ],
+      "accommodation": {
+        "budget": "Casa Comtesse ($80-120)",
+        "mid_range": "Condesa DF ($200-300)",
+        "luxury": "Four Seasons Mexico City ($500+)"
+      },
+      "tips": ["Roma Norte has highest concentration of excellent restaurants", "Street food is safe at busy stalls with high turnover", "Mezcal: sip, don't shoot"]
+    },
+    {
+      "day": 2,
+      "title": "Market Day & Fine Dining",
+      "location": "Mexico City",
+      "description": "Morning at Mercado de la Merced—one of the largest markets in the Americas. Your guide navigates the labyrinth of chilies, produce, meats, and prepared foods. Sample tamales, champurrado (thick chocolate drink), and whatever catches your eye. Afternoon rest, then tonight: dinner at Pujol, Quintonil, or Contramar—book months ahead. This is Mexico City's culinary pinnacle.",
+      "image": "https://images.unsplash.com/photo-1560179707-f14e90ef3623?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Early departure for La Merced",
+        "Guided market exploration",
+        "Sample traditional breakfast items",
+        "Chili identification lesson",
+        "Lunch in market fondas",
+        "Afternoon rest",
+        "Fine dining dinner (Pujol/Quintonil)"
+      ],
+      "accommodation": {
+        "budget": "Casa Comtesse ($80-120)",
+        "mid_range": "Condesa DF ($200-300)",
+        "luxury": "Four Seasons Mexico City ($500+)"
+      },
+      "tips": ["Pujol requires reservations 2+ months ahead", "Contramar is excellent and easier to book", "Wear comfortable shoes for market—it's huge"]
+    },
+    {
+      "day": 3,
+      "title": "Cooking Class & Coyoacán",
+      "location": "Mexico City",
+      "description": "Morning cooking class: learn to make salsas, street tacos, and perhaps mole. You'll shop at a local market for ingredients, then cook and feast on your creations. Afternoon in Coyoacán—the bohemian neighborhood where Frida Kahlo lived. Street food here includes tostadas, churros, and the famous Coyoacán market. Casual dinner in Coyoacán.",
+      "image": "https://images.unsplash.com/photo-1551504734-5ee1c4a1479b?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Market shopping for class ingredients",
+        "Hands-on cooking class",
+        "Lunch from your cooking",
+        "Transfer to Coyoacán",
+        "Frida Kahlo house (optional)",
+        "Coyoacán market exploration",
+        "Dinner in Coyoacán"
+      ],
+      "accommodation": {
+        "budget": "Casa Comtesse ($80-120)",
+        "mid_range": "Condesa DF ($200-300)",
+        "luxury": "Four Seasons Mexico City ($500+)"
+      },
+      "tips": ["Book cooking class in advance—popular ones fill up", "Coyoacán market has excellent churros and tostadas", "Try pulque if you're adventurous (fermented agave)"]
+    },
+    {
+      "day": 4,
+      "title": "Taco Crawl & Lucha Libre",
+      "location": "Mexico City",
+      "description": "The legendary CDMX taco crawl. Your guide takes you to 4-5 taco spots specializing in different styles: tacos de canasta (basket tacos), tacos de guisado (stewed fillings), tacos de carnitas (slow-cooked pork), tacos árabes (Lebanese-influenced), and suadero (beef brisket). Evening: lucha libre wrestling at Arena México with beer and snacks—a cultural feast.",
+      "image": "https://images.unsplash.com/photo-1504544750208-dc0358e63f7f?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Morning at leisure",
+        "Afternoon taco crawl begins",
+        "4-5 taco stand visits",
+        "Learn taco etiquette and vocabulary",
+        "Dinner tacos included",
+        "Arena México for lucha libre",
+        "Arena snacks and beer"
+      ],
+      "accommodation": {
+        "budget": "Casa Comtesse ($80-120)",
+        "mid_range": "Condesa DF ($200-300)",
+        "luxury": "Four Seasons Mexico City ($500+)"
+      },
+      "tips": ["Taco crawl: come hungry, wear stretchy pants", "Lucha libre: Friday nights are most popular", "El Huequito, Los Cocuyos, Taquería Orinoco are classics"]
+    },
+    {
+      "day": 5,
+      "title": "Fly to Oaxaca",
+      "location": "Oaxaca",
+      "description": "Morning flight to Oaxaca City—where Mexican food reaches its apotheosis. The UNESCO-recognized cuisine here includes seven moles, chapulines (grasshoppers), tlayudas (Oaxacan pizza), and the world's finest mezcal. Check into your hotel in the centro histórico, then afternoon walking food tour: chocolate atole, tlayudas, and your first proper Oaxacan mezcal tasting.",
+      "image": "https://images.unsplash.com/photo-1533104816931-20fa691ff6ca?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Flight to Oaxaca",
+        "Hotel check-in in centro",
+        "Lunch of tlayudas",
+        "Walking food tour",
+        "Chocolate shops and atole",
+        "First mezcal tasting",
+        "Dinner at Zandunga or Los Danzantes"
+      ],
+      "accommodation": {
+        "budget": "Casa Angel ($50-80)",
+        "mid_range": "Quinta Real Oaxaca ($150-250)",
+        "luxury": "Casa Oaxaca ($300+)"
+      },
+      "tips": ["Oaxacan mezcal is different from what you've had—taste carefully", "Mayordomo and La Soledad for chocolate", "Chapulines: try them—they're delicious"]
+    },
+    {
+      "day": 6,
+      "title": "Seven Moles & Market Day",
+      "location": "Oaxaca",
+      "description": "Oaxaca has seven famous moles, each with unique character: negro, rojo, coloradito, amarillo, verde, chichilo, and manchamanteles. Today you'll taste them all. Morning at Mercado 20 de Noviembre—the legendary food market with smoke-filled pasillos of grilled meats. Mole tasting lunch, then afternoon exploring Mercado Benito Juárez. Evening dinner at Origen or Pitiona.",
+      "image": "https://images.unsplash.com/photo-1551504734-5ee1c4a1479b?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Mercado 20 de Noviembre breakfast",
+        "Grilled meat pasillo experience",
+        "Seven moles tasting lunch",
+        "Mercado Benito Juárez exploration",
+        "Ingredient shopping",
+        "Rest at hotel",
+        "Fine dining at Origen or Pitiona"
+      ],
+      "accommodation": {
+        "budget": "Casa Angel ($50-80)",
+        "mid_range": "Quinta Real Oaxaca ($150-250)",
+        "luxury": "Casa Oaxaca ($300+)"
+      },
+      "tips": ["Mole negro is the most complex—pay attention", "Market breakfast: tasajo (dried beef), chorizo, cecina (thin-sliced pork)", "Origen has excellent vegetarian mole options"]
+    },
+    {
+      "day": 7,
+      "title": "Mezcal Route",
+      "location": "Oaxaca Valleys",
+      "description": "Day trip into the mezcal-producing valleys. Visit a traditional palenque (distillery) where mezcal is made the ancestral way: roasting agave in underground pits, crushing with a horse-drawn tahona, fermenting in wood vats, distilling in clay pots. Taste mezcals you'll never find outside Oaxaca. Lunch at a village restaurant with fresh tortillas, return via Monte Albán.",
+      "image": "https://images.unsplash.com/photo-1569529465841-dfecdab7503b?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Morning departure for valleys",
+        "Agave field walk",
+        "Traditional palenque visit",
+        "Mezcal production explanation",
+        "Extensive tasting session",
+        "Village lunch",
+        "Monte Albán visit (optional)",
+        "Return to Oaxaca City"
+      ],
+      "accommodation": {
+        "budget": "Casa Angel ($50-80)",
+        "mid_range": "Quinta Real Oaxaca ($150-250)",
+        "luxury": "Casa Oaxaca ($300+)"
+      },
+      "tips": ["Don't buy mezcal before tasting at palenques—selection is better", "Espadín is entry-level; try tobalá, madrecuixe, arroqueño", "Mezcal education changes everything you know about the spirit"]
+    },
+    {
+      "day": 8,
+      "title": "Oaxacan Cooking Class",
+      "location": "Oaxaca",
+      "description": "The most important cooking class of your life. Morning market visit with your teacher—selecting dried chilies, fresh herbs, and specialty ingredients. Return to the kitchen to prepare a full Oaxacan meal: likely including salsa, mole (yes, from scratch—it takes hours), tamales, and mezcal cocktails. Eat your creations for a long, celebratory lunch.",
+      "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Market shopping with chef",
+        "Ingredient selection and education",
+        "Return to cooking school",
+        "Mole preparation from scratch",
+        "Tamale making",
+        "Salsa and sides",
+        "Feast on your cooking",
+        "Evening at leisure"
+      ],
+      "accommodation": {
+        "budget": "Casa Angel ($50-80)",
+        "mid_range": "Quinta Real Oaxaca ($150-250)",
+        "luxury": "Casa Oaxaca ($300+)"
+      },
+      "tips": ["Casa de los Sabores and Seasons of My Heart are excellent cooking schools", "Mole from scratch takes 4-6 hours—embrace the process", "Take notes—you'll want to recreate this at home"]
+    },
+    {
+      "day": 9,
+      "title": "Food Villages & Final Oaxaca",
+      "location": "Oaxaca",
+      "description": "Visit the food villages surrounding Oaxaca. San Martín Tilcajete (alebrijes wood carvings), then San Bartolo Coyotepec (black pottery), and Tlacolula market if it's Sunday—the region's largest. Each village has food specialties. Return to Oaxaca for final dinner at your choice: street food feast at the zócalo, elevated Oaxacan at Criollo, or tasting menu at Casa Oaxaca.",
+      "image": "https://images.unsplash.com/photo-1533104816931-20fa691ff6ca?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Morning valley villages tour",
+        "Artisan workshops",
+        "Village food specialties",
+        "Tlacolula market (if Sunday)",
+        "Return to Oaxaca",
+        "Afternoon mezcal bar",
+        "Final Oaxaca dinner"
+      ],
+      "accommodation": {
+        "budget": "Casa Angel ($50-80)",
+        "mid_range": "Quinta Real Oaxaca ($150-250)",
+        "luxury": "Casa Oaxaca ($300+)"
+      },
+      "tips": ["Tlacolula Sunday market is not to be missed if timing works", "Buy mezcal and mole paste as gifts", "In Situ mezcal bar has exceptional rare bottles"]
+    },
+    {
+      "day": 10,
+      "title": "Departure",
+      "location": "Oaxaca",
+      "description": "Final morning in food paradise. Early breakfast at your favorite market stall—one last tlayuda, one last atole. Pack your mezcal carefully (checked luggage only), your mole paste, your chocolate. Fly home with expanded palate, new cooking skills, and deep appreciation for one of the world's great culinary traditions.",
+      "image": "https://images.unsplash.com/photo-1551504734-5ee1c4a1479b?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Final market breakfast",
+        "Last-minute food shopping",
+        "Pack purchases carefully",
+        "Airport transfer",
+        "Flight home"
+      ],
+      "tips": ["Mezcal must be in checked baggage—wrap well", "Mole paste and chocolate travel well", "Take restaurant business cards for future reference"]
+    }
+  ],
+  "practical_info": {
+    "getting_there": "Fly into Mexico City (MEX), fly out of Oaxaca (OAX) to Mexico City, then home. Direct flights from US to Oaxaca are rare—most connect through Mexico City or Houston.",
+    "getting_around": "Walking and Uber in Mexico City. Walking and taxis in Oaxaca. Arranged transport for day trips outside both cities.",
+    "what_to_pack": ["Comfortable walking shoes", "Loose clothing (you'll eat a lot)", "Reusable bag for market shopping", "Antacids just in case", "Notebook for recipes and restaurant names", "Room in luggage for food souvenirs"]
+  },
+  "faqs": [
+    {
+      "question": "Will I get sick from street food?",
+      "answer": "Following basic precautions, most travelers are fine. Eat at busy stalls with high turnover. Avoid tap water and raw vegetables at questionable places. Street food in Mexico City and Oaxaca is generally safe—millions of locals eat it daily. Start slowly and trust your guide's recommendations."
+    },
+    {
+      "question": "Can this itinerary accommodate vegetarians?",
+      "answer": "Yes, though you'll miss some signature dishes. Mexican cuisine has many vegetarian options: quesadillas with squash blossoms, tlayudas with beans and cheese, tamales with various fillings, and vegetarian moles. Let guides and restaurants know—they'll accommodate. Oaxacan fine dining has strong vegetarian offerings."
+    },
+    {
+      "question": "How do I get reservations at Pujol?",
+      "answer": "Book online exactly 2 months before your desired date when reservations open. They release dates at a specific time—be ready. Alternatives if Pujol is booked: Quintonil (similar caliber), Contramar (excellent, easier), or Máximo Bistrot (neighborhood gem). All offer world-class Mexican cuisine."
+    },
+    {
+      "question": "How much mezcal can I bring home?",
+      "answer": "US allows 5 liters per person duty-free. Beyond that, you pay taxes. Most mezcal from palenques comes in 750ml bottles, so you can bring ~6 bottles duty-free. Pack in checked luggage, well-wrapped. Consider shipping larger quantities through specialty importers."
+    }
+  ],
+  "related_itineraries": ["oaxaca-culture-food-7-days", "mexico-city-5-days", "foodie-mexico-10-days"],
+  "tags": ["food", "culinary", "cooking-class", "street-food", "mezcal", "mexico-city", "oaxaca", "fine-dining"]
+}

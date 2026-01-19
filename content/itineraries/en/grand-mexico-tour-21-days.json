@@ -1,0 +1,224 @@
+{
+  "id": "grand-mexico-tour-21-days",
+  "slug": "grand-mexico-tour-21-days",
+  "title": "21-Day Grand Mexico Tour",
+  "subtitle": "The Ultimate Journey: From Caribbean to Pacific, Ancient Ruins to Modern Cities",
+  "duration": "21 Days",
+  "meta_title": "Grand Mexico Itinerary 2025 - 21 Days Across Mexico",
+  "meta_description": "The ultimate Mexico itinerary: 21 days spanning Mexico City, Oaxaca, the Yucatán, and the Pacific coast. Ancient ruins, colonial cities, beaches, and cultural immersion.",
+  "hero_image": "https://images.unsplash.com/photo-1518105779142-d975f22f1b0a?w=1920&h=1080&fit=crop&q=80",
+  "hero_alt": "Iconic view of Mayan pyramid El Castillo at Chichen Itza",
+  "og_image": "https://images.unsplash.com/photo-1518105779142-d975f22f1b0a?w=1200&h=630&fit=crop&q=80",
+  "introduction": "This is the trip of a lifetime—21 days exploring Mexico's greatest hits and hidden gems. From the megalopolis of Mexico City to ancient Mayan ruins, from colonial Oaxaca to Caribbean beaches, from the Yucatán jungle to the Pacific coast. You'll experience the full breadth of Mexico: its food, history, cultures, landscapes, and warmth. Buckle up for an unforgettable journey.",
+  "best_for": ["First-time Mexico visitors with time", "Cultural enthusiasts", "Those wanting comprehensive experience", "Sabbatical travelers"],
+  "estimated_budget": {
+    "budget": "$4,000-6,000 USD per person",
+    "mid_range": "$8,000-12,000 USD per person",
+    "luxury": "$18,000-30,000 USD per person"
+  },
+  "best_time": "October to April for best overall weather across all regions",
+  "destinations": ["Mexico City", "Oaxaca", "Yucatán", "Riviera Maya", "Puerto Vallarta", "San Miguel de Allende"],
+  "highlights": [
+    "World-class museums and dining in Mexico City",
+    "Seven moles and mezcal in Oaxaca",
+    "Chichén Itzá and Mayan culture",
+    "Cenote swimming and Caribbean beaches",
+    "Colonial charm of San Miguel de Allende",
+    "Pacific sunsets in Puerto Vallarta"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Arrive Mexico City",
+      "location": "Mexico City",
+      "description": "Welcome to Mexico! Arrive at Mexico City's massive airport and transfer to your hotel in Roma or Condesa. These tree-lined neighborhoods are the heartbeat of modern Mexican culture. Evening orientation walk, street food sampling, and rooftop drinks watching the city light up. The greatest city in the Americas awaits.",
+      "image": "https://images.unsplash.com/photo-1518659526054-e5baae2caef4?w=800&h=600&fit=crop&q=80",
+      "activities": ["Airport arrival and transfer", "Roma/Condesa hotel check-in", "Neighborhood orientation walk", "Street food introduction", "Rooftop drinks"]
+    },
+    {
+      "day": 2,
+      "title": "Mexico City Historic Center",
+      "location": "Mexico City",
+      "description": "Dive into the centro histórico. Visit the Zócalo (main square), the National Palace with Diego Rivera murals, and the Templo Mayor—Aztec ruins beneath the colonial center. Lunch at a legendary cantina, then the stunning Palacio de Bellas Artes. Evening dinner at Contramar or Pujol (book ahead!).",
+      "image": "https://images.unsplash.com/photo-1560179707-f14e90ef3623?w=800&h=600&fit=crop&q=80",
+      "activities": ["Zócalo and National Palace", "Templo Mayor ruins", "Centro histórico walking tour", "Cantina lunch", "Palacio de Bellas Artes", "Fine dining dinner"]
+    },
+    {
+      "day": 3,
+      "title": "Teotihuacán & Anthropology Museum",
+      "location": "Mexico City",
+      "description": "Early departure for Teotihuacán—the mysterious ancient city with the massive Pyramid of the Sun and Pyramid of the Moon. Climb both, walk the Avenue of the Dead, and contemplate this 2,000-year-old mystery. Return to the city for the must-see National Museum of Anthropology. Evening at leisure in Roma.",
+      "image": "https://images.unsplash.com/photo-1518638150340-f706e86654de?w=800&h=600&fit=crop&q=80",
+      "activities": ["Early departure to Teotihuacán", "Pyramid climbs", "Archaeological site exploration", "Return to city", "Anthropology Museum", "Roma dinner"]
+    },
+    {
+      "day": 4,
+      "title": "Coyoacán & Frida",
+      "location": "Mexico City",
+      "description": "Morning at the Frida Kahlo Museum (Casa Azul)—book tickets in advance. Explore bohemian Coyoacán's markets and plazas. Afternoon at Xochimilco—floating gardens where you'll drift on colorful trajineras (boats) with food, music, and good cheer. Evening mezcal bar in Roma.",
+      "image": "https://images.unsplash.com/photo-1510416623894-c97d53f80bda?w=800&h=600&fit=crop&q=80",
+      "activities": ["Frida Kahlo Museum", "Coyoacán market and streets", "Lunch in Coyoacán", "Xochimilco floating gardens", "Trajinera boat ride", "Mezcal bar evening"]
+    },
+    {
+      "day": 5,
+      "title": "Fly to Oaxaca",
+      "location": "Oaxaca",
+      "description": "Morning flight to Oaxaca—Mexico's culinary and cultural capital. Check into your hotel in the beautiful centro histórico. Afternoon walking orientation: the zócalo, Santo Domingo church, and Macedonio Alcalá street. First mezcal tasting and dinner of tlayudas, the signature Oaxacan dish.",
+      "image": "https://images.unsplash.com/photo-1533104816931-20fa691ff6ca?w=800&h=600&fit=crop&q=80",
+      "activities": ["Flight to Oaxaca", "Centro hotel check-in", "Walking orientation", "Santo Domingo church", "Mezcal tasting", "Tlayuda dinner"]
+    },
+    {
+      "day": 6,
+      "title": "Monte Albán & Markets",
+      "location": "Oaxaca",
+      "description": "Morning at Monte Albán—the ancient Zapotec capital perched on a mountaintop with panoramic valley views. Afternoon exploring Oaxaca's legendary markets: 20 de Noviembre for grilled meats, Benito Juárez for everything else. Mole tasting dinner—try multiple of Oaxaca's seven famous moles.",
+      "image": "https://images.unsplash.com/photo-1568736333610-eae6e0ab2c61?w=800&h=600&fit=crop&q=80",
+      "activities": ["Monte Albán archaeological site", "Zapotec history", "Return to city", "Market lunch", "Mercado explorations", "Seven moles dinner"]
+    },
+    {
+      "day": 7,
+      "title": "Hierve el Agua & Mezcal",
+      "location": "Oaxaca",
+      "description": "Day trip to Hierve el Agua—stunning petrified waterfalls with natural infinity pools overlooking the valley. Swim in the mineral pools, hike the trails. On return, visit a traditional mezcal palenque to see ancestral production methods. Extensive tasting session. Evening dinner in Oaxaca.",
+      "image": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&h=600&fit=crop&q=80",
+      "activities": ["Drive to Hierve el Agua", "Natural pool swimming", "Hiking", "Mezcal palenque visit", "Production tour and tasting", "Return to Oaxaca", "Dinner"]
+    },
+    {
+      "day": 8,
+      "title": "Fly to Mérida",
+      "location": "Mérida",
+      "description": "Fly to Mérida via Mexico City—the beautiful capital of Yucatán with colonial mansions, Mayan heritage, and distinctive cuisine. Check into your hotel on Paseo de Montejo. Evening walking tour of the zócalo, catedral, and Montejo avenue. First taste of Yucatecan food: cochinita pibil, papadzules, and lime soup.",
+      "image": "https://images.unsplash.com/photo-1570737209810-87a8e7245f88?w=800&h=600&fit=crop&q=80",
+      "activities": ["Flight to Mérida", "Paseo de Montejo hotel", "Walking tour", "Zócalo and catedral", "Yucatecan dinner"]
+    },
+    {
+      "day": 9,
+      "title": "Chichén Itzá",
+      "location": "Chichén Itzá / Valladolid",
+      "description": "Early departure for Chichén Itzá—one of the New Seven Wonders of the World. The Pyramid of Kukulcán is breathtaking, but the entire site is extraordinary: the ball court, temple of warriors, cenote. Continue to charming Valladolid for lunch and cenote swimming. Return to Mérida or overnight in Valladolid.",
+      "image": "https://images.unsplash.com/photo-1518105779142-d975f22f1b0a?w=800&h=600&fit=crop&q=80",
+      "activities": ["Early departure", "Chichén Itzá exploration", "El Castillo pyramid", "Ball court and temples", "Transfer to Valladolid", "Lunch and cenote", "Evening"]
+    },
+    {
+      "day": 10,
+      "title": "Transfer to Riviera Maya",
+      "location": "Riviera Maya",
+      "description": "Drive to the Caribbean coast. Stop at lesser-visited Ek Balam ruins—climb to the top of the main pyramid for views you won't get at Chichén Itzá. Continue to your beachfront hotel in Tulum or Playa del Carmen. Afternoon on the Caribbean, evening dinner with ocean views.",
+      "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&h=600&fit=crop&q=80",
+      "activities": ["Depart Mérida/Valladolid", "Ek Balam ruins", "Pyramid climb", "Drive to coast", "Beach hotel check-in", "Caribbean swim", "Beachfront dinner"]
+    },
+    {
+      "day": 11,
+      "title": "Tulum Ruins & Cenotes",
+      "location": "Riviera Maya",
+      "description": "Morning at Tulum ruins—the only Mayan city built on a cliff overlooking the Caribbean. Swim in the cove below the temples. Afternoon cenote hopping: Gran Cenote, Cenote Calavera, or Cenote Dos Ojos. These underground swimming holes are unique to this region. Evening in Tulum's bohemian beach zone.",
+      "image": "https://images.unsplash.com/photo-1504730655501-24c39ac53f0e?w=800&h=600&fit=crop&q=80",
+      "activities": ["Tulum ruins at opening", "Beach swim below ruins", "Cenote visits", "Gran Cenote or Dos Ojos", "Afternoon beach time", "Tulum town dinner"]
+    },
+    {
+      "day": 12,
+      "title": "Caribbean Beach Day",
+      "location": "Riviera Maya",
+      "description": "Pure relaxation. Claim your beach spot and do nothing—or everything. Options: snorkel the reef, paddleboard, take a boat to Cozumel for world-class diving, or simply read a book with your feet in the sand. This is your day. Evening dinner at one of Tulum's legendary restaurants: Hartwood, Arca, or a beach club.",
+      "image": "https://images.unsplash.com/photo-1510414842594-a61c69b5ae57?w=800&h=600&fit=crop&q=80",
+      "activities": ["Beach day", "Optional snorkeling or diving", "Optional Cozumel day trip", "Caribbean relaxation", "Sunset watching", "Special dinner"]
+    },
+    {
+      "day": 13,
+      "title": "Fly to Puerto Vallarta",
+      "location": "Puerto Vallarta",
+      "description": "Fly from Cancún to Puerto Vallarta via Mexico City—from Caribbean to Pacific. Puerto Vallarta combines a charming old town, beautiful beaches, and the dramatic Sierra Madre mountains. Check into your hotel in the Romantic Zone. Evening malecón (boardwalk) walk, street performers, and Pacific sunset.",
+      "image": "https://images.unsplash.com/photo-1512100356356-de1b84283e18?w=800&h=600&fit=crop&q=80",
+      "activities": ["Flight to Puerto Vallarta", "Romantic Zone hotel", "Orientation walk", "Malecón boardwalk", "Pacific sunset", "Dinner in town"]
+    },
+    {
+      "day": 14,
+      "title": "Puerto Vallarta Exploration",
+      "location": "Puerto Vallarta",
+      "description": "Morning exploring the Romantic Zone and old town: Our Lady of Guadalupe church, charming streets, local markets. Take a boat to secluded beaches—Yelapa or Las Ánimas—accessible only by water. Swim, have lunch on the sand, return for sunset drinks at a rooftop bar overlooking the bay.",
+      "image": "https://images.unsplash.com/photo-1519046904884-53103b34b206?w=800&h=600&fit=crop&q=80",
+      "activities": ["Old town walking tour", "Church and markets", "Boat to hidden beach", "Beach lunch and swimming", "Return to PV", "Rooftop sunset drinks", "Dinner"]
+    },
+    {
+      "day": 15,
+      "title": "Sayulita Day Trip",
+      "location": "Sayulita",
+      "description": "Day trip to Sayulita—a surfing village 45 minutes north. Colorful streets, surf culture, excellent restaurants, and a laid-back vibe different from Vallarta. Try surfing if you haven't; browse the boutiques if you have. Lunch of fish tacos, return to Vallarta for your final Pacific evening.",
+      "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&h=600&fit=crop&q=80",
+      "activities": ["Drive to Sayulita", "Beach and town exploration", "Optional surfing lesson", "Fish taco lunch", "Shopping and wandering", "Return to PV", "Final Pacific dinner"]
+    },
+    {
+      "day": 16,
+      "title": "Fly to San Miguel de Allende",
+      "location": "San Miguel de Allende",
+      "description": "Fly from Puerto Vallarta to León/Guanajuato, then transfer to San Miguel de Allende. This colonial gem in the highlands is Mexico's most beautiful small city: cobblestone streets, pink Parroquia church, rooftop terraces, and a vibrant art scene. Evening walk to the jardin, dinner in a colonial courtyard.",
+      "image": "https://images.unsplash.com/photo-1570737209810-87a8e7245f88?w=800&h=600&fit=crop&q=80",
+      "activities": ["Flight to León", "Transfer to San Miguel", "Boutique hotel check-in", "Walking orientation", "Parroquia at sunset", "Courtyard dinner"]
+    },
+    {
+      "day": 17,
+      "title": "San Miguel Art & Culture",
+      "location": "San Miguel de Allende",
+      "description": "Full day in San Miguel. Morning at Fábrica La Aurora—a converted textile factory now housing dozens of art galleries. Lunch at a rooftop restaurant with church views. Afternoon exploring: Instituto Allende, charming streets, artisan shops. Evening wine tasting (nearby wineries) or rooftop dinner.",
+      "image": "https://images.unsplash.com/photo-1560179707-f14e90ef3623?w=800&h=600&fit=crop&q=80",
+      "activities": ["Fábrica La Aurora galleries", "Art browsing", "Rooftop lunch", "Instituto Allende", "Street exploration", "Wine tasting or shopping", "Special dinner"]
+    },
+    {
+      "day": 18,
+      "title": "Guanajuato Day Trip",
+      "location": "Guanajuato",
+      "description": "Day trip to nearby Guanajuato City—a colonial fever dream of colorful buildings cascading down hillsides, underground streets in old riverbeds, and mariachi-filled plazas. Visit the Mummy Museum (peculiar local attraction), Teatro Juárez, and Diego Rivera's birthplace. Return to San Miguel for final evening.",
+      "image": "https://images.unsplash.com/photo-1570737209810-87a8e7245f88?w=800&h=600&fit=crop&q=80",
+      "activities": ["Drive to Guanajuato", "City walking tour", "Underground streets", "Mummy Museum (optional)", "Teatro Juárez", "Lunch in jardin", "Return to San Miguel", "Farewell dinner"]
+    },
+    {
+      "day": 19,
+      "title": "Return to Mexico City",
+      "location": "Mexico City",
+      "description": "Transfer or fly back to Mexico City. Afternoon at leisure: revisit favorite neighborhoods, explore Polanco's upscale shopping and dining, or discover something new. Treat yourself to a spa treatment. Evening: final Mexico City dinner at a restaurant that captured your heart earlier—or somewhere entirely new.",
+      "image": "https://images.unsplash.com/photo-1518659526054-e5baae2caef4?w=800&h=600&fit=crop&q=80",
+      "activities": ["Transfer to Mexico City", "Roma/Polanco hotel", "Afternoon exploration", "Shopping or spa", "Final dinner in CDMX"]
+    },
+    {
+      "day": 20,
+      "title": "Final Mexico City Day",
+      "location": "Mexico City",
+      "description": "Your last full day. Revisit favorites or check off anything missed: Chapultepec Castle, Soumaya Museum, another taco crawl, or simply café-hopping in Roma. Buy souvenirs: mezcal, folk art, chocolate. Final sunset from a rooftop bar. Farewell dinner—perhaps back to where the journey began.",
+      "image": "https://images.unsplash.com/photo-1560179707-f14e90ef3623?w=800&h=600&fit=crop&q=80",
+      "activities": ["Morning at leisure", "Final sightseeing", "Souvenir shopping", "Lunch at favorite spot", "Afternoon wandering", "Rooftop sunset", "Farewell dinner"]
+    },
+    {
+      "day": 21,
+      "title": "Departure",
+      "location": "Mexico City",
+      "description": "21 days, countless memories. From ancient pyramids to colonial churches, Caribbean cenotes to Pacific beaches, mole to mezcal—you've experienced Mexico in depth. Head to the airport knowing you've only scratched the surface. Mexico will call you back.",
+      "image": "https://images.unsplash.com/photo-1518659526054-e5baae2caef4?w=800&h=600&fit=crop&q=80",
+      "activities": ["Final breakfast", "Airport transfer", "Departure"]
+    }
+  ],
+  "practical_info": {
+    "getting_there": "Fly into and out of Mexico City (MEX). Internal flights: CDMX-Oaxaca, Oaxaca-Mérida, Cancún-Puerto Vallarta, Puerto Vallarta-León. Book internal flights on Volaris or VivaAerobus for best prices. Some segments can be by bus if preferred.",
+    "getting_around": "Internal flights for major segments. Taxis, Uber, and walking within cities. Arranged transfers or rental car in Yucatán. San Miguel-Guanajuato by taxi or tour.",
+    "what_to_pack": ["Layers for highland cities", "Beach/swim gear", "Comfortable walking shoes", "Nicer clothes for fine dining", "Rain jacket (varies by season)", "Camera with good low-light capability"]
+  },
+  "faqs": [
+    {
+      "question": "Is 21 days enough to see all of Mexico?",
+      "answer": "Not even close—Mexico is vast and diverse. But 21 days allows meaningful experiences in the most iconic regions: Central Mexico, Oaxaca, the Yucatán, and the Pacific coast. You'll have a comprehensive introduction that will inspire return trips to explore deeper."
+    },
+    {
+      "question": "Can I shorten this itinerary?",
+      "answer": "Absolutely. Drop Puerto Vallarta for 18 days, or drop Oaxaca for 16 days, or do Mexico City + Yucatán in 14 days. Each region could also be expanded into its own focused trip."
+    },
+    {
+      "question": "What's the best time of year for this trip?",
+      "answer": "October to April offers the best overall conditions. The Yucatán and Pacific coast are hot and humid in summer. Highland cities (CDMX, Oaxaca, San Miguel) are pleasant year-round but can be cold in winter. Rainy season (June-October) brings afternoon showers but also green landscapes."
+    },
+    {
+      "question": "How much internal flying is required?",
+      "answer": "This itinerary includes 5-6 internal flights. You could reduce flights by taking overnight buses (CDMX-Oaxaca is a popular route), but this adds time. Mexican buses are excellent—first-class buses rival flying for comfort on some routes."
+    }
+  ],
+  "related_itineraries": ["mexico-city-5-days", "oaxaca-culture-food-7-days", "mayan-ruins-10-days", "pacific-coast-10-days"],
+  "tags": ["grand-tour", "multi-destination", "comprehensive", "cultural", "beach", "ruins", "colonial", "food"]
+}

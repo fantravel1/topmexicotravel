@@ -1,0 +1,236 @@
+{
+  "id": "wellness-mexico-8-days",
+  "slug": "wellness-mexico-8-days",
+  "title": "Wellness & Spiritual Mexico - 8 Days",
+  "subtitle": "Cenotes, Yoga, Temazcal Ceremonies & Mindful Retreat",
+  "duration": "8 Days",
+  "meta_title": "Mexico Wellness Retreat 8-Day Itinerary - Yoga & Spa Guide 2025",
+  "meta_description": "The ultimate 8-day Mexico wellness retreat: Tulum yoga, cenote healing, temazcal ceremonies, spa treatments, plant medicine preparation, and mindful travel through the Riviera Maya.",
+  "hero_image": "https://images.unsplash.com/photo-1506953823976-52e1fdc0149a?w=1920&h=1080&fit=crop&q=80",
+  "hero_alt": "Serene cenote surrounded by jungle for meditation and swimming",
+  "og_image": "https://images.unsplash.com/photo-1506953823976-52e1fdc0149a?w=1200&h=630&fit=crop&q=80",
+  "introduction": "Mexico has become a global wellness destination, blending ancient Mayan healing traditions with modern yoga and spa culture. This 8-day journey focuses on renewal: yoga overlooking the Caribbean, purifying temazcal ceremonies, healing cenote swims, spa treatments using local ingredients, and time for reflection in magical settings.",
+  "best_for": ["Wellness seekers", "Yoga practitioners", "Spiritual travelers", "Those needing reset", "Mindful travelers"],
+  "estimated_budget": {
+    "budget": "$1,500-2,500 USD per person",
+    "mid_range": "$3,500-5,500 USD per person",
+    "luxury": "$8,000+ USD per person"
+  },
+  "best_time": "November to April for best weather; full moon ceremonies are special",
+  "destinations": ["Tulum", "Bacalar", "Valladolid"],
+  "highlights": [
+    "Daily yoga with jungle and ocean views",
+    "Traditional temazcal sweat lodge ceremony",
+    "Sacred cenote swims and meditation",
+    "Jungle spa treatments with local ingredients",
+    "Sound healing and cacao ceremonies",
+    "Digital detox in nature",
+    "Float in Bacalar's seven-color lagoon",
+    "Learn about Mayan healing traditions"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Arrival & Grounding",
+      "location": "Cancún Airport → Tulum",
+      "description": "Arrive and transfer to Tulum, letting go of travel stress. Check into your wellness-focused accommodation, take a gentle yoga class, and set intentions for your retreat.",
+      "image": "https://images.unsplash.com/photo-1518105779142-d975f22f1b0a?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Mindful airport transfer to Tulum (2 hours)",
+        "Check into wellness hotel or retreat center",
+        "Light healthy lunch at hotel",
+        "Afternoon: Settling yoga or restorative session",
+        "Beach walk for grounding after travel",
+        "Intention-setting meditation",
+        "Light dinner and early rest"
+      ],
+      "accommodation": {
+        "budget": "Yoga hostels like Mayan Monkey ($50-80)",
+        "mid_range": "Sanará Tulum or Nomade ($350-500)",
+        "luxury": "Azulik or Habitas Tulum ($600+)"
+      },
+      "tips": ["Request early check-in if possible", "Eat light after traveling", "Phone on airplane mode—start your digital detox"]
+    },
+    {
+      "day": 2,
+      "title": "Yoga & Cenote Healing",
+      "location": "Tulum",
+      "description": "Begin your wellness journey with morning yoga, then visit sacred cenotes—the ancient Maya believed these were portals to the underworld. The mineral-rich waters are deeply healing.",
+      "image": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Sunrise yoga class (vinyasa or hatha)",
+        "Healthy breakfast: smoothie bowl, fresh fruit",
+        "Mid-morning: Cenote swim at Gran Cenote",
+        "Floating meditation in cenote waters",
+        "Light lunch at Tulum town organic café",
+        "Afternoon: Spa treatment (jungle massage or wrap)",
+        "Evening: Restorative yoga or yin",
+        "Farm-to-table dinner at Arca or Hartwood"
+      ],
+      "accommodation": {
+        "budget": "Same as Day 1",
+        "mid_range": "Same as Day 1",
+        "luxury": "Same as Day 1"
+      },
+      "tips": ["Cenotes are sacred—approach with respect", "Silence enhances the experience", "No sunscreen in cenotes (required for ecosystem)"]
+    },
+    {
+      "day": 3,
+      "title": "Temazcal Ceremony",
+      "location": "Tulum",
+      "description": "Experience a traditional temazcal (Mayan sweat lodge ceremony). Led by a shaman, this ancient purification ritual uses steam, herbs, and intention to cleanse body and spirit.",
+      "image": "https://images.unsplash.com/photo-1506953823976-52e1fdc0149a?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Light morning yoga (preparation for ceremony)",
+        "Light breakfast—avoid heavy food before temazcal",
+        "Afternoon: Traditional temazcal ceremony (2-3 hours)",
+        "Guidance from Mayan shaman or healer",
+        "Post-ceremony: Cool down swim or rest",
+        "Integration time and journaling",
+        "Evening: Light dinner and reflection"
+      ],
+      "accommodation": {
+        "budget": "Same as Day 1",
+        "mid_range": "Same as Day 1",
+        "luxury": "Same as Day 1"
+      },
+      "tips": ["Drink lots of water before and after", "Wear minimal, comfortable clothing", "The intensity is adjustable—communicate with the guide", "This can be emotionally powerful—allow space for processing"]
+    },
+    {
+      "day": 4,
+      "title": "Beach & Breathwork",
+      "location": "Tulum Beach Zone",
+      "description": "A gentler day focused on the healing power of the ocean. Morning beach yoga, breathwork session, and plenty of time for reading, journaling, or simply being.",
+      "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Sunrise beach yoga or meditation",
+        "Breakfast at beachfront café",
+        "Mid-morning: Breathwork or pranayama class",
+        "Free time for beach, reading, journaling",
+        "Healthy lunch at Raw Love or Flor de Michoacán",
+        "Afternoon: Beach club relaxation (Be Tulum, Papaya Playa)",
+        "Sunset swim and beach walk",
+        "Sound healing session or cacao ceremony"
+      ],
+      "accommodation": {
+        "budget": "Same as Day 1",
+        "mid_range": "Same as Day 1",
+        "luxury": "Same as Day 1"
+      },
+      "tips": ["Tulum beach faces east—sunrise is spectacular", "Full moon nights have special ceremonies", "Leave phone in room for full presence"]
+    },
+    {
+      "day": 5,
+      "title": "Move to Bacalar",
+      "location": "Tulum → Bacalar",
+      "description": "Travel south to Bacalar, home to the 'Lagoon of Seven Colors.' This remote destination offers deep tranquility, healing waters, and time to go inward.",
+      "image": "https://images.unsplash.com/photo-1559827291-72ee739d0d9a?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Morning yoga at hotel",
+        "Mindful drive to Bacalar (2.5 hours)",
+        "Check in to lagoon-view accommodation",
+        "Healthy lunch overlooking the lagoon",
+        "Afternoon: Lagoon swim and paddle",
+        "Sunset meditation at water's edge",
+        "Dinner at local restaurant"
+      ],
+      "accommodation": {
+        "budget": "Hostel with lagoon view ($40-60)",
+        "mid_range": "Hotel Akalki or Rancho Encantado ($200-350)",
+        "luxury": "Casa Buena Suerte ($400+)"
+      },
+      "tips": ["Bacalar is much quieter than Tulum—embrace it", "The lagoon's colors are best mid-morning to afternoon", "Limited restaurants—some hotels have the best food"]
+    },
+    {
+      "day": 6,
+      "title": "Lagoon Healing Day",
+      "location": "Bacalar Lagoon",
+      "description": "A full day devoted to the healing properties of Bacalar's mineral-rich lagoon. Kayak to secret spots, swim in stromatolite gardens, and float in the cenote negro.",
+      "image": "https://images.unsplash.com/photo-1559827291-72ee739d0d9a?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Sunrise yoga at lagoon's edge",
+        "Breakfast with lagoon view",
+        "Morning: Kayak or paddleboard the lagoon",
+        "Visit stromatolites (living fossils) and Canal de los Piratas",
+        "Swim in Cenote Negro (the lagoon's deepest point)",
+        "Picnic lunch on the water or return to hotel",
+        "Afternoon: Mayan clay treatment (lagoon bottom mud)",
+        "Evening: Stargazing (minimal light pollution)"
+      ],
+      "accommodation": {
+        "budget": "Same as Day 5",
+        "mid_range": "Same as Day 5",
+        "luxury": "Same as Day 5"
+      },
+      "tips": ["The lagoon has natural 'stromatolite' formations—don't stand on them", "Bacalar mud is used for natural spa treatments", "Stars are incredible here—spend time looking up"]
+    },
+    {
+      "day": 7,
+      "title": "Return to Tulum & Integration",
+      "location": "Bacalar → Tulum",
+      "description": "Return to Tulum for your final full day. Focus on integration—processing your experiences and preparing to carry the peace home with you.",
+      "image": "https://images.unsplash.com/photo-1518105779142-d975f22f1b0a?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Morning yoga or meditation by the lagoon",
+        "Leisurely breakfast and checkout",
+        "Mindful drive back to Tulum",
+        "Check in to final night accommodation",
+        "Afternoon: Final spa treatment or cenote visit",
+        "Integration journaling and reflection",
+        "Sunset at Tulum beach",
+        "Celebratory final dinner at favorite spot"
+      ],
+      "accommodation": {
+        "budget": "Same as Day 1",
+        "mid_range": "Same as Day 1",
+        "luxury": "Same as Day 1"
+      },
+      "tips": ["Plan how to maintain practices at home", "Write down key insights before they fade", "Exchange contacts with any new friends"]
+    },
+    {
+      "day": 8,
+      "title": "Gentle Departure",
+      "location": "Tulum → Cancún Airport",
+      "description": "A mindful departure day. Final morning practice, healthy breakfast, and peaceful transfer to the airport.",
+      "image": "https://images.unsplash.com/photo-1502781252888-9143ba7f074e?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Early morning yoga or meditation",
+        "Healthy breakfast",
+        "Packing and checkout",
+        "Mindful airport transfer (2 hours)",
+        "Carry your calm into travel day"
+      ],
+      "accommodation": {
+        "budget": "N/A (departure day)",
+        "mid_range": "N/A (departure day)",
+        "luxury": "N/A (departure day)"
+      },
+      "tips": ["Keep phone off until necessary", "Eat lightly before flying", "Maintain your peace through airport stress"]
+    }
+  ],
+  "practical_info": {
+    "getting_there": "Fly into Cancún International Airport (CUN). Pre-arrange mindful transfer to Tulum (avoid rushed shuttles).",
+    "getting_around": "Private transfers between destinations (arrange through hotels). Biking in Tulum. Kayaking in Bacalar.",
+    "what_to_pack": ["Comfortable yoga clothes", "Light layers for ceremonies", "Journal and pen", "Minimal electronics", "Reef-safe sunscreen", "Water bottle", "Comfortable walking sandals"]
+  },
+  "faqs": [
+    {
+      "question": "Do I need yoga experience?",
+      "answer": "No. Classes range from beginner to advanced. Most wellness hotels offer multiple daily classes at different levels. Instructors are trained to accommodate all abilities."
+    },
+    {
+      "question": "What about plant medicine ceremonies?",
+      "answer": "This itinerary doesn't include ayahuasca or similar ceremonies, but they are available in the region. Research carefully, ensure proper facilitation, and consult medical professionals. Cacao ceremonies are a gentler introduction to ceremonial work."
+    },
+    {
+      "question": "Is this appropriate for solo travelers?",
+      "answer": "Absolutely. Wellness travel is perfect for solo journeys—you'll meet like-minded travelers in classes and at meals. Many come alone and leave with new friends and deeper self-connection."
+    },
+    {
+      "question": "What if I need digital access for work?",
+      "answer": "WiFi is available but often intentionally limited at wellness properties. Many people do hybrid trips—full disconnect for some days, checking in briefly on others. Be honest about your needs when choosing accommodation."
+    }
+  ],
+  "related_itineraries": ["riviera-maya-complete-8-days", "romantic-mexico-10-days"],
+  "tags": ["wellness", "yoga", "spiritual", "healing", "cenotes", "retreat", "mindfulness", "spa"]
+}

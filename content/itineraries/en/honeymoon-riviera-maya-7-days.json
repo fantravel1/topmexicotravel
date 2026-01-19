@@ -1,0 +1,201 @@
+{
+  "id": "honeymoon-riviera-maya-7-days",
+  "slug": "honeymoon-riviera-maya-7-days",
+  "title": "7-Day Riviera Maya All-Inclusive Honeymoon",
+  "subtitle": "Caribbean Luxury, Cenote Romance & Mayan Magic",
+  "duration": "7 Days",
+  "meta_title": "Riviera Maya Honeymoon Itinerary 2025 - 7 Days of All-Inclusive Romance",
+  "meta_description": "Plan the perfect Riviera Maya honeymoon: 7 days at adults-only all-inclusive resorts, private cenote experiences, and romantic adventures in the Mexican Caribbean.",
+  "hero_image": "https://images.unsplash.com/photo-1540541338287-41700207dee6?w=1920&h=1080&fit=crop&q=80",
+  "hero_alt": "Romantic overwater bungalow in the Riviera Maya at sunset",
+  "og_image": "https://images.unsplash.com/photo-1540541338287-41700207dee6?w=1200&h=630&fit=crop&q=80",
+  "introduction": "The Riviera Maya offers everything honeymooners dream of: turquoise Caribbean waters, adults-only all-inclusive resorts where everything is handled, mystical cenotes for private swims, and ancient Mayan ruins to explore together. This 7-day itinerary balances blissful resort relaxation with just enough adventure to create unforgettable memories.",
+  "best_for": ["Honeymooners", "Newlyweds", "Anniversary celebrations", "Couples seeking relaxation"],
+  "estimated_budget": {
+    "budget": "$3,500-5,000 USD per couple",
+    "mid_range": "$6,000-9,000 USD per couple",
+    "luxury": "$12,000-20,000 USD per couple"
+  },
+  "best_time": "November to April for ideal weather; May-June for best resort deals",
+  "destinations": ["Riviera Maya", "Tulum", "Playa del Carmen"],
+  "highlights": [
+    "Private swim-out suite at adults-only resort",
+    "Sunrise cenote experience with champagne",
+    "Couples Mayan spa ritual",
+    "Private dinner on the beach",
+    "Tulum ruins at dawn, no crowds",
+    "Sunset catamaran cruise"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Arrive in Paradise",
+      "location": "Riviera Maya Resort",
+      "description": "Land at Cancún airport and transfer to your adults-only all-inclusive resort (45-60 minutes). Your honeymoon begins the moment you arrive: champagne welcome, room decorated with rose petals, and the Caribbean stretching before you. Spend the afternoon at your private swim-out pool or on the beach. First sunset as newlyweds on Mexican soil, followed by dinner at the resort's finest restaurant.",
+      "image": "https://images.unsplash.com/photo-1582719508461-905c673771fd?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Private airport transfer with champagne",
+        "Resort check-in with honeymoon welcome",
+        "Settle into swim-out suite",
+        "First Caribbean swim together",
+        "Sunset cocktails on the beach",
+        "Romantic dinner at signature restaurant"
+      ],
+      "accommodation": {
+        "budget": "Dreams Riviera Cancún ($400-600)",
+        "mid_range": "Secrets Maroma Beach ($700-1,000)",
+        "luxury": "Excellence Playa Mujeres - Excellence Club ($1,200-1,800)"
+      },
+      "tips": ["Book honeymoon package for extras: room upgrade, dinner credit, spa treatment", "Request swim-out or oceanfront suite for maximum romance", "Let resort know it's your honeymoon—multiple times"]
+    },
+    {
+      "day": 2,
+      "title": "Resort Bliss",
+      "location": "Riviera Maya Resort",
+      "description": "Your first full day: no agenda except each other. Wake up naturally, have breakfast in bed (24-hour room service is your friend), then claim your beach beds. Alternate between pool and ocean as the mood strikes. Book a couples massage at the spa for late afternoon. Watch the sunset from your private balcony, then dress up for the French restaurant. This is honeymoon mode.",
+      "image": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Late breakfast in suite",
+        "Morning pool lounge",
+        "Beach afternoon with service",
+        "Couples massage at spa",
+        "Sunset from private balcony",
+        "French fine dining dinner"
+      ],
+      "accommodation": {
+        "budget": "Dreams Riviera Cancún ($400-600)",
+        "mid_range": "Secrets Maroma Beach ($700-1,000)",
+        "luxury": "Excellence Playa Mujeres - Excellence Club ($1,200-1,800)"
+      },
+      "tips": ["Book spa treatments for late afternoon—skin stays hydrated for evening", "Make dinner reservations at check-in for best times", "Ask about private beach dinner setup for one evening"]
+    },
+    {
+      "day": 3,
+      "title": "Private Cenote Experience",
+      "location": "Cenotes & Resort",
+      "description": "Early morning private cenote adventure—your concierge can arrange access to a cenote before public hours. Swim in sacred underground waters as sunlight streams through the jungle canopy, just the two of you. Return to resort for lunch, then afternoon at the spa with traditional Mayan treatments: temazcal ceremony, honey body wrap, and relaxation in the hydrotherapy circuit. Casual dinner at the beach grill.",
+      "image": "https://images.unsplash.com/photo-1504730655501-24c39ac53f0e?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Early departure for private cenote",
+        "Champagne sunrise at cenote",
+        "Private swimming and photos",
+        "Return to resort for lunch",
+        "Couples Mayan spa journey",
+        "Temazcal ceremony together",
+        "Beachfront dinner"
+      ],
+      "accommodation": {
+        "budget": "Dreams Riviera Cancún ($400-600)",
+        "mid_range": "Secrets Maroma Beach ($700-1,000)",
+        "luxury": "Excellence Playa Mujeres - Excellence Club ($1,200-1,800)"
+      },
+      "tips": ["Cenote Ik Kil, Cenote Suytun, or Cenote Azul offer private access", "Book temazcal together—deeply spiritual and romantic", "Bring waterproof camera for cenote photos"]
+    },
+    {
+      "day": 4,
+      "title": "Tulum Ruins at Dawn",
+      "location": "Tulum & Resort",
+      "description": "Leave resort at 7am for Tulum—arrive at 8am opening when it's cool and empty. Walk the clifftop ruins hand-in-hand, overlooking the Caribbean with no crowds. Swim in the turquoise cove below the temples. Continue to Tulum town for brunch at a bohemian café, browse the boutiques on the beach road, then return to your resort for afternoon relaxation. Tonight: the private beach dinner you've been anticipating.",
+      "image": "https://images.unsplash.com/photo-1518105779142-d975f22f1b0a?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Early morning drive to Tulum",
+        "Tulum ruins at opening (8am)",
+        "Beach swim below ruins",
+        "Brunch in Tulum town",
+        "Boutique shopping on beach road",
+        "Return to resort for pool time",
+        "Private beach dinner setup"
+      ],
+      "accommodation": {
+        "budget": "Dreams Riviera Cancún ($400-600)",
+        "mid_range": "Secrets Maroma Beach ($700-1,000)",
+        "luxury": "Excellence Playa Mujeres - Excellence Club ($1,200-1,800)"
+      },
+      "tips": ["8am arrival at Tulum is essential—by 10am it's packed", "Wear comfortable shoes for ruins, bring swimsuit for cove", "Private beach dinners need 24-48 hours notice"]
+    },
+    {
+      "day": 5,
+      "title": "Adventure Day",
+      "location": "Riviera Maya",
+      "description": "Choose your adventure together. Option A: Catamaran sailing to Isla Mujeres—snorkel the reef, lunch on the island, sail back at sunset. Option B: Underground river float at Xcaret or Xel-Há parks—a unique shared experience. Option C: Cozumel day trip for world-class diving. Whatever you choose, end the day with dinner at the resort's Mexican restaurant.",
+      "image": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Morning departure for chosen adventure",
+        "Catamaran sailing OR park adventure OR diving",
+        "Lunch included in excursion",
+        "Snorkeling or diving together",
+        "Return to resort late afternoon",
+        "Mexican cuisine dinner"
+      ],
+      "accommodation": {
+        "budget": "Dreams Riviera Cancún ($400-600)",
+        "mid_range": "Secrets Maroma Beach ($700-1,000)",
+        "luxury": "Excellence Playa Mujeres - Excellence Club ($1,200-1,800)"
+      },
+      "tips": ["Book private catamaran for romantic upgrade over group sail", "Xel-Há all-inclusive day pass works well for couples", "Cozumel diving requires advance booking for best sites"]
+    },
+    {
+      "day": 6,
+      "title": "Playa del Carmen & Final Resort Day",
+      "location": "Playa del Carmen & Resort",
+      "description": "Morning visit to Playa del Carmen's Quinta Avenida—the pedestrian street filled with shops, restaurants, and people-watching. Have lunch at a rooftop restaurant overlooking the beach. Return to your resort by early afternoon for final pool and beach time. This evening: dress your best for the resort's gala dinner, or arrange a special celebration dinner with the chef.",
+      "image": "https://images.unsplash.com/photo-1510414842594-a61c69b5ae57?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Morning shuttle to Playa del Carmen",
+        "Quinta Avenida shopping",
+        "Rooftop lunch with ocean views",
+        "Return to resort",
+        "Final pool and beach afternoon",
+        "Spa treatment or relaxation",
+        "Celebration dinner"
+      ],
+      "accommodation": {
+        "budget": "Dreams Riviera Cancún ($400-600)",
+        "mid_range": "Secrets Maroma Beach ($700-1,000)",
+        "luxury": "Excellence Playa Mujeres - Excellence Club ($1,200-1,800)"
+      },
+      "tips": ["Playa del Carmen has better shopping than resort gift shops", "Ask for chef's table or special menu for final night", "Take sunset photos on last full evening"]
+    },
+    {
+      "day": 7,
+      "title": "Departure",
+      "location": "Cancún Airport",
+      "description": "Final morning in paradise. Watch the sunrise together one last time—walk the beach, swim in your private pool, savor breakfast slowly. Late checkout if available (honeymoons often get this perk). Transfer to Cancún airport full of memories, tanned skin, and plans for your next trip to Mexico.",
+      "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Sunrise beach walk",
+        "Final swim",
+        "Late breakfast",
+        "Pack and checkout",
+        "Airport transfer",
+        "Duty-free shopping for souvenirs"
+      ],
+      "tips": ["Request late checkout when booking—often complimentary for honeymoons", "Cancún airport duty-free has excellent tequila/mezcal", "Keep swimsuits accessible for final morning swim"]
+    }
+  ],
+  "practical_info": {
+    "getting_there": "Fly into Cancún International Airport (CUN). Most resorts offer airport transfers included in honeymoon packages or for ~$100-150 round trip. The Riviera Maya stretches from Cancún south to Tulum—travel time to resort varies from 20 minutes to 2 hours.",
+    "getting_around": "You won't need transportation most days—that's the all-inclusive advantage. For excursions, use resort-arranged tours or private drivers. Taxis and Uber work for Playa del Carmen visits.",
+    "what_to_pack": ["Resort evening wear for dinners", "Swimwear (multiple)", "Reef-safe sunscreen", "Waterproof phone case for cenotes", "Comfortable shoes for ruins", "Light cover-ups for restaurants"]
+  },
+  "faqs": [
+    {
+      "question": "Which all-inclusive resort is best for honeymoons?",
+      "answer": "For romantic atmosphere: Secrets Maroma Beach has the best beach. For suite quality: Excellence Playa Mujeres with Excellence Club. For value: Dreams Riviera Cancún offers Unlimited-Luxury at lower prices. For ultimate luxury: UNICO 20°87° or Rosewood Mayakoba. All cater beautifully to honeymooners."
+    },
+    {
+      "question": "Do we need to leave the resort at all?",
+      "answer": "No—you could spend all 7 days at the resort and have a wonderful honeymoon. The excursions (cenote, Tulum, Playa del Carmen) add variety and memories, but they're optional. Many honeymooners prefer maximum resort time."
+    },
+    {
+      "question": "Is it better to book through the resort or a travel agent?",
+      "answer": "Travel agents specializing in honeymoons (especially Virtuoso agents) often get extras: room upgrades, resort credits, special amenities. They also handle any issues. For luxury properties, agent booking almost always adds value. For moderate resorts, direct booking with honeymoon package often works fine."
+    },
+    {
+      "question": "Should we get travel insurance for our honeymoon?",
+      "answer": "Absolutely yes. You've just spent significant money on a wedding; protecting your honeymoon investment is wise. Look for policies covering trip cancellation, medical emergencies, and flight delays. Cancel For Any Reason (CFAR) policies offer maximum flexibility."
+    }
+  ],
+  "related_itineraries": ["romantic-mexico-10-days", "beach-hopping-12-days"],
+  "tags": ["honeymoon", "all-inclusive", "romance", "couples", "beach", "riviera-maya", "spa", "cenotes"]
+}

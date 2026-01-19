@@ -1,0 +1,393 @@
+{
+  "id": "riviera-maya",
+  "name": "Riviera Maya",
+  "slug": "riviera-maya",
+  "state": "Quintana Roo",
+  "country": "Mexico",
+  "type": "beach",
+  "lang": "en",
+  "coordinates": {
+    "latitude": 20.5000,
+    "longitude": -87.4000
+  },
+  "meta_title": "Riviera Maya Travel Guide 2025 - Beaches, Cenotes & Ruins | Top Mexico Travel",
+  "meta_description": "Complete Riviera Maya guide: pristine Caribbean beaches, ancient cenotes, Mayan ruins, eco-parks, and all-inclusive resorts. Your ultimate Mexican Caribbean vacation awaits.",
+  "og_image": "https://images.unsplash.com/photo-1502781252888-9143ba7f074e?w=1200&h=630&fit=crop&q=80",
+  "og_image_alt": "Turquoise Caribbean waters along the Riviera Maya coastline",
+  "canonical_url": "https://topmexicotravel.com/en/riviera-maya/",
+  "hero_image": "https://images.unsplash.com/photo-1502781252888-9143ba7f074e?w=1920&h=1080&fit=crop&q=80",
+  "hero_image_alt": "Beautiful Riviera Maya beach with crystal clear Caribbean waters",
+  "tagline": "Mexico's Caribbean paradise — 100 miles of pristine beaches, ancient cenotes, and Mayan wonders",
+  "featured_snippet_intro": "The Riviera Maya stretches 100 miles along Mexico's Caribbean coast from Cancún to Tulum, offering pristine white-sand beaches, mysterious cenotes, world-class diving, ancient Mayan ruins, and everything from all-inclusive luxury to bohemian beach towns.",
+  "introduction": "<p>The Riviera Maya is Mexico's most celebrated beach destination, a 100-mile stretch of Caribbean coastline that encompasses everything from the party atmosphere of Cancún to the bohemian vibes of Tulum. This is where ancient Mayan civilization meets modern resort luxury, where you can swim in underground cenotes in the morning and explore pyramid ruins in the afternoon.</p><p>What makes the Riviera Maya unique is its extraordinary diversity. The world's second-largest barrier reef lies just offshore, offering some of the planet's best snorkeling and diving. Thousands of cenotes—natural sinkholes filled with crystal-clear water—dot the jungle landscape, connected by the world's largest underwater cave system. And the legacy of the ancient Maya is everywhere, from the clifftop ruins of Tulum to the grand city of Cobá deep in the jungle.</p><p>Whether you're seeking an all-inclusive family resort, a romantic adults-only escape, adventure activities, or authentic Mexican culture, the Riviera Maya delivers. The region has something for every traveler and every budget, making it Mexico's most versatile vacation destination.</p>",
+  "best_time_to_visit": "December - April",
+  "average_temperature": "28°C / 82°F",
+  "known_for": "Beaches, Cenotes & Mayan Ruins",
+  "airport_code": "CUN",
+  "rating": "4.8",
+  "review_count": "12450",
+  "tourist_types_json": "[\"Beach Lover\", \"Adventure Seeker\", \"History Buff\", \"Family Traveler\", \"Honeymooner\"]",
+
+  "attractions": [
+    {
+      "name": "Cenote Dos Ojos",
+      "type": "Natural Wonder",
+      "description": "One of the world's most spectacular cenotes with two interconnected caverns. Crystal-clear water, stunning stalactites, and excellent snorkeling and diving in an underwater cave system.",
+      "image": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&h=600&fit=crop&q=80",
+      "duration": "2-3 hours",
+      "price": "$15-30 USD",
+      "tip": "Arrive early for the best light entering the caverns. Bring underwater camera.",
+      "coordinates": {"lat": 20.3261, "lng": -87.3928}
+    },
+    {
+      "name": "Xcaret Eco Park",
+      "type": "Eco-Park",
+      "description": "Mexico's most famous eco-archaeological park combining Mayan ruins, underground rivers, wildlife sanctuary, and spectacular evening shows. A full-day experience.",
+      "image": "https://images.unsplash.com/photo-1552074284-5e88ef1aef18?w=800&h=600&fit=crop&q=80",
+      "duration": "Full day",
+      "price": "$110-180 USD",
+      "tip": "Book online in advance for best prices. Stay for the evening show—it's incredible.",
+      "coordinates": {"lat": 20.5806, "lng": -87.1183}
+    },
+    {
+      "name": "Cobá Archaeological Zone",
+      "type": "Archaeological Site",
+      "description": "Ancient Mayan city deep in the jungle with the tallest pyramid in the Yucatán Peninsula. Unlike most ruins, you can still climb to the top for breathtaking jungle views.",
+      "image": "https://images.unsplash.com/photo-1518105779142-d975f22f1b0a?w=800&h=600&fit=crop&q=80",
+      "duration": "3-4 hours",
+      "price": "$5 USD",
+      "tip": "Rent a bicycle to explore the vast site. Arrive at opening to beat tour groups and heat.",
+      "coordinates": {"lat": 20.4944, "lng": -87.7361}
+    },
+    {
+      "name": "Akumal Bay",
+      "type": "Beach/Wildlife",
+      "description": "Famous for swimming with wild sea turtles in their natural habitat. This protected bay offers gentle waters and regular turtle sightings year-round.",
+      "image": "https://images.unsplash.com/photo-1559827291-72ee739d0d9a?w=800&h=600&fit=crop&q=80",
+      "duration": "2-3 hours",
+      "price": "Free (gear rental extra)",
+      "tip": "Best chances early morning. Book a guided tour for guaranteed turtle spots and reef-safe gear.",
+      "coordinates": {"lat": 20.3958, "lng": -87.3128}
+    },
+    {
+      "name": "Xel-Há All-Inclusive Park",
+      "type": "Eco-Park",
+      "description": "Natural aquarium and all-inclusive eco-park where a river meets the sea. Unlimited snorkeling, food, drinks, and activities in a stunning natural inlet.",
+      "image": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&h=600&fit=crop&q=80",
+      "duration": "Full day",
+      "price": "$100-150 USD",
+      "tip": "Snorkel the river from top to bottom—the journey takes about 45 minutes.",
+      "coordinates": {"lat": 20.3172, "lng": -87.3572}
+    },
+    {
+      "name": "Gran Cenote",
+      "type": "Natural Wonder",
+      "description": "Picture-perfect cenote near Tulum with crystal-clear water, turtles, and cavern swimming. One of the most photographed cenotes in Mexico.",
+      "image": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&h=600&fit=crop&q=80",
+      "duration": "2-3 hours",
+      "price": "$10 USD",
+      "tip": "Visit at opening (8am) for the best light and fewer crowds. Turtles are most active in morning.",
+      "coordinates": {"lat": 20.2467, "lng": -87.4650}
+    },
+    {
+      "name": "Puerto Morelos Reef",
+      "type": "Marine Reserve",
+      "description": "Part of the Mesoamerican Barrier Reef with excellent snorkeling just offshore. A quieter, more authentic alternative to busier beach towns.",
+      "image": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&h=600&fit=crop&q=80",
+      "duration": "Half day",
+      "price": "$30-50 USD tour",
+      "tip": "Take a boat snorkel tour to the best reef sections. The town has great seafood restaurants.",
+      "coordinates": {"lat": 20.8511, "lng": -86.8753}
+    },
+    {
+      "name": "Sian Ka'an Biosphere Reserve",
+      "type": "UNESCO Site",
+      "description": "UNESCO World Heritage site with pristine beaches, mangroves, and ancient Mayan canals. Home to jaguars, manatees, and hundreds of bird species.",
+      "image": "https://images.unsplash.com/photo-1505228395891-9a51e7e86bf6?w=800&h=600&fit=crop&q=80",
+      "duration": "Full day",
+      "price": "$100-150 USD tour",
+      "tip": "Book a tour that includes the floating canal experience—ancient Maya built these waterways.",
+      "coordinates": {"lat": 19.8000, "lng": -87.5000}
+    },
+    {
+      "name": "Cenote Ik Kil",
+      "type": "Natural Wonder",
+      "description": "Iconic vine-draped cenote near Chichén Itzá. Sacred to the ancient Maya, this dramatic sinkhole drops 85 feet with hanging vines and jungle surroundings.",
+      "image": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&h=600&fit=crop&q=80",
+      "duration": "1-2 hours",
+      "price": "$10 USD",
+      "tip": "Combine with Chichén Itzá visit. Can get crowded midday when tour buses arrive.",
+      "coordinates": {"lat": 20.6619, "lng": -88.5511}
+    },
+    {
+      "name": "5th Avenue Playa del Carmen",
+      "type": "Shopping/Entertainment",
+      "description": "Pedestrian street running parallel to the beach with restaurants, bars, shops, and entertainment. The heart of Playa del Carmen's vibrant scene.",
+      "image": "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?w=800&h=600&fit=crop&q=80",
+      "duration": "2-4 hours",
+      "price": "Free",
+      "tip": "Best at sunset and evening. Wander off 5th Avenue for more authentic restaurants and prices.",
+      "coordinates": {"lat": 20.6274, "lng": -87.0739}
+    }
+  ],
+
+  "neighborhoods": [
+    {
+      "name": "Playa del Carmen",
+      "slug": "playa-del-carmen",
+      "description": "The Riviera Maya's main hub with the famous 5th Avenue, beautiful beach clubs, international restaurants, and vibrant nightlife. Perfect base for exploring the region.",
+      "image": "https://images.unsplash.com/photo-1502781252888-9143ba7f074e?w=800&h=600&fit=crop&q=80",
+      "vibe": "Vibrant, cosmopolitan, lively",
+      "best_for": "Nightlife seekers, foodies, those wanting walkable town",
+      "highlights": ["5th Avenue", "Beach clubs", "Ferry to Cozumel", "Diverse dining"]
+    },
+    {
+      "name": "Tulum Beach Zone",
+      "slug": "tulum-beach",
+      "description": "Bohemian-chic beach strip with boutique hotels, beach clubs, cenotes, and the famous clifftop ruins. The Riviera Maya's most Instagram-worthy destination.",
+      "image": "https://images.unsplash.com/photo-1518105779142-d975f22f1b0a?w=800&h=600&fit=crop&q=80",
+      "vibe": "Bohemian, trendy, wellness-focused",
+      "best_for": "Instagrammers, yoga lovers, boutique hotel seekers",
+      "highlights": ["Beach clubs", "Tulum Ruins", "Cenotes", "Boutique hotels"]
+    },
+    {
+      "name": "Puerto Aventuras",
+      "slug": "puerto-aventuras",
+      "description": "Gated resort community with marina, dolphin experiences, and quiet beaches. Family-friendly with excellent all-inclusive options and water activities.",
+      "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&h=600&fit=crop&q=80",
+      "vibe": "Family-friendly, safe, upscale",
+      "best_for": "Families, those seeking security, marina lovers",
+      "highlights": ["Marina", "Dolphin discovery", "Calm beaches", "Golf"]
+    },
+    {
+      "name": "Akumal",
+      "slug": "akumal",
+      "description": "Laid-back beach town famous for swimming with sea turtles. Less developed than Playa or Tulum with genuine small-town charm and beautiful half-moon bay.",
+      "image": "https://images.unsplash.com/photo-1559827291-72ee739d0d9a?w=800&h=600&fit=crop&q=80",
+      "vibe": "Relaxed, eco-conscious, authentic",
+      "best_for": "Nature lovers, snorkelers, those avoiding crowds",
+      "highlights": ["Sea turtles", "Snorkeling", "Half Moon Bay", "Cenote Yal-Ku"]
+    },
+    {
+      "name": "Puerto Morelos",
+      "slug": "puerto-morelos",
+      "description": "Charming fishing village with leaning lighthouse, excellent reef snorkeling, and authentic Mexican atmosphere. The quietest major town on the Riviera Maya.",
+      "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&h=600&fit=crop&q=80",
+      "vibe": "Authentic, quiet, local",
+      "best_for": "Those seeking authenticity, reef lovers, long-term visitors",
+      "highlights": ["Crooked lighthouse", "Reef snorkeling", "Local restaurants", "Town square"]
+    }
+  ],
+
+  "featured_hotels": [
+    {
+      "name": "Rosewood Mayakoba",
+      "category": "Ultra Luxury",
+      "stars": 5,
+      "price_range": "$1,200+",
+      "description": "Mexico's most exclusive resort set in a private lagoon and jungle reserve. Overwater suites, private plunge pools, and world-class dining.",
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800&h=600&fit=crop&q=80",
+      "features": ["Private lagoons", "Overwater suites", "PGA golf", "Sense Spa"]
+    },
+    {
+      "name": "Grand Velas Riviera Maya",
+      "category": "Luxury All-Inclusive",
+      "stars": 5,
+      "price_range": "$700+",
+      "description": "Award-winning all-inclusive with three distinct ambiances: beach, zen spa, and family. Eight restaurants and premium everything.",
+      "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=800&h=600&fit=crop&q=80",
+      "features": ["Gourmet all-inclusive", "Three ambiances", "Spa", "Butler service"]
+    },
+    {
+      "name": "Secrets Maroma Beach",
+      "category": "Adults-Only All-Inclusive",
+      "stars": 5,
+      "price_range": "$500+",
+      "description": "Romantic adults-only resort on one of the Riviera Maya's most beautiful beaches. Perfect for honeymoons and couples getaways.",
+      "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?w=800&h=600&fit=crop&q=80",
+      "features": ["Maroma Beach", "Unlimited luxury", "Couples spa", "Swim-out suites"]
+    },
+    {
+      "name": "Xcaret Hotel",
+      "category": "All-Inclusive Parks",
+      "stars": 5,
+      "price_range": "$450+",
+      "description": "Unique resort with unlimited access to all Xcaret Group eco-parks. River-style swimming, natural surroundings, and incredible included activities.",
+      "image": "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?w=800&h=600&fit=crop&q=80",
+      "features": ["All parks included", "River swimming", "Nature immersion", "Cultural experiences"]
+    },
+    {
+      "name": "The Fives Beach Hotel",
+      "category": "Mid-Range Luxury",
+      "stars": 4,
+      "price_range": "$200+",
+      "description": "Stylish beachfront resort with residence-style suites, multiple pools, and excellent beach. Great value for the quality.",
+      "image": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=800&h=600&fit=crop&q=80",
+      "features": ["Beachfront", "Residence suites", "Multiple pools", "Good value"]
+    },
+    {
+      "name": "Mia Reef Isla Mujeres",
+      "category": "Budget-Friendly",
+      "stars": 3,
+      "price_range": "$100+",
+      "description": "Affordable all-inclusive option with beautiful beach access. Perfect for budget-conscious travelers wanting the all-inclusive experience.",
+      "image": "https://images.unsplash.com/photo-1564501049412-61c2a3083791?w=800&h=600&fit=crop&q=80",
+      "features": ["All-inclusive", "Beach access", "Activities", "Budget-friendly"]
+    }
+  ],
+
+  "featured_restaurants": [
+    {
+      "name": "Hartwood",
+      "cuisine": "Farm-to-Table Mexican",
+      "price_range": "$$$$",
+      "description": "Iconic Tulum restaurant cooking over open flames with no electricity. Reservations essential. One of Mexico's most celebrated dining experiences.",
+      "image": "https://images.unsplash.com/photo-1544025162-d76694265947?w=800&h=600&fit=crop&q=80",
+      "must_try": ["Daily changing menu", "Wood-fired fish", "Craft cocktails"]
+    },
+    {
+      "name": "La Fisheria Playa del Carmen",
+      "cuisine": "Seafood",
+      "price_range": "$$",
+      "description": "Fresh seafood on 5th Avenue with local catches prepared in traditional and contemporary styles. Excellent ceviches and fish tacos.",
+      "image": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?w=800&h=600&fit=crop&q=80",
+      "must_try": ["Ceviche tasting", "Fish tacos", "Aguachile"]
+    },
+    {
+      "name": "Arca",
+      "cuisine": "Contemporary Mexican",
+      "price_range": "$$$$",
+      "description": "Chef's table experience in Tulum's jungle. Open kitchen, seasonal tasting menus, and innovative techniques with local ingredients.",
+      "image": "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=800&h=600&fit=crop&q=80",
+      "must_try": ["Tasting menu", "Jungle ambiance", "Natural wines"]
+    },
+    {
+      "name": "El Fogón",
+      "cuisine": "Traditional Mexican",
+      "price_range": "$",
+      "description": "Local institution in Playa del Carmen for authentic tacos al pastor and regional specialties. Where locals eat.",
+      "image": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?w=800&h=600&fit=crop&q=80",
+      "must_try": ["Tacos al pastor", "Quesadillas", "Fresh salsas"]
+    },
+    {
+      "name": "Posada Margherita",
+      "cuisine": "Italian-Mexican",
+      "price_range": "$$$",
+      "description": "Beachfront Tulum restaurant with feet in the sand dining. Fresh pasta, seafood, and incredible sunset views.",
+      "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800&h=600&fit=crop&q=80",
+      "must_try": ["Lobster pasta", "Fresh catch", "Sunset cocktails"]
+    },
+    {
+      "name": "La Cueva del Chango",
+      "cuisine": "Breakfast/Brunch",
+      "price_range": "$$",
+      "description": "Magical garden restaurant in Playa del Carmen famous for breakfasts. Organic ingredients, jungle setting, and creative dishes.",
+      "image": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=800&h=600&fit=crop&q=80",
+      "must_try": ["Chilaquiles", "Organic juices", "Huevos motuleños"]
+    }
+  ],
+
+  "day_trips": [
+    {
+      "name": "Chichén Itzá Day Trip",
+      "distance": "150km",
+      "description": "Visit one of the New Seven Wonders of the World. The pyramid of Kukulkán is awe-inspiring. Combine with cenote swim and lunch in Valladolid.",
+      "image": "https://images.unsplash.com/photo-1518105779142-d975f22f1b0a?w=800&h=600&fit=crop&q=80",
+      "tips": "Leave very early to arrive at opening (8am) and beat the crowds and heat. Most tours include cenote stop."
+    },
+    {
+      "name": "Cozumel Island",
+      "distance": "Ferry from Playa",
+      "description": "World-class diving and snorkeling on Mexico's largest Caribbean island. Beautiful reefs, beach clubs, and relaxed island vibes.",
+      "image": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&h=600&fit=crop&q=80",
+      "tips": "Ferry from Playa del Carmen takes 45 minutes. Rent a scooter to explore the island."
+    },
+    {
+      "name": "Cenote Route",
+      "distance": "Various",
+      "description": "Explore multiple cenotes in one day: Dos Ojos for caves, Gran Cenote for turtles, Cenote Azul for families. The Riviera Maya has thousands to choose from.",
+      "image": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&h=600&fit=crop&q=80",
+      "tips": "Rent a car to visit 3-4 cenotes in a day. Bring cash—most cenotes don't take cards."
+    },
+    {
+      "name": "Sian Ka'an Biosphere",
+      "distance": "50km from Tulum",
+      "description": "UNESCO-protected reserve with pristine beaches, ancient Mayan canals, and incredible wildlife. Float through channels the Maya built 1,000 years ago.",
+      "image": "https://images.unsplash.com/photo-1505228395891-9a51e7e86bf6?w=800&h=600&fit=crop&q=80",
+      "tips": "Book a tour—access is restricted and guides know the best spots. Bring binoculars for bird watching."
+    }
+  ],
+
+  "faqs": [
+    {
+      "question": "What's the difference between Cancún and the Riviera Maya?",
+      "answer": "Cancún is a specific city with its famous Hotel Zone on a narrow strip. The Riviera Maya is the 100-mile coastal stretch from Cancún south to Tulum, including Playa del Carmen, Puerto Morelos, Akumal, and Tulum. Cancún has more high-rise resorts and nightlife; the Riviera Maya offers more variety from boutique to all-inclusive, plus easier access to cenotes and ruins."
+    },
+    {
+      "question": "When is the best time to visit the Riviera Maya?",
+      "answer": "December to April offers the best weather with low humidity, minimal rain, and comfortable temperatures. May and November are good shoulder seasons with fewer crowds and good prices. Hurricane season runs June through November, with September and October having the highest risk."
+    },
+    {
+      "question": "How do I get around the Riviera Maya?",
+      "answer": "Colectivos (shared vans) run frequently between towns for $2-5 USD and are safe and efficient. Taxis and Uber work in main towns. Renting a car is best for exploring cenotes and ruins independently. Most all-inclusive guests stay at their resort, but renting a car for a day or two is recommended for exploration."
+    },
+    {
+      "question": "Is the Riviera Maya safe?",
+      "answer": "The tourist corridor is very safe. Millions visit annually without incident. Use normal precautions: don't leave valuables on the beach, use hotel safes, and stick to well-lit areas at night. The entire coast is well-patrolled. Petty theft is the main concern, not violent crime."
+    },
+    {
+      "question": "All-inclusive or independent hotels?",
+      "answer": "All-inclusives are great for families and those wanting zero hassle—everything's covered. Independent hotels (common in Tulum and Playa) offer more flexibility to explore local restaurants and nightlife. Many travelers do a mix: a few nights at an all-inclusive, then move to a boutique hotel."
+    },
+    {
+      "question": "What cenotes should I visit?",
+      "answer": "Gran Cenote near Tulum is perfect for beginners with easy access and turtles. Dos Ojos offers incredible cave snorkeling and diving. Cenote Azul is great for families with shallow areas. Cenote Suytun has dramatic light beams but gets crowded. Rent a car to visit multiple cenotes in a day."
+    },
+    {
+      "question": "Can I see Mayan ruins?",
+      "answer": "Yes! Tulum ruins are the most accessible, perched on cliffs above the beach. Cobá has the tallest climbable pyramid. Chichén Itzá is a day trip but worth it. Lesser-known sites like Ek Balam and Muyil offer ruins without crowds. Most resorts offer guided tours."
+    },
+    {
+      "question": "How many days should I spend?",
+      "answer": "7 days allows time for beaches, 2-3 cenotes, ruins, and relaxation. 10-14 days lets you explore multiple towns along the coast. Even 4-5 days can cover the highlights if you're efficient. For a deep dive into cenotes and ruins, plan 10+ days."
+    },
+    {
+      "question": "Is the water safe to drink?",
+      "answer": "No, don't drink tap water. All hotels provide purified water, and bottled water is cheap everywhere. Ice in restaurants is safe (made from purified water). Most resorts have filtered water dispensers. Avoid swallowing cenote water, though it looks pristine."
+    },
+    {
+      "question": "What about seaweed (sargassum)?",
+      "answer": "Sargassum seaweed has affected Caribbean beaches, especially from May to October. Resorts clean their beaches daily, but conditions vary. Check recent reports before booking. The west-facing beaches of Cozumel and Isla Mujeres are less affected."
+    }
+  ],
+
+  "getting_there": "Cancún International Airport (CUN) is the main gateway, with direct flights from most major US and Canadian cities, plus European destinations. The Riviera Maya stretches from 20 minutes (Puerto Morelos) to 2 hours (Tulum) south of the airport. Most hotels offer airport transfers, or use ADO bus, shared shuttles, or rental cars.",
+  "getting_around": "Colectivo vans run constantly between towns along Highway 307 for $2-5 USD. Taxis work for short trips. Uber operates in Cancún and Playa del Carmen. Rental cars are ideal for cenote-hopping and ruins visits. Most all-inclusive guests don't need transportation unless venturing out.",
+  "safety_info": "The Riviera Maya is one of Mexico's safest tourist areas. Millions visit annually without incident. Use normal precautions: don't leave valuables unattended on beaches, use hotel safes, and be aware of your surroundings at night. The tourist corridor is well-patrolled. Avoid isolated areas after dark.",
+
+  "related_destinations": [
+    {
+      "name": "Cancún",
+      "url": "/en/cancun/",
+      "image": "https://images.unsplash.com/photo-1510097467424-192d713fd8b2?w=400&h=300&fit=crop&q=80"
+    },
+    {
+      "name": "Tulum",
+      "url": "/en/tulum/",
+      "image": "https://images.unsplash.com/photo-1518105779142-d975f22f1b0a?w=400&h=300&fit=crop&q=80"
+    },
+    {
+      "name": "Playa del Carmen",
+      "url": "/en/playa-del-carmen/",
+      "image": "https://images.unsplash.com/photo-1502781252888-9143ba7f074e?w=400&h=300&fit=crop&q=80"
+    },
+    {
+      "name": "Cozumel",
+      "url": "/en/cozumel/",
+      "image": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400&h=300&fit=crop&q=80"
+    }
+  ],
+
+  "tags": ["beach", "cenotes", "ruins", "diving", "all-inclusive", "family", "honeymoon", "caribbean"],
+  "schema_type": "TouristDestination"
+}

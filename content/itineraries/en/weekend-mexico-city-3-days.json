@@ -1,0 +1,123 @@
+{
+  "id": "weekend-mexico-city-3-days",
+  "slug": "weekend-mexico-city-3-days",
+  "title": "Weekend in Mexico City - 3 Days",
+  "subtitle": "The Perfect Quick Escape to One of the World's Great Cities",
+  "duration": "3 Days",
+  "meta_title": "Mexico City 3-Day Weekend Itinerary - Complete Guide 2025",
+  "meta_description": "The ultimate 3-day Mexico City weekend guide: essential sights, incredible food, vibrant neighborhoods, and practical tips for making the most of 72 hours in CDMX.",
+  "hero_image": "https://images.unsplash.com/photo-1518659526054-e8b8b4a8e1b6?w=1920&h=1080&fit=crop&q=80",
+  "hero_alt": "Palacio de Bellas Artes illuminated at dusk in Mexico City",
+  "og_image": "https://images.unsplash.com/photo-1518659526054-e8b8b4a8e1b6?w=1200&h=630&fit=crop&q=80",
+  "introduction": "Mexico City is one of the world's great destinations—and surprisingly close. A long weekend here rewards with world-class museums, incredible food at every price point, colonial architecture, and vibrant neighborhoods. This 3-day itinerary covers the essentials while leaving time for spontaneous discoveries.",
+  "best_for": ["Weekend travelers", "First-timers", "Foodies", "Culture seekers", "City explorers"],
+  "estimated_budget": {
+    "budget": "$300-500 USD per person",
+    "mid_range": "$600-1,000 USD per person",
+    "luxury": "$1,500+ USD per person"
+  },
+  "best_time": "October to May for dry weather; any weekend works year-round",
+  "destinations": ["Mexico City"],
+  "highlights": [
+    "Experience the massive Zócalo and colonial Centro",
+    "See Diego Rivera murals at the National Palace",
+    "Explore trendy Roma and Condesa neighborhoods",
+    "Taste world-class tacos and fine dining",
+    "Visit the incredible Anthropology Museum",
+    "Discover Coyoacán and Frida Kahlo's world"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Historic Centro & Evening in Roma",
+      "location": "Centro Histórico / Roma",
+      "description": "Dive into the heart of Mexico City with a morning in the massive historic center, built on the ruins of the Aztec capital Tenochtitlan. The scale is overwhelming—the Zócalo is one of the world's largest plazas. After soaking up history, transition to the hip Roma neighborhood for evening drinks and dinner.",
+      "image": "https://images.unsplash.com/photo-1574493264149-87880133a2ba?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Morning: Zócalo plaza and Metropolitan Cathedral",
+        "National Palace for Diego Rivera murals (free, opens 9am)",
+        "Walk to Templo Mayor ruins (Aztec temple foundations)",
+        "Lunch at El Cardenal or Café de Tacuba (traditional Mexican)",
+        "Palacio de Bellas Artes interior and murals",
+        "Uber to Roma Norte for evening",
+        "Drinks at Licorería Limantour (World's 50 Best Bars)",
+        "Dinner at Rosetta, Contramar, or Máximo Bistrot"
+      ],
+      "accommodation": {
+        "budget": "Hostel Home Roma ($30-50)",
+        "mid_range": "Condesa DF or Casa Goliana ($200-350)",
+        "luxury": "Four Seasons or St. Regis ($500+)"
+      },
+      "tips": ["National Palace murals are free—arrive early to avoid lines", "Roma restaurants book up—reserve 2+ weeks ahead", "The Centro is safe during the day; stay aware at night"]
+    },
+    {
+      "day": 2,
+      "title": "Museums & Neighborhoods",
+      "location": "Chapultepec / Condesa / Coyoacán",
+      "description": "Today is about Mexico City's incredible cultural offerings. Start at the unmissable Anthropology Museum, one of the world's great museums. Spend the afternoon wandering the tree-lined streets of Condesa, then head to bohemian Coyoacán for Frida Kahlo's Casa Azul and charming plazas.",
+      "image": "https://images.unsplash.com/photo-1585464231875-d9ef1f5ad396?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Morning: National Museum of Anthropology (arrive at opening)",
+        "See the Aztec Sun Stone, Maya galleries, and more (3+ hours needed)",
+        "Lunch at Pujol (book way ahead) or casual in Condesa",
+        "Walk through Parque México and Condesa streets",
+        "Coffee at Café Villarias or Chiquitito Café",
+        "Uber to Coyoacán (book Casa Azul tickets in advance!)",
+        "Frida Kahlo Museum (Casa Azul)",
+        "Walk to Jardín Centenario, dinner in Coyoacán"
+      ],
+      "accommodation": {
+        "budget": "Same as Day 1",
+        "mid_range": "Same as Day 1",
+        "luxury": "Same as Day 1"
+      },
+      "tips": ["Book Casa Azul tickets weeks in advance—sells out daily", "Anthropology Museum is closed Mondays", "Coyoacán is far—budget time for transit"]
+    },
+    {
+      "day": 3,
+      "title": "Polanco, Markets & Departure",
+      "location": "Polanco / San Juan Market / Flight",
+      "description": "Your final morning offers a taste of upscale Polanco and the legendary San Juan Market. Depending on flight time, squeeze in Chapultepec Castle or shopping before heading to the airport.",
+      "image": "https://images.unsplash.com/photo-1599063570110-a9ae6c5d47e4?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Morning: Polanco walk and optional Soumaya Museum (free)",
+        "Brunch at Eno or El Moro for churros con chocolate",
+        "San Juan Market for exotic ingredients and gourmet food stalls",
+        "Optional: Chapultepec Castle for panoramic city views",
+        "Last taco stop at El Califa de León or El Huequito",
+        "Head to airport (plan 1.5+ hours depending on traffic)"
+      ],
+      "accommodation": {
+        "budget": "N/A (departure day)",
+        "mid_range": "N/A (departure day)",
+        "luxury": "N/A (departure day)"
+      },
+      "tips": ["Traffic to the airport is brutal—build in buffer time", "Sunday mornings have reduced traffic", "San Juan Market is busiest Saturday mornings"]
+    }
+  ],
+  "practical_info": {
+    "getting_there": "Mexico City airport (MEX) has direct flights from most US cities (2-5 hours). From airport, use Uber (30-60 min depending on traffic) or pre-book a transfer.",
+    "getting_around": "Uber is safe, cheap, and works everywhere. Metro is excellent for longer distances. Walk in Roma/Condesa. Traffic is terrible 7-10am and 5-9pm—plan around rush hour.",
+    "what_to_pack": ["Layers for cool mornings/evenings", "Comfortable walking shoes", "Light rain jacket (May-Oct)", "Smart casual for nice restaurants"]
+  },
+  "faqs": [
+    {
+      "question": "Is 3 days enough for Mexico City?",
+      "answer": "You can hit the highlights in 3 days, but you'll leave wanting more. This itinerary covers the essentials—Centro, museums, Roma/Condesa, Coyoacán—but you won't have time for Teotihuacán, Xochimilco, or deep neighborhood exploration. Consider it a taste that makes you want to return."
+    },
+    {
+      "question": "What about Teotihuacán pyramids?",
+      "answer": "The pyramids are incredible but require a full day (1+ hour each way plus 3-4 hours on site). With only 3 days, we recommend saving it for a longer trip. If you must go, replace Day 2 morning and skip the Anthropology Museum."
+    },
+    {
+      "question": "Where should I stay?",
+      "answer": "Roma Norte or Condesa are ideal—walkable, safe, full of restaurants. Centro Histórico works for history buffs but is less lively at night. Polanco is upscale but further from nightlife. Avoid areas far from these neighborhoods."
+    },
+    {
+      "question": "Is Mexico City safe for a weekend trip?",
+      "answer": "The tourist areas (Roma, Condesa, Polanco, Centro, Coyoacán) are safe. Use Uber instead of street taxis at night. Don't flash expensive items. You're as safe as in any major world city with basic urban awareness."
+    }
+  ],
+  "related_itineraries": ["mexico-city-5-days", "colonial-heartland-8-days"],
+  "tags": ["weekend", "city", "culture", "food", "first-time", "short-trip"]
+}

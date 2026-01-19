@@ -1,0 +1,309 @@
+{
+  "id": "copper-canyon",
+  "name": "Copper Canyon",
+  "slug": "copper-canyon",
+  "state": "Chihuahua",
+  "country": "Mexico",
+  "type": "adventure",
+  "lang": "en",
+  "coordinates": {
+    "latitude": 27.5000,
+    "longitude": -107.7500
+  },
+  "meta_title": "Copper Canyon Travel Guide 2025 - Barrancas del Cobre, Mexico | Top Mexico Travel",
+  "meta_description": "Explore Copper Canyon (Barrancas del Cobre): Mexico's Grand Canyon, El Chepe train journey, Tarahumara indigenous culture, and spectacular adventure activities.",
+  "og_image": "https://images.unsplash.com/photo-1518105779142-d975f22f1b0a?w=1200&h=630&fit=crop&q=80",
+  "og_image_alt": "Panoramic view of Copper Canyon's dramatic cliff faces and depths",
+  "canonical_url": "https://topmexicotravel.com/en/copper-canyon/",
+  "hero_image": "https://images.unsplash.com/photo-1518105779142-d975f22f1b0a?w=1920&h=1080&fit=crop&q=80",
+  "hero_image_alt": "Stunning Copper Canyon landscape in Chihuahua, Mexico",
+  "tagline": "Deeper and larger than the Grand Canyon — Mexico's ultimate adventure in the Sierra Madre",
+  "featured_snippet_intro": "Copper Canyon (Barrancas del Cobre) is a system of six interconnected canyons in the Sierra Madre that's actually deeper and larger than the Grand Canyon. The legendary El Chepe train, Tarahumara indigenous culture, and world-class adventure activities make this one of Mexico's most spectacular destinations.",
+  "introduction": "<p>Hidden in the remote Sierra Madre Occidental of northern Mexico, Copper Canyon is one of the world's great natural wonders—a vast system of six interconnected canyons that's deeper, larger, and in many ways more dramatic than Arizona's Grand Canyon. The deepest point drops 6,165 feet, and the entire system encompasses over 25,000 square miles of rugged wilderness.</p><p>The legendary El Chepe train (Ferrocarril Chihuahua Pacífico) is one of the world's great railway journeys, traversing 405 miles from Chihuahua to the Pacific coast through 86 tunnels and over 37 bridges. The train clings to cliff faces, descends into subtropical canyons, and passes through remote indigenous communities unchanged by centuries.</p><p>The Tarahumara (Rarámuri) people have called these canyons home for thousands of years. Famous as the world's greatest long-distance runners, they continue traditional ways of life in cave dwellings and remote villages. Their colorful handicrafts, distinctive clothing, and ancient customs add profound cultural depth to the natural spectacle. Copper Canyon offers hiking, zip-lining, mountain biking, and complete wilderness immersion in one of Mexico's most remote destinations.</p>",
+  "best_time_to_visit": "October - November / March - April",
+  "average_temperature": "Variable (15-30°C)",
+  "known_for": "El Chepe Train & Vast Canyons",
+  "airport_code": "CUU/LMM",
+  "rating": "4.9",
+  "review_count": "1890",
+  "tourist_types_json": "[\"Adventure Seeker\", \"Train Enthusiast\", \"Hiker\", \"Cultural Explorer\", \"Nature Lover\"]",
+
+  "attractions": [
+    {
+      "name": "El Chepe Train Journey",
+      "type": "Scenic Railway",
+      "description": "One of the world's most spectacular train journeys, traversing 405 miles through 86 tunnels and over 37 bridges. Choose the first-class El Chepe Express or the more adventurous El Chepe Regional.",
+      "image": "https://images.unsplash.com/photo-1474487548417-781cb71495f3?w=800&h=600&fit=crop&q=80",
+      "duration": "Full journey: 9-16 hours",
+      "price": "$100-200 USD one-way",
+      "tip": "Book first-class (El Chepe Express) for panoramic windows and better seating. Sit on the right side heading west for best views.",
+      "coordinates": {"lat": 27.5000, "lng": -107.7500}
+    },
+    {
+      "name": "Divisadero Viewpoint",
+      "type": "Scenic Viewpoint",
+      "description": "The most famous canyon viewpoint where the train stops for photos. Three canyons converge below with dizzying 1,300-meter drops. Adventure park with zip-lines and cable car.",
+      "image": "https://images.unsplash.com/photo-1518105779142-d975f22f1b0a?w=800&h=600&fit=crop&q=80",
+      "duration": "2-4 hours",
+      "price": "Free viewpoint / $25-50 activities",
+      "tip": "Stay at least one night to explore beyond the train stop. The cable car descends 500 meters into the canyon.",
+      "coordinates": {"lat": 27.5167, "lng": -107.7667}
+    },
+    {
+      "name": "Barranca de Urique",
+      "type": "Natural Wonder",
+      "description": "The deepest canyon in the system at 6,165 feet—deeper than the Grand Canyon. The town of Urique at the bottom is accessible by dramatic switchback road or multi-day hike.",
+      "image": "https://images.unsplash.com/photo-1518105779142-d975f22f1b0a?w=800&h=600&fit=crop&q=80",
+      "duration": "Full day or overnight",
+      "price": "Free",
+      "tip": "Drive down the incredible switchback road from Divisadero (2 hours). Temperature at the bottom is 15-20°F warmer than the rim.",
+      "coordinates": {"lat": 27.2000, "lng": -107.8500}
+    },
+    {
+      "name": "Parque de Aventura Barrancas",
+      "type": "Adventure Park",
+      "description": "World-class adventure park at Divisadero with the world's longest zip-line (2.5km), cable car descending into the canyon, and via ferrata climbing routes.",
+      "image": "https://images.unsplash.com/photo-1518105779142-d975f22f1b0a?w=800&h=600&fit=crop&q=80",
+      "duration": "3-5 hours",
+      "price": "$50-100 USD",
+      "tip": "The Ziprider reaches speeds of 70 mph across the canyon. Book in advance during peak season.",
+      "coordinates": {"lat": 27.5167, "lng": -107.7667}
+    },
+    {
+      "name": "Creel Town",
+      "type": "Gateway Town",
+      "description": "The main tourist hub in the Sierra, a laid-back mountain town with hotels, restaurants, and organized tours. Base for exploring Tarahumara villages and natural sites.",
+      "image": "https://images.unsplash.com/photo-1580152969655-00a7c66e25b6?w=800&h=600&fit=crop&q=80",
+      "duration": "1-3 days base",
+      "price": "N/A",
+      "tip": "Use Creel as your base for 2-3 days. It's the most accessible town with the best tourist infrastructure.",
+      "coordinates": {"lat": 27.7544, "lng": -107.6344}
+    },
+    {
+      "name": "Basaseachi Falls",
+      "type": "Natural Wonder",
+      "description": "Mexico's second-highest waterfall at 246 meters (807 feet), plunging into a forested canyon. Hiking trails lead to both the top and base of the falls.",
+      "image": "https://images.unsplash.com/photo-1590073242678-70ee3fc28e8e?w=800&h=600&fit=crop&q=80",
+      "duration": "Full day from Creel",
+      "price": "$5 USD entry",
+      "tip": "Visit after rainy season (Sept-Nov) for best water flow. Trail to the base is steep but rewarding.",
+      "coordinates": {"lat": 28.2039, "lng": -108.2136}
+    },
+    {
+      "name": "Tarahumara Villages",
+      "type": "Cultural Experience",
+      "description": "Visit traditional Rarámuri (Tarahumara) communities where families live in caves and adobe homes as they have for centuries. Purchase beautiful handwoven baskets and crafts.",
+      "image": "https://images.unsplash.com/photo-1570737209810-87a8e7245f88?w=800&h=600&fit=crop&q=80",
+      "duration": "Half-full day",
+      "price": "$30-50 guided tour",
+      "tip": "Always visit with a local guide who has relationships with communities. Purchase crafts directly from artisans.",
+      "coordinates": {"lat": 27.5500, "lng": -107.6000}
+    },
+    {
+      "name": "Valley of the Mushrooms",
+      "type": "Natural Formation",
+      "description": "Surreal landscape of mushroom-shaped rock formations carved by wind erosion over millions of years. Easy hiking among the formations.",
+      "image": "https://images.unsplash.com/photo-1547995886-6dc09384c6e6?w=800&h=600&fit=crop&q=80",
+      "duration": "2-3 hours",
+      "price": "$3 USD",
+      "tip": "Located near Creel. Combine with Valley of the Frogs for a half-day excursion.",
+      "coordinates": {"lat": 27.7100, "lng": -107.6200}
+    },
+    {
+      "name": "Lake Arareko",
+      "type": "Natural Area",
+      "description": "Beautiful alpine lake surrounded by pine forests near Creel. Rowboats available for rent, horseback riding, and easy lakeside walks.",
+      "image": "https://images.unsplash.com/photo-1506953823976-52e1fdc0149a?w=800&h=600&fit=crop&q=80",
+      "duration": "2-3 hours",
+      "price": "$3 USD entry",
+      "tip": "Rent a rowboat for a peaceful experience. The Tarahumara village nearby offers handicrafts.",
+      "coordinates": {"lat": 27.7000, "lng": -107.6167}
+    },
+    {
+      "name": "Cusárare Waterfall",
+      "type": "Natural Wonder",
+      "description": "30-meter waterfall near Creel with an easy 5km hiking trail through pine-oak forests. Nearby Cusárare Mission dates to 1741.",
+      "image": "https://images.unsplash.com/photo-1590073242678-70ee3fc28e8e?w=800&h=600&fit=crop&q=80",
+      "duration": "Half day",
+      "price": "$3 USD",
+      "tip": "The hike is easy and suitable for families. Visit the Jesuit mission on the way back.",
+      "coordinates": {"lat": 27.6167, "lng": -107.5500}
+    }
+  ],
+
+  "neighborhoods": [
+    {
+      "name": "Creel",
+      "slug": "creel",
+      "description": "The main tourist hub in the Sierra Tarahumara with hotels, restaurants, and tour operators. A charming mountain town at 7,500 feet elevation.",
+      "image": "https://images.unsplash.com/photo-1580152969655-00a7c66e25b6?w=800&h=600&fit=crop&q=80",
+      "vibe": "Mountain town, backpacker-friendly, rustic",
+      "best_for": "Base for exploration, budget travelers, tour access",
+      "highlights": ["Tourist services", "Train station", "Artisan market", "Tour operators"]
+    },
+    {
+      "name": "Divisadero",
+      "slug": "divisadero",
+      "description": "Rim-top area with spectacular viewpoints, adventure park, and rustic lodges perched on the canyon edge. More remote than Creel.",
+      "image": "https://images.unsplash.com/photo-1518105779142-d975f22f1b0a?w=800&h=600&fit=crop&q=80",
+      "vibe": "Scenic, adventurous, remote",
+      "best_for": "Canyon views, adventure activities, photography",
+      "highlights": ["Viewpoints", "Zip-lines", "Cable car", "Rim lodges"]
+    },
+    {
+      "name": "Urique",
+      "slug": "urique",
+      "description": "Subtropical town at the canyon bottom, accessible by dramatic switchback road. Warmer climate, traditional feel, and starting point for hikes.",
+      "image": "https://images.unsplash.com/photo-1518105779142-d975f22f1b0a?w=800&h=600&fit=crop&q=80",
+      "vibe": "Remote, tropical, authentic",
+      "best_for": "Adventurous travelers, hikers, authentic experience",
+      "highlights": ["Canyon bottom", "Warm weather", "Hiking trails", "Remote feel"]
+    },
+    {
+      "name": "Batopilas",
+      "slug": "batopilas",
+      "description": "Former silver mining town reached by an epic 6-hour drive into the canyon. Lost-in-time atmosphere with tropical climate and colonial ruins.",
+      "image": "https://images.unsplash.com/photo-1580152969655-00a7c66e25b6?w=800&h=600&fit=crop&q=80",
+      "vibe": "Remote, historic, adventurous",
+      "best_for": "Off-grid adventurers, history buffs, unique experiences",
+      "highlights": ["Lost mission", "Silver history", "Tropical canyon", "Epic drive"]
+    }
+  ],
+
+  "featured_hotels": [
+    {
+      "name": "Hotel Mirador Posada Barrancas",
+      "category": "Canyon-Edge Luxury",
+      "stars": 4,
+      "price_range": "$150",
+      "description": "Perched on the canyon rim at Divisadero with heart-stopping views from every room. The terrace restaurant overlooks the abyss.",
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800&h=600&fit=crop&q=80",
+      "features": ["Canyon views", "Rim-edge location", "Restaurant", "Train station access"]
+    },
+    {
+      "name": "Hotel Divisadero Barrancas",
+      "category": "Adventure Lodge",
+      "stars": 3,
+      "price_range": "$100",
+      "description": "Rustic lodge at Divisadero with direct access to adventure park and canyon views. Traditional stone construction blends with the landscape.",
+      "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=800&h=600&fit=crop&q=80",
+      "features": ["Adventure park access", "Canyon views", "Rustic charm", "Restaurant"]
+    },
+    {
+      "name": "The Lodge at Creel",
+      "category": "Mountain Lodge",
+      "stars": 4,
+      "price_range": "$120",
+      "description": "Comfortable mountain lodge in Creel with fireplaces, excellent restaurant, and tour desk. Best base for exploring the region.",
+      "image": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=800&h=600&fit=crop&q=80",
+      "features": ["Fireplaces", "Restaurant", "Tour desk", "Mountain setting"]
+    },
+    {
+      "name": "Margaritas Guest House",
+      "category": "Budget",
+      "stars": 2,
+      "price_range": "$30",
+      "description": "Backpacker favorite in Creel with shared kitchen, common areas, and helpful owner who arranges tours. Best budget option.",
+      "image": "https://images.unsplash.com/photo-1555854877-bab0e564b8d5?w=800&h=600&fit=crop&q=80",
+      "features": ["Shared kitchen", "Tour help", "Social atmosphere", "Budget-friendly"]
+    }
+  ],
+
+  "featured_restaurants": [
+    {
+      "name": "Restaurant at Hotel Mirador",
+      "cuisine": "Regional Mexican",
+      "price_range": "$$$",
+      "description": "Fine dining with spectacular canyon views. Regional dishes featuring local ingredients and traditional recipes.",
+      "image": "https://images.unsplash.com/photo-1544025162-d76694265947?w=800&h=600&fit=crop&q=80",
+      "must_try": ["Machaca", "Carne asada", "Regional specialties"]
+    },
+    {
+      "name": "Veronica's Restaurant",
+      "cuisine": "Traditional Mexican",
+      "price_range": "$$",
+      "description": "Local favorite in Creel with homestyle cooking. Hearty portions perfect after a day of hiking.",
+      "image": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?w=800&h=600&fit=crop&q=80",
+      "must_try": ["Carne asada norteña", "Enchiladas", "Burritos"]
+    },
+    {
+      "name": "Tío Molcas",
+      "cuisine": "Local Fare",
+      "price_range": "$",
+      "description": "Unpretentious local spot in Creel for tacos, burritos, and cold beers. Backpacker hangout with friendly atmosphere.",
+      "image": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?w=800&h=600&fit=crop&q=80",
+      "must_try": ["Burritos", "Tacos", "Local beer"]
+    }
+  ],
+
+  "day_trips": [
+    {
+      "name": "Divisadero from Creel",
+      "distance": "60km",
+      "description": "Drive or take the train to the most spectacular viewpoints. Spend the day at the adventure park with zip-lines and cable car.",
+      "image": "https://images.unsplash.com/photo-1518105779142-d975f22f1b0a?w=800&h=600&fit=crop&q=80",
+      "tips": "Drive if you want flexibility. Train schedule limits time at Divisadero. Consider overnight stay."
+    },
+    {
+      "name": "Basaseachi Falls",
+      "distance": "150km from Creel",
+      "description": "Mexico's second-highest waterfall in a beautiful forested setting. Long drive but worth it for the dramatic falls.",
+      "image": "https://images.unsplash.com/photo-1590073242678-70ee3fc28e8e?w=800&h=600&fit=crop&q=80",
+      "tips": "Full-day trip. Best after rainy season. Trail to base is steep but rewarding."
+    },
+    {
+      "name": "Urique Canyon Floor",
+      "distance": "60km from Divisadero",
+      "description": "Epic drive down switchback road to the subtropical canyon bottom. Town of Urique offers totally different climate and culture.",
+      "image": "https://images.unsplash.com/photo-1518105779142-d975f22f1b0a?w=800&h=600&fit=crop&q=80",
+      "tips": "Drive takes 2+ hours despite short distance. 4x4 recommended. Temperature 15-20°F warmer at bottom."
+    }
+  ],
+
+  "faqs": [
+    {
+      "question": "How do I get to Copper Canyon?",
+      "answer": "Fly to Chihuahua (CUU) and take the El Chepe train from there, or fly to Los Mochis (LMM) on the Pacific coast and ride the train up. Most travelers fly to Chihuahua and do the journey westward (train leaves at 6am). The train can be booked at chepe.com.mx."
+    },
+    {
+      "question": "When is the best time to visit?",
+      "answer": "October-November offers fall colors and pleasant temperatures. March-April has blooming wildflowers. Avoid summer (June-August) when heavy rains can cause landslides. Winter (December-February) is cold at the rim but pleasant in the lower canyons."
+    },
+    {
+      "question": "How many days should I spend?",
+      "answer": "Minimum 3-4 days: overnight in Creel or Divisadero, with day trips. A week allows time to explore multiple canyon levels, visit Tarahumara villages, and do the full train journey. Two weeks enables hiking and reaching remote areas like Batopilas."
+    },
+    {
+      "question": "Is Copper Canyon safe?",
+      "answer": "The tourist areas (Creel, Divisadero, train route) are safe and well-traveled. This is a remote region, so don't stray far off established routes without a guide. The Tarahumara people are welcoming but respect their privacy. Basic travel precautions apply."
+    },
+    {
+      "question": "What should I pack?",
+      "answer": "Layers are essential—temperatures vary 30-40°F between rim and canyon floor. Bring warm jacket for rim evenings, lighter clothes for lower elevations. Sturdy hiking shoes, sunscreen, hat, and rain gear (September-November). Bring cash—ATMs are scarce."
+    },
+    {
+      "question": "Is Copper Canyon bigger than the Grand Canyon?",
+      "answer": "Yes! Copper Canyon is a system of six interconnected canyons that together are larger (25,000+ square miles) and deeper (6,165 feet at deepest point) than Arizona's Grand Canyon. It's often called 'Mexico's Grand Canyon' but many consider it more impressive."
+    }
+  ],
+
+  "getting_there": "Fly to Chihuahua (CUU) and take El Chepe train westward, or fly to Los Mochis (LMM) and take the train eastward (uphill, slower). The train journey is half the experience—don't skip it. By car: Creel is 4 hours from Chihuahua via Highway 16.",
+  "getting_around": "El Chepe train connects major points. In Creel, rent a vehicle or hire a taxi for day trips. Most roads are unpaved and require 4x4 for comfort. Tour operators in Creel offer organized trips. Walking is limited to town areas—distances are vast.",
+  "safety_info": "Tourist areas are safe. This is remote wilderness—go with guides for hikes and drives to unfamiliar areas. Roads are mountainous with steep drop-offs; drive during daylight only. Altitude (7,500+ feet) affects some visitors—acclimatize before strenuous activity.",
+
+  "related_destinations": [
+    {
+      "name": "Guadalajara",
+      "url": "/en/guadalajara/",
+      "image": "https://images.unsplash.com/photo-1606402179428-a57976d71fa4?w=400&h=300&fit=crop&q=80"
+    },
+    {
+      "name": "Mexico City",
+      "url": "/en/mexico-city/",
+      "image": "https://images.unsplash.com/photo-1518659526054-e8b8b4a8e1b6?w=400&h=300&fit=crop&q=80"
+    }
+  ],
+
+  "tags": ["adventure", "train", "canyon", "indigenous", "hiking", "nature", "remote", "wilderness"],
+  "schema_type": "TouristDestination"
+}

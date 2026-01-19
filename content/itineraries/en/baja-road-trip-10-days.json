@@ -1,0 +1,277 @@
+{
+  "id": "baja-road-trip-10-days",
+  "slug": "baja-road-trip-10-days",
+  "title": "10-Day Baja California Road Trip",
+  "subtitle": "Desert Highways, Wine Country & Two Seas: The Ultimate Baja Adventure",
+  "duration": "10 Days",
+  "meta_title": "Baja California Road Trip Itinerary 2025 - 10 Days from Tijuana to Los Cabos",
+  "meta_description": "The ultimate Baja California road trip: 10 days driving from Tijuana to Los Cabos through wine country, desert landscapes, whale watching spots, and pristine beaches.",
+  "hero_image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1920&h=1080&fit=crop&q=80",
+  "hero_alt": "Desert highway through Baja California with cacti and mountains",
+  "og_image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1200&h=630&fit=crop&q=80",
+  "introduction": "The Baja California peninsula is 800 miles of dramatic contrasts: Pacific surf and Sea of Cortez calm, wine country and whale watching, desert solitude and beach resort luxury. This road trip takes you the length of the peninsula, from Tijuana to Los Cabos, along one of North America's greatest driving routes. Pack your sense of adventure.",
+  "best_for": ["Road trip enthusiasts", "Adventure travelers", "Nature lovers", "Wine enthusiasts"],
+  "estimated_budget": {
+    "budget": "$2,500-4,000 USD per person (shared car costs)",
+    "mid_range": "$4,500-7,000 USD per person",
+    "luxury": "$10,000-15,000 USD per person"
+  },
+  "best_time": "December to April for whale watching; September to November for wine harvest",
+  "destinations": ["Tijuana", "Valle de Guadalupe", "San Quintín", "Guerrero Negro", "Loreto", "La Paz", "Los Cabos"],
+  "highlights": [
+    "Valle de Guadalupe wine tasting",
+    "Gray whale encounters in Guerrero Negro",
+    "Sea of Cortez snorkeling",
+    "Desert highway driving",
+    "La Paz beaches and whale sharks",
+    "Los Cabos luxury finish"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Tijuana & Valle de Guadalupe",
+      "location": "Tijuana / Valle de Guadalupe",
+      "description": "Cross the border at Tijuana or fly into TIJ. Pick up your rental car and drive to Valle de Guadalupe—Mexico's premier wine region just 90 minutes south. Check into a boutique hotel among the vineyards. Afternoon wine tasting at 2-3 wineries, watching the sunset over the vines. Dinner at one of the valley's acclaimed restaurants: Fauna, Finca Altozano, or Malva.",
+      "image": "https://images.unsplash.com/photo-1506377247377-2a5b3b417ebb?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Border crossing or airport arrival",
+        "Car rental pickup",
+        "Drive to Valle de Guadalupe",
+        "Wine hotel check-in",
+        "Afternoon winery visits",
+        "Wine tasting",
+        "Sunset dinner at top restaurant"
+      ],
+      "accommodation": {
+        "budget": "Adobe Guadalupe ($100-150)",
+        "mid_range": "El Cielo Resort ($200-350)",
+        "luxury": "Encuentro Guadalupe ($350-500)"
+      },
+      "tips": ["Rent from US side of border for easier insurance", "Valle de Guadalupe is Mexico's Napa—book restaurants ahead", "Encounter Guadalupe has extraordinary eco-lofts"]
+    },
+    {
+      "day": 2,
+      "title": "Wine Country Full Day",
+      "location": "Valle de Guadalupe",
+      "description": "Full day exploring Valle de Guadalupe. Morning: winery visits with tastings—Monte Xanic, Adobe Guadalupe, Bruma. Midday: liquid lunch at a vineyard restaurant. Afternoon: more tastings, olive oil farms, or cheese production visits. This is one of the world's emerging wine regions—take it seriously. Evening: sunset drinks and another exceptional dinner.",
+      "image": "https://images.unsplash.com/photo-1569529465841-dfecdab7503b?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Morning winery visits",
+        "Wine tastings",
+        "Vineyard lunch",
+        "Afternoon exploration",
+        "Olive oil or cheese visits",
+        "Sunset at winery",
+        "Fine dining dinner"
+      ],
+      "accommodation": {
+        "budget": "Adobe Guadalupe ($100-150)",
+        "mid_range": "El Cielo Resort ($200-350)",
+        "luxury": "Encuentro Guadalupe ($350-500)"
+      },
+      "tips": ["Casa de Piedra, Vena Cava, L.A. Cetto are also excellent", "Buy wine here—hard to find outside region", "Designated driver or hire a local guide"]
+    },
+    {
+      "day": 3,
+      "title": "Drive to San Quintín",
+      "location": "San Quintín",
+      "description": "Begin the southward journey. Drive from Valle de Guadalupe to San Quintín—about 4 hours through increasingly dramatic desert scenery. Stop in Ensenada for fish tacos at La Guerrerense (legendary street stand) and a walk on the malecón. San Quintín offers uncrowded beaches, oyster farms, and incredible sunsets. Simple accommodations, real Baja.",
+      "image": "https://images.unsplash.com/photo-1505881402582-c5bc11054f91?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Depart Valle de Guadalupe",
+        "Ensenada fish tacos stop",
+        "La Guerrerense visit",
+        "Coastal drive south",
+        "Arrive San Quintín",
+        "Beach exploration",
+        "Oyster farm visit (optional)",
+        "Simple local dinner"
+      ],
+      "accommodation": {
+        "budget": "Old Mill Hotel ($60-100)",
+        "mid_range": "Misión Santa María ($100-150)",
+        "luxury": "Limited—this is rural Baja"
+      },
+      "tips": ["Fill up gas at every opportunity in Baja", "La Guerrerense serves until they run out—go early", "San Quintín is authentic, not touristy—embrace it"]
+    },
+    {
+      "day": 4,
+      "title": "Drive to Guerrero Negro",
+      "location": "Guerrero Negro",
+      "description": "The longest driving day: San Quintín to Guerrero Negro, about 6-7 hours through the Vizcaíno Desert. Cross from Baja California into Baja California Sur (time zone change). Guerrero Negro is the gateway to gray whale calving lagoons. Arrive, check in, and prepare for tomorrow's whale encounter. Simple dinner in town.",
+      "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Early departure",
+        "Desert highway driving",
+        "Cataviña boulder field (stop for photos)",
+        "Cross into Baja Sur",
+        "Arrive Guerrero Negro",
+        "Rest",
+        "Dinner in town"
+      ],
+      "accommodation": {
+        "budget": "Motel San Ignacio ($50-80)",
+        "mid_range": "Hotel Malarrimo ($80-120)",
+        "luxury": "Limited options in town"
+      },
+      "tips": ["Start early—long driving day", "Cataviña is a must-stop for bizarre boulder desert", "Set clock back 1 hour at state line"]
+    },
+    {
+      "day": 5,
+      "title": "Gray Whale Watching",
+      "location": "Guerrero Negro / Ojo de Liebre",
+      "description": "The highlight of Baja: gray whale encounters in Ojo de Liebre lagoon. Every winter, gray whales travel 5,000 miles from Alaska to give birth in these warm, protected lagoons. Small boats take you among the whales—mothers and calves often approach and can be touched. It's a profound wildlife experience. Afternoon recovery, then drive or stay another night.",
+      "image": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Early departure for lagoon",
+        "Whale watching boat tour",
+        "Close encounters with whales",
+        "Return to town",
+        "Late lunch",
+        "Optional second whale tour",
+        "Overnight Guerrero Negro or drive to San Ignacio"
+      ],
+      "accommodation": {
+        "budget": "Motel San Ignacio ($50-80)",
+        "mid_range": "Hotel Malarrimo ($80-120)",
+        "luxury": "Kuyima whale camps (basic but on lagoon)"
+      },
+      "tips": ["Whale season: January-March, peak February", "Book tour through hotel or Malarrimo restaurant", "Whales genuinely approach boats—cameras ready"]
+    },
+    {
+      "day": 6,
+      "title": "Drive to Loreto",
+      "location": "Loreto",
+      "description": "Drive to Loreto (about 5 hours from Guerrero Negro, less from San Ignacio). Stop at the San Ignacio mission—a beautiful 18th-century church in an oasis town. Loreto is the first European settlement in the Californias, a beautiful colonial town on the Sea of Cortez. Check in, explore the malecón, and have dinner overlooking the sea.",
+      "image": "https://images.unsplash.com/photo-1510414842594-a61c69b5ae57?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Depart Guerrero Negro/San Ignacio",
+        "San Ignacio mission stop",
+        "Desert highway to coast",
+        "Arrive Loreto",
+        "Malecón walk",
+        "Mission church visit",
+        "Seafood dinner"
+      ],
+      "accommodation": {
+        "budget": "Hotel Posada de las Flores ($100-150)",
+        "mid_range": "La Mision Loreto ($150-250)",
+        "luxury": "Villa del Palmar Loreto ($250-400)"
+      },
+      "tips": ["Loreto is charming and uncrowded", "Sea of Cortez water is calm and warm", "Try fish tacos at McLulu's"]
+    },
+    {
+      "day": 7,
+      "title": "Loreto Sea Adventures",
+      "location": "Loreto",
+      "description": "Full day on the Sea of Cortez. Book a boat tour to Loreto Bay National Marine Park—snorkel with sea lions at Coronado Island, kayak in pristine waters, or fish for dinner. The Sea of Cortez is Jacques Cousteau's 'Aquarium of the World' for good reason. Return for sunset drinks and another seafood feast.",
+      "image": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Morning boat departure",
+        "Coronado Island visit",
+        "Snorkeling with sea lions",
+        "Beach lunch on island",
+        "Kayaking or more snorkeling",
+        "Return to Loreto",
+        "Sunset malecón walk",
+        "Dinner"
+      ],
+      "accommodation": {
+        "budget": "Hotel Posada de las Flores ($100-150)",
+        "mid_range": "La Mision Loreto ($150-250)",
+        "luxury": "Villa del Palmar Loreto ($250-400)"
+      },
+      "tips": ["Sea lion colonies are incredible—waterproof camera essential", "Book through Loreto Bay Marine Park operators", "Blue-footed boobies nest on the islands"]
+    },
+    {
+      "day": 8,
+      "title": "Drive to La Paz",
+      "location": "La Paz",
+      "description": "Drive from Loreto to La Paz (about 5 hours). La Paz is Baja's capital—a genuine Mexican city with beautiful waterfront, excellent food, and access to incredible nature. Check into your hotel on the malecón. Evening walk along the waterfront sculptures, fish tacos, and preparation for tomorrow's whale sharks (seasonal).",
+      "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Drive Loreto to La Paz",
+        "Sierra de la Giganta scenery",
+        "Arrive La Paz",
+        "Malecón hotel check-in",
+        "Waterfront walk",
+        "Sculpture trail",
+        "Seafood dinner"
+      ],
+      "accommodation": {
+        "budget": "El Angel Azul ($80-120)",
+        "mid_range": "Costa Baja Resort ($150-250)",
+        "luxury": "Hotel Catedral ($200-350)"
+      },
+      "tips": ["La Paz has best seafood in Baja—explore beyond tourist spots", "Whale shark season: October-April", "Book whale shark tour tonight for tomorrow"]
+    },
+    {
+      "day": 9,
+      "title": "Whale Sharks & Espíritu Santo",
+      "location": "La Paz",
+      "description": "Early morning whale shark snorkeling (seasonal, October-April)—swim alongside the world's largest fish in the bay. Alternatively or additionally, boat tour to Espíritu Santo Island—a UNESCO World Heritage site with pristine beaches, sea lion colonies, and incredible snorkeling. Return to La Paz for final evening in this lovely city.",
+      "image": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Early morning whale shark swim",
+        "Return for breakfast",
+        "Espíritu Santo Island tour",
+        "Beach time on island",
+        "Snorkeling and sea lions",
+        "Return to La Paz",
+        "Farewell dinner"
+      ],
+      "accommodation": {
+        "budget": "El Angel Azul ($80-120)",
+        "mid_range": "Costa Baja Resort ($150-250)",
+        "luxury": "Hotel Catedral ($200-350)"
+      },
+      "tips": ["Whale sharks are gentle—incredible to swim with", "Espíritu Santo is bucket-list beautiful", "Both tours can be done same day with early start"]
+    },
+    {
+      "day": 10,
+      "title": "Drive to Los Cabos",
+      "location": "Los Cabos",
+      "description": "Final drive: La Paz to Los Cabos (about 2-3 hours). Watch the landscape transform from Sea of Cortez calm to Pacific drama. Drop rental car in Cabo San Lucas or San José del Cabo. If time permits, visit El Arco by water taxi for iconic photos. Transfer to airport or enjoy a final night in Cabo's luxury before flying home.",
+      "image": "https://images.unsplash.com/photo-1510414842594-a61c69b5ae57?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Drive La Paz to Los Cabos",
+        "Todos Santos lunch stop (optional)",
+        "Arrive Los Cabos",
+        "Car drop-off",
+        "El Arco visit (optional)",
+        "Airport transfer or final night"
+      ],
+      "accommodation": {
+        "budget": "Fly out same day",
+        "mid_range": "The Cape ($400-600)",
+        "luxury": "One&Only Palmilla ($1,500+)"
+      },
+      "tips": ["Todos Santos is a charming detour—Hotel California is here", "Los Cabos airport is efficient", "Keep some pesos for tolls and tips"]
+    }
+  ],
+  "practical_info": {
+    "getting_there": "Options: (1) Cross US border at Tijuana by foot/car and rent from Mexican side, (2) Fly into TIJ and rent there, (3) Rent from US side and cross (check insurance carefully). Return rental in Los Cabos, fly home from SJD.",
+    "getting_around": "You need a car for this trip. Rent a reliable SUV or car with good clearance. Most of Highway 1 is paved and good condition. Fill up at every PEMEX station—distances can be long.",
+    "what_to_pack": ["Cooler for car (drinks, snacks)", "Paper maps as backup (cell coverage spotty)", "Layers (desert nights are cold)", "Snorkel gear or plan to rent", "Camera with zoom for whales", "Cash in pesos for small towns"]
+  },
+  "faqs": [
+    {
+      "question": "Is driving in Baja safe?",
+      "answer": "Yes—Baja is one of Mexico's safest regions for tourists. Highway 1 is well-maintained. Don't drive at night (animals, potholes, no lighting). Keep your tank above half-full. Carry emergency supplies. The biggest dangers are mechanical issues and running out of gas, not crime."
+    },
+    {
+      "question": "When is whale watching season?",
+      "answer": "Gray whales: January-March in Guerrero Negro/San Ignacio lagoons, peak February. Whale sharks: October-April in La Paz, peak November-February. Humpback whales (Los Cabos): December-April. Plan your trip around these seasons for maximum wildlife."
+    },
+    {
+      "question": "Can I rent a car from the US and drive into Mexico?",
+      "answer": "Some US rental companies allow this, but Mexican insurance is required by law—US insurance doesn't cover you in Mexico. Best approach: rent from a Mexican company at the border or airport, or buy Mexican insurance separately. This is critical—don't skip it."
+    },
+    {
+      "question": "How long does the full drive take?",
+      "answer": "Tijuana to Los Cabos is about 1,000 miles on Highway 1. You could drive it in 2-3 very long days, but that misses the point. This 10-day itinerary allows proper exploration with 4-6 hours of driving most days, plus full days for activities."
+    }
+  ],
+  "related_itineraries": ["baja-california-7-days", "pacific-coast-10-days", "honeymoon-los-cabos-7-days"],
+  "tags": ["road-trip", "baja", "wine", "whale-watching", "adventure", "driving", "sea-of-cortez", "wildlife"]
+}

@@ -1,0 +1,199 @@
+{
+  "id": "honeymoon-los-cabos-7-days",
+  "slug": "honeymoon-los-cabos-7-days",
+  "title": "7-Day Los Cabos Luxury Honeymoon",
+  "subtitle": "Desert Drama, Pacific Sunsets & World-Class Romance",
+  "duration": "7 Days",
+  "meta_title": "Los Cabos Honeymoon Itinerary 2025 - 7 Days of Luxury in Cabo",
+  "meta_description": "Plan the perfect Los Cabos honeymoon: 7 days of luxury resorts, sunset sailing to El Arco, desert adventures, and farm-to-table dining in Baja California.",
+  "hero_image": "https://images.unsplash.com/photo-1510414842594-a61c69b5ae57?w=1920&h=1080&fit=crop&q=80",
+  "hero_alt": "El Arco rock formation at sunset in Los Cabos",
+  "og_image": "https://images.unsplash.com/photo-1510414842594-a61c69b5ae57?w=1200&h=630&fit=crop&q=80",
+  "introduction": "Los Cabos offers a honeymoon like nowhere else: dramatic desert landscapes meeting the Sea of Cortez, legendary Pacific sunsets, world-class golf and fishing, and some of Mexico's finest luxury resorts. This 7-day itinerary blends resort relaxation with unique Baja adventures—from sunset sailing to El Arco to farm-to-table dinners in the desert.",
+  "best_for": ["Honeymooners", "Luxury seekers", "Adventure couples", "Foodies"],
+  "estimated_budget": {
+    "budget": "$4,000-6,000 USD per couple",
+    "mid_range": "$8,000-12,000 USD per couple",
+    "luxury": "$20,000-35,000 USD per couple"
+  },
+  "best_time": "October to May for best weather; January-March for whale watching",
+  "destinations": ["Los Cabos", "San José del Cabo", "Cabo San Lucas"],
+  "highlights": [
+    "Private sunset sail to El Arco",
+    "Whale watching (seasonal)",
+    "Farm-to-table dinner at Flora Farms",
+    "Couples spa with desert views",
+    "Snorkeling at Chileno Bay",
+    "Desert art gallery walk"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Arrive in Cabo",
+      "location": "San José del Cabo",
+      "description": "Land at Los Cabos airport and transfer to your resort in the corridor or San José del Cabo. The landscape shocks: desert cacti, dramatic rock formations, and that impossible blue of the Sea of Cortez. Check into your oceanfront suite, unwind at the infinity pool overlooking the sea, and watch your first Cabo sunset—the Pacific paints the sky in colors you've never seen. Dinner at your resort's signature restaurant.",
+      "image": "https://images.unsplash.com/photo-1519046904884-53103b34b206?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Airport arrival and private transfer",
+        "Resort check-in with honeymoon welcome",
+        "Pool and beach afternoon",
+        "First Pacific sunset together",
+        "Welcome dinner at resort restaurant"
+      ],
+      "accommodation": {
+        "budget": "Casa Natalia San José ($250-400)",
+        "mid_range": "The Cape, a Thompson Hotel ($500-800)",
+        "luxury": "One&Only Palmilla ($2,000-5,000)"
+      },
+      "tips": ["Stay in San José del Cabo corridor for quieter romance", "Cabo San Lucas is better for nightlife", "October-November and May-June offer best value"]
+    },
+    {
+      "day": 2,
+      "title": "Resort Romance",
+      "location": "Los Cabos Resort",
+      "description": "First full day: pure resort luxury. Wake to waves crashing, order breakfast to your terrace, then claim your beach cabana. The Sea of Cortez is calmer than the Pacific—swim if your resort has a swimmable beach. Book a couples massage for afternoon, then watch sunset from the spa terrace. Tonight, venture out to Flora Farms—an organic farm in the desert with magical outdoor dining.",
+      "image": "https://images.unsplash.com/photo-1540541338287-41700207dee6?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Breakfast on terrace",
+        "Beach cabana morning",
+        "Swimming in Sea of Cortez",
+        "Couples massage at spa",
+        "Spa relaxation time",
+        "Sunset drinks",
+        "Dinner at Flora Farms"
+      ],
+      "accommodation": {
+        "budget": "Casa Natalia San José ($250-400)",
+        "mid_range": "The Cape, a Thompson Hotel ($500-800)",
+        "luxury": "One&Only Palmilla ($2,000-5,000)"
+      },
+      "tips": ["Flora Farms requires reservations—book before your trip", "Ask concierge to arrange transport to Flora Farms", "Full moon nights at Flora Farms are extraordinary"]
+    },
+    {
+      "day": 3,
+      "title": "Sunset Sail to El Arco",
+      "location": "Cabo San Lucas",
+      "description": "The iconic Cabo experience. Morning at leisure—pool, beach, spa. Early afternoon, transfer to Cabo San Lucas marina for your private sunset sailing charter. Sail along the coast to Land's End, where the Pacific meets the Sea of Cortez at the famous El Arco rock formation. Watch the sunset from the water with champagne, appetizers, and just the two of you. Return to resort for a late dinner.",
+      "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Leisurely morning at resort",
+        "Light lunch",
+        "Transfer to Cabo marina",
+        "Private sunset sailing charter",
+        "El Arco and Lover's Beach viewing",
+        "Champagne on the water",
+        "Late dinner at resort"
+      ],
+      "accommodation": {
+        "budget": "Casa Natalia San José ($250-400)",
+        "mid_range": "The Cape, a Thompson Hotel ($500-800)",
+        "luxury": "One&Only Palmilla ($2,000-5,000)"
+      },
+      "tips": ["Book PRIVATE yacht, not group party boat", "Afternoon departures (4pm) catch best sunset light", "Bring layers—temperature drops on water at sunset"]
+    },
+    {
+      "day": 4,
+      "title": "San José del Cabo Art Walk",
+      "location": "San José del Cabo",
+      "description": "Morning snorkeling at Chileno Bay—one of the few swimmable beaches with excellent reef snorkeling. Lunch at a beach club. Afternoon, explore San José del Cabo's charming historic district: colonial architecture, art galleries (Thursday evening art walk if timed right), and artisan shops. Watch the sunset from a rooftop bar, then dine at Don Sanchez or Mi Cocina.",
+      "image": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Morning at Chileno Bay",
+        "Snorkeling together",
+        "Beach club lunch",
+        "San José historic center walk",
+        "Art gallery exploration",
+        "Rooftop sunset drinks",
+        "Dinner at Don Sanchez"
+      ],
+      "accommodation": {
+        "budget": "Casa Natalia San José ($250-400)",
+        "mid_range": "The Cape, a Thompson Hotel ($500-800)",
+        "luxury": "One&Only Palmilla ($2,000-5,000)"
+      },
+      "tips": ["Thursday Art Walk (Nov-June) runs 5-9pm—time your visit", "Chileno Bay has equipment rental on beach", "Don Sanchez and Mi Cocina need reservations"]
+    },
+    {
+      "day": 5,
+      "title": "Adventure or Relaxation",
+      "location": "Los Cabos",
+      "description": "Choose your pace. Option A: Whale watching (December-April)—private boat to see humpback and gray whales, one of the world's great wildlife experiences. Option B: Desert adventure—ATV tour through Baja landscape or camel ride on the beach at sunset. Option C: Full spa day—indulge in the resort's signature journey. Evening: tasting menu at Manta at The Cape or SEARED at Palmilla.",
+      "image": "https://images.unsplash.com/photo-1510414842594-a61c69b5ae57?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Choose: whale watching / desert adventure / spa day",
+        "Morning activity or spa",
+        "Lunch based on activity",
+        "Afternoon continuation or pool",
+        "Prepare for special dinner",
+        "Tasting menu dinner"
+      ],
+      "accommodation": {
+        "budget": "Casa Natalia San José ($250-400)",
+        "mid_range": "The Cape, a Thompson Hotel ($500-800)",
+        "luxury": "One&Only Palmilla ($2,000-5,000)"
+      },
+      "tips": ["Whale watching season: December-April, best January-March", "Book private whale watching for intimate experience", "SEARED at Palmilla requires reservations weeks ahead"]
+    },
+    {
+      "day": 6,
+      "title": "Final Full Day of Bliss",
+      "location": "Los Cabos",
+      "description": "Your last full day—make it count. Morning golf on a Jack Nicklaus course if you play, or final pool and beach time. Afternoon couples spa treatment to prepare for tonight. This evening: your most special dinner. Arrange a private dinner on the beach, a chef's table experience, or the best table at Acre—a restaurant set in an organic farm with treehouse dining.",
+      "image": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Morning golf OR beach/pool time",
+        "Light lunch",
+        "Couples spa afternoon",
+        "Prepare for final evening",
+        "Private beach dinner OR chef's table",
+        "Stargazing in desert darkness"
+      ],
+      "accommodation": {
+        "budget": "Casa Natalia San José ($250-400)",
+        "mid_range": "The Cape, a Thompson Hotel ($500-800)",
+        "luxury": "One&Only Palmilla ($2,000-5,000)"
+      },
+      "tips": ["Arrange private dinner through resort concierge 48+ hours ahead", "Acre restaurant has treehouse tables—incredibly romantic", "Desert stars are spectacular—find dark spot away from lights"]
+    },
+    {
+      "day": 7,
+      "title": "Departure",
+      "location": "Los Cabos Airport",
+      "description": "Final morning in Baja. Watch the sunrise over the Sea of Cortez—the desert glows gold, the water shimmers, and you understand why this place captures hearts. Final swim, leisurely breakfast, then transfer to the airport. Carry home tanned skin, full hearts, and memories of Pacific sunsets that will last forever.",
+      "image": "https://images.unsplash.com/photo-1519046904884-53103b34b206?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Sunrise watching",
+        "Final swim together",
+        "Late breakfast",
+        "Pack and checkout",
+        "Airport transfer"
+      ],
+      "tips": ["Los Cabos airport is efficient—2 hours before international flights sufficient", "Duty-free has excellent mezcal and tequila", "Request late checkout at booking for honeymoons"]
+    }
+  ],
+  "practical_info": {
+    "getting_there": "Fly into San José del Cabo International Airport (SJD). Major US carriers have direct flights from most hubs. Airport to resort transfers take 15-45 minutes depending on location—Palmilla/San José area is closest.",
+    "getting_around": "Resort shuttle or arranged transport for most activities. Taxi/Uber between towns. Renting a car gives flexibility for exploring but isn't essential—most couples prefer arranged transport.",
+    "what_to_pack": ["Desert-appropriate clothes (layers for evening)", "Swimwear", "Reef-safe sunscreen", "Golf attire if playing", "Elegant resort wear for dinners", "Light jacket for boats/evening"]
+  },
+  "faqs": [
+    {
+      "question": "What's the difference between San José del Cabo and Cabo San Lucas?",
+      "answer": "San José del Cabo is quieter, more romantic, with colonial charm, art galleries, and sophisticated dining. Cabo San Lucas is livelier with nightlife, party boats, and marina action. Most honeymooners prefer San José or the corridor between them for tranquility."
+    },
+    {
+      "question": "When is whale watching season?",
+      "answer": "Humpback and gray whales visit Los Cabos from December through April, with peak sightings in January through March. This is an extraordinary experience worth timing your honeymoon around if you're flexible. Private charters offer the most intimate encounters."
+    },
+    {
+      "question": "Are the beaches swimmable?",
+      "answer": "Many are not—Pacific currents can be dangerous. Swimmable beaches include Chileno Bay, Santa Maria Bay, and Medano Beach (Cabo San Lucas). Most luxury resorts on the corridor have protected coves or excellent pools. Always check conditions."
+    },
+    {
+      "question": "Is Los Cabos expensive compared to Riviera Maya?",
+      "answer": "Generally yes. Los Cabos attracts a higher-end clientele and has fewer budget all-inclusive options. You'll pay more for comparable luxury but get a completely different landscape and experience. The farm-to-table dining scene is exceptional."
+    }
+  ],
+  "related_itineraries": ["romantic-mexico-10-days", "baja-california-7-days"],
+  "tags": ["honeymoon", "luxury", "romance", "couples", "los-cabos", "beach", "spa", "fine-dining", "whale-watching"]
+}

@@ -364,6 +364,72 @@ export const destinationImages = {
       'https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&h=600&fit=crop&q=80'
     ],
     credit: 'Unsplash'
+  },
+
+  // RIVIERA MAYA - Caribbean beaches, cenotes
+  'riviera-maya': {
+    hero: 'https://images.unsplash.com/photo-1502781252888-9143ba7f074e?w=1920&h=1080&fit=crop&q=80',
+    alt: 'Turquoise Caribbean waters along the Riviera Maya coastline',
+    gallery: [
+      'https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&h=600&fit=crop&q=80',
+      'https://images.unsplash.com/photo-1518105779142-d975f22f1b0a?w=800&h=600&fit=crop&q=80'
+    ],
+    credit: 'Unsplash'
+  },
+
+  // SAN CRISTÓBAL DE LAS CASAS - Highland colonial city
+  'san-cristobal-de-las-casas': {
+    hero: 'https://images.unsplash.com/photo-1605214332753-e91c7f3aff77?w=1920&h=1080&fit=crop&q=80',
+    alt: 'Colonial streets of San Cristóbal de las Casas, Chiapas',
+    gallery: [
+      'https://images.unsplash.com/photo-1570737209810-87a8e7245f88?w=800&h=600&fit=crop&q=80',
+      'https://images.unsplash.com/photo-1585468274952-66591eb14165?w=800&h=600&fit=crop&q=80'
+    ],
+    credit: 'Unsplash'
+  },
+
+  // COPPER CANYON - Dramatic canyon landscapes
+  'copper-canyon': {
+    hero: 'https://images.unsplash.com/photo-1518105779142-d975f22f1b0a?w=1920&h=1080&fit=crop&q=80',
+    alt: 'Panoramic view of Copper Canyon in the Sierra Madre',
+    gallery: [
+      'https://images.unsplash.com/photo-1474487548417-781cb71495f3?w=800&h=600&fit=crop&q=80',
+      'https://images.unsplash.com/photo-1506953823976-52e1fdc0149a?w=800&h=600&fit=crop&q=80'
+    ],
+    credit: 'Unsplash'
+  },
+
+  // MONTERREY - Modern city with mountains
+  'monterrey': {
+    hero: 'https://images.unsplash.com/photo-1585464231875-d9ef1f5ad396?w=1920&h=1080&fit=crop&q=80',
+    alt: 'Monterrey cityscape with Cerro de la Silla mountain',
+    gallery: [
+      'https://images.unsplash.com/photo-1574493264149-87880133a2ba?w=800&h=600&fit=crop&q=80',
+      'https://images.unsplash.com/photo-1567622661983-57a88fbc03e5?w=800&h=600&fit=crop&q=80'
+    ],
+    credit: 'Unsplash'
+  },
+
+  // MORELIA - Pink stone colonial city
+  'morelia': {
+    hero: 'https://images.unsplash.com/photo-1585468274952-66591eb14165?w=1920&h=1080&fit=crop&q=80',
+    alt: 'Morelia Cathedral in pink cantera stone',
+    gallery: [
+      'https://images.unsplash.com/photo-1570737209810-87a8e7245f88?w=800&h=600&fit=crop&q=80',
+      'https://images.unsplash.com/photo-1506953823976-52e1fdc0149a?w=800&h=600&fit=crop&q=80'
+    ],
+    credit: 'Unsplash'
+  },
+
+  // QUERÉTARO - Colonial city, wine country
+  'queretaro': {
+    hero: 'https://images.unsplash.com/photo-1585468274952-66591eb14165?w=1920&h=1080&fit=crop&q=80',
+    alt: 'Querétaro aqueduct and colonial architecture',
+    gallery: [
+      'https://images.unsplash.com/photo-1574493264149-87880133a2ba?w=800&h=600&fit=crop&q=80',
+      'https://images.unsplash.com/photo-1506377247377-2a5b3b417ebb?w=800&h=600&fit=crop&q=80'
+    ],
+    credit: 'Unsplash'
   }
 };
 
@@ -387,6 +453,22 @@ export const itineraryImages = {
   'pacific-coast-10-days': {
     image: 'https://images.unsplash.com/photo-1502680390469-be75c86b636f?w=800&h=600&fit=crop&q=80',
     alt: 'Surfer on the Pacific Coast of Mexico'
+  },
+  'weekend-mexico-city-3-days': {
+    image: 'https://images.unsplash.com/photo-1518659526054-e8b8b4a8e1b6?w=800&h=600&fit=crop&q=80',
+    alt: 'Mexico City weekend escape'
+  },
+  'riviera-maya-complete-8-days': {
+    image: 'https://images.unsplash.com/photo-1502781252888-9143ba7f074e?w=800&h=600&fit=crop&q=80',
+    alt: 'Riviera Maya Caribbean beach and cenotes'
+  },
+  'foodie-mexico-10-days': {
+    image: 'https://images.unsplash.com/photo-1565299585323-38d6b0865b47?w=800&h=600&fit=crop&q=80',
+    alt: 'Mexican food and culinary experiences'
+  },
+  'wellness-mexico-8-days': {
+    image: 'https://images.unsplash.com/photo-1506953823976-52e1fdc0149a?w=800&h=600&fit=crop&q=80',
+    alt: 'Cenote wellness and yoga in Mexico'
   }
 };
 

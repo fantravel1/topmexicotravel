@@ -1,0 +1,357 @@
+{
+  "id": "adventure-extreme-mexico-14-days",
+  "slug": "adventure-extreme-mexico-14-days",
+  "title": "14-Day Extreme Adventure Mexico",
+  "subtitle": "Canyons, Caves, Cliffs & Caribbean: Mexico's Ultimate Adrenaline Journey",
+  "duration": "14 Days",
+  "meta_title": "Mexico Adventure Itinerary 2025 - 14 Days of Extreme Activities",
+  "meta_description": "The ultimate Mexico adventure itinerary: cave diving, cliff jumping, Copper Canyon hiking, whale shark swimming, and rappelling into cenotes over 14 action-packed days.",
+  "hero_image": "https://images.unsplash.com/photo-1504730655501-24c39ac53f0e?w=1920&h=1080&fit=crop&q=80",
+  "hero_alt": "Adventurer diving into crystal clear cenote in Mexico",
+  "og_image": "https://images.unsplash.com/photo-1504730655501-24c39ac53f0e?w=1200&h=630&fit=crop&q=80",
+  "introduction": "Mexico is an adventure playground hiding in plain sight. While most visitors stick to beaches and ruins, we're diving into cenote caves, rappelling into sinkholes, hiking North America's deepest canyon, swimming with whale sharks, and exploring underground rivers. This 14-day itinerary is for those who want their heart racing as much as their mind expanding.",
+  "best_for": ["Adventure seekers", "Thrill chasers", "Active travelers", "Experienced adventurers"],
+  "estimated_budget": {
+    "budget": "$3,500-5,000 USD per person",
+    "mid_range": "$5,500-8,000 USD per person",
+    "luxury": "$10,000-15,000 USD per person"
+  },
+  "best_time": "October to May for most activities; June-September for whale sharks",
+  "destinations": ["Copper Canyon", "Mexico City", "Oaxaca", "Riviera Maya", "Holbox"],
+  "highlights": [
+    "Copper Canyon rim-to-rim hike",
+    "Cenote cave diving or freediving",
+    "Rappelling into underground cenotes",
+    "Whale shark swimming (seasonal)",
+    "Underground river exploration",
+    "Desert dune surfing"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Arrive Mexico City",
+      "location": "Mexico City",
+      "description": "Arrive in Mexico City and settle into your hotel in Roma or Condesa neighborhoods. This afternoon, get your blood pumping with a urban adventure: bike tour through Chapultepec Forest to the top of Chapultepec Castle, then explore the city's best street food by foot. Evening briefing for the adventures ahead—your guides will prep you for the coming two weeks.",
+      "image": "https://images.unsplash.com/photo-1518659526054-e5baae2caef4?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Arrive Mexico City",
+        "Check into Roma/Condesa hotel",
+        "Bike tour through Chapultepec",
+        "Castle climb",
+        "Street food walking tour",
+        "Adventure briefing dinner"
+      ],
+      "accommodation": {
+        "budget": "Hostel Regina Centro ($25-50)",
+        "mid_range": "Nima Local House ($100-150)",
+        "luxury": "Four Seasons Mexico City ($400+)"
+      },
+      "tips": ["Altitude in CDMX is 7,350ft—take it easy first day", "Hydrate heavily to prepare for physical activities", "Get good sleep—adventure begins tomorrow"]
+    },
+    {
+      "day": 2,
+      "title": "Fly to Copper Canyon",
+      "location": "Copper Canyon",
+      "description": "Early flight to Chihuahua, then transfer to Creel—the gateway to Copper Canyon (Barrancas del Cobre). Deeper and larger than the Grand Canyon, this is one of Earth's most dramatic landscapes. Afternoon acclimatization hike along the rim with jaw-dropping views. Meet your canyon guide and prepare for the rim-to-rim descent beginning tomorrow.",
+      "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Morning flight to Chihuahua",
+        "Transfer to Creel (3 hours)",
+        "Lunch in Creel",
+        "Rim acclimatization hike",
+        "Canyon viewpoints",
+        "Gear check and briefing",
+        "Early dinner and rest"
+      ],
+      "accommodation": {
+        "budget": "Hostel in Creel ($20-40)",
+        "mid_range": "Hotel Posada del Cobre ($80-120)",
+        "luxury": "Hotel Mirador ($150+)"
+      },
+      "tips": ["Creel is at 7,700ft—continue acclimatizing", "Pack light for canyon descent", "Bring layers—desert nights are cold"]
+    },
+    {
+      "day": 3,
+      "title": "Copper Canyon Descent",
+      "location": "Copper Canyon",
+      "description": "The adventure begins. Depart at dawn for the descent into the Urique Canyon—the deepest of Copper Canyon's six canyons (6,136 feet deep). Today's hike takes you from pine forests at the rim through multiple climate zones to subtropical canyon floor. The trail is ancient Tarahumara routes. Camp tonight in the canyon with your guides.",
+      "image": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Pre-dawn departure",
+        "Begin rim descent",
+        "Pass through climate zones",
+        "Trail lunch with views",
+        "Continue to canyon floor",
+        "Set up camp",
+        "Campfire dinner under stars"
+      ],
+      "accommodation": {
+        "budget": "Guided camping included",
+        "mid_range": "Guided camping with better gear",
+        "luxury": "Luxury wilderness camp (arranged)"
+      },
+      "tips": ["12-15 miles of hiking—train beforehand", "Trekking poles essential for steep descents", "Bring electrolytes for desert conditions"]
+    },
+    {
+      "day": 4,
+      "title": "Canyon Floor & Tarahumara Villages",
+      "location": "Copper Canyon",
+      "description": "Explore the canyon floor along the Urique River. Visit a Tarahumara (Rarámuri) village—the legendary running people who call these canyons home. Optional morning swim in river pools. Afternoon ascent begins, camping midway on the return climb. Stars in the canyon are extraordinary.",
+      "image": "https://images.unsplash.com/photo-1501555088652-021faa106b9b?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Canyon floor exploration",
+        "River swimming",
+        "Tarahumara village visit",
+        "Traditional lunch",
+        "Begin ascent hike",
+        "Midway camp",
+        "Stargazing"
+      ],
+      "accommodation": {
+        "budget": "Guided camping included",
+        "mid_range": "Guided camping with better gear",
+        "luxury": "Luxury wilderness camp"
+      },
+      "tips": ["Respect Tarahumara culture—ask before photographing", "Buy handmade crafts directly from artisans", "Night sky at canyon floor rivals anywhere on Earth"]
+    },
+    {
+      "day": 5,
+      "title": "Ascent & El Chepe Train",
+      "location": "Copper Canyon to Divisadero",
+      "description": "Complete the canyon ascent—legs burning, spirit soaring. Late morning, board the legendary El Chepe train at Divisadero for one of the world's most spectacular rail journeys. The train hugs canyon walls, crosses incredible trestle bridges, and offers views impossible from any road. Continue to Posada Barrancas for the night.",
+      "image": "https://images.unsplash.com/photo-1474487548417-781cb71495f3?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Early morning ascent completion",
+        "Return to rim",
+        "Board El Chepe train at Divisadero",
+        "Scenic rail journey",
+        "Observation car experience",
+        "Arrive Posada Barrancas",
+        "Recovery dinner"
+      ],
+      "accommodation": {
+        "budget": "Hotel Posada Barrancas ($60-100)",
+        "mid_range": "Hotel Divisadero Barrancas ($120-180)",
+        "luxury": "Mansión Tarahumara ($200+)"
+      },
+      "tips": ["Book El Chepe primera express class for best experience", "Right side of train has best views", "Your legs will be very tired—the train ride is perfect timing"]
+    },
+    {
+      "day": 6,
+      "title": "Fly to Oaxaca",
+      "location": "Oaxaca",
+      "description": "Morning flight to Oaxaca City via Chihuahua and Mexico City. Arrive early afternoon in Oaxaca—a completely different Mexico of green valleys and ancient Zapotec culture. Rest at your hotel, then evening walking tour of the zócalo, mezcal tasting at a traditional mezcalería, and incredible Oaxacan cuisine for dinner.",
+      "image": "https://images.unsplash.com/photo-1518105779142-d975f22f1b0a?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Morning departure Copper Canyon",
+        "Flights to Oaxaca",
+        "Hotel check-in",
+        "Rest and recovery",
+        "Evening walking tour",
+        "Mezcal tasting",
+        "Oaxacan dinner"
+      ],
+      "accommodation": {
+        "budget": "Casa Angel ($50-80)",
+        "mid_range": "Casa Oaxaca ($150-250)",
+        "luxury": "Hotel Escondido ($300+)"
+      },
+      "tips": ["Oaxaca is at 5,000ft—easier after Copper Canyon", "Your legs will thank you for a rest day", "Don't miss chapulines (grasshoppers) with mezcal"]
+    },
+    {
+      "day": 7,
+      "title": "Hierve el Agua & Monte Albán",
+      "location": "Oaxaca",
+      "description": "Adventure meets archaeology. Morning visit to Monte Albán—the ancient Zapotec capital atop a mountain, with challenging hiking around the pyramids. Afternoon at Hierve el Agua—petrified waterfalls with natural infinity pools overlooking the valley. Cliff jumping into the pools for the brave. Return for traditional Oaxacan dinner.",
+      "image": "https://images.unsplash.com/photo-1533104816931-20fa691ff6ca?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Morning at Monte Albán ruins",
+        "Climb pyramids and explore",
+        "Transfer to Hierve el Agua",
+        "Lunch en route",
+        "Swim in petrified pools",
+        "Optional cliff jumping",
+        "Sunset at Hierve el Agua",
+        "Return to Oaxaca for dinner"
+      ],
+      "accommodation": {
+        "budget": "Casa Angel ($50-80)",
+        "mid_range": "Casa Oaxaca ($150-250)",
+        "luxury": "Hotel Escondido ($300+)"
+      },
+      "tips": ["Monte Albán opens at 8am—go early for fewer crowds", "Hierve el Agua is 2 hours from city—go on way back from Monte Albán", "Cliff jumping is 3-5 meters—assess carefully"]
+    },
+    {
+      "day": 8,
+      "title": "Fly to Riviera Maya",
+      "location": "Riviera Maya",
+      "description": "Fly from Oaxaca to Cancún, transfer to the Riviera Maya. This is where Mexican adventure reaches another level—the world's longest underwater cave systems await. Check into your hotel in Tulum or Playa del Carmen. Afternoon briefing with your cenote and diving guides. Evening exploring Tulum's bohemian beach road.",
+      "image": "https://images.unsplash.com/photo-1504730655501-24c39ac53f0e?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Morning flight to Cancún",
+        "Transfer to Riviera Maya",
+        "Hotel check-in",
+        "Cenote/diving briefing",
+        "Equipment check",
+        "Tulum exploration",
+        "Beach dinner"
+      ],
+      "accommodation": {
+        "budget": "Selina Tulum ($50-100)",
+        "mid_range": "Nomade Tulum ($200-350)",
+        "luxury": "Be Tulum ($400+)"
+      },
+      "tips": ["Certified divers can do cenote cave diving", "Non-divers can snorkel or freedive cenotes", "Pack underwater camera for cenote adventures"]
+    },
+    {
+      "day": 9,
+      "title": "Cenote Cave Diving or Freediving",
+      "location": "Cenotes",
+      "description": "The main event for underwater adventurers. Certified cave divers: explore the Dos Ojos or Sac Actun systems—the world's longest underwater cave systems. Freedive certified: guided cenote freediving with depths to 30+ meters. Snorkelers: incredible cenote snorkeling in crystal waters with light beams. All groups: unforgettable subterranean exploration.",
+      "image": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Early departure for cenotes",
+        "Cenote briefing and gear up",
+        "First dive/freedive/snorkel",
+        "Surface interval with jungle lunch",
+        "Second cenote exploration",
+        "Third cenote (divers)",
+        "Return to hotel",
+        "Casual dinner and rest"
+      ],
+      "accommodation": {
+        "budget": "Selina Tulum ($50-100)",
+        "mid_range": "Nomade Tulum ($200-350)",
+        "luxury": "Be Tulum ($400+)"
+      },
+      "tips": ["Cave diving requires cavern/cave certification", "Cenote freediving requires intermediate freedive certification", "Snorkeling cenotes is spectacular for all levels"]
+    },
+    {
+      "day": 10,
+      "title": "Cenote Rappelling & Underground Rivers",
+      "location": "Cenotes & Underground Rivers",
+      "description": "Different cenotes, different adventure. Morning rappelling into a cenote sinkhole—descending 100+ feet into the jungle floor to reach hidden pools. Afternoon at Río Secreto or similar—exploring underground rivers by swimming, wading, and climbing through cave systems. This is adventure you can't find anywhere else.",
+      "image": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Morning transfer to rappelling cenote",
+        "Safety briefing and gear up",
+        "100+ foot rappel descent",
+        "Cenote swimming and exploration",
+        "Ascent",
+        "Lunch",
+        "Underground river exploration",
+        "Swimming through caves",
+        "Return to hotel"
+      ],
+      "accommodation": {
+        "budget": "Selina Tulum ($50-100)",
+        "mid_range": "Nomade Tulum ($200-350)",
+        "luxury": "Be Tulum ($400+)"
+      },
+      "tips": ["No rappelling experience needed—guides teach you", "Wear water shoes and clothes you can swim in", "Waterproof headlamps provided but bring backup"]
+    },
+    {
+      "day": 11,
+      "title": "Transfer to Holbox",
+      "location": "Holbox Island",
+      "description": "Travel to Holbox Island—a car-free paradise off the Yucatán coast. Ferry from Chiquilá brings you to sandy streets and Caribbean calm. This is base camp for tomorrow's whale shark adventure (seasonal) or reef diving. Afternoon kayaking through mangroves, evening bioluminescence tour—paddle through waters that glow with every stroke.",
+      "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Morning transfer to Chiquilá",
+        "Ferry to Holbox",
+        "Check into beachfront hotel",
+        "Afternoon mangrove kayaking",
+        "Beach time and rest",
+        "Early dinner",
+        "Bioluminescence night tour"
+      ],
+      "accommodation": {
+        "budget": "Tribu Hostel ($40-60)",
+        "mid_range": "Casa Las Tortugas ($150-250)",
+        "luxury": "Villas Flamingos ($300+)"
+      },
+      "tips": ["Bioluminescence best with new moon—check lunar calendar", "Book whale shark tour in advance during season", "Bring cash—limited ATMs on Holbox"]
+    },
+    {
+      "day": 12,
+      "title": "Whale Sharks or Reef Adventure",
+      "location": "Holbox / Caribbean",
+      "description": "If June-September: swim with whale sharks—the world's largest fish, up to 40 feet long. A boat ride to feeding areas, then snorkeling alongside these gentle giants. Off-season: deep reef diving at Cabo Catoche or exploration of lesser-known cenotes. Either way, an unforgettable day in the water. Evening celebration dinner on the beach.",
+      "image": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Early morning departure",
+        "Boat ride to whale shark feeding grounds",
+        "Multiple swims with whale sharks",
+        "Lunch on boat",
+        "Return to Holbox",
+        "Rest and beach time",
+        "Celebration dinner"
+      ],
+      "accommodation": {
+        "budget": "Tribu Hostel ($40-60)",
+        "mid_range": "Casa Las Tortugas ($150-250)",
+        "luxury": "Villas Flamingos ($300+)"
+      },
+      "tips": ["Whale shark season: June 1 - September 15", "Tours depart 6-7am, return early afternoon", "Motion sickness meds if you're sensitive—can be bouncy"]
+    },
+    {
+      "day": 13,
+      "title": "Return to Cancún",
+      "location": "Cancún",
+      "description": "Morning ferry and transfer back to Cancún area. Final afternoon for any missed adventures: parasailing, jet skiing, or simply beach relaxation. Evening farewell dinner reflecting on two weeks of extraordinary experiences—from the depths of Copper Canyon to the underwater caves of the Yucatán.",
+      "image": "https://images.unsplash.com/photo-1510414842594-a61c69b5ae57?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Morning in Holbox",
+        "Ferry and transfer to Cancún",
+        "Hotel check-in",
+        "Optional final adventure activity",
+        "Beach time",
+        "Farewell dinner"
+      ],
+      "accommodation": {
+        "budget": "Selina Cancún Downtown ($50-80)",
+        "mid_range": "Hotel Zone property ($150-250)",
+        "luxury": "Nizuc Resort ($500+)"
+      },
+      "tips": ["Book hotel near airport for early flights", "Have one last swim in Caribbean", "Start organizing photos and memories"]
+    },
+    {
+      "day": 14,
+      "title": "Departure",
+      "location": "Cancún Airport",
+      "description": "Final morning in Mexico. After 14 days of adventures spanning deserts, canyons, mountains, caves, and Caribbean waters, you've experienced a Mexico few travelers ever see. Head to the airport with incredible stories, physical fatigue in the best way, and a profound appreciation for Mexico's adventure potential.",
+      "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&h=600&fit=crop&q=80",
+      "activities": [
+        "Final breakfast",
+        "Airport transfer",
+        "Departure"
+      ],
+      "tips": ["Arrive 3 hours before international flights in Cancún", "Duty-free has great mezcal selection", "You'll need recovery time at home!"]
+    }
+  ],
+  "practical_info": {
+    "getting_there": "Multi-city routing: Fly into Mexico City (MEX), internal flights to Chihuahua and Oaxaca, fly out of Cancún (CUN). Book internal flights on Volaris or VivaAerobus for best prices. Alternative: Start and end in Cancún, fly to Chihuahua roundtrip.",
+    "getting_around": "Mix of internal flights, arranged transfers, and ferries. Copper Canyon requires guided transportation. Riviera Maya works well with rental car or arranged tours. Holbox is car-free.",
+    "what_to_pack": ["Hiking boots for canyon", "Water shoes for cenotes", "Diving/snorkel gear if you have it", "Quick-dry clothing", "Rain jacket", "First aid kit", "Headlamp", "Reef-safe sunscreen"]
+  },
+  "faqs": [
+    {
+      "question": "How fit do I need to be for this itinerary?",
+      "answer": "Very fit. The Copper Canyon rim-to-rim hike is strenuous (12-15 miles per day with significant elevation change). Cenote activities require strong swimming. Train for several months with hiking, swimming, and cardio before attempting this itinerary."
+    },
+    {
+      "question": "Can I do cenote cave diving without cave certification?",
+      "answer": "You can do cavern diving (always in natural light) with Open Water certification. Full cave diving requires Cave or Cavern certification. If you're not certified but want this experience, consider getting certified before your trip—courses are offered in Playa del Carmen."
+    },
+    {
+      "question": "What if I'm not there during whale shark season?",
+      "answer": "October-May offers different adventures: bull shark diving (November-March), sea turtle nesting (May-October), or incredible reef diving year-round. Holbox is worth visiting any time for its pristine beauty and bioluminescence."
+    },
+    {
+      "question": "Is this trip safe?",
+      "answer": "With proper guides and operators, yes. Every adventure activity uses certified guides and proper safety equipment. The Yucatán and Copper Canyon are safe regions for tourists. Travel insurance with adventure activity coverage is essential."
+    }
+  ],
+  "related_itineraries": ["copper-canyon-7-days", "adventure-mexico-10-days"],
+  "tags": ["adventure", "extreme", "hiking", "diving", "cenotes", "whale-sharks", "copper-canyon", "active"]
+}
