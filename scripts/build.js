@@ -78,8 +78,8 @@ function processEachBlocks(template, data) {
     // Add content before this block
     output += result.substring(lastIndex, startPos);
 
-    // Get the inner template
-    const innerTemplate = result.substring(contentStart, endPos);
+    // Get the inner template (trim leading/trailing whitespace to avoid blank lines)
+    const innerTemplate = result.substring(contentStart, endPos).trim();
 
     // Get the array to iterate
     const array = getNestedValue(data, arrayPath);
@@ -97,7 +97,7 @@ function processEachBlocks(template, data) {
         };
         // Recursively process nested blocks
         return compileTemplate(processEachBlocks(innerTemplate, itemData), itemData);
-      }).join('');
+      }).join('\n');
       output += itemsOutput;
     }
 
