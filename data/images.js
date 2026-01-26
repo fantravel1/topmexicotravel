@@ -388,24 +388,24 @@ export const destinationImages = {
     credit: 'Unsplash'
   },
 
-  // COPPER CANYON - Dramatic canyon landscapes
+  // COPPER CANYON - Dramatic canyon landscapes (Sierra Tarahumara)
   'copper-canyon': {
-    hero: 'https://images.unsplash.com/photo-1518105779142-d975f22f1b0a?w=1920&h=1080&fit=crop&q=80',
-    alt: 'Panoramic view of Copper Canyon in the Sierra Madre',
+    hero: 'https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=1920&h=1080&fit=crop&q=80',
+    alt: 'Dramatic canyon landscape in the Sierra Madre mountains',
     gallery: [
       'https://images.unsplash.com/photo-1474487548417-781cb71495f3?w=800&h=600&fit=crop&q=80',
-      'https://images.unsplash.com/photo-1506953823976-52e1fdc0149a?w=800&h=600&fit=crop&q=80'
+      'https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=800&h=600&fit=crop&q=80'
     ],
     credit: 'Unsplash'
   },
 
-  // MONTERREY - Modern city with mountains
+  // MONTERREY - Modern city with mountains (Cerro de la Silla)
   'monterrey': {
-    hero: 'https://images.unsplash.com/photo-1585464231875-d9ef1f5ad396?w=1920&h=1080&fit=crop&q=80',
-    alt: 'Monterrey cityscape with Cerro de la Silla mountain',
+    hero: 'https://images.unsplash.com/photo-1449034446853-66c86144b0ad?w=1920&h=1080&fit=crop&q=80',
+    alt: 'Monterrey cityscape with dramatic mountain backdrop',
     gallery: [
-      'https://images.unsplash.com/photo-1574493264149-87880133a2ba?w=800&h=600&fit=crop&q=80',
-      'https://images.unsplash.com/photo-1567622661983-57a88fbc03e5?w=800&h=600&fit=crop&q=80'
+      'https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?w=800&h=600&fit=crop&q=80',
+      'https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?w=800&h=600&fit=crop&q=80'
     ],
     credit: 'Unsplash'
   },
