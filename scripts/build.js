@@ -28,6 +28,89 @@ const CONFIG = {
 };
 
 // Simple Handlebars-like template engine
+// Process {{#each}} blocks with proper nesting support
+function processEachBlocks(template, data) {
+  let result = template;
+
+  // Find the outermost {{#each}} blocks (don't match nested ones)
+  const eachStartRegex = /\{\{#each\s+([\w.]+)\}\}/g;
+
+  let match;
+  let lastIndex = 0;
+  let output = '';
+
+  while ((match = eachStartRegex.exec(result)) !== null) {
+    const startTag = match[0];
+    const arrayPath = match[1];
+    const startPos = match.index;
+    const contentStart = startPos + startTag.length;
+
+    // Find the matching {{/each}} by counting nested blocks
+    let depth = 1;
+    let searchPos = contentStart;
+    let endPos = -1;
+
+    while (depth > 0 && searchPos < result.length) {
+      const nextOpen = result.indexOf('{{#each', searchPos);
+      const nextClose = result.indexOf('{{/each}}', searchPos);
+
+      if (nextClose === -1) break;
+
+      if (nextOpen !== -1 && nextOpen < nextClose) {
+        depth++;
+        searchPos = nextOpen + 7;
+      } else {
+        depth--;
+        if (depth === 0) {
+          endPos = nextClose;
+        }
+        searchPos = nextClose + 9;
+      }
+    }
+
+    if (endPos === -1) {
+      // No matching close tag found, skip
+      output += result.substring(lastIndex, contentStart);
+      lastIndex = contentStart;
+      continue;
+    }
+
+    // Add content before this block
+    output += result.substring(lastIndex, startPos);
+
+    // Get the inner template
+    const innerTemplate = result.substring(contentStart, endPos);
+
+    // Get the array to iterate
+    const array = getNestedValue(data, arrayPath);
+
+    if (Array.isArray(array)) {
+      // Process each item
+      const itemsOutput = array.map((item, index) => {
+        const itemData = {
+          ...data,
+          ...(typeof item === 'object' ? item : {}),
+          this: item,
+          '@index': index,
+          '@first': index === 0,
+          '@last': index === array.length - 1
+        };
+        // Recursively process nested blocks
+        return compileTemplate(processEachBlocks(innerTemplate, itemData), itemData);
+      }).join('');
+      output += itemsOutput;
+    }
+
+    lastIndex = endPos + 9; // 9 = length of '{{/each}}'
+    eachStartRegex.lastIndex = lastIndex;
+  }
+
+  // Add remaining content
+  output += result.substring(lastIndex);
+
+  return output;
+}
+
 function compileTemplate(template, data) {
   let result = template;
 
@@ -49,16 +132,8 @@ function compileTemplate(template, data) {
     return value ? compileTemplate(content, data) : '';
   });
 
-  // Handle each loops {{#each items}}...{{/each}}
-  const eachRegex = /\{\{#each\s+(\w+)\}\}([\s\S]*?)\{\{\/each\}\}/g;
-  result = result.replace(eachRegex, (match, arrayName, itemTemplate) => {
-    const array = data[arrayName];
-    if (!Array.isArray(array)) return '';
-    return array.map((item, index) => {
-      const itemData = { ...data, ...item, this: item, '@index': index, '@first': index === 0, '@last': index === array.length - 1 };
-      return compileTemplate(itemTemplate, itemData);
-    }).join('');
-  });
+  // Handle each loops {{#each items}}...{{/each}} with proper nesting support
+  result = processEachBlocks(result, data);
 
   // Handle unless {{#unless @last}}...{{/unless}}
   const unlessRegex = /\{\{#unless\s+([^}]+)\}\}([\s\S]*?)\{\{\/unless\}\}/g;
@@ -77,6 +152,15 @@ function compileTemplate(template, data) {
   const tripleRegex = /\{\{\{(\w+)\}\}\}/g;
   result = result.replace(tripleRegex, (match, key) => {
     return data[key] !== undefined ? data[key] : '';
+  });
+
+  // Handle {{this}} for primitive values in loops
+  result = result.replace(/\{\{this\}\}/g, () => {
+    const value = data.this;
+    if (value !== undefined && (typeof value === 'string' || typeof value === 'number')) {
+      return escapeHtml(String(value));
+    }
+    return '';
   });
 
   // Handle this.property {{this.name}}

@@ -70,6 +70,28 @@
       "answer": "Like all Riviera Maya beaches, seaweed (sargassum) can be an issue, typically March-August. Grand Velas has dedicated crews cleaning the beach, and the pools are always perfect. Check recent reviews for current conditions if beach is your priority."
     }
   ],
+  "videos": [
+    {
+      "youtube_id": "2x1mcD0nwHc",
+      "title": "Grand Velas Riviera Maya Presidential Suite",
+      "description": "Tour the stunning Zen Grand Presidential Suite at Grand Velas Riviera Maya."
+    },
+    {
+      "youtube_id": "lgCu7GK13DU",
+      "title": "Gourmet Dining at Grand Velas",
+      "description": "Experience the luxury all-inclusive gourmet cuisine that sets Grand Velas apart."
+    },
+    {
+      "youtube_id": "IsXCbAm-vmY",
+      "title": "SE Spa at Grand Velas Riviera Maya",
+      "description": "Discover the 75,000 sq ft spa sanctuary with holistic treatments."
+    },
+    {
+      "youtube_id": "6PNWb7fLDZE",
+      "title": "Destination Weddings at Grand Velas",
+      "description": "Plan your perfect destination wedding at this luxury resort."
+    }
+  ],
   "related_guides": ["all-inclusive-resorts", "best-value-all-inclusives", "resort-unico-riviera-maya", "resort-excellence-playa-mujeres", "riviera-maya", "wedding-honeymoon-guide", "honeymoon-riviera-maya-7-days"],
   "tags": ["all-inclusive", "luxury", "riviera-maya", "fine-dining", "spa", "family", "honeymoon", "resort"]
 }

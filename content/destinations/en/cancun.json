@@ -386,5 +386,32 @@
   },
   "related_destinations": ["playa-del-carmen", "tulum", "isla-mujeres", "cozumel", "holbox"],
   "tags": ["beach", "caribbean", "all-inclusive", "nightlife", "family-friendly", "diving", "mayan-ruins", "featured"],
+  "videos": [
+    {
+      "youtube_id": "lpynMhr1wko",
+      "title": "Hotel Riu Cancun Resort Tour",
+      "description": "Explore the all-inclusive Hotel Riu Cancun with its beachfront location and extensive amenities."
+    },
+    {
+      "youtube_id": "IEpfw64lAao",
+      "title": "Iberostar Selection Cancun Resort Showcase",
+      "description": "Discover the Iberostar Selection Cancun's luxury offerings and Caribbean beach setting."
+    },
+    {
+      "youtube_id": "QyyrfEfepYI",
+      "title": "ME Cancun Lifestyle Resort Experience",
+      "description": "See the contemporary design and vibrant atmosphere of ME Cancun, a modern beachfront resort."
+    },
+    {
+      "youtube_id": "Ibijj6pnqDg",
+      "title": "Beach Palace Cancun Overview",
+      "description": "Tour the all-inclusive Beach Palace in Cancún's Hotel Zone with family-friendly amenities."
+    },
+    {
+      "youtube_id": "fCDtrd5jbig",
+      "title": "Sandos Cancun Luxury Resort",
+      "description": "Experience the adults-only Sandos Cancun with its stunning beach and all-inclusive offerings."
+    }
+  ],
   "schema_type": "TouristDestination"
 }
