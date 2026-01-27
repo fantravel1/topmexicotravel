@@ -630,6 +630,39 @@ function generateGuidePage(lang, guide, template, criticalCss) {
       .replace(/\n(\d+)\. /g, '</p><ol><li>')
   }));
 
+  // Generate FAQ JSON-LD schema
+  let faq_schema = '';
+  if (guide.faqs && guide.faqs.length > 0) {
+    const faqObj = {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": guide.faqs.map(faq => ({
+        "@type": "Question",
+        "name": faq.question,
+        "acceptedAnswer": { "@type": "Answer", "text": faq.answer }
+      }))
+    };
+    faq_schema = `<script type="application/ld+json">\n${JSON.stringify(faqObj, null, 2)}\n</script>`;
+  }
+
+  // Generate VideoObject schema
+  let video_schema = '';
+  if (guide.videos && guide.videos.length > 0) {
+    video_schema = guide.videos.map(v => {
+      const obj = {
+        "@context": "https://schema.org",
+        "@type": "VideoObject",
+        "name": v.title,
+        "description": v.description || v.title,
+        "thumbnailUrl": `https://img.youtube.com/vi/${v.youtube_id}/mqdefault.jpg`,
+        "uploadDate": "2024-01-01",
+        "contentUrl": `https://www.youtube.com/watch?v=${v.youtube_id}`,
+        "embedUrl": `https://www.youtube.com/embed/${v.youtube_id}`
+      };
+      return `<script type="application/ld+json">\n${JSON.stringify(obj, null, 2)}\n</script>`;
+    }).join('\n');
+  }
+
   const pageData = {
     ...guide,
     sections: processedSections,
@@ -643,6 +676,8 @@ function generateGuidePage(lang, guide, template, criticalCss) {
     og_image_alt: guide.hero_alt || guide.title,
     meta_title: guide.meta_title || `${guide.title} | Top Mexico Travel`,
     meta_description: guide.meta_description || guide.introduction?.substring(0, 160),
+    faq_schema,
+    video_schema,
     currentYear: new Date().getFullYear()
   };
 

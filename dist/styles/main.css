@@ -442,8 +442,8 @@ th {
   display: flex;
   align-items: center;
   justify-content: center;
-  min-width: 40px;
-  height: 40px;
+  min-width: 44px;
+  height: 44px;
   padding: var(--spacing-xs) var(--spacing-sm);
   border-radius: var(--radius-sm);
   font-size: 0.875rem;
@@ -584,8 +584,8 @@ th {
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 40px;
-  height: 40px;
+  width: 44px;
+  height: 44px;
   border-radius: 50%;
   background: var(--color-bg-alt);
   color: var(--color-text);
@@ -712,5 +712,35 @@ th {
 
   .itinerary-timeline {
     padding-left: var(--spacing-lg);
+  }
+}
+
+/* Small mobile */
+@media (max-width: 480px) {
+  .cards-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .related-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .newsletter-form input[type="email"] {
+    min-width: 100%;
+  }
+}
+
+/* Hover only for pointer devices */
+@media (hover: hover) {
+  .card:hover {
+    transform: translateY(-4px);
+    box-shadow: var(--shadow-lg);
+  }
+}
+
+@media (hover: none) {
+  .card:hover {
+    transform: none;
+    box-shadow: var(--shadow-md);
   }
 }
