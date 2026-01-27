@@ -878,6 +878,18 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://topmexicotravel.com/en/guides/mexico-budget/"/>
   </url>
   <url>
+    <loc>https://topmexicotravel.com/fr/guides/mexico-city-vs-oaxaca/</loc>
+    <lastmod>2026-01-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://topmexicotravel.com/en/guides/mexico-city-vs-oaxaca/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://topmexicotravel.com/es/guides/mexico-city-vs-oaxaca/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://topmexicotravel.com/de/guides/mexico-city-vs-oaxaca/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://topmexicotravel.com/fr/guides/mexico-city-vs-oaxaca/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://topmexicotravel.com/pt/guides/mexico-city-vs-oaxaca/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://topmexicotravel.com/en/guides/mexico-city-vs-oaxaca/"/>
+  </url>
+  <url>
     <loc>https://topmexicotravel.com/fr/guides/mexico-safety/</loc>
     <lastmod>2026-01-27</lastmod>
     <changefreq>monthly</changefreq>
@@ -1140,6 +1152,30 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://topmexicotravel.com/fr/guides/resort-zoetry-paraiso/"/>
     <xhtml:link rel="alternate" hreflang="pt" href="https://topmexicotravel.com/pt/guides/resort-zoetry-paraiso/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://topmexicotravel.com/en/guides/resort-zoetry-paraiso/"/>
+  </url>
+  <url>
+    <loc>https://topmexicotravel.com/fr/guides/riu-vs-iberostar-comparison/</loc>
+    <lastmod>2026-01-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://topmexicotravel.com/en/guides/riu-vs-iberostar-comparison/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://topmexicotravel.com/es/guides/riu-vs-iberostar-comparison/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://topmexicotravel.com/de/guides/riu-vs-iberostar-comparison/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://topmexicotravel.com/fr/guides/riu-vs-iberostar-comparison/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://topmexicotravel.com/pt/guides/riu-vs-iberostar-comparison/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://topmexicotravel.com/en/guides/riu-vs-iberostar-comparison/"/>
+  </url>
+  <url>
+    <loc>https://topmexicotravel.com/fr/guides/riviera-maya-vs-riviera-nayarit/</loc>
+    <lastmod>2026-01-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://topmexicotravel.com/en/guides/riviera-maya-vs-riviera-nayarit/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://topmexicotravel.com/es/guides/riviera-maya-vs-riviera-nayarit/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://topmexicotravel.com/de/guides/riviera-maya-vs-riviera-nayarit/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://topmexicotravel.com/fr/guides/riviera-maya-vs-riviera-nayarit/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://topmexicotravel.com/pt/guides/riviera-maya-vs-riviera-nayarit/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://topmexicotravel.com/en/guides/riviera-maya-vs-riviera-nayarit/"/>
   </url>
   <url>
     <loc>https://topmexicotravel.com/fr/guides/secrets-vs-excellence-comparison/</loc>
