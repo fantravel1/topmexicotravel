@@ -23,11 +23,11 @@
       <div class="language-switcher">
         <label for="lang-select" class="sr-only">Select Language</label>
         <select id="lang-select" class="lang-select" onchange="window.location.href=this.value">
-          <option value="/en/{{slug}}/" {{#if (eq lang 'en')}}selected{{/if}}>EN</option>
-          <option value="/es/{{slug}}/" {{#if (eq lang 'es')}}selected{{/if}}>ES</option>
-          <option value="/de/{{slug}}/" {{#if (eq lang 'de')}}selected{{/if}}>DE</option>
-          <option value="/fr/{{slug}}/" {{#if (eq lang 'fr')}}selected{{/if}}>FR</option>
-          <option value="/pt/{{slug}}/" {{#if (eq lang 'pt')}}selected{{/if}}>PT</option>
+          <option value="/en/{{#if slug}}{{slug}}/{{/if}}" {{#if (eq lang 'en')}}selected{{/if}}>EN</option>
+          <option value="/es/{{#if slug}}{{slug}}/{{/if}}" {{#if (eq lang 'es')}}selected{{/if}}>ES</option>
+          <option value="/de/{{#if slug}}{{slug}}/{{/if}}" {{#if (eq lang 'de')}}selected{{/if}}>DE</option>
+          <option value="/fr/{{#if slug}}{{slug}}/{{/if}}" {{#if (eq lang 'fr')}}selected{{/if}}>FR</option>
+          <option value="/pt/{{#if slug}}{{slug}}/{{/if}}" {{#if (eq lang 'pt')}}selected{{/if}}>PT</option>
         </select>
       </div>
 

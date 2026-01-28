@@ -1,0 +1,209 @@
+{
+  "id": "puebla",
+  "name": "Puebla",
+  "slug": "puebla",
+  "state": "Puebla",
+  "country": "Mexico",
+  "type": "colonial",
+  "lang": "en",
+  "coordinates": {
+    "latitude": 19.0414,
+    "longitude": -98.2063
+  },
+  "meta_title": "Puebla Travel Guide 2025 - Colonial Architecture & Culinary Capital | Top Mexico Travel",
+  "meta_description": "Discover Puebla, Mexico's culinary capital and UNESCO World Heritage city. Explore stunning colonial architecture, Talavera pottery, mole poblano, and easy access from Mexico City.",
+  "og_image": "https://images.unsplash.com/photo-1585468274952-66591eb14165?w=1200&h=630&fit=crop&q=80",
+  "og_image_alt": "Colorful Talavera tiles on Puebla's historic buildings",
+  "canonical_url": "https://topmexicotravel.com/en/puebla/",
+  "hero_image": "https://images.unsplash.com/photo-1585468274952-66591eb14165?w=1920&h=1080&fit=crop&q=80",
+  "hero_image_alt": "Puebla Cathedral and historic center with volcanic backdrop",
+  "tagline": "Mexico's culinary capital — where baroque splendor, Talavera artistry, and legendary cuisine define colonial Mexico at its finest",
+  "featured_snippet_intro": "Puebla is one of Mexico's most beautiful colonial cities, famous for its distinctive Talavera-tiled buildings, baroque churches, and legendary cuisine including mole poblano and chiles en nogada. Just 2 hours from Mexico City, it makes a perfect day trip or multi-day destination.",
+  "introduction": "<p>Founded in 1531, Puebla was designed from scratch as a Spanish colonial city—unlike Mexico City, built atop Aztec Tenochtitlan. This 'city of angels' became one of the most important in New Spain, and its wealth shows in the stunning baroque architecture.</p><p>What distinguishes Puebla is its artisanal heritage, especially Talavera pottery. The distinctive blue-and-white ceramic tiles adorn buildings throughout the historic center. The cuisine is equally renowned: mole poblano (the complex sauce of chilies and chocolate), chiles en nogada (the patriotic dish with walnut sauce), and cemitas (Puebla's signature sandwich).</p><p>The city sits in a valley framed by volcanoes—Popocatépetl and Iztaccíhuatl—and nearby Cholula has the world's largest pyramid by volume. The Amparo Museum is one of Mexico's finest. With excellent restaurants, craft traditions, and easy access from Mexico City, Puebla rewards exploration.</p>",
+  "best_time_to_visit": "October - May",
+  "average_temperature": "20°C / 68°F",
+  "known_for": "Talavera Pottery & Mole Poblano",
+  "airport_code": "PBC",
+  "rating": "4.7",
+  "review_count": "3200",
+  "tourist_types_json": "[\"Foodie\", \"Architecture Lover\", \"History Buff\", \"Culture Enthusiast\", \"Day Tripper\"]",
+
+  "attractions": [
+    {
+      "name": "Centro Histórico (UNESCO)",
+      "type": "Historic District",
+      "description": "The UNESCO World Heritage center with stunning baroque churches, Talavera-decorated buildings, the beautiful zócalo, and the towering cathedral.",
+      "image": "https://images.unsplash.com/photo-1585468274952-66591eb14165?w=800&h=600&fit=crop&q=80",
+      "duration": "Half day",
+      "price": "Free",
+      "tip": "Take a walking tour to understand the rich history. The night illumination of buildings is spectacular."
+    },
+    {
+      "name": "Cholula Pyramid",
+      "type": "Archaeological Site",
+      "description": "The largest pyramid in the world by volume, topped by a Spanish church. Explore the tunnels inside and climb for volcano views.",
+      "image": "https://images.unsplash.com/photo-1518638150340-f706e86654de?w=800&h=600&fit=crop&q=80",
+      "duration": "Half day",
+      "price": "$5 USD",
+      "tip": "Clear mornings offer views of Popocatépetl. The nearby town has excellent restaurants and a bohemian vibe."
+    },
+    {
+      "name": "Puebla Cathedral",
+      "type": "Church",
+      "description": "One of Mexico's largest and most beautiful cathedrals with stunning baroque interior, completed in 1649.",
+      "image": "https://images.unsplash.com/photo-1574493264149-87880133a2ba?w=800&h=600&fit=crop&q=80",
+      "duration": "1 hour",
+      "price": "Free",
+      "tip": "Visit in the morning for the best light through the stained glass windows."
+    },
+    {
+      "name": "Museo Amparo",
+      "type": "Museum",
+      "description": "One of Mexico's finest museums, housed in colonial buildings with outstanding pre-Hispanic and colonial art collections.",
+      "image": "https://images.unsplash.com/photo-1594608661623-aa0bd3a69d98?w=800&h=600&fit=crop&q=80",
+      "duration": "2-3 hours",
+      "price": "$5 USD (free Mondays)",
+      "tip": "Don't miss the rooftop terrace with cathedral views."
+    },
+    {
+      "name": "Talavera Workshops",
+      "type": "Cultural Experience",
+      "description": "Visit traditional workshops producing the distinctive Talavera pottery that defines Puebla's visual identity. Watch artisans at work.",
+      "image": "https://images.unsplash.com/photo-1570737209810-87a8e7245f88?w=800&h=600&fit=crop&q=80",
+      "duration": "2 hours",
+      "price": "Free-$5 USD",
+      "tip": "Uriarte and Talavera de la Reyna are historic workshops with tours. Authentic Talavera is certified—look for the hologram."
+    },
+    {
+      "name": "Barrio del Artista",
+      "type": "Arts District",
+      "description": "Charming artist quarter with galleries, art studios, and painters working in colonial courtyards. Perfect for unique souvenirs.",
+      "image": "https://images.unsplash.com/photo-1578469550956-0e16b69c6a3d?w=800&h=600&fit=crop&q=80",
+      "duration": "1-2 hours",
+      "price": "Free",
+      "tip": "Commission a portrait or pick up original artwork directly from artists."
+    }
+  ],
+
+  "neighborhoods": [
+    {
+      "name": "Centro Histórico",
+      "slug": "centro-historico",
+      "description": "The UNESCO-protected colonial core with the zócalo, cathedral, museums, and best restaurants.",
+      "image": "https://images.unsplash.com/photo-1585468274952-66591eb14165?w=800&h=600&fit=crop&q=80",
+      "vibe": "Historic, elegant, cultural",
+      "best_for": "All visitors, architecture lovers, foodies",
+      "highlights": ["Cathedral", "Zócalo", "Calle de los Dulces", "Amparo Museum"]
+    },
+    {
+      "name": "Cholula",
+      "slug": "cholula",
+      "description": "Bohemian university town with the world's largest pyramid, craft bars, and excellent restaurants.",
+      "image": "https://images.unsplash.com/photo-1518638150340-f706e86654de?w=800&h=600&fit=crop&q=80",
+      "vibe": "Bohemian, lively, young",
+      "best_for": "Nightlife, craft beer, pyramid visit",
+      "highlights": ["Great Pyramid", "Rooftop bars", "University atmosphere"]
+    }
+  ],
+
+  "featured_hotels": [
+    {
+      "name": "Rosewood Puebla",
+      "category": "Luxury",
+      "stars": 5,
+      "price_range": "$500",
+      "description": "Stunning luxury hotel in a restored 19th-century mansion with exceptional service, spa, and restaurants.",
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800&h=600&fit=crop&q=80",
+      "features": ["Spa", "Fine dining", "Colonial mansion", "Central location"]
+    },
+    {
+      "name": "Hotel Cartesiano",
+      "category": "Boutique",
+      "stars": 5,
+      "price_range": "$250",
+      "description": "Design-forward boutique hotel in the centro histórico with excellent restaurant and rooftop bar.",
+      "image": "https://images.unsplash.com/photo-1564501049412-61c2a3083791?w=800&h=600&fit=crop&q=80",
+      "features": ["Rooftop bar", "Restaurant", "Design hotel", "Central"]
+    },
+    {
+      "name": "NH Centro Histórico",
+      "category": "Mid-Range",
+      "stars": 4,
+      "price_range": "$100",
+      "description": "Comfortable modern hotel in a colonial building with excellent location on the zócalo.",
+      "image": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=800&h=600&fit=crop&q=80",
+      "features": ["Zócalo views", "Central", "Restaurant", "Modern comfort"]
+    }
+  ],
+
+  "featured_restaurants": [
+    {
+      "name": "Augurio",
+      "cuisine": "Contemporary Poblano",
+      "price_range": "$$$",
+      "description": "Creative fine dining showcasing Puebla's culinary traditions with modern techniques. Reservations essential.",
+      "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800&h=600&fit=crop&q=80",
+      "must_try": ["Tasting menu", "Mole flights", "Local wines"]
+    },
+    {
+      "name": "Fonda de Santa Clara",
+      "cuisine": "Traditional Poblano",
+      "price_range": "$$",
+      "description": "Classic Puebla restaurant serving traditional dishes since 1965. The place to try mole poblano and chiles en nogada.",
+      "image": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=800&h=600&fit=crop&q=80",
+      "must_try": ["Mole poblano", "Chiles en nogada (Aug-Sept)", "Chalupas"]
+    },
+    {
+      "name": "El Mural de los Poblanos",
+      "cuisine": "Traditional Poblano",
+      "price_range": "$$",
+      "description": "Beautiful restaurant in a colonial courtyard with murals and excellent traditional cuisine.",
+      "image": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=800&h=600&fit=crop&q=80",
+      "must_try": ["Pipián", "Tinga", "Mezcal selection"]
+    }
+  ],
+
+  "faqs": [
+    {
+      "question": "What food is Puebla famous for?",
+      "answer": "Puebla is Mexico's culinary capital, famous for mole poblano (the complex sauce of chilies and chocolate), chiles en nogada (stuffed peppers with walnut sauce, available Aug-Sept), cemitas (the local sandwich), chalupas, pipián, and traditional sweets from Calle de los Dulces."
+    },
+    {
+      "question": "Is Puebla a good day trip from Mexico City?",
+      "answer": "Yes! Puebla is about 2 hours from Mexico City by car or bus. You can see the highlights in a day, but 2-3 days allows you to explore properly, including Cholula. ADO buses run frequently from TAPO station."
+    },
+    {
+      "question": "What is Talavera pottery?",
+      "answer": "Talavera is the distinctive blue-and-white (and multicolored) glazed pottery made in Puebla since the 16th century. Authentic Talavera is made following traditional techniques with specific clays and is certified with a hologram. It's protected like champagne or Parmigiano-Reggiano."
+    },
+    {
+      "question": "When is the best time to visit Puebla?",
+      "answer": "Year-round, but for chiles en nogada (the patriotic dish), visit August-September. Spring is pleasant. Cinco de Mayo (May 5) celebrates the 1862 Battle of Puebla with festivities. The city sits at 2,100m elevation, so evenings can be cool."
+    }
+  ],
+
+  "getting_there": "Puebla International Airport (PBC) has limited flights. Most visitors arrive from Mexico City by car (2 hours via the toll highway) or ADO bus (2 hours from TAPO station, buses every 15-20 minutes).",
+  "getting_around": "The centro histórico is very walkable. Uber works well for longer distances. Take a taxi or Uber to Cholula (20 minutes) or rent a car for volcano viewpoints.",
+  "safety_info": "Puebla is a safe city for tourists. The centro histórico and Cholula are very safe to walk day and night. Use normal precautions with valuables and be aware of your surroundings.",
+
+  "related_destinations": [
+    {
+      "name": "Mexico City",
+      "url": "/en/mexico-city/",
+      "image": "https://images.unsplash.com/photo-1518659526054-e8b8b4a8e1b6?w=400&h=300&fit=crop&q=80"
+    },
+    {
+      "name": "Oaxaca",
+      "url": "/en/oaxaca/",
+      "image": "https://images.unsplash.com/photo-1578632292335-df3abbb0d586?w=400&h=300&fit=crop&q=80"
+    },
+    {
+      "name": "Guanajuato",
+      "url": "/en/guanajuato/",
+      "image": "https://images.unsplash.com/photo-1585464231875-d9ef1f5ad396?w=400&h=300&fit=crop&q=80"
+    }
+  ],
+
+  "tags": ["colonial", "UNESCO", "food", "talavera", "culture", "architecture", "day-trip"],
+  "schema_type": "TouristDestination"
+}

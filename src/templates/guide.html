@@ -10,10 +10,13 @@
   "@type": "Article",
   "headline": "{{title}}",
   "description": "{{meta_description}}",
+  "datePublished": "2025-01-01",
   "dateModified": "{{last_updated}}",
+  "image": "{{hero_image}}",
   "author": {
     "@type": "Organization",
-    "name": "Top Mexico Travel"
+    "name": "Top Mexico Travel",
+    "url": "https://topmexicotravel.com"
   },
   "publisher": {
     "@type": "Organization",
@@ -22,9 +25,43 @@
       "@type": "ImageObject",
       "url": "https://topmexicotravel.com/assets/logo.png"
     }
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{canonical_url}}"
   }
 }
 </script>
+
+<!-- BreadcrumbList Schema -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://topmexicotravel.com/{{lang}}/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Travel Guides",
+      "item": "https://topmexicotravel.com/{{lang}}/guides/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "{{title}}"
+    }
+  ]
+}
+</script>
+
+{{{faq_schema}}}
+{{{video_schema}}}
 </head>
 <body>
 <a href="#main-content" class="skip-link">Skip to main content</a>
