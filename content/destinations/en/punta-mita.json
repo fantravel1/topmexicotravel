@@ -1,0 +1,201 @@
+{
+  "id": "punta-mita",
+  "name": "Punta Mita",
+  "slug": "punta-mita",
+  "state": "Nayarit",
+  "country": "Mexico",
+  "type": "beach",
+  "lang": "en",
+  "coordinates": {
+    "latitude": 20.7684,
+    "longitude": -105.5219
+  },
+  "meta_title": "Punta Mita Travel Guide 2025 - Exclusive Beach Resort Destination | Top Mexico Travel",
+  "meta_description": "Discover Punta Mita, Mexico's most exclusive beach destination. World-class resorts, private beaches, championship golf, whale watching, and access to the Marietas Islands.",
+  "og_image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&h=630&fit=crop&q=80",
+  "og_image_alt": "Pristine beach and turquoise waters at Punta Mita",
+  "canonical_url": "https://topmexicotravel.com/en/punta-mita/",
+  "hero_image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1920&h=1080&fit=crop&q=80",
+  "hero_image_alt": "Luxury beach resort view at Punta Mita with palm trees",
+  "tagline": "Mexico's Riviera Nayarit crown jewel — where world-class resorts meet pristine Pacific beaches and hidden islands",
+  "featured_snippet_intro": "Punta Mita is Mexico's most exclusive beach destination, a private peninsula in the Riviera Nayarit with luxury resorts like Four Seasons and St. Regis, championship golf, whale watching, and the famous Marietas Islands nearby. It offers the ultimate Pacific Coast escape.",
+  "introduction": "<p>Punta Mita occupies a dramatic peninsula jutting into the Pacific where Banderas Bay meets the open ocean. Once a quiet fishing village, it's now home to Mexico's highest concentration of luxury resorts and private estates—a destination for those seeking the finest beach experience.</p><p>The two Jack Nicklaus golf courses are among Mexico's best, with holes overlooking the ocean. The St. Regis and Four Seasons anchor the resort community, offering spas, fine dining, and private beaches. Beyond the gates, the fishing village of Punta de Mita retains its charm with seafood restaurants and surf breaks.</p><p>From December to March, humpback whales migrate through the bay, making this prime whale-watching territory. The Marietas Islands—a protected national park with the famous Hidden Beach—lie just offshore. Add surfing, diving, and easy access to Puerto Vallarta, and Punta Mita offers the complete luxury beach experience.</p>",
+  "best_time_to_visit": "November - May",
+  "average_temperature": "27°C / 81°F",
+  "known_for": "Luxury Resorts & Whale Watching",
+  "airport_code": "PVR",
+  "rating": "4.9",
+  "review_count": "1450",
+  "tourist_types_json": "[\"Luxury Traveler\", \"Golfer\", \"Honeymooner\", \"Whale Watcher\", \"Beach Lover\"]",
+
+  "attractions": [
+    {
+      "name": "Marietas Islands",
+      "type": "Natural Wonder",
+      "description": "Protected national park with incredible snorkeling, diverse marine life, and the famous Hidden Beach (Playa del Amor) inside a collapsed volcanic crater.",
+      "image": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&h=600&fit=crop&q=80",
+      "duration": "Half day",
+      "price": "$100-150 USD",
+      "tip": "Hidden Beach access is limited and requires advance booking. Go with a certified operator. Snorkeling is excellent everywhere."
+    },
+    {
+      "name": "Whale Watching",
+      "type": "Wildlife",
+      "description": "Humpback whales migrate to Banderas Bay from December to March. Boat tours offer close encounters with these magnificent creatures.",
+      "image": "https://images.unsplash.com/photo-1568430462989-44163eb1752f?w=800&h=600&fit=crop&q=80",
+      "duration": "3-4 hours",
+      "price": "$80-150 USD",
+      "tip": "Peak season is January-February. Morning tours often have calmer seas. Look for mothers with calves."
+    },
+    {
+      "name": "Punta Mita Golf",
+      "type": "Golf",
+      "description": "Two Jack Nicklaus Signature courses—Pacífico and Bahía—with dramatic oceanfront holes. Pacífico features the famous 'Tail of the Whale' island green.",
+      "image": "https://images.unsplash.com/photo-1535131749006-b7f58c99034b?w=800&h=600&fit=crop&q=80",
+      "duration": "4-5 hours",
+      "price": "$300-400 USD",
+      "tip": "Stay at a Punta Mita resort for guaranteed access. Book tee times well in advance."
+    },
+    {
+      "name": "Surfing",
+      "type": "Water Sports",
+      "description": "Several surf breaks around the peninsula for all levels. La Lancha is a consistent beach break; advanced surfers should try El Faro.",
+      "image": "https://images.unsplash.com/photo-1502680390469-be75c86b636f?w=800&h=600&fit=crop&q=80",
+      "duration": "2-4 hours",
+      "price": "$60-100 USD lessons",
+      "tip": "Winter brings bigger swells. The surf shops in Punta de Mita village offer lessons and rentals."
+    },
+    {
+      "name": "Private Beach Clubs",
+      "type": "Beach",
+      "description": "Access pristine beaches through resort day passes or beach club memberships. Litibu and Kupuri beaches are favorites.",
+      "image": "https://images.unsplash.com/photo-1505228395891-9a51e7e86bf6?w=800&h=600&fit=crop&q=80",
+      "duration": "All day",
+      "price": "Varies by resort",
+      "tip": "Non-resort guests can sometimes access beaches through restaurant reservations or day passes."
+    }
+  ],
+
+  "neighborhoods": [
+    {
+      "name": "Punta Mita Resort",
+      "slug": "punta-mita-resort",
+      "description": "The gated resort community with Four Seasons, St. Regis, private residences, and golf courses.",
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800&h=600&fit=crop&q=80",
+      "vibe": "Exclusive, luxury, private",
+      "best_for": "Luxury travelers, golfers, privacy seekers",
+      "highlights": ["Four Seasons", "St. Regis", "Golf courses", "Private beaches"]
+    },
+    {
+      "name": "Punta de Mita Village",
+      "slug": "punta-de-mita-village",
+      "description": "The original fishing village outside the resort gates with local restaurants, surf shops, and authentic atmosphere.",
+      "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&h=600&fit=crop&q=80",
+      "vibe": "Local, casual, authentic",
+      "best_for": "Budget travelers, surfers, local food seekers",
+      "highlights": ["Seafood restaurants", "Surf breaks", "Local shops"]
+    }
+  ],
+
+  "featured_hotels": [
+    {
+      "name": "Four Seasons Resort Punta Mita",
+      "category": "Ultra-Luxury",
+      "stars": 5,
+      "price_range": "$1000+",
+      "description": "Legendary resort with casita-style suites, multiple pools, spa, and unparalleled service. The gold standard of Mexican luxury.",
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800&h=600&fit=crop&q=80",
+      "features": ["Private beach", "Golf", "Spa", "Multiple restaurants", "Kids club"]
+    },
+    {
+      "name": "The St. Regis Punta Mita",
+      "category": "Ultra-Luxury",
+      "stars": 5,
+      "price_range": "$800+",
+      "description": "Sophisticated luxury with signature St. Regis butler service, stunning infinity pool, and excellent restaurants.",
+      "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=800&h=600&fit=crop&q=80",
+      "features": ["Butler service", "Infinity pool", "Spa", "Golf access", "Fine dining"]
+    },
+    {
+      "name": "W Punta de Mita",
+      "category": "Luxury",
+      "stars": 5,
+      "price_range": "$500",
+      "description": "Design-forward beachfront hotel with W's signature style, great beach, and vibrant atmosphere.",
+      "image": "https://images.unsplash.com/photo-1564501049412-61c2a3083791?w=800&h=600&fit=crop&q=80",
+      "features": ["Beachfront", "Pool", "Spa", "W vibe", "Restaurant"]
+    },
+    {
+      "name": "Imanta Resort",
+      "category": "Boutique Luxury",
+      "stars": 5,
+      "price_range": "$700",
+      "description": "Intimate eco-luxury resort tucked into a jungle cove with exceptional privacy and natural beauty.",
+      "image": "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?w=800&h=600&fit=crop&q=80",
+      "features": ["Secluded", "Eco-luxury", "Spa", "Beach", "Nature"]
+    }
+  ],
+
+  "featured_restaurants": [
+    {
+      "name": "Carolina (Four Seasons)",
+      "cuisine": "Mexican Fine Dining",
+      "price_range": "$$$$",
+      "description": "The signature restaurant at Four Seasons with creative Mexican cuisine and stunning ocean views.",
+      "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800&h=600&fit=crop&q=80",
+      "must_try": ["Tasting menu", "Fresh ceviche", "Sunset cocktails"]
+    },
+    {
+      "name": "Tuna Blanca",
+      "cuisine": "Seafood",
+      "price_range": "$$",
+      "description": "Excellent seafood restaurant in Punta de Mita village. Fresh catch, local vibe, reasonable prices.",
+      "image": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=800&h=600&fit=crop&q=80",
+      "must_try": ["Zarandeado fish", "Aguachile", "Fresh oysters"]
+    }
+  ],
+
+  "faqs": [
+    {
+      "question": "Do I need to stay at a resort to visit Punta Mita?",
+      "answer": "The gated resort community requires staying at an affiliated property or booking a golf tee time/dining reservation. However, Punta de Mita village and its beaches are public. Budget travelers stay in the village and enjoy the same ocean without the luxury price tag."
+    },
+    {
+      "question": "When is whale watching season?",
+      "answer": "Humpback whales are in Banderas Bay from December to March, with peak activity in January and February. Morning boat tours offer the best conditions and sightings."
+    },
+    {
+      "question": "How do I visit the Hidden Beach (Marietas Islands)?",
+      "answer": "Access to Hidden Beach is strictly controlled with limited daily permits. Book with a certified operator several days in advance. Even if you can't access Hidden Beach, the islands offer excellent snorkeling and diving."
+    },
+    {
+      "question": "How far is Punta Mita from Puerto Vallarta?",
+      "answer": "Punta Mita is about 45 minutes from Puerto Vallarta International Airport (PVR) and the same from downtown Puerto Vallarta. The scenic drive follows the coast of Banderas Bay."
+    }
+  ],
+
+  "getting_there": "Fly into Puerto Vallarta International Airport (PVR), about 45 minutes south. Resorts arrange transfers; taxis and rental cars are also available. The drive from Puerto Vallarta follows the scenic coast road.",
+  "getting_around": "Within the resort community, golf carts and resort shuttles are common. A car is useful for exploring Sayulita, San Pancho, and Puerto Vallarta. Taxis from the village are available.",
+  "safety_info": "Punta Mita is extremely safe, with resort security and a quiet local village. It's one of Mexico's safest beach destinations. Normal precautions apply when traveling to nearby towns.",
+
+  "related_destinations": [
+    {
+      "name": "Puerto Vallarta",
+      "url": "/en/puerto-vallarta/",
+      "image": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?w=400&h=300&fit=crop&q=80"
+    },
+    {
+      "name": "Sayulita",
+      "url": "/en/sayulita/",
+      "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=400&h=300&fit=crop&q=80"
+    },
+    {
+      "name": "San Pancho",
+      "url": "/en/san-pancho/",
+      "image": "https://images.unsplash.com/photo-1505228395891-9a51e7e86bf6?w=400&h=300&fit=crop&q=80"
+    }
+  ],
+
+  "tags": ["luxury", "beach", "golf", "whale-watching", "resort", "exclusive", "pacific"],
+  "schema_type": "TouristDestination"
+}

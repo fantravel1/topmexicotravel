@@ -1,0 +1,200 @@
+{
+  "id": "san-pancho",
+  "name": "San Pancho",
+  "slug": "san-pancho",
+  "state": "Nayarit",
+  "country": "Mexico",
+  "type": "beach",
+  "lang": "en",
+  "coordinates": {
+    "latitude": 20.9167,
+    "longitude": -105.4333
+  },
+  "meta_title": "San Pancho Travel Guide 2025 - Bohemian Beach Village | Top Mexico Travel",
+  "meta_description": "Discover San Pancho, the Riviera Nayarit's best-kept secret. This bohemian beach village offers artisan culture, excellent dining, sea turtle conservation, and authentic Mexican beach life without the crowds.",
+  "og_image": "https://images.unsplash.com/photo-1505228395891-9a51e7e86bf6?w=1200&h=630&fit=crop&q=80",
+  "og_image_alt": "Peaceful beach at San Pancho with jungle-covered hills",
+  "canonical_url": "https://topmexicotravel.com/en/san-pancho/",
+  "hero_image": "https://images.unsplash.com/photo-1505228395891-9a51e7e86bf6?w=1920&h=1080&fit=crop&q=80",
+  "hero_image_alt": "Golden hour on San Pancho beach with palm trees",
+  "tagline": "The Riviera Nayarit's cultured secret — where artisan spirit, jungle-backed beaches, and community values create Mexico's most soulful beach town",
+  "featured_snippet_intro": "San Pancho (officially San Francisco) is the Riviera Nayarit's most cultured beach village. This artsy community offers excellent restaurants, sea turtle conservation programs, yoga and wellness, and a beautiful wide beach—all with fewer tourists than neighboring Sayulita. It's the beach town for travelers seeking substance over scene.",
+  "introduction": "<p>San Pancho—officially San Francisco, but everyone uses the nickname—sits just ten minutes north of Sayulita but feels worlds apart. Where Sayulita has embraced party tourism, San Pancho has cultivated a quieter, more artistic identity. It's a community of artists, healers, conservationists, and expats drawn to its grounded vibe.</p><p>The single main street, Avenida Tercer Mundo, is lined with excellent restaurants, yoga studios, art galleries, and boutiques selling local crafts. The wide golden beach is backed by jungle-covered hills, with good waves for surfers and calm sections for swimming. Sea turtles nest here from June to December, protected by community conservation programs.</p><p>What makes San Pancho special is its community spirit. This was the first 'polo town' of Luis Echeverría's development program, and that collectivist legacy shows in the cultural center, community events, and general sense that this place has soul. It's the beach town for travelers who've outgrown the party scene.</p>",
+  "best_time_to_visit": "November - May",
+  "average_temperature": "27°C / 81°F",
+  "known_for": "Artisan Culture & Community Spirit",
+  "airport_code": "PVR",
+  "rating": "4.8",
+  "review_count": "980",
+  "tourist_types_json": "[\"Bohemian Traveler\", \"Yoga Enthusiast\", \"Foodie\", \"Artist\", \"Eco-Tourist\"]",
+
+  "attractions": [
+    {
+      "name": "San Pancho Beach",
+      "type": "Beach",
+      "description": "Wide, golden-sand beach backed by jungle-covered hills. Good waves for surfing on the south end, calmer water for swimming to the north. Spectacular sunsets.",
+      "image": "https://images.unsplash.com/photo-1505228395891-9a51e7e86bf6?w=800&h=600&fit=crop&q=80",
+      "duration": "All day",
+      "price": "Free",
+      "tip": "Walk to the north end for fewer people. The south break is best for intermediate surfers."
+    },
+    {
+      "name": "Sea Turtle Conservation",
+      "type": "Wildlife",
+      "description": "Community programs protect nesting olive ridley sea turtles from June to December. Participate in beach patrols and baby turtle releases.",
+      "image": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&h=600&fit=crop&q=80",
+      "duration": "2-3 hours",
+      "price": "Donation based",
+      "tip": "Turtle releases happen at sunset when eggs hatch. Check with local organizations for schedules."
+    },
+    {
+      "name": "La Patrona Polo Club",
+      "type": "Sports",
+      "description": "Watch polo matches in a spectacular jungle setting. The club hosts tournaments and offers lessons.",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=600&fit=crop&q=80",
+      "duration": "3 hours",
+      "price": "Varies by event",
+      "tip": "Sunday matches are open to spectators. Check the season schedule in advance."
+    },
+    {
+      "name": "EntreAmigos Community Center",
+      "type": "Cultural",
+      "description": "Local nonprofit supporting the community through education, arts, and sustainability programs. Hosts events, markets, and classes.",
+      "image": "https://images.unsplash.com/photo-1570737209810-87a8e7245f88?w=800&h=600&fit=crop&q=80",
+      "duration": "1-2 hours",
+      "price": "Free-donation",
+      "tip": "Check their calendar for events, markets, and volunteer opportunities."
+    },
+    {
+      "name": "Jungle Hiking",
+      "type": "Nature",
+      "description": "Trails wind through the jungle behind town to waterfalls, viewpoints, and the bird-rich forest. A wonderful escape from the beach.",
+      "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=800&h=600&fit=crop&q=80",
+      "duration": "2-4 hours",
+      "price": "Free",
+      "tip": "Ask locally for directions to Las Cuevas waterfall. Bring water and insect repellent."
+    }
+  ],
+
+  "neighborhoods": [
+    {
+      "name": "Tercer Mundo (Main Street)",
+      "slug": "tercer-mundo",
+      "description": "The heart of town with restaurants, yoga studios, galleries, and shops. Everything is within walking distance.",
+      "image": "https://images.unsplash.com/photo-1578469550956-0e16b69c6a3d?w=800&h=600&fit=crop&q=80",
+      "vibe": "Artsy, walkable, community-oriented",
+      "best_for": "Everyone—this is the center of San Pancho life",
+      "highlights": ["Restaurants", "Boutiques", "Galleries", "Yoga studios"]
+    },
+    {
+      "name": "Beachfront",
+      "slug": "beachfront",
+      "description": "The few hotels and vacation rentals closest to the sand, with direct beach access.",
+      "image": "https://images.unsplash.com/photo-1505228395891-9a51e7e86bf6?w=800&h=600&fit=crop&q=80",
+      "vibe": "Relaxed, beachy, quiet",
+      "best_for": "Beach lovers, sunset watchers",
+      "highlights": ["Beach access", "Sunrise views", "Surfing"]
+    }
+  ],
+
+  "featured_hotels": [
+    {
+      "name": "Cielo Rojo Hotel",
+      "category": "Boutique",
+      "stars": 4,
+      "price_range": "$200",
+      "description": "Stylish boutique hotel with pool, excellent restaurant, and the best rooftop bar in town.",
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800&h=600&fit=crop&q=80",
+      "features": ["Pool", "Rooftop bar", "Restaurant", "Central location"]
+    },
+    {
+      "name": "Hotel & Restaurant Cielo Rojo",
+      "category": "Mid-Range",
+      "stars": 3,
+      "price_range": "$120",
+      "description": "Comfortable rooms with pool, two blocks from the beach, and a popular restaurant.",
+      "image": "https://images.unsplash.com/photo-1564501049412-61c2a3083791?w=800&h=600&fit=crop&q=80",
+      "features": ["Pool", "Near beach", "Restaurant", "Good value"]
+    },
+    {
+      "name": "Casa Olea",
+      "category": "Vacation Rental",
+      "stars": 4,
+      "price_range": "$150",
+      "description": "Beautiful vacation rentals and casitas with pool in a quiet garden setting.",
+      "image": "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?w=800&h=600&fit=crop&q=80",
+      "features": ["Pool", "Garden", "Kitchen", "Quiet location"]
+    }
+  ],
+
+  "featured_restaurants": [
+    {
+      "name": "María's",
+      "cuisine": "French-Mexican",
+      "price_range": "$$$",
+      "description": "San Pancho's finest restaurant, serving creative French-Mexican cuisine in a beautiful garden setting.",
+      "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800&h=600&fit=crop&q=80",
+      "must_try": ["Seasonal tasting menu", "Duck", "French wine selection"]
+    },
+    {
+      "name": "La Patrona",
+      "cuisine": "Mexican",
+      "price_range": "$$",
+      "description": "Excellent Mexican cuisine in a beautiful palapa setting. The pozole and enchiladas are outstanding.",
+      "image": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=800&h=600&fit=crop&q=80",
+      "must_try": ["Pozole", "Enchiladas", "Margaritas"]
+    },
+    {
+      "name": "Café del Mar",
+      "cuisine": "Café/Breakfast",
+      "price_range": "$",
+      "description": "Beloved breakfast spot with excellent coffee, healthy bowls, and relaxed vibe. The community gathering spot.",
+      "image": "https://images.unsplash.com/photo-1554118811-1e0d58224f24?w=800&h=600&fit=crop&q=80",
+      "must_try": ["Smoothie bowls", "Huevos rancheros", "Fresh coffee"]
+    }
+  ],
+
+  "faqs": [
+    {
+      "question": "How is San Pancho different from Sayulita?",
+      "answer": "San Pancho is quieter, more artsy, and community-focused. Sayulita has more nightlife, tourists, and surf culture. San Pancho attracts yoga practitioners, artists, and travelers seeking authenticity. Sayulita is better for partying; San Pancho for soul-searching."
+    },
+    {
+      "question": "Is San Pancho good for surfing?",
+      "answer": "Yes, there's a beach break at the south end that works well for intermediate surfers. It's less crowded than Sayulita's break. Beginners can take lessons here or in nearby Sayulita."
+    },
+    {
+      "question": "When is sea turtle season?",
+      "answer": "Olive ridley sea turtles nest on San Pancho beach from June to December. Local conservation programs protect the nests, and baby turtle releases happen throughout the season. Ask at EntreAmigos for volunteer opportunities."
+    },
+    {
+      "question": "Is San Pancho safe?",
+      "answer": "Yes, San Pancho is very safe. It's a small community where everyone knows each other. Normal beach town precautions apply—don't leave valuables on the beach—but crime is rare."
+    }
+  ],
+
+  "getting_there": "Fly into Puerto Vallarta (PVR), about 1 hour south. Rent a car, take a taxi ($60-80 USD), or arrange a shuttle. San Pancho is 10 minutes north of Sayulita on Highway 200.",
+  "getting_around": "San Pancho is very walkable—everything is on or near the main street. Rent a bike or golf cart for beach exploration. A car is useful for day trips to Sayulita, Punta Mita, or San Blas.",
+  "safety_info": "San Pancho is a very safe, tight-knit community. The beach and town are safe day and night. Use normal precautions with valuables on the beach.",
+
+  "related_destinations": [
+    {
+      "name": "Sayulita",
+      "url": "/en/sayulita/",
+      "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=400&h=300&fit=crop&q=80"
+    },
+    {
+      "name": "Puerto Vallarta",
+      "url": "/en/puerto-vallarta/",
+      "image": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?w=400&h=300&fit=crop&q=80"
+    },
+    {
+      "name": "Punta Mita",
+      "url": "/en/punta-mita/",
+      "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=400&h=300&fit=crop&q=80"
+    }
+  ],
+
+  "tags": ["beach", "bohemian", "yoga", "art", "community", "eco-tourism", "surf", "wellness"],
+  "schema_type": "TouristDestination"
+}

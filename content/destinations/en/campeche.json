@@ -1,0 +1,183 @@
+{
+  "id": "campeche",
+  "name": "Campeche",
+  "slug": "campeche",
+  "state": "Campeche",
+  "country": "Mexico",
+  "type": "colonial",
+  "lang": "en",
+  "coordinates": {
+    "latitude": 19.8301,
+    "longitude": -90.5349
+  },
+  "meta_title": "Campeche Travel Guide 2025 - UNESCO Colonial Fortress City | Top Mexico Travel",
+  "meta_description": "Discover Campeche, Mexico's only fully walled city and UNESCO World Heritage Site. Explore colorful colonial streets, ancient Maya ruins, and Gulf Coast charm in this hidden gem.",
+  "og_image": "https://images.unsplash.com/photo-1585468274952-66591eb14165?w=1200&h=630&fit=crop&q=80",
+  "og_image_alt": "Colorful colonial buildings along Campeche's historic waterfront",
+  "canonical_url": "https://topmexicotravel.com/en/campeche/",
+  "hero_image": "https://images.unsplash.com/photo-1585468274952-66591eb14165?w=1920&h=1080&fit=crop&q=80",
+  "hero_image_alt": "Pastel-colored colonial buildings in Campeche's UNESCO historic center",
+  "tagline": "A UNESCO fortress city where colorful colonial streets meet ancient Maya mysteries and Gulf Coast sunsets",
+  "featured_snippet_intro": "Campeche is Mexico's best-kept colonial secret—a stunning UNESCO World Heritage city encircled by historic fortifications built to repel pirates. Its pastel-painted buildings, peaceful plazas, and spectacular Maya ruins like Calakmul and Edzná make it an unforgettable destination off the beaten path.",
+  "introduction": "<p>Founded in 1540, Campeche was one of the most important ports in colonial Mexico, making it a prime target for pirates including Sir Francis Drake. The massive stone walls, bastions, and forts built to protect it still stand today, giving the city its unique character.</p><p>The historic center is a photographer's dream: streets of perfectly restored colonial buildings painted in vibrant pastels—coral, mustard, turquoise, pink—with ornate ironwork balconies and massive wooden doors. By night, the walls are illuminated and the malecón comes alive.</p><p>Beyond the city, Campeche state holds some of Mexico's most impressive Maya sites. Calakmul, deep in the jungle biosphere reserve, rivals Tikal in scale. Edzná features the unique five-story Palace. The region remains wonderfully uncrowded.</p>",
+  "best_time_to_visit": "November - April",
+  "average_temperature": "28°C / 82°F",
+  "known_for": "UNESCO Walled City & Maya Ruins",
+  "airport_code": "CPE",
+  "rating": "4.7",
+  "review_count": "1850",
+  "tourist_types_json": "[\"History Buff\", \"Architecture Lover\", \"Off-the-Beaten-Path\", \"Archaeological Explorer\", \"Photography Enthusiast\"]",
+
+  "attractions": [
+    {
+      "name": "Centro Histórico (UNESCO)",
+      "type": "Historic District",
+      "description": "The beautifully restored walled city center with pastel colonial buildings, plazas, museums, and the iconic Puerta de Tierra gateway. Simply wandering the streets is magical.",
+      "image": "https://images.unsplash.com/photo-1585468274952-66591eb14165?w=800&h=600&fit=crop&q=80",
+      "duration": "Half day",
+      "price": "Free",
+      "tip": "Explore in the golden hour for the best photos. The light on the colorful buildings is spectacular."
+    },
+    {
+      "name": "Calakmul",
+      "type": "Archaeological Site",
+      "description": "One of the largest and most powerful ancient Maya cities, hidden deep in the jungle biosphere reserve. Two massive pyramids rise above the canopy, with wildlife everywhere.",
+      "image": "https://images.unsplash.com/photo-1568402102990-bc541580b59f?w=800&h=600&fit=crop&q=80",
+      "duration": "Full day",
+      "price": "$10 USD",
+      "tip": "Stay overnight in Xpujil to arrive at opening. The jungle setting and wildlife make this unforgettable."
+    },
+    {
+      "name": "Edzná",
+      "type": "Archaeological Site",
+      "description": "Impressive Maya city featuring the unique five-story Palace of the Stuccoes. Closer to Campeche city than Calakmul and equally fascinating.",
+      "image": "https://images.unsplash.com/photo-1518638150340-f706e86654de?w=800&h=600&fit=crop&q=80",
+      "duration": "Half day",
+      "price": "$5 USD",
+      "tip": "The evening light and sound show is atmospheric. Combine with a morning visit to fully appreciate the site."
+    },
+    {
+      "name": "Malecón",
+      "type": "Waterfront",
+      "description": "The scenic waterfront promenade stretching along the Gulf of Mexico, perfect for sunset walks, jogging, and evening strolls past sculptures and monuments.",
+      "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&h=600&fit=crop&q=80",
+      "duration": "1-2 hours",
+      "price": "Free",
+      "tip": "Watch the sunset over the Gulf, then enjoy the illuminated historic center."
+    },
+    {
+      "name": "Fort San Miguel & Maya Museum",
+      "type": "Museum",
+      "description": "Hilltop fort with panoramic views housing an excellent museum of Maya artifacts including jade masks from Calakmul's royal tombs.",
+      "image": "https://images.unsplash.com/photo-1594608661623-aa0bd3a69d98?w=800&h=600&fit=crop&q=80",
+      "duration": "2 hours",
+      "price": "$5 USD",
+      "tip": "The jade funeral masks are spectacular. Go late afternoon for sunset views from the ramparts."
+    }
+  ],
+
+  "neighborhoods": [
+    {
+      "name": "Centro Histórico",
+      "slug": "centro-historico",
+      "description": "The UNESCO-protected walled city with colorful colonial buildings, plazas, churches, and most hotels and restaurants.",
+      "image": "https://images.unsplash.com/photo-1585468274952-66591eb14165?w=800&h=600&fit=crop&q=80",
+      "vibe": "Historic, colorful, peaceful",
+      "best_for": "All visitors, history lovers, photographers",
+      "highlights": ["Puerta de Tierra", "Cathedral", "Calle 59 restaurants"]
+    }
+  ],
+
+  "featured_hotels": [
+    {
+      "name": "Hacienda Puerta Campeche",
+      "category": "Luxury",
+      "stars": 5,
+      "price_range": "$400",
+      "description": "Stunning Luxury Collection hotel created from restored colonial mansions with pool, spa, and impeccable service.",
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800&h=600&fit=crop&q=80",
+      "features": ["Pool", "Spa", "Colonial mansion", "Restaurant"]
+    },
+    {
+      "name": "Hotel Castelmar",
+      "category": "Mid-Range",
+      "stars": 4,
+      "price_range": "$90",
+      "description": "Beautiful colonial hotel in restored 19th-century building with rooftop terrace overlooking the historic center.",
+      "image": "https://images.unsplash.com/photo-1564501049412-61c2a3083791?w=800&h=600&fit=crop&q=80",
+      "features": ["Rooftop terrace", "Central location", "Colonial charm"]
+    },
+    {
+      "name": "Hotel López",
+      "category": "Budget",
+      "stars": 3,
+      "price_range": "$50",
+      "description": "Simple, clean hotel in an excellent central location. Great value for exploring the historic center.",
+      "image": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=800&h=600&fit=crop&q=80",
+      "features": ["Central", "Good value", "AC", "WiFi"]
+    }
+  ],
+
+  "featured_restaurants": [
+    {
+      "name": "La Pigua",
+      "cuisine": "Seafood",
+      "price_range": "$$$",
+      "description": "The best seafood in Campeche—a city famous for its seafood. Fresh Gulf catches prepared simply and perfectly.",
+      "image": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=800&h=600&fit=crop&q=80",
+      "must_try": ["Coconut shrimp", "Fresh fish", "Camarones al coco"]
+    },
+    {
+      "name": "Marganzo",
+      "cuisine": "Regional Campechano",
+      "price_range": "$$",
+      "description": "Traditional Campechano cuisine in a beautiful colonial setting. Try local specialties you won't find elsewhere.",
+      "image": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=800&h=600&fit=crop&q=80",
+      "must_try": ["Pan de cazón", "Pámpano en escabeche"]
+    }
+  ],
+
+  "faqs": [
+    {
+      "question": "Why is Campeche a UNESCO World Heritage Site?",
+      "answer": "Campeche's historic fortified town was designated a UNESCO World Heritage Site in 1999 for its well-preserved example of a Spanish colonial port city, with its walls, bastions, and urban layout intact. It's the only fully walled city in Mexico."
+    },
+    {
+      "question": "How do I get to Calakmul?",
+      "answer": "Calakmul is about 3 hours from Campeche city. Most visitors stay overnight in Xpujil to arrive at the site at opening. You can rent a car, book a tour from Campeche, or take an ADO bus to Xpujil and arrange transport from there."
+    },
+    {
+      "question": "Is Campeche worth visiting?",
+      "answer": "Absolutely! Campeche is one of Mexico's most beautiful and underrated cities. If you love colonial architecture, archaeology, and authentic Mexican culture without crowds, Campeche is perfect. Many travelers say it's a highlight of their Mexico trip."
+    },
+    {
+      "question": "How many days should I spend in Campeche?",
+      "answer": "Plan 2-3 days: one for the historic center, one for Edzná, and ideally one for Calakmul (requires overnight). You could see the highlights in 2 days, but the relaxed pace of Campeche rewards longer stays."
+    }
+  ],
+
+  "getting_there": "Campeche International Airport (CPE) has flights from Mexico City. ADO buses connect Campeche to Mérida (2.5 hours), Cancún (6 hours), and Palenque (5 hours). Many travelers arrive by car on a Yucatán road trip.",
+  "getting_around": "The historic center is very walkable. Taxis are inexpensive for getting to forts or the malecón. Rent a car for visiting Edzná, Calakmul, and exploring the region.",
+  "safety_info": "Campeche is one of Mexico's safest cities with very low crime rates. The historic center is safe to walk day and night. Normal precautions apply.",
+
+  "related_destinations": [
+    {
+      "name": "Mérida",
+      "url": "/en/merida/",
+      "image": "https://images.unsplash.com/photo-1585160788981-2d5def9f04ab?w=400&h=300&fit=crop&q=80"
+    },
+    {
+      "name": "San Cristóbal de las Casas",
+      "url": "/en/san-cristobal-de-las-casas/",
+      "image": "https://images.unsplash.com/photo-1605214332753-e91c7f3aff77?w=400&h=300&fit=crop&q=80"
+    },
+    {
+      "name": "Valladolid",
+      "url": "/en/valladolid/",
+      "image": "https://images.unsplash.com/photo-1569422901648-f9a1b2acda4c?w=400&h=300&fit=crop&q=80"
+    }
+  ],
+
+  "tags": ["colonial", "UNESCO", "maya", "archaeological", "off-the-beaten-path", "safe", "gulf-coast"],
+  "schema_type": "TouristDestination"
+}

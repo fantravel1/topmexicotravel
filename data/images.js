@@ -430,6 +430,72 @@ export const destinationImages = {
       'https://images.unsplash.com/photo-1506377247377-2a5b3b417ebb?w=800&h=600&fit=crop&q=80'
     ],
     credit: 'Unsplash'
+  },
+
+  // CAMPECHE - UNESCO walled colonial city
+  'campeche': {
+    hero: 'https://images.unsplash.com/photo-1585468274952-66591eb14165?w=1920&h=1080&fit=crop&q=80',
+    alt: 'Colorful colonial buildings in Campeche UNESCO historic center',
+    gallery: [
+      'https://images.unsplash.com/photo-1570737209810-87a8e7245f88?w=800&h=600&fit=crop&q=80',
+      'https://images.unsplash.com/photo-1568402102990-bc541580b59f?w=800&h=600&fit=crop&q=80'
+    ],
+    credit: 'Unsplash'
+  },
+
+  // LA PAZ - Sea of Cortez, whale sharks
+  'la-paz': {
+    hero: 'https://images.unsplash.com/photo-1519046904884-53103b34b206?w=1920&h=1080&fit=crop&q=80',
+    alt: 'Crystal clear waters of the Sea of Cortez in La Paz',
+    gallery: [
+      'https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&h=600&fit=crop&q=80',
+      'https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&h=600&fit=crop&q=80'
+    ],
+    credit: 'Unsplash'
+  },
+
+  // MAZATLÁN - Pacific beach, colonial centro
+  'mazatlan': {
+    hero: 'https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1920&h=1080&fit=crop&q=80',
+    alt: 'Mazatlán coastline and historic lighthouse',
+    gallery: [
+      'https://images.unsplash.com/photo-1585468274952-66591eb14165?w=800&h=600&fit=crop&q=80',
+      'https://images.unsplash.com/photo-1506929562872-bb421503ef21?w=800&h=600&fit=crop&q=80'
+    ],
+    credit: 'Unsplash'
+  },
+
+  // PUEBLA - Talavera, colonial, food capital
+  'puebla': {
+    hero: 'https://images.unsplash.com/photo-1585468274952-66591eb14165?w=1920&h=1080&fit=crop&q=80',
+    alt: 'Puebla Cathedral and colorful Talavera-decorated buildings',
+    gallery: [
+      'https://images.unsplash.com/photo-1574493264149-87880133a2ba?w=800&h=600&fit=crop&q=80',
+      'https://images.unsplash.com/photo-1518638150340-f706e86654de?w=800&h=600&fit=crop&q=80'
+    ],
+    credit: 'Unsplash'
+  },
+
+  // PUNTA MITA - Luxury beach resort
+  'punta-mita': {
+    hero: 'https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1920&h=1080&fit=crop&q=80',
+    alt: 'Pristine beach and luxury resort at Punta Mita',
+    gallery: [
+      'https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800&h=600&fit=crop&q=80',
+      'https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&h=600&fit=crop&q=80'
+    ],
+    credit: 'Unsplash'
+  },
+
+  // SAN PANCHO - Bohemian beach village
+  'san-pancho': {
+    hero: 'https://images.unsplash.com/photo-1505228395891-9a51e7e86bf6?w=1920&h=1080&fit=crop&q=80',
+    alt: 'Peaceful beach at San Pancho with jungle-covered hills',
+    gallery: [
+      'https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&h=600&fit=crop&q=80',
+      'https://images.unsplash.com/photo-1502680390469-be75c86b636f?w=800&h=600&fit=crop&q=80'
+    ],
+    credit: 'Unsplash'
   }
 };
 

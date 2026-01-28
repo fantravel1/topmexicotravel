@@ -1,0 +1,187 @@
+{
+  "id": "mazatlan",
+  "name": "Mazatlán",
+  "slug": "mazatlan",
+  "state": "Sinaloa",
+  "country": "Mexico",
+  "type": "beach",
+  "lang": "en",
+  "coordinates": {
+    "latitude": 23.2494,
+    "longitude": -106.4111
+  },
+  "meta_title": "Mazatlán Travel Guide 2025 - Historic Beach Resort & Golden Zone | Top Mexico Travel",
+  "meta_description": "Discover Mazatlán, where a stunning colonial centro histórico meets miles of Pacific beaches. Explore the longest malecón in Mexico, vibrant Carnaval celebrations, and authentic Mexican culture.",
+  "og_image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&h=630&fit=crop&q=80",
+  "og_image_alt": "Mazatlán's golden beaches and historic centro histórico",
+  "canonical_url": "https://topmexicotravel.com/en/mazatlan/",
+  "hero_image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1920&h=1080&fit=crop&q=80",
+  "hero_image_alt": "Panoramic view of Mazatlán's coastline and historic lighthouse",
+  "tagline": "Mexico's Pearl of the Pacific — where colonial charm, spectacular beaches, and authentic culture create the perfect beach town",
+  "featured_snippet_intro": "Mazatlán is having a renaissance. This Pacific beach destination combines a beautifully restored 19th-century centro histórico with miles of golden beaches, the longest malecón in Mexico, and one of the country's best Carnaval celebrations. It offers authentic Mexican beach culture without the resort-only atmosphere.",
+  "introduction": "<p>Mazatlán has been a beach destination since the 1800s, long before Cancún was imagined. For decades it faded as tourists headed to newer resorts, but a major renovation of the historic center has sparked a revival. Today, Mazatlán offers the rare combination of genuine Mexican culture and excellent beaches.</p><p>The centro histórico is a revelation: block after block of beautifully restored 19th-century buildings, the ornate Angela Peralta theater, craft breweries, excellent restaurants, and lively plazas. The malecón—at 21 kilometers, the longest in Mexico—connects the old town to the beaches of the Zona Dorada.</p><p>Beyond the beaches, Mazatlán is known for banda music (which originated here), fresh seafood, and one of Mexico's wildest Carnaval celebrations. It's a real city with a working port and local character, not a purpose-built resort zone.</p>",
+  "best_time_to_visit": "October - May",
+  "average_temperature": "25°C / 77°F",
+  "known_for": "Beaches, Carnaval & Colonial Architecture",
+  "airport_code": "MZT",
+  "rating": "4.6",
+  "review_count": "3100",
+  "tourist_types_json": "[\"Beach Lover\", \"Culture Enthusiast\", \"Foodie\", \"History Buff\", \"Festival Goer\"]",
+
+  "attractions": [
+    {
+      "name": "Centro Histórico",
+      "type": "Historic District",
+      "description": "Mazatlán's beautifully restored old town with 19th-century architecture, the Angela Peralta theater, Machado square, and excellent restaurants and bars.",
+      "image": "https://images.unsplash.com/photo-1585468274952-66591eb14165?w=800&h=600&fit=crop&q=80",
+      "duration": "Half day",
+      "price": "Free",
+      "tip": "Take a walking tour to learn the history, then return in the evening when the plazas come alive."
+    },
+    {
+      "name": "Malecón",
+      "type": "Waterfront",
+      "description": "At 21km, the longest malecón in Mexico stretches from the historic center to the Zona Dorada, passing monuments, sculptures, and endless ocean views.",
+      "image": "https://images.unsplash.com/photo-1506929562872-bb421503ef21?w=800&h=600&fit=crop&q=80",
+      "duration": "2-4 hours",
+      "price": "Free",
+      "tip": "Bike or walk sections at sunset. Watch the cliff divers perform near the historic center."
+    },
+    {
+      "name": "El Faro Lighthouse",
+      "type": "Landmark",
+      "description": "One of the highest natural lighthouses in the world. Hike up for panoramic views of Mazatlán, the coast, and offshore islands.",
+      "image": "https://images.unsplash.com/photo-1559827291-72ee739d0d9a?w=800&h=600&fit=crop&q=80",
+      "duration": "2 hours",
+      "price": "Free",
+      "tip": "Go early morning or late afternoon to avoid the heat. The sunrise views are spectacular."
+    },
+    {
+      "name": "Zona Dorada Beaches",
+      "type": "Beach",
+      "description": "The main tourist beach zone with hotels, restaurants, and golden sand beaches. Playa Gaviotas and Playa Camarón are popular choices.",
+      "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&h=600&fit=crop&q=80",
+      "duration": "All day",
+      "price": "Free",
+      "tip": "The beaches north of the Zona Dorada are less crowded. Rent a car to explore."
+    },
+    {
+      "name": "Stone Island (Isla de la Piedra)",
+      "type": "Beach",
+      "description": "Take a short boat ride to this peninsula with quieter beaches, seafood shacks, and a more relaxed vibe than the main beaches.",
+      "image": "https://images.unsplash.com/photo-1505228395891-9a51e7e86bf6?w=800&h=600&fit=crop&q=80",
+      "duration": "Half-full day",
+      "price": "$5 USD boat",
+      "tip": "Get fresh coconut water and seafood from the beachside palapas. Horseback riding is available."
+    }
+  ],
+
+  "neighborhoods": [
+    {
+      "name": "Centro Histórico",
+      "slug": "centro-historico",
+      "description": "The revitalized old town with colonial buildings, Plazuela Machado, theaters, restaurants, and the best nightlife.",
+      "image": "https://images.unsplash.com/photo-1585468274952-66591eb14165?w=800&h=600&fit=crop&q=80",
+      "vibe": "Historic, trendy, cultural",
+      "best_for": "Culture lovers, foodies, nightlife seekers",
+      "highlights": ["Plazuela Machado", "Teatro Angela Peralta", "Craft breweries"]
+    },
+    {
+      "name": "Zona Dorada",
+      "slug": "zona-dorada",
+      "description": "The main tourist beach zone with hotels, restaurants, shops, and golden sand beaches.",
+      "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&h=600&fit=crop&q=80",
+      "vibe": "Touristy, beachy, convenient",
+      "best_for": "Beach lovers, families, resort seekers",
+      "highlights": ["Beach access", "Hotels", "Shopping", "Restaurants"]
+    }
+  ],
+
+  "featured_hotels": [
+    {
+      "name": "El Cid Resorts",
+      "category": "All-Inclusive Resort",
+      "stars": 4,
+      "price_range": "$200",
+      "description": "Large beach resort complex with multiple properties, golf, marina, and all-inclusive packages.",
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800&h=600&fit=crop&q=80",
+      "features": ["All-inclusive", "Golf", "Beach", "Multiple pools"]
+    },
+    {
+      "name": "Hotel & Spa Casa de María",
+      "category": "Boutique",
+      "stars": 4,
+      "price_range": "$150",
+      "description": "Beautiful boutique hotel in a restored mansion in the centro histórico with pool and excellent restaurant.",
+      "image": "https://images.unsplash.com/photo-1564501049412-61c2a3083791?w=800&h=600&fit=crop&q=80",
+      "features": ["Pool", "Spa", "Central location", "Restaurant"]
+    },
+    {
+      "name": "Olas Altas Inn",
+      "category": "Budget",
+      "stars": 3,
+      "price_range": "$70",
+      "description": "Clean, comfortable hotel on the malecón near the centro histórico. Great location and value.",
+      "image": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=800&h=600&fit=crop&q=80",
+      "features": ["Malecón location", "Central", "Good value"]
+    }
+  ],
+
+  "featured_restaurants": [
+    {
+      "name": "Panama Restaurant & Bakery",
+      "cuisine": "Seafood/Mexican",
+      "price_range": "$$",
+      "description": "Historic restaurant since 1945 famous for its breakfast, baked goods, and classic Mexican dishes.",
+      "image": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=800&h=600&fit=crop&q=80",
+      "must_try": ["Birria", "Fresh pastries", "Traditional breakfast"]
+    },
+    {
+      "name": "Presidio Restaurant",
+      "cuisine": "Contemporary Mexican",
+      "price_range": "$$$",
+      "description": "Upscale dining in the centro histórico with creative takes on Mexican classics and excellent cocktails.",
+      "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800&h=600&fit=crop&q=80",
+      "must_try": ["Aguachile", "Zarandeado fish", "Mezcal cocktails"]
+    }
+  ],
+
+  "faqs": [
+    {
+      "question": "When is Carnaval in Mazatlán?",
+      "answer": "Mazatlán's Carnaval is one of the largest in the world, held the week before Lent (usually February). The celebration includes parades, music, fireworks, and street parties. Book hotels months in advance."
+    },
+    {
+      "question": "Is Mazatlán safe for tourists?",
+      "answer": "The tourist areas (centro histórico, malecón, Zona Dorada) are generally safe. Mazatlán is a real city with a local population, so use normal urban precautions. Most visitors have no issues."
+    },
+    {
+      "question": "What is Mazatlán known for?",
+      "answer": "Mazatlán is famous for its Pacific beaches, beautifully restored 19th-century centro histórico, Carnaval celebration, fresh seafood (especially shrimp), banda music, and the longest malecón in Mexico."
+    },
+    {
+      "question": "How does Mazatlán compare to Puerto Vallarta?",
+      "answer": "Mazatlán has a larger historic center with more authentic Mexican culture, while Puerto Vallarta has a more compact old town and resort atmosphere. Mazatlán is less expensive and has more local character. Both are excellent choices."
+    }
+  ],
+
+  "getting_there": "General Rafael Buelna International Airport (MZT) has flights from the US, Canada, and major Mexican cities. Direct flights from Los Angeles, Denver, Phoenix, and other US cities operate seasonally.",
+  "getting_around": "The centro histórico is walkable. Local 'pulmonías' (open-air taxis) are fun and inexpensive. The malecón connects the centro to Zona Dorada (walkable or bikeable). Rent a car for beaches further afield.",
+  "safety_info": "Tourist areas in Mazatlán are generally safe. The centro histórico, malecón, and Zona Dorada see regular police presence. Avoid isolated areas at night and use registered taxis. Most visitors experience no problems.",
+
+  "related_destinations": [
+    {
+      "name": "Puerto Vallarta",
+      "url": "/en/puerto-vallarta/",
+      "image": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?w=400&h=300&fit=crop&q=80"
+    },
+    {
+      "name": "Los Cabos",
+      "url": "/en/los-cabos/",
+      "image": "https://images.unsplash.com/photo-1519046904884-53103b34b206?w=400&h=300&fit=crop&q=80"
+    }
+  ],
+
+  "tags": ["beach", "colonial", "carnaval", "seafood", "pacific", "malecón", "historic"],
+  "schema_type": "TouristDestination"
+}

@@ -1,0 +1,187 @@
+{
+  "id": "la-paz",
+  "name": "La Paz",
+  "slug": "la-paz",
+  "state": "Baja California Sur",
+  "country": "Mexico",
+  "type": "beach",
+  "lang": "en",
+  "coordinates": {
+    "latitude": 24.1426,
+    "longitude": -110.3128
+  },
+  "meta_title": "La Paz Travel Guide 2025 - Sea of Cortez Adventures | Top Mexico Travel",
+  "meta_description": "Discover La Paz, gateway to the 'Aquarium of the World.' Swim with whale sharks and sea lions, explore pristine islands, and experience authentic Baja California Sur culture.",
+  "og_image": "https://images.unsplash.com/photo-1519046904884-53103b34b206?w=1200&h=630&fit=crop&q=80",
+  "og_image_alt": "Crystal clear waters of the Sea of Cortez near La Paz",
+  "canonical_url": "https://topmexicotravel.com/en/la-paz/",
+  "hero_image": "https://images.unsplash.com/photo-1519046904884-53103b34b206?w=1920&h=1080&fit=crop&q=80",
+  "hero_image_alt": "Beautiful beach and turquoise waters of the Sea of Cortez in La Paz",
+  "tagline": "Gateway to Jacques Cousteau's 'Aquarium of the World' — where whale sharks, sea lions, and pristine islands await",
+  "featured_snippet_intro": "La Paz is the laid-back capital of Baja California Sur, offering world-class marine encounters in the Sea of Cortez. Swim with whale sharks, snorkel with sea lions at Espíritu Santo Island, and enjoy a charming malecón with incredible sunsets—all without the crowds of Los Cabos.",
+  "introduction": "<p>La Paz offers a refreshingly authentic Baja experience. While Los Cabos caters to resorts and nightlife, La Paz draws nature lovers, divers, and travelers seeking genuine Mexican culture. The Sea of Cortez—which Jacques Cousteau called 'the world's aquarium'—is the star attraction.</p><p>The city's beautiful malecón stretches for miles along the bay, lined with sculptures, restaurants, and sunset views. The historic center has colonial architecture, excellent seafood, and a relaxed pace. But most visitors come for the water: whale shark encounters, sea lion colonies, pristine island beaches, and some of the best diving in Mexico.</p><p>Espíritu Santo Island, a UNESCO World Heritage Site, offers snorkeling with playful sea lions, kayaking through mangroves, and camping on deserted beaches. From January to March, whale sharks gather in the bay for unforgettable snorkeling encounters.</p>",
+  "best_time_to_visit": "October - May",
+  "average_temperature": "26°C / 79°F",
+  "known_for": "Whale Sharks & Sea Lions",
+  "airport_code": "LAP",
+  "rating": "4.8",
+  "review_count": "2650",
+  "tourist_types_json": "[\"Nature Lover\", \"Diver\", \"Kayaker\", \"Wildlife Enthusiast\", \"Off-the-Beaten-Path\"]",
+
+  "attractions": [
+    {
+      "name": "Swim with Whale Sharks",
+      "type": "Wildlife Encounter",
+      "description": "Snorkel alongside the world's largest fish in the calm waters of the bay. These gentle giants gather near La Paz from October to April for an unforgettable experience.",
+      "image": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&h=600&fit=crop&q=80",
+      "duration": "Half day",
+      "price": "$150-200 USD",
+      "tip": "Book with a certified operator. Early morning trips have calmer water and better visibility."
+    },
+    {
+      "name": "Isla Espíritu Santo",
+      "type": "Island",
+      "description": "UNESCO World Heritage island with sea lion colonies, pristine beaches, snorkeling, kayaking, and camping. The highlight of any La Paz visit.",
+      "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&h=600&fit=crop&q=80",
+      "duration": "Full day",
+      "price": "$100-150 USD",
+      "tip": "Snorkeling with the curious sea lions at Los Islotes is magical. Multi-day camping trips are available."
+    },
+    {
+      "name": "Malecón",
+      "type": "Waterfront",
+      "description": "The beautiful 5km waterfront promenade with sculptures, restaurants, beaches, and spectacular sunsets over the bay.",
+      "image": "https://images.unsplash.com/photo-1506929562872-bb421503ef21?w=800&h=600&fit=crop&q=80",
+      "duration": "2-3 hours",
+      "price": "Free",
+      "tip": "Walk or bike at sunset, then stay for dinner at one of the waterfront restaurants."
+    },
+    {
+      "name": "Balandra Beach",
+      "type": "Beach",
+      "description": "Stunning protected bay with shallow turquoise water, mushroom-shaped rock formations, and mangroves. Often called Mexico's most beautiful beach.",
+      "image": "https://images.unsplash.com/photo-1505228395891-9a51e7e86bf6?w=800&h=600&fit=crop&q=80",
+      "duration": "Half day",
+      "price": "Free",
+      "tip": "Arrive early on weekends. The shallow water is warm and perfect for families."
+    },
+    {
+      "name": "Scuba Diving",
+      "type": "Water Activity",
+      "description": "World-class diving with sea lions, manta rays, hammerheads, and incredible marine life. Los Islotes, El Bajo, and Salvatierra wreck are top sites.",
+      "image": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&h=600&fit=crop&q=80",
+      "duration": "Full day",
+      "price": "$120-200 USD",
+      "tip": "Hammerhead season runs November-May at El Bajo. Sea lion dives are year-round."
+    }
+  ],
+
+  "neighborhoods": [
+    {
+      "name": "Centro Histórico",
+      "slug": "centro-historico",
+      "description": "The charming downtown with colonial buildings, the cathedral, local markets, and authentic restaurants.",
+      "image": "https://images.unsplash.com/photo-1585468274952-66591eb14165?w=800&h=600&fit=crop&q=80",
+      "vibe": "Authentic, local, relaxed",
+      "best_for": "Culture seekers, foodies, budget travelers",
+      "highlights": ["Cathedral", "Local markets", "Traditional restaurants"]
+    },
+    {
+      "name": "Malecón Area",
+      "slug": "malecon",
+      "description": "The waterfront zone with hotels, restaurants, sunset views, and beach access.",
+      "image": "https://images.unsplash.com/photo-1506929562872-bb421503ef21?w=800&h=600&fit=crop&q=80",
+      "vibe": "Scenic, tourist-friendly, beautiful",
+      "best_for": "First-time visitors, sunset lovers, beach access",
+      "highlights": ["Sunset walks", "Waterfront dining", "Public beaches"]
+    }
+  ],
+
+  "featured_hotels": [
+    {
+      "name": "Costa Baja Resort",
+      "category": "Luxury Resort",
+      "stars": 5,
+      "price_range": "$350",
+      "description": "Upscale resort with marina, golf course, pools, and beach club. The most luxurious option in La Paz.",
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800&h=600&fit=crop&q=80",
+      "features": ["Beach club", "Marina", "Golf", "Spa"]
+    },
+    {
+      "name": "Hotel & Suites Villa del Palmar",
+      "category": "Mid-Range",
+      "stars": 4,
+      "price_range": "$150",
+      "description": "Comfortable beachfront hotel with pools, water activities, and all-inclusive options.",
+      "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=800&h=600&fit=crop&q=80",
+      "features": ["Beachfront", "Pools", "Water sports", "Restaurant"]
+    },
+    {
+      "name": "Posada de las Flores",
+      "category": "Boutique",
+      "stars": 4,
+      "price_range": "$120",
+      "description": "Charming boutique hotel in a colonial building downtown with rooftop pool and excellent location.",
+      "image": "https://images.unsplash.com/photo-1564501049412-61c2a3083791?w=800&h=600&fit=crop&q=80",
+      "features": ["Rooftop pool", "Central location", "Colonial charm"]
+    }
+  ],
+
+  "featured_restaurants": [
+    {
+      "name": "Tailhunter Restaurant",
+      "cuisine": "Seafood",
+      "price_range": "$$",
+      "description": "Fresh catch prepared simply on the malecón. Watch the sunset while enjoying the day's catch.",
+      "image": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=800&h=600&fit=crop&q=80",
+      "must_try": ["Fish tacos", "Ceviche", "Chocolate clams"]
+    },
+    {
+      "name": "Nim",
+      "cuisine": "Contemporary Mexican",
+      "price_range": "$$$",
+      "description": "Creative contemporary cuisine using local Baja ingredients. One of La Paz's best dining experiences.",
+      "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800&h=600&fit=crop&q=80",
+      "must_try": ["Tasting menu", "Baja wines", "Seasonal specials"]
+    }
+  ],
+
+  "faqs": [
+    {
+      "question": "When is whale shark season in La Paz?",
+      "answer": "Whale sharks are present from October to April, with peak season from December to March. The gentle giants gather in the bay to feed on plankton, making snorkeling encounters easy to arrange."
+    },
+    {
+      "question": "Is La Paz better than Los Cabos?",
+      "answer": "They're different experiences. La Paz offers authentic Mexican culture, world-class marine life encounters, and natural beauty without resort crowds. Los Cabos has more nightlife, all-inclusive resorts, and party atmosphere. Many travelers prefer La Paz for its genuine character."
+    },
+    {
+      "question": "How do I get to Espíritu Santo Island?",
+      "answer": "Book a day trip with a tour operator in La Paz. Trips include boat transport, snorkeling with sea lions, beach time, lunch, and snorkeling gear. Multi-day camping trips are also available."
+    },
+    {
+      "question": "Is La Paz safe?",
+      "answer": "Yes, La Paz is considered one of Mexico's safest cities. It's the state capital with a strong local economy and low crime rates. Normal travel precautions apply."
+    }
+  ],
+
+  "getting_there": "Manuel Márquez de León International Airport (LAP) has flights from Mexico City, Tijuana, and some US cities. Los Cabos airport (SJD) is 2 hours south with more flight options. ADO and private shuttles connect the cities.",
+  "getting_around": "The malecón and downtown are walkable. Rent a car for beaches like Balandra and exploring the coast. Taxis are inexpensive. Most water activities include pickup from hotels.",
+  "safety_info": "La Paz is one of Mexico's safest cities, regularly ranked at the top for security. The tourist areas, malecón, and beaches are very safe. Use normal precautions as you would anywhere.",
+
+  "related_destinations": [
+    {
+      "name": "Los Cabos",
+      "url": "/en/los-cabos/",
+      "image": "https://images.unsplash.com/photo-1519046904884-53103b34b206?w=400&h=300&fit=crop&q=80"
+    },
+    {
+      "name": "Todos Santos",
+      "url": "/en/todos-santos/",
+      "image": "https://images.unsplash.com/photo-1506929562872-bb421503ef21?w=400&h=300&fit=crop&q=80"
+    }
+  ],
+
+  "tags": ["beach", "diving", "whale-sharks", "sea-lions", "nature", "eco-tourism", "baja", "islands"],
+  "schema_type": "TouristDestination"
+}
